@@ -1,0 +1,1730 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/news/news.df:76
+msgctxt "deathforth/news/news.df"
+msgid "We're quick to respond to feedback and suggestions on Twitter!"
+msgstr "트위터의 의견과 제안에는 빠르게 답변합니다!"
+
+#: deathforth/news/news.df:79
+msgctxt "deathforth/news/news.df"
+msgid "Rocketcat Twitter"
+msgstr "로켓캣 트위터"
+
+#: deathforth/news/news.df:80
+msgctxt "deathforth/news/news.df"
+msgid "Madgarden Twitter"
+msgstr "매드가든 트위터"
+
+#: deathforth/news/news.df:81
+msgctxt "deathforth/news/news.df"
+msgid "Rocketcat Facebook"
+msgstr "로켓캣 페이스북"
+
+#: deathforth/news/news.df:86
+msgctxt "deathforth/news/news.df"
+msgid "NEWS OPTIONS"
+msgstr "소식 설정"
+
+#: deathforth/news/news.df:88
+msgctxt "deathforth/news/news.df"
+msgid ""
+"Here are more ways to contact us, give feedback and suggestions, and see what we are up to for updates and new projects! \r\n"
+"\tWe are very active on the Official Rocketcat Discord, where you can talk to us and other fans of our games."
+msgstr ""
+"연락하고, 의견과 제안을 보내고, 업데이트와 신작 개발 상황을 볼 다른 방법들입니다! \r\n"
+"\t공식 로켓캣 디스코드에서 활발히 활동하고 있습니다. 개발진과 다른 팬들을 만나 보세요."
+
+#: deathforth/news/news.df:90
+msgctxt "deathforth/news/news.df"
+msgid "You can also hide the news panel until the next major update."
+msgstr "다음 대규모 업데이트까지 소식 창을 숨길 수도 있습니다."
+
+#: deathforth/news/news.df:93
+msgctxt "deathforth/news/news.df"
+msgid "Twitter/Facebook"
+msgstr "트위터/페이스북"
+
+#: deathforth/news/news.df:94
+msgctxt "deathforth/news/news.df"
+msgid "Official Rocketcat Discord"
+msgstr "공식 로켓캣 디스코드"
+
+#: deathforth/news/news.df:96
+msgctxt "deathforth/news/news.df"
+msgid "Show News"
+msgstr "소식 보기"
+
+#: deathforth/news/news.df:98
+msgctxt "deathforth/news/news.df"
+msgid "Hide News"
+msgstr "소식 숨기기"
+
+#: deathforth/paul/region-layout.df:79
+msgctxt "deathforth/paul/region-layout.df"
+msgid "MUSCLE! BOMB!! GYM!!"
+msgstr "근육! 폭탄!! 체육관!!"
+
+#: deathforth/paul/region-layout.df:100
+msgctxt "deathforth/paul/region-layout.df"
+msgid "MOE'S PUB"
+msgstr "모의 술집"
+
+#: deathforth/paul/region-layout.df:106
+msgctxt "deathforth/paul/region-layout.df"
+msgid "JOE'S DINER"
+msgstr "조의 식당"
+
+#: deathforth/paul/region-layout.df:115
+msgctxt "deathforth/paul/region-layout.df"
+msgid "BUTTBURG HIGH"
+msgstr "버트버그 고등학교"
+
+#: deathforth/paul/region-layout.df:121
+msgctxt "deathforth/paul/region-layout.df"
+msgid " FRICKTON P.D."
+msgstr " 프릭턴 경찰서"
+
+#: deathforth/perkdef.df:326
+msgctxt "deathforth/perkdef.df"
+msgid "KAPLOW!"
+msgstr "콰광!"
+
+#: deathforth/perkdef.df:555
+msgctxt "deathforth/perkdef.df"
+msgid " brings some medical supplies!"
+msgstr "은(는) 의약품을 좀 가져온다!"
+
+#: deathforth/perkdef.df:687
+msgctxt "deathforth/perkdef.df"
+msgid " hauls "
+msgstr "은(는) 옮긴다. "
+
+#: deathforth/perkdef.df:687
+msgctxt "deathforth/perkdef.df"
+msgid " gun collection to the trunk!"
+msgstr " 총기 컬렉션을 트렁크로!"
+
+#: deathforth/perkdef.df:757
+msgctxt "deathforth/perkdef.df"
+msgid " stashes some granola bars in the backseat!"
+msgstr "은(는) 뒷좌석에 그래놀라바를 챙긴다!"
+
+#: deathforth/perkdef.df:1017
+msgctxt "deathforth/perkdef.df"
+msgid "NEXT LEVEL: "
+msgstr "다음 레벨: "
+
+#: deathforth/perkdef.df:1019
+msgctxt "deathforth/perkdef.df"
+msgid "LOCKED! "
+msgstr "잠김! "
+
+#: deathforth/perkdef.df:1019
+msgctxt "deathforth/perkdef.df"
+msgid "LOCKED: Unlock at Perks & Traits Hut in Zombo Town"
+msgstr "잠김: 좀보 마을의 특전/특성 오두막에서 해금"
+
+#: deathforth/perkdef.df:1026
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in mechanical!\r\n"
+"\t\t+ Gain 2 points in fitness!"
+msgstr ""
+"+ 기계 2점 획득!\r\n"
+"\t\t+ 체력 2점 획득!"
+
+#: deathforth/perkdef.df:1030
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in mechanical!\r\n"
+"\t\t+ Gain 1 point in fitness"
+msgstr ""
+"+ 기계 2점 획득!\r\n"
+"\t\t+ 체력 1점 획득"
+
+#: deathforth/perkdef.df:1031 deathforth/perkdef.df:1052
+#: deathforth/perkdef.df:1204 deathforth/perkdef.df:1432
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in fitness!"
+msgstr "체력 2점!"
+
+#: deathforth/perkdef.df:1033
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in mechanical\r\n"
+"\t\t+ Gain 1 point in fitness"
+msgstr ""
+"+ 기계 1점 획득\r\n"
+"\t\t+ 체력 1점 획득"
+
+#: deathforth/perkdef.df:1038 deathforth/perkdef.df:1088
+#: deathforth/perkdef.df:1370
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in mechanical!"
+msgstr "기계 2점!"
+
+#: deathforth/perkdef.df:1044
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in fitness!\r\n"
+"\t\t+ Gain 2 points in strength!"
+msgstr ""
+"+ 체력 2점 획득!\r\n"
+"\t\t+ 근력 2점 획득!"
+
+#: deathforth/perkdef.df:1048
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in fitness!\r\n"
+"\t\t+ Gain 1 point in strength"
+msgstr ""
+"+ 체력 2점 획득!\r\n"
+"\t\t+ 근력 1점 획득"
+
+#: deathforth/perkdef.df:1049 deathforth/perkdef.df:1065
+#: deathforth/perkdef.df:1402
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in strength!"
+msgstr "근력 2점!"
+
+#: deathforth/perkdef.df:1051
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in fitness\r\n"
+"\t\t+ Gain 1 point in strength"
+msgstr ""
+"+ 체력 1점 획득\r\n"
+"\t\t+ 근력 1점 획득"
+
+#: deathforth/perkdef.df:1057
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in strength!\r\n"
+"\t\t+ Gain 2 points in shooting!"
+msgstr ""
+"+ 근력 2점 획득!\r\n"
+"\t\t+ 사격 2점 획득!"
+
+#: deathforth/perkdef.df:1061
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in strength!\r\n"
+"\t\t+ Gain 1 point in shooting"
+msgstr ""
+"+ 근력 2점 획득!\r\n"
+"\t\t+ 사격 1점 획득"
+
+#: deathforth/perkdef.df:1062 deathforth/perkdef.df:1075
+#: deathforth/perkdef.df:1091 deathforth/perkdef.df:1286
+#: deathforth/perkdef.df:1447 deathforth/perkdef.df:1462
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in shooting!"
+msgstr "사격 2점!"
+
+#: deathforth/perkdef.df:1064
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in strength\r\n"
+"\t\t+ Gain 1 point in shooting"
+msgstr ""
+"+ 근력 1점 획득\r\n"
+"\t\t+ 사격 1점 획득"
+
+#: deathforth/perkdef.df:1070
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in medical!\r\n"
+"\t\t+ Gain 2 points in shooting!"
+msgstr ""
+"+ 의술 2점 획득!\r\n"
+"\t\t+ 사격 2점 획득!"
+
+#: deathforth/perkdef.df:1074
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in medical!\r\n"
+"\t\t+ Gain 1 point in shooting"
+msgstr ""
+"+ 의술 2점 획득!\r\n"
+"\t\t+ 사격 1점 획득"
+
+#: deathforth/perkdef.df:1077
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in medical\r\n"
+"\t\t+ Gain 1 point in shooting"
+msgstr ""
+"+ 의술 1점 획득\r\n"
+"\t\t+ 사격 1점 획득"
+
+#: deathforth/perkdef.df:1078 deathforth/perkdef.df:1366
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in medical!"
+msgstr "의술 2점!"
+
+#: deathforth/perkdef.df:1083
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in shooting!\r\n"
+"\t\t+ Gain 2 points in mechanical!"
+msgstr ""
+"+ 사격 2점 획득!\r\n"
+"\t\t+ 기계 2점 획득!"
+
+#: deathforth/perkdef.df:1087
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in shooting!\r\n"
+"\t\t+ Gain 1 point in mechanical"
+msgstr ""
+"+ 사격 2점 획득!\r\n"
+"\t\t+ 기계 1점 획득"
+
+#: deathforth/perkdef.df:1090
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in shooting\r\n"
+"\t\t+ Gain 1 point in mechanical"
+msgstr ""
+"+ 사격 1점 획득\r\n"
+"\t\t+ 기계 1점 획득"
+
+#: deathforth/perkdef.df:1096
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Start with 7 medical supplies!\r\n"
+"\t\t+ Gain 2 points in medical!"
+msgstr ""
+"+ 의약품 7개로 시작!\r\n"
+"\t\t+ 의술 2점 획득!"
+
+#: deathforth/perkdef.df:1100
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Start with 5 medical supplies\r\n"
+"\t\t+ Gain 2 points in medical!"
+msgstr ""
+"+ 의약품 5개로 시작\r\n"
+"\t\t+ 의술 2점 획득!"
+
+#: deathforth/perkdef.df:1101
+msgctxt "deathforth/perkdef.df"
+msgid "7 medical supplies!"
+msgstr "의약품 7개!"
+
+#: deathforth/perkdef.df:1103
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Start with 4 medical supplies\r\n"
+"\t\t+ Gain 1 point in medical"
+msgstr ""
+"+ 의약품 4개로 시작\r\n"
+"\t\t+ 의술 1점 획득"
+
+#: deathforth/perkdef.df:1104
+msgctxt "deathforth/perkdef.df"
+msgid "5 medical supplies, 2 in medical!"
+msgstr "의약품 5개, 의술 2점!"
+
+#: deathforth/perkdef.df:1109 deathforth/perkdef.df:1110
+#: deathforth/perkdef.df:1111
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 3 points in shooting!"
+msgstr "+ 사격 3점 획득!"
+
+#: deathforth/perkdef.df:1115
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 3 points in shooting!\r\n"
+"\t\t\t+ Start with a shotgun, rifle, pistol, and ammo!!"
+msgstr ""
+"+ 사격 3점 획득!\r\n"
+"\t\t\t+ 산탄총, 소총, 권총과 탄약으로 시작!!"
+
+#: deathforth/perkdef.df:1119
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in shooting\r\n"
+"\t\t\t+ Start with a rifle, pistol, and ammo!"
+msgstr ""
+"+ 사격 2점 획득\r\n"
+"\t\t\t+ 소총, 권총과 탄약으로 시작!"
+
+#: deathforth/perkdef.df:1120
+msgctxt "deathforth/perkdef.df"
+msgid "3 in shooting, and a shotgun!"
+msgstr "사격 3점과 산탄총!"
+
+#: deathforth/perkdef.df:1122
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in shooting\r\n"
+"\t\t\t+ Start with a pistol and bullets!"
+msgstr ""
+"+ 사격 1점 획득\r\n"
+"\t\t\t+ 권총과 탄약으로 시작!"
+
+#: deathforth/perkdef.df:1123
+msgctxt "deathforth/perkdef.df"
+msgid "2 in shooting, and a rifle!"
+msgstr "사격 2점과 소총!"
+
+#: deathforth/perkdef.df:1128
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 3 points in mechanical!"
+msgstr "+ 기계 3점 획득!"
+
+#: deathforth/perkdef.df:1131
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in mechanical"
+msgstr "+ 기계 2점 획득"
+
+#: deathforth/perkdef.df:1131
+msgctxt "deathforth/perkdef.df"
+msgid "3 points in mechanical!"
+msgstr "기계 3점!"
+
+#: deathforth/perkdef.df:1133
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 point in mechanical"
+msgstr "+ 기계 1점 획득"
+
+#: deathforth/perkdef.df:1133
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in mechanical"
+msgstr "기계 2점"
+
+#: deathforth/perkdef.df:1138
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 4 points in strength!"
+msgstr "+ 근력 4점 획득!"
+
+#: deathforth/perkdef.df:1141
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 3 points in strength"
+msgstr "+ 근력 3점 획득"
+
+#: deathforth/perkdef.df:1141
+msgctxt "deathforth/perkdef.df"
+msgid "4 points in strength!"
+msgstr "근력 4점!"
+
+#: deathforth/perkdef.df:1143 deathforth/perkdef.df:1172
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in strength"
+msgstr "+ 근력 2점 획득"
+
+#: deathforth/perkdef.df:1143
+msgctxt "deathforth/perkdef.df"
+msgid "3 points in strength"
+msgstr "근력 3점"
+
+#: deathforth/perkdef.df:1148
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 4 points in fitness!"
+msgstr "+ 체력 4점 획득!"
+
+#: deathforth/perkdef.df:1151
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 3 points in fitness"
+msgstr "+ 체력 3점 획득"
+
+#: deathforth/perkdef.df:1151
+msgctxt "deathforth/perkdef.df"
+msgid "4 points in fitness!"
+msgstr "체력 4점!"
+
+#: deathforth/perkdef.df:1153
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in fitness"
+msgstr "+ 체력 2점 획득"
+
+#: deathforth/perkdef.df:1153
+msgctxt "deathforth/perkdef.df"
+msgid "3 points in fitness"
+msgstr "체력 3점"
+
+#: deathforth/perkdef.df:1158
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 3 points in fitness, 1 in strength!\r\n"
+"\t\t\t+ Fitness can go 1 point over the usual maximum!"
+msgstr ""
+"+ 체력 3점, 근력 1점 획득!\r\n"
+"\t\t\t+ 체력이 일반 상한을 1점 넘을 수 있다!"
+
+#: deathforth/perkdef.df:1162
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in fitness, 1 in strength"
+msgstr "+ 체력 2점, 근력 1점 획득"
+
+#: deathforth/perkdef.df:1162
+msgctxt "deathforth/perkdef.df"
+msgid "3 fitness, can now go 1 over max!"
+msgstr "체력 3점, 상한도 1점 초과!"
+
+#: deathforth/perkdef.df:1164
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 points in fitness, 1 in strength"
+msgstr "+ 체력 1점, 근력 1점 획득"
+
+#: deathforth/perkdef.df:1164
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in fitness"
+msgstr "체력 2점"
+
+#: deathforth/perkdef.df:1169
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 3 points in strength!"
+msgstr "+ 근력 3점 획득!"
+
+#: deathforth/perkdef.df:1172
+msgctxt "deathforth/perkdef.df"
+msgid "3 in strength!"
+msgstr "근력 3점!"
+
+#: deathforth/perkdef.df:1174
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 points in strength"
+msgstr "+ 근력 1점 획득"
+
+#: deathforth/perkdef.df:1174
+msgctxt "deathforth/perkdef.df"
+msgid "2 points in strength"
+msgstr "근력 2점"
+
+#: deathforth/perkdef.df:1179
+msgctxt "deathforth/perkdef.df"
+msgid "+ 70% extra chance for random recruit to be a dog"
+msgstr "+ 무작위 동료가 개일 확률 70% 추가"
+
+#: deathforth/perkdef.df:1182
+msgctxt "deathforth/perkdef.df"
+msgid "+ 35% extra chance for random recruit to be a dog"
+msgstr "+ 무작위 동료가 개일 확률 35% 추가"
+
+#: deathforth/perkdef.df:1182
+msgctxt "deathforth/perkdef.df"
+msgid "70% chance!"
+msgstr "확률 70%!"
+
+#: deathforth/perkdef.df:1184
+msgctxt "deathforth/perkdef.df"
+msgid "35% chance for recruits to be a dog"
+msgstr "영입 동료가 개일 확률 35%"
+
+#: deathforth/perkdef.df:1189
+msgctxt "deathforth/perkdef.df"
+msgid "+ ABL rerolling costs much less gas!"
+msgstr "+ 물자 수집 장소를 다시 고를 때 기름이 훨씬 적게 든다!"
+
+#: deathforth/perkdef.df:1192
+msgctxt "deathforth/perkdef.df"
+msgid "+ ABL rerolling costs less gas"
+msgstr "+ 물자 수집 장소를 다시 고를 때 기름이 적게 든다"
+
+#: deathforth/perkdef.df:1192
+msgctxt "deathforth/perkdef.df"
+msgid "Much less gas for ABL rerolls!"
+msgstr "장소 다시 고르기 기름 소모 대폭 감소!"
+
+#: deathforth/perkdef.df:1194
+msgctxt "deathforth/perkdef.df"
+msgid "Less gas for ABL rerolls"
+msgstr "장소 다시 고르기 기름 소모 감소"
+
+#: deathforth/perkdef.df:1199
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in fitness!\r\n"
+"\t\t+ Gain 1 point in strength!"
+msgstr ""
+"+ 체력 2점 획득!\r\n"
+"\t\t+ 근력 1점 획득!"
+
+#: deathforth/perkdef.df:1203
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in fitness\r\n"
+"\t\t+ Gain 1 point in strength!"
+msgstr ""
+"+ 체력 1점 획득\r\n"
+"\t\t+ 근력 1점 획득!"
+
+#: deathforth/perkdef.df:1206
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 point in fitness"
+msgstr "+ 체력 1점 획득"
+
+#: deathforth/perkdef.df:1210 deathforth/perkdef.df:1268
+#: deathforth/perkdef.df:1423
+msgctxt "deathforth/perkdef.df"
+msgid "1 point in strength!"
+msgstr "근력 1점!"
+
+#: deathforth/perkdef.df:1216
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in strength!\r\n"
+"\t\t+ Gain 1 point in fitness!"
+msgstr ""
+"+ 근력 1점 획득!\r\n"
+"\t\t+ 체력 1점 획득!"
+
+#: deathforth/perkdef.df:1220 deathforth/perkdef.df:1225
+#: deathforth/perkdef.df:1432
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 point in fitness!"
+msgstr "+ 체력 1점 획득!"
+
+#: deathforth/perkdef.df:1220
+msgctxt "deathforth/perkdef.df"
+msgid "Also gain 1 point in strength!"
+msgstr "근력도 1점 획득!"
+
+#: deathforth/perkdef.df:1231
+msgctxt "deathforth/perkdef.df"
+msgid "+ Bandit tolls are less!"
+msgstr "+ 약탈자 통행료 감소!"
+
+#: deathforth/perkdef.df:1234
+msgctxt "deathforth/perkdef.df"
+msgid "+ Bandit tolls are less"
+msgstr "+ 약탈자 통행료 감소"
+
+#: deathforth/perkdef.df:1234
+msgctxt "deathforth/perkdef.df"
+msgid "Even smaller tolls!"
+msgstr "통행료가 더 적어진다!"
+
+#: deathforth/perkdef.df:1239
+msgctxt "deathforth/perkdef.df"
+msgid "Bandit tolls are less"
+msgstr "약탈자 통행료 감소"
+
+#: deathforth/perkdef.df:1245
+msgctxt "deathforth/perkdef.df"
+msgid "+ 75% chance to skip penalties for 2nd walking day!"
+msgstr "+ 도보 2일째 불이익을 넘길 확률 75%!"
+
+#: deathforth/perkdef.df:1248
+msgctxt "deathforth/perkdef.df"
+msgid "+ 60% chance to skip penalty for 2nd walking day"
+msgstr "+ 도보 2일째 불이익을 넘길 확률 60%"
+
+#: deathforth/perkdef.df:1248
+msgctxt "deathforth/perkdef.df"
+msgid "75% chance!"
+msgstr "확률 75%!"
+
+#: deathforth/perkdef.df:1253
+msgctxt "deathforth/perkdef.df"
+msgid "60% chance to skip penalty for 2nd walking day"
+msgstr "도보 2일째 불이익을 넘길 확률 60%"
+
+#: deathforth/perkdef.df:1259
+msgctxt "deathforth/perkdef.df"
+msgid "+ Default weapon is a sturdy machete! 1 point in strength and fitness!"
+msgstr "+ 기본 무기는 튼튼한 마체테! 근력과 체력 1점!"
+
+#: deathforth/perkdef.df:1262
+msgctxt "deathforth/perkdef.df"
+msgid "+ Default weapon: sturdy machete, + 1 strength "
+msgstr "+ 기본 무기: 튼튼한 마체테, 근력 + 1 "
+
+#: deathforth/perkdef.df:1262
+msgctxt "deathforth/perkdef.df"
+msgid "1 point in fitness also!"
+msgstr "체력도 1점!"
+
+#: deathforth/perkdef.df:1264
+msgctxt "deathforth/perkdef.df"
+msgid "+ Default weapon is a sturdy machete!!"
+msgstr "+ 기본 무기는 튼튼한 마체테!!"
+
+#: deathforth/perkdef.df:1274
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in shooting!\r\n"
+"\t\t+ Shooting can go 2 points over the usual maximum!"
+msgstr ""
+"+ 사격 2점 획득!\r\n"
+"\t\t+ 사격이 일반 상한을 2점 넘을 수 있다!"
+
+#: deathforth/perkdef.df:1278
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 2 points in shooting!\r\n"
+"\t\t+ Shooting can go 1 point over the usual maximum"
+msgstr ""
+"+ 사격 2점 획득!\r\n"
+"\t\t+ 사격이 일반 상한을 1점 넘을 수 있다"
+
+#: deathforth/perkdef.df:1279
+msgctxt "deathforth/perkdef.df"
+msgid "2 over maximum!"
+msgstr "상한을 2점 초과!"
+
+#: deathforth/perkdef.df:1281
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"+ Gain 1 point in shooting\r\n"
+"\t\t+ Shooting can go 1 point over the usual maximum"
+msgstr ""
+"+ 사격 1점 획득\r\n"
+"\t\t+ 사격이 일반 상한을 1점 넘을 수 있다"
+
+#: deathforth/perkdef.df:1291
+msgctxt "deathforth/perkdef.df"
+msgid "- Can't raise fitness!!! "
+msgstr "- 체력을 올릴 수 없다!!! "
+
+#: deathforth/perkdef.df:1293
+msgctxt "deathforth/perkdef.df"
+msgid "Fitness starts at 2!"
+msgstr "체력 2로 시작!"
+
+#: deathforth/perkdef.df:1296
+msgctxt "deathforth/perkdef.df"
+msgid "Fitness starts at 1"
+msgstr "체력 1로 시작"
+
+#: deathforth/perkdef.df:1296
+msgctxt "deathforth/perkdef.df"
+msgid "Fitness rises to 2!"
+msgstr "체력이 2가 된다!"
+
+#: deathforth/perkdef.df:1301
+msgctxt "deathforth/perkdef.df"
+msgid "Fitness rises to 1"
+msgstr "체력이 1이 된다"
+
+#: deathforth/perkdef.df:1307
+msgctxt "deathforth/perkdef.df"
+msgid "- You lose 2 morale each time you evade death!"
+msgstr "- 죽음을 피할 때마다 사기 2 감소!"
+
+#: deathforth/perkdef.df:1310
+msgctxt "deathforth/perkdef.df"
+msgid "- You lose 3 morale each time you evade death"
+msgstr "- 죽음을 피할 때마다 사기 3 감소"
+
+#: deathforth/perkdef.df:1310
+msgctxt "deathforth/perkdef.df"
+msgid "Only 2 morale!"
+msgstr "사기가 겨우 2 감소!"
+
+#: deathforth/perkdef.df:1312
+msgctxt "deathforth/perkdef.df"
+msgid "- You lose 4 morale each time you evade death"
+msgstr "- 죽음을 피할 때마다 사기 4 감소"
+
+#: deathforth/perkdef.df:1316
+msgctxt "deathforth/perkdef.df"
+msgid "3 morale lost"
+msgstr "사기 3 감소"
+
+#: deathforth/perkdef.df:1321
+msgctxt "deathforth/perkdef.df"
+msgid "+ Make arrows for your bow between missions, "
+msgstr "+ 임무 사이에 활의 화살 제작, "
+
+#: deathforth/perkdef.df:1323
+msgctxt "deathforth/perkdef.df"
+msgid "up to 10!"
+msgstr "최대 10개!"
+
+#: deathforth/perkdef.df:1326
+msgctxt "deathforth/perkdef.df"
+msgid "up to 7"
+msgstr "최대 7개"
+
+#: deathforth/perkdef.df:1326
+msgctxt "deathforth/perkdef.df"
+msgid "Create 10 arrows!"
+msgstr "화살 10개 제작!"
+
+#: deathforth/perkdef.df:1328
+msgctxt "deathforth/perkdef.df"
+msgid "up to 4"
+msgstr "최대 4개"
+
+#: deathforth/perkdef.df:1332
+msgctxt "deathforth/perkdef.df"
+msgid "Create 7 arrows"
+msgstr "화살 7개 제작"
+
+#: deathforth/perkdef.df:1337
+msgctxt "deathforth/perkdef.df"
+msgid "+ Recharge your blowtorch between missions, "
+msgstr "+ 임무 사이에 토치 충전, "
+
+#: deathforth/perkdef.df:1339
+msgctxt "deathforth/perkdef.df"
+msgid "up to 8 charges!"
+msgstr "최대 8회분!"
+
+#: deathforth/perkdef.df:1342
+msgctxt "deathforth/perkdef.df"
+msgid "up to 6 charges"
+msgstr "최대 6회분"
+
+#: deathforth/perkdef.df:1342
+msgctxt "deathforth/perkdef.df"
+msgid "Find 8 charges!"
+msgstr "8회분 충전!"
+
+#: deathforth/perkdef.df:1344
+msgctxt "deathforth/perkdef.df"
+msgid "up to 4 charges"
+msgstr "최대 4회분"
+
+#: deathforth/perkdef.df:1348
+msgctxt "deathforth/perkdef.df"
+msgid "Find 6 charges"
+msgstr "6회분 충전"
+
+#: deathforth/perkdef.df:1355
+msgctxt "deathforth/perkdef.df"
+msgid "15% chance!"
+msgstr "확률 15%!"
+
+#: deathforth/perkdef.df:1356
+msgctxt "deathforth/perkdef.df"
+msgid "20% chance!"
+msgstr "확률 20%!"
+
+#: deathforth/perkdef.df:1365 deathforth/perkdef.df:1375
+msgctxt "deathforth/perkdef.df"
+msgid "Gain 1 point in medical and mechanical!"
+msgstr "의술과 기계 1점 획득!"
+
+#: deathforth/perkdef.df:1369
+msgctxt "deathforth/perkdef.df"
+msgid "Gain 2 points in medical and 1 point in mechanical!"
+msgstr "의술 2점, 기계 1점 획득!"
+
+#: deathforth/perkdef.df:1373
+msgctxt "deathforth/perkdef.df"
+msgid "Gain 2 points in medical and mechanical!"
+msgstr "의술과 기계 2점 획득!"
+
+#: deathforth/perkdef.df:1382 deathforth/perkdef.df:1392
+msgctxt "deathforth/perkdef.df"
+msgid "Gain 3 points in fight and support skills randomly!"
+msgstr "전투와 지원 기술에 무작위로 3점 획득!"
+
+#: deathforth/perkdef.df:1383
+msgctxt "deathforth/perkdef.df"
+msgid "4 points in fight and support skills randomly!"
+msgstr "전투와 지원 기술에 무작위로 4점!"
+
+#: deathforth/perkdef.df:1386
+msgctxt "deathforth/perkdef.df"
+msgid "Gain 4 points in fight and support skills randomly!"
+msgstr "전투와 지원 기술에 무작위로 4점 획득!"
+
+#: deathforth/perkdef.df:1387
+msgctxt "deathforth/perkdef.df"
+msgid "1 point to all fight and support skills!"
+msgstr "모든 전투와 지원 기술에 1점!"
+
+#: deathforth/perkdef.df:1390
+msgctxt "deathforth/perkdef.df"
+msgid "Gain 1 point to all fight and support skills!"
+msgstr "모든 전투와 지원 기술에 1점 획득!"
+
+#: deathforth/perkdef.df:1399
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in strength!"
+msgstr "+ 근력 2점 획득!"
+
+#: deathforth/perkdef.df:1402
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 points in strength!"
+msgstr "+ 근력 1점 획득!"
+
+#: deathforth/perkdef.df:1408
+msgctxt "deathforth/perkdef.df"
+msgid "1 points in strength!"
+msgstr "근력 1점!"
+
+#: deathforth/perkdef.df:1414
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 point in fitness and strength!"
+msgstr "+ 체력과 근력 1점 획득!"
+
+#: deathforth/perkdef.df:1417
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 point in strength!"
+msgstr "+ 근력 1점 획득!"
+
+#: deathforth/perkdef.df:1417
+msgctxt "deathforth/perkdef.df"
+msgid "1 points in fitness!"
+msgstr "체력 1점!"
+
+#: deathforth/perkdef.df:1429
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in fitness!"
+msgstr "+ 체력 2점 획득!"
+
+#: deathforth/perkdef.df:1438
+msgctxt "deathforth/perkdef.df"
+msgid "1 point in fitness!"
+msgstr "체력 1점!"
+
+#: deathforth/perkdef.df:1444 deathforth/perkdef.df:1459
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 2 points in shooting!"
+msgstr "+ 사격 2점 획득!"
+
+#: deathforth/perkdef.df:1447 deathforth/perkdef.df:1462
+msgctxt "deathforth/perkdef.df"
+msgid "+ Gain 1 point in shooting!"
+msgstr "+ 사격 1점 획득!"
+
+#: deathforth/perkdef.df:1453 deathforth/perkdef.df:1468
+msgctxt "deathforth/perkdef.df"
+msgid "1 point in shooting!"
+msgstr "사격 1점!"
+
+#: deathforth/perkdef.df:1803
+msgctxt "deathforth/perkdef.df"
+msgid "MEDICAL"
+msgstr "의술"
+
+#: deathforth/perkdef.df:1804
+msgctxt "deathforth/perkdef.df"
+msgid "SHOOTING"
+msgstr "사격"
+
+#: deathforth/perkdef.df:1805
+msgctxt "deathforth/perkdef.df"
+msgid "STRENGTH"
+msgstr "근력"
+
+#: deathforth/perkdef.df:1806
+msgctxt "deathforth/perkdef.df"
+msgid "FITNESS"
+msgstr "체력"
+
+#: deathforth/perkdef.df:2170
+msgctxt "deathforth/perkdef.df"
+msgid "MY BACK'S TO THE WALL!"
+msgstr "이젠 벼랑 끝이다!"
+
+#: deathforth/perkdef.df:2173
+msgctxt "deathforth/perkdef.df"
+msgid " feels "
+msgstr "은(는) 느낀다. "
+
+#: deathforth/perkdef.df:2173
+msgctxt "deathforth/perkdef.df"
+msgid " back against a wall!!!"
+msgstr " 등이 벽에 몰렸음을!!!"
+
+#: deathforth/perkdef.df:2222
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"The car is life! Note: Not necessarily a COMPETENT mechanic.\r\n"
+"\t\t+ Start with a wrench\r\n"
+"\t\t"
+msgstr ""
+"차가 곧 삶! 유능한 정비사라는 뜻은 아니다.\r\n"
+"\t\t+ 렌치로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2228
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"An athletic past translates well into zombie survival.\r\n"
+"\t\t+ Start with a random sports weapon\r\n"
+"\t\t"
+msgstr ""
+"운동 경력은 좀비 세상에서도 도움이 된다.\r\n"
+"\t\t+ 무작위 스포츠 무기로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2234
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This person has always been a real fighter.\r\n"
+"\t\t+ Start with a hatchet\r\n"
+"\t\t"
+msgstr ""
+"늘 싸움 하나는 잘했던 사람.\r\n"
+"\t\t+ 손도끼로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2240
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Has a good intuition of anatomy and a real steady hand.\r\n"
+"\t\t+ Start with a scalpel\r\n"
+"\t\t"
+msgstr ""
+"인체 구조에 대한 감각이 좋고 손이 아주 안정적이다.\r\n"
+"\t\t+ 메스로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2246
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Good with anything mechanical, and guns are mechanical.\r\n"
+"\t\t+ Start with a crowbar\r\n"
+"\t\t"
+msgstr ""
+"기계라면 뭐든 잘 다룬다. 총도 기계다.\r\n"
+"\t\t+ 쇠지렛대로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2270
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"No weapons? No problem!\r\n"
+"\t\t+ Start with a powerful two-hit unarmed attack!!\r\n"
+"\t\t- Refuses to use firearms, chainsaws, and some others!!\r\n"
+"\t\t"
+msgstr ""
+"무기가 없다고? 문제없다!\r\n"
+"\t\t+ 강력한 2연타 맨손 공격으로 시작!!\r\n"
+"\t\t- 총기, 전기톱과 일부 무기는 거부한다!!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2277
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Moves slow, hits real hard, takes a beating!\r\n"
+"\t\t+ Start with a better unarmed attack! Take one more hit than normal!\r\n"
+"\t\t- Slower walking speed!\r\n"
+"\t\t"
+msgstr ""
+"움직임은 느리고, 주먹은 세고, 맷집도 좋다!\r\n"
+"\t\t+ 더 강한 맨손 공격! 남들보다 한 대 더 버틴다!\r\n"
+"\t\t- 걷는 속도가 느리다!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2284
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"You knew hoarding all those guns would be useful! Eventually. You just knew it!\r\n"
+"\t\t"
+msgstr ""
+"총을 잔뜩 모으면 언젠가 쓸모 있을 줄 알았다! 언젠가는. 분명 알았다!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2289
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Jerks get bit by zombies all the time. Better be prepared! \r\n"
+"\t\t"
+msgstr ""
+"얼간이들은 늘 좀비한테 물린다. 대비해 두자! \r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2294
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Being a car enthusiast is practically a superpower now!\r\n"
+"\t\t+ Start with a nicer car\r\n"
+"\t\t"
+msgstr ""
+"이제 자동차 덕후는 사실상 초능력자다!\r\n"
+"\t\t+ 더 좋은 차로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2300
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Possibly too swole to control. Handy for picking up and throwing heavy furniture!\r\n"
+"\t\t+ Start with a metal pipe\r\n"
+"\t\t"
+msgstr ""
+"통제하기 힘들 만큼 근육이 빵빵하다. 무거운 가구를 들어 던지기 좋다!\r\n"
+"\t\t+ 쇠파이프로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2306
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"All that yoga really paid off!\r\n"
+"\t\t+ Start with some granola bars\r\n"
+"\t\t"
+msgstr ""
+"요가한 보람이 있었다!\r\n"
+"\t\t+ 그래놀라바 몇 개로 시작\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2312
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This person loves dogs, and tends to run into them!\r\n"
+"\t\t+ Angry dogs may become friendly\r\n"
+"\t\t+ Free guard dog in any mission!\r\n"
+"\t\t"
+msgstr ""
+"개를 좋아하고 자주 마주친다!\r\n"
+"\t\t+ 성난 개가 친근해질 수 있다\r\n"
+"\t\t+ 모든 임무에 무료 경비견 동행!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2319
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Some people just have a really good sense of direction when driving!\r\n"
+"\t\t+ Get one extra location choice during Always Be Looting events!\r\n"
+"\t\t"
+msgstr ""
+"운전할 때 방향 감각이 유난히 좋은 사람도 있다!\r\n"
+"\t\t+ 물자 수집 이벤트의 장소 선택지 1개 추가!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2325
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Was top dog before a tragic mishap in the ring!\r\n"
+"\t\t+ Pick up downed zombies, then throw or slam them!\r\n"
+"\t\t- Large penalty to maximum shooting skill.\r\n"
+"\t\t"
+msgstr ""
+"링에서 비극적인 사고를 당하기 전엔 최강이었다!\r\n"
+"\t\t+ 쓰러진 좀비를 들어 던지거나 메친다!\r\n"
+"\t\t- 사격 기술 상한이 크게 줄어든다.\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2332
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Looks unassuming, but can exceed others with training!\r\n"
+"\t\t+ Every 2nd increase in strength or fitness also increases the maximum for that stat by 1!\r\n"
+"\t\t"
+msgstr ""
+"평범해 보이지만 훈련하면 남들을 뛰어넘는다!\r\n"
+"\t\t+ 근력이나 체력을 두 번 올릴 때마다 해당 상한도 1 증가!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2338
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Good salesmanship still has its own niche!\r\n"
+"\t\t+ Gets 1-8 extra food when selling to a weapons buyer, depending on original price.\r\n"
+"\t\t+ No morale penalty when paying bandit tolls with food!\r\n"
+"\t\t"
+msgstr ""
+"판매 솜씨는 아직도 쓸 데가 있다!\r\n"
+"\t\t+ 무기 구매자에게 팔면 원가에 따라 식량 1-8 추가 획득.\r\n"
+"\t\t+ 약탈자 통행료를 식량으로 내도 사기가 떨어지지 않는다!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2345
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Hiking experience helps avoid forest terrors!\r\n"
+"\t\t+ Removes a penalty event from the 1st walking day, every time you lose the car!\r\n"
+"\t\t"
+msgstr ""
+"등산 경험으로 숲의 공포를 피한다!\r\n"
+"\t\t+ 차를 잃을 때마다 도보 첫날의 불이익 이벤트 하나를 없앤다!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2351
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Stands out from the crowd, with a signature weapon!\r\n"
+"\t\t+ Starts with a special weapon, depending on trait!\r\n"
+"\t\t- Can not drop this weapon, even in death.\r\n"
+"\t\t"
+msgstr ""
+"전용 무기로 남들과 차별화한다!\r\n"
+"\t\t+ 특성에 따른 특수 무기로 시작!\r\n"
+"\t\t- 죽어도 이 무기를 버릴 수 없다.\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2358
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A natural at shooting! Just needs more training and maybe even a gun and ammo!\r\n"
+"\t\t"
+msgstr ""
+"타고난 사격수! 훈련에 총과 탄약 정도만 더 있으면 된다!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2363
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Definitely too swole! REFUSES to do cardio!\r\n"
+"\t\t+ Starts at full strength!\r\n"
+"\t\t+ May train strength 6 times over the maximum!!!\r\n"
+"\t\t"
+msgstr ""
+"근육이 너무 빵빵하다! 유산소 운동은 거부한다!\r\n"
+"\t\t+ 근력이 가득 찬 채 시작!\r\n"
+"\t\t+ 근력을 상한보다 6번 더 훈련할 수 있다!!!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2370
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Keeps going through sheer willpower!\r\n"
+"\t\t+ Protects against fatal hits if morale is over :(\r\n"
+"\t\t- Will still die to some instant-kill events.\r\n"
+"\t\t"
+msgstr ""
+"의지 하나로 계속 버틴다!\r\n"
+"\t\t+ 사기가 :(보다 높으면 치명상을 막는다\r\n"
+"\t\t- 일부 즉사 이벤트에는 여전히 죽는다.\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2377
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Archery ended up being a useful hobby!\r\n"
+"\t\t+ Start with a silent bow, 30 arrows, 2 points in strength!\r\n"
+"\t\t- Can not drop this bow, even in death.\r\n"
+"\t\t"
+msgstr ""
+"양궁이 쓸모 있는 취미가 됐다!\r\n"
+"\t\t+ 소리 없는 활, 화살 30개, 근력 2점으로 시작!\r\n"
+"\t\t- 죽어도 이 활을 버릴 수 없다.\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2384
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Zombies are extremely flammable!\r\n"
+"\t\t+ Start with a blowtorch, and protection against fire!\r\n"
+"\t\t- Can't drop this blowtorch, even in death.\r\n"
+"\t\t"
+msgstr ""
+"좀비는 아주 잘 탄다!\r\n"
+"\t\t+ 토치와 화염 보호로 시작!\r\n"
+"\t\t- 죽어도 이 토치를 버릴 수 없다.\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2392
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This person hits hard and strong. Better watch out!\r\n"
+"\t\t+ Gain a "
+msgstr ""
+"세고 강하게 때린다. 조심하는 게 좋다!\r\n"
+"\t\t+ 근접 공격의 좀비 즉사 확률 "
+
+#: deathforth/perkdef.df:2393
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"% chance to instantly kill any zombie with melee!\r\n"
+"\t\t+ 1 strength point\r\n"
+"\t\t- Doesn't work with default punch or when exhausted\r\n"
+"\t\t"
+msgstr ""
+"%!\r\n"
+"\t\t+ 근력 1점\r\n"
+"\t\t- 기본 주먹이나 탈진 상태에는 적용 안 됨\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2400
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Always here to help in a pickle!\r\n"
+"\t\t- Run speed penalty\r\n"
+"\t\t+ "
+msgstr ""
+"곤경에 처하면 언제든 도와준다!\r\n"
+"\t\t- 달리기 속도 감소\r\n"
+"\t\t+ "
+
+#: deathforth/perkdef.df:2406
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Master of none, but still pretty good at things generally.\r\n"
+"\t\t+ "
+msgstr ""
+"달인은 아니지만 전반적으로 꽤 능숙하다.\r\n"
+"\t\t+ "
+
+#: deathforth/perkdef.df:2412
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A hunter and proficient sharpshooter.\r\n"
+"\t\t+ 30% faster ranged weapon cooldown \r\n"
+"\t\t- 50% longer cooldown on all melee swings \r\n"
+"\t\t"
+msgstr ""
+"사냥꾼이자 뛰어난 명사수.\r\n"
+"\t\t+ 원거리 무기 대기 시간 30% 감소 \r\n"
+"\t\t- 모든 근접 공격 대기 시간 50% 증가 \r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2418
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Even the ground tremors in your wake!  \r\n"
+"\t\t+ ANY thrown objects explode on impact, dealing extra instances of damage!\r\n"
+"\t\t+ Thrown objects are more resilient to breaking! \r\n"
+"\t\t"
+msgstr ""
+"지나갈 때마다 땅이 진동한다!  \r\n"
+"\t\t+ 던진 물건은 무엇이든 충돌 시 폭발해 추가 피해를 준다!\r\n"
+"\t\t+ 던진 물건이 더 잘 버틴다! \r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2424
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"The archetypal 'sword-saint', a melee expert. \r\n"
+"\t\t+ Gain +5% attack speed per strength level!  \r\n"
+"\t\t- Can't use firearms\r\n"
+"\t\t"
+msgstr ""
+"근접전의 달인, 전형적인 '검성'. \r\n"
+"\t\t+ 근력 1점마다 공격 속도 +5%!  \r\n"
+"\t\t- 총기는 사용할 수 없다\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2430
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A renaissance re-enactor, or possibly just a history nerd. \r\n"
+"\t\t+ Attacks that connect at the tip of your melee range deal bonus damage!\r\n"
+"\t\t"
+msgstr ""
+"르네상스 재현 행사 참가자. 그냥 역사 덕후일 수도 있다. \r\n"
+"\t\t+ 근접 사거리 끝에 맞히면 추가 피해!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2435
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Ego and calibre in excess. \r\n"
+"\t\t+ Each shooting point buffs your ranged damage by 17%\r\n"
+"\t\t- 30% extra ranged cooldown!\r\n"
+"\t\t"
+msgstr ""
+"자존심도 구경도 너무 크다. \r\n"
+"\t\t+ 사격 1점마다 원거리 피해 17% 증가\r\n"
+"\t\t- 원거리 공격 대기 시간 30% 증가!\r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2462
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A combination of high perception and extreme pessimism lets someone brace for the worst!\r\n"
+"\t\t+ May identify traits in new recruits\r\n"
+"\t\t+ Always on the lookout for danger\r\n"
+"\t\t- Can be a real grumpus"
+msgstr ""
+"예리한 감각과 극단적인 비관주의로 최악에 대비한다!\r\n"
+"\t\t+ 새 동료의 특성을 알아볼 수 있다\r\n"
+"\t\t+ 늘 위험을 경계한다\r\n"
+"\t\t- 몹시 툴툴댈 수 있다"
+
+#: deathforth/perkdef.df:2468
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A great outlook on life combined with not being very perceptive allows for some magical feats of denial!\r\n"
+"\t\t+ May ignore despair\r\n"
+"\t\t- Bad rolls for perception and wits"
+msgstr ""
+"밝은 인생관과 부족한 눈치가 만나 기적 같은 현실 부정을 해낸다!\r\n"
+"\t\t+ 절망을 무시할 수 있다\r\n"
+"\t\t- 지각과 재치 판정에 약하다"
+
+#: deathforth/perkdef.df:2473
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"From perception of others, a good attitude, and pure charisma, there's something about this person that opens doors!\r\n"
+"\t\t+ Charms way into free stuff or out of bad situations\r\n"
+"\t\t- Can't charm way out of everything"
+msgstr ""
+"남을 읽는 감각과 좋은 태도, 타고난 매력으로 막힌 길도 연다!\r\n"
+"\t\t+ 매력으로 공짜 물건을 얻거나 곤경에서 벗어난다\r\n"
+"\t\t- 매력으로 모든 문제를 해결할 순 없다"
+
+#: deathforth/perkdef.df:2478
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This person thinks they're soooooo cool. But they're not! They're just annoying!\r\n"
+"\t\t+ Tell people to 'Cool it'\r\n"
+"\t\t- Anger pretty much everybody"
+msgstr ""
+"자기가 엄청 멋진 줄 안다. 전혀 아니다! 그냥 짜증 난다!\r\n"
+"\t\t+ 사람들에게 '진정해'라고 말한다\r\n"
+"\t\t- 거의 모두를 화나게 한다"
+
+#: deathforth/perkdef.df:2483
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Being untrustworthy can be an asset in the post-apocalypse.\r\n"
+"\t\t+ Rip others off\r\n"
+"\t\t- Rip the group off\r\n"
+"\t\t- Ticking time bomb"
+msgstr ""
+"세상이 망한 뒤엔 믿을 수 없다는 것도 장점이다.\r\n"
+"\t\t+ 남들을 등쳐 먹는다\r\n"
+"\t\t- 일행도 등쳐 먹는다\r\n"
+"\t\t- 걸어 다니는 시한폭탄"
+
+#: deathforth/perkdef.df:2489
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This person... has a mysterious past......\r\n"
+"\t\t+ 3 points given to fight skills at random\r\n"
+"\t\t- Randomized and extreme personality!"
+msgstr ""
+"이 사람에게는... 수수께끼의 과거가 있다......\r\n"
+"\t\t+ 전투 기술에 무작위로 3점 부여\r\n"
+"\t\t- 무작위의 극단적인 성격!"
+
+#: deathforth/perkdef.df:2494
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Has a variety of useful skills, but is kind of boring.\r\n"
+"\t\t+ 3 points given to fight skills at random\r\n"
+"\t\t+ 3 points given to support skills at random\r\n"
+"\t\t- Boring personality"
+msgstr ""
+"쓸모 있는 기술이 많지만 좀 재미없다.\r\n"
+"\t\t+ 전투 기술에 무작위로 3점 부여\r\n"
+"\t\t+ 지원 기술에 무작위로 3점 부여\r\n"
+"\t\t- 지루한 성격"
+
+#: deathforth/perkdef.df:2500
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Good start on zombie thwacking skills, with a nondescript personality.\r\n"
+"\t\t+ 2 points more strength!\r\n"
+"\t\t+ 2 points more fitness!\r\n"
+"\t\t- Boring personality"
+msgstr ""
+"좀비 때려잡기에 유리한 출발, 성격은 평범하다.\r\n"
+"\t\t+ 근력 2점 추가!\r\n"
+"\t\t+ 체력 2점 추가!\r\n"
+"\t\t- 지루한 성격"
+
+#: deathforth/perkdef.df:2506
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Someone's got a bad temper! The aggression can come in handy.\r\n"
+"\t\t+ 1 extra point in strength\r\n"
+"\t\t- Bad temper due to low composure\r\n"
+"\t\t+ Temper can sometimes be good\r\n"
+"\t\t+ Gain a 5% chance to instantly kill any zombie with melee!!!"
+msgstr ""
+"성질이 더럽다! 그 공격성이 도움이 될 수도 있다.\r\n"
+"\t\t+ 근력 1점 추가\r\n"
+"\t\t- 낮은 침착함 때문에 성질이 나쁘다\r\n"
+"\t\t+ 가끔은 성질도 장점이다\r\n"
+"\t\t+ 근접 공격으로 좀비를 즉사시킬 확률 5%!!!"
+
+#: deathforth/perkdef.df:2513
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Calm and collected. Useful when shooting into a horde!\r\n"
+"\t\t+ Very calm due to high composure\r\n"
+"\t\t+ 1 extra point in shooting"
+msgstr ""
+"차분하고 침착하다. 무리에 총을 쏠 때 유용하다!\r\n"
+"\t\t+ 침착함이 높아 아주 차분하다\r\n"
+"\t\t+ 사격 1점 추가"
+
+#: deathforth/perkdef.df:2518
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Always thinking of others! Somehow not zombie food yet.\r\n"
+"\t\t+ 2 points more medical! Great Attitude\r\n"
+"\t\t+ Can go one over maximum for medical skill!!\r\n"
+"\t\t- May be an act"
+msgstr ""
+"언제나 남들을 생각한다! 신기하게 아직 좀비 밥이 안 됐다.\r\n"
+"\t\t+ 의술 2점 추가! 훌륭한 태도\r\n"
+"\t\t+ 의술 기술이 상한을 1점 넘을 수 있다!!\r\n"
+"\t\t- 연기일 수도 있다"
+
+#: deathforth/perkdef.df:2524
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Comfortable with machinery, such as cars.\r\n"
+"\t\t+ 2 points more mechanical!  Great wits checks!\r\n"
+"\t\t+ Can go one over maximum for mechanical skill!!\r\n"
+"\t\t- May need more practice to repair car"
+msgstr ""
+"자동차 같은 기계에 익숙하다.\r\n"
+"\t\t+ 기계 2점 추가! 재치 판정에 강하다!\r\n"
+"\t\t+ 기계 기술이 상한을 1점 넘을 수 있다!!\r\n"
+"\t\t- 차를 고치려면 연습이 더 필요할 수 있다"
+
+#: deathforth/perkdef.df:2530
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Kind of a fragile sort. But really good at fleeing!\r\n"
+"\t\t+ Run speed bonus!\r\n"
+"\t\t- Takes one less hit than normal\r\n"
+"\t\t- Bad attitude"
+msgstr ""
+"좀 연약하다. 하지만 도망은 아주 잘 간다!\r\n"
+"\t\t+ 달리기 속도 보너스!\r\n"
+"\t\t- 남들보다 한 대 덜 버틴다\r\n"
+"\t\t- 나쁜 태도"
+
+#: deathforth/perkdef.df:2536
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Really tough! The muscle! Not a long term planner.\r\n"
+"\t\t+ Resist 1 damage once per event, even from bandits!\r\n"
+"\t\t- Bad wits rolls"
+msgstr ""
+"정말 튼튼한 힘 담당! 장기 계획은 못 세운다.\r\n"
+"\t\t+ 이벤트마다 한 번, 약탈자에게도 피해 1 저항!\r\n"
+"\t\t- 재치 판정에 약하다"
+
+#: deathforth/perkdef.df:2541
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Destroy all zombies! Never retreat! Oh no, I got bit!\r\n"
+"\t\t+ 4 points to strength, fitness, and shooting!!\r\n"
+"\t\t+ Can go one over the maximum for the above stats!!!\r\n"
+"\t\t- Super low personality stats! Dies in one bite!!"
+msgstr ""
+"좀비를 다 죽여라! 후퇴는 없다! 앗, 물렸네!\r\n"
+"\t\t+ 근력, 체력, 사격에 4점!!\r\n"
+"\t\t+ 위 능력치가 상한을 1점 넘을 수 있다!!!\r\n"
+"\t\t- 성격 능력치가 최저! 한 번 물리면 죽는다!!"
+
+#: deathforth/perkdef.df:2547
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Retains old values before world went crazy. This is good and bad.\r\n"
+"\t\t+ Super high loyalty and personality stats!\r\n"
+"\t\t+ 1 point to medical and mechanical skills!!\r\n"
+"\t\t- Permanent and significant morale penalty!!"
+msgstr ""
+"세상이 미치기 전 가치관을 지킨다. 좋기도 나쁘기도 하다.\r\n"
+"\t\t+ 충성심과 성격 능력치가 아주 높다!\r\n"
+"\t\t+ 의술과 기계 기술에 1점!!\r\n"
+"\t\t- 영구적이고 큰 사기 감소!!"
+
+#: deathforth/perkdef.df:2553
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"An expert on one particular subject; doesn't care otherwise.\r\n"
+"\t\t+ High wits! \r\n"
+"\t\t+ 3 points to whatever your highest non-personality stat! Random if tied between stats.\r\n"
+"\t\t+ Can go 3 over the maximum for this stat! \r\n"
+"\t\t- Other stats capped at 3!"
+msgstr ""
+"한 분야의 전문가. 나머지는 신경 안 쓴다.\r\n"
+"\t\t+ 높은 재치! \r\n"
+"\t\t+ 성격을 제외한 최고 능력치에 3점! 동점이면 무작위.\r\n"
+"\t\t+ 해당 능력치가 상한을 3점 넘을 수 있다! \r\n"
+"\t\t- 다른 능력치는 최대 3점!"
+
+#: deathforth/perkdef.df:2560
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"All it takes is one really bad day...\r\n"
+"\t\t+ 3 points to each combat stat!\r\n"
+"\t\t+ Can go 1 over the maximum for these stats also! \r\n"
+"\t\t"
+msgstr ""
+"끔찍한 하루, 그 한 번이면 충분하다...\r\n"
+"\t\t+ 각 전투 능력치에 3점!\r\n"
+"\t\t+ 이 능력치들도 상한을 1점 넘을 수 있다! \r\n"
+"\t\t"
+
+#: deathforth/perkdef.df:2563
+msgctxt "deathforth/perkdef.df"
+msgid "- 4 morale penalty!!!"
+msgstr "- 사기 4 감소!!!"
+
+#: deathforth/perkdef.df:2566
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A former tradesperson with a deadly skillset. \r\n"
+"\t\t+ 1 point in mechanical!\r\n"
+"\t\t+ 1 point in strength!\r\n"
+"\t\t+ Held weapons never break!"
+msgstr ""
+"치명적인 솜씨를 지닌 전직 기술자. \r\n"
+"\t\t+ 기계 1점!\r\n"
+"\t\t+ 근력 1점!\r\n"
+"\t\t+ 손에 든 무기가 절대 부서지지 않는다!"
+
+#: deathforth/perkdef.df:2578
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A night owl! Read while the world sleeps. \r\n"
+"\t\t+ Never gets the TIRED status, ever.\r\n"
+"\t\t+ Gain 1 point in a random stat when you avoid TIRED!"
+msgstr ""
+"밤의 올빼미! 세상이 잠들 때 책을 읽는다. \r\n"
+"\t\t+ 절대로 피로 상태가 되지 않는다.\r\n"
+"\t\t+ 피로를 피할 때 무작위 능력치 1점 획득!"
+
+#: deathforth/perkdef.df:2583
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Really appreciates old canned food!\r\n"
+"\t\t+ Eating a full meal restores 1 extra morale to you and your team! Gets an extra point of max health!\r\n"
+"\t\t- Eats 3 food instead of 2. Running low on food decreases morale faster!"
+msgstr ""
+"오래된 통조림 맛도 제대로 즐긴다!\r\n"
+"\t\t+ 배불리 먹으면 일행 전체 사기 1 추가 회복! 최대 생명력도 1 증가!\r\n"
+"\t\t- 식량을 2 대신 3 먹는다. 식량이 부족하면 사기가 더 빨리 떨어진다!"
+
+#: deathforth/perkdef.df:2588
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Blessed with an interesting life!\r\n"
+"\t\t+ Much greater chance of finding a weird building or character in city looting events! Normal chance: 10%  With trait: 50%\r\n"
+"\t\t+ Doubles the chance to find Rare Trader Camps!"
+msgstr ""
+"흥미진진한 삶을 축복받았다!\r\n"
+"\t\t+ 도시 물자 수집 중 이상한 건물이나 캐릭터를 찾을 확률 대폭 증가! 일반: 10%  특성 보유: 50%\r\n"
+"\t\t+ 희귀 상인 야영지를 찾을 확률 두 배!"
+
+#: deathforth/perkdef.df:2593
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Carry less so you can run a little faster!\r\n"
+"\t\t+ Run speed bonus!\r\n"
+"\t\t+ 1 point more in fitness!\r\n"
+"\t\t- Can only carry two weapons at a time!"
+msgstr ""
+"짐을 줄여 조금 더 빨리 달린다!\r\n"
+"\t\t+ 달리기 속도 보너스!\r\n"
+"\t\t+ 체력 1점 추가!\r\n"
+"\t\t- 한 번에 무기를 두 개만 들 수 있다!"
+
+#: deathforth/perkdef.df:2599
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"I'll protect you!...sometimes.\r\n"
+"\t\t+ Prevents teammate death in text events once per game.\r\n"
+"\t\t+ Starts with 6 loyalty!\r\n"
+"\t\t+ Protects nearby teammates in missions for up to 3s. Charge with zomb kills!"
+msgstr ""
+"지켜 줄게!... 가끔은.\r\n"
+"\t\t+ 게임당 한 번, 텍스트 이벤트에서 동료의 죽음을 막는다.\r\n"
+"\t\t+ 충성심 6으로 시작!\r\n"
+"\t\t+ 임무 중 근처 동료를 최대 3초 보호. 좀비를 죽여 충전!"
+
+#: deathforth/perkdef.df:2605
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Eats much less than normal! Takes tiny bites!\r\n"
+"\t\t+ A full meal only requires 1 food!!\r\n"
+"\t\t- Gets a 2 point penalty to maximum strength!\r\n"
+"\t\t- Gets a 1 point penalty to maximum fitness."
+msgstr ""
+"남들보다 훨씬 적게 먹는다! 한 입도 조그맣다!\r\n"
+"\t\t+ 배불리 먹는 데 식량이 1만 필요하다!!\r\n"
+"\t\t- 근력 상한이 2점 줄어든다!\r\n"
+"\t\t- 체력 상한이 1점 줄어든다."
+
+#: deathforth/perkdef.df:2611
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This is just like my zombie animes!\r\n"
+"\t\t+ Weapon is replaced with an overpowered Strong Katana.\r\n"
+"\t\t- Katana can't be dropped, even on death.\r\n"
+"\t\t- WARNING: Avoid getting full morale! BEWARE ANIME!"
+msgstr ""
+"내 좀비 애니랑 똑같아!\r\n"
+"\t\t+ 무기가 사기급 강력한 카타나로 바뀐다.\r\n"
+"\t\t- 죽어도 카타나를 버릴 수 없다.\r\n"
+"\t\t- 경고: 사기가 가득 차지 않게 하라! 애니를 조심해라!"
+
+#: deathforth/perkdef.df:2617
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"A little too fixated on one method of zombie splatting.\r\n"
+"\t\t+ 2 points to strength, fitness, and shooting\r\n"
+"\t\t+ Can go one over the maximum for the above stats!!\r\n"
+"\t\t- Can only carry ONE WEAPON at a time!!"
+msgstr ""
+"좀비를 으깨는 한 가지 방법에 너무 집착한다.\r\n"
+"\t\t+ 근력, 체력, 사격에 2점\r\n"
+"\t\t+ 위 능력치가 상한을 1점 넘을 수 있다!!\r\n"
+"\t\t- 한 번에 무기를 딱 하나만 들 수 있다!!"
+
+#: deathforth/perkdef.df:2623
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"If a zombie falls down, you can pick it up!\r\n"
+"\t\t+ Throw or slam carried zombies!\r\n"
+"\t\t- Boring personality"
+msgstr ""
+"좀비가 쓰러지면 들어 올릴 수 있다!\r\n"
+"\t\t+ 든 좀비를 던지거나 메친다!\r\n"
+"\t\t- 지루한 성격"
+
+#: deathforth/perkdef.df:2628
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Literally too spicy to die.\r\n"
+"\t\t+ Resurrects self on death, to full health!!\r\n"
+"\t\t+ Immune to fire \r\n"
+"\t\t+ Has hot sauce; creates rings of fire on use!\r\n"
+"\t\t- Only the sauce remains after revival"
+msgstr ""
+"말 그대로 매워서 못 죽는다.\r\n"
+"\t\t+ 죽으면 최대 생명력으로 부활!!\r\n"
+"\t\t+ 화염 면역 \r\n"
+"\t\t+ 핫소스 보유. 쓰면 불의 고리를 만든다!\r\n"
+"\t\t- 부활한 뒤엔 소스만 남는다"
+
+#: deathforth/perkdef.df:2635
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Destined for greatness, doomed to laziness.\r\n"
+"\t\t+ 2 points to med/mech/shooting! Can go 1 over the maximum for these stats!  \r\n"
+"\t\t- Takes 1 less hit than normal\r\n"
+"\t\t- 2 point penalty to max morale"
+msgstr ""
+"큰일을 할 운명, 게으를 숙명.\r\n"
+"\t\t+ 의술/기계/사격에 2점! 해당 상한을 1점 넘을 수 있다!  \r\n"
+"\t\t- 남들보다 한 대 덜 버틴다\r\n"
+"\t\t- 사기 상한이 2점 줄어든다"
+
+#: deathforth/perkdef.df:2641
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"Starts low, but learns new skills fast!\r\n"
+"\t\t+ Gets double the amount of shooting, mechanical, and medical skill!\r\n"
+"\t\t- Each growth bonus stops after its skill gets to 4 points"
+msgstr ""
+"출발은 낮지만 기술은 빨리 배운다!\r\n"
+"\t\t+ 사격, 기계, 의술 기술 획득량이 두 배!\r\n"
+"\t\t- 각 기술이 4점에 도달하면 해당 성장 보너스가 멈춘다"
+
+#: deathforth/perkdef.df:2646
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"This person's got a bad mood! Well, sometimes.\r\n"
+"\t\t+ Personality is randomized upon each new day!\r\n"
+"\t\t+ 2 randomly chosen stats in fight & support skills may be trained 1 over the maximum!"
+msgstr ""
+"기분이 나쁘다! 뭐, 가끔은.\r\n"
+"\t\t+ 매일 성격이 무작위로 바뀐다!\r\n"
+"\t\t+ 무작위 전투/지원 능력치 2개는 상한보다 1점 더 훈련할 수 있다!"
+
+#: deathforth/perkdef.df:2651
+msgctxt "deathforth/perkdef.df"
+msgid ""
+"When things are desparate, this person goes all out!\r\n"
+"\t\t+ Gain a bonus to strength, fitness, shooting, and run speed when at 1 health!\r\n"
+"\t\t- Bonuses removed when healed above 1 health"
+msgstr ""
+"절박한 순간 모든 힘을 쏟는다!\r\n"
+"\t\t+ 생명력이 1일 때 근력, 체력, 사격, 달리기 속도 보너스!\r\n"
+"\t\t- 생명력이 1보다 높게 회복되면 보너스가 사라진다"

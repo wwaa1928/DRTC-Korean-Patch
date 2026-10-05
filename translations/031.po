@@ -1,0 +1,2410 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/gamemodes.df:328
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Kepa Expert Player Advanced Mode.\r\n"
+"\t\tDouble the zombies, double the fun.\r\n"
+"\t\tStart with a Kepa. Do NOT let Kepa die. The ultimate challenge.\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"케파 고수 전용 상급 모드.\r\n"
+"\t\t좀비도 두 배, 재미도 두 배.\r\n"
+"\t\t케파와 함께 시작한다. 케파를 절대로 죽게 두지 마라. 궁극의 도전.\r\n"
+"\t\t약탈자들이 더 잔혹하다."
+
+#: deathforth/gamemodes.df:335
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Abandon all hope ye who enter here.\r\n"
+"\t\tUnlock by beating all of the hard difficulties. Familiar Characters Extreme, Rare Characters Extreme, and Marathon Mode."
+msgstr ""
+"여기 들어오는 자, 모든 희망을 버려라.\r\n"
+"\t\t고난도 모드를 모두 깨면 해금된다. 친숙한 캐릭터 익스트림, 희귀 캐릭터 익스트림, 마라톤 모드."
+
+#: deathforth/gamemodes.df:339
+msgctxt "deathforth/gamemodes.df"
+msgid "Four Jerks "
+msgstr "네 얼간이 "
+
+#: deathforth/gamemodes.df:340
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Start with a car full of jerks, now with more zombies!\r\n"
+"\t\tAbout 100% more zombies will spawn, and the Final showdown will have twice as many zombies as normal! Double Deluxe!\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"얼간이로 가득한 차와 함께 시작한다. 좀비도 늘었다!\r\n"
+"\t\t좀비가 약 100% 더 나오고, 최후의 결전에는 평소의 두 배가 몰려온다! 두 배의 호화판!\r\n"
+"\t\t약탈자들이 더 잔혹하다."
+
+#: deathforth/gamemodes.df:346
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Way more zombies! Still four jerks.\r\n"
+"\t\tUnlock by beating Four Jerks Mode."
+msgstr ""
+"좀비가 훨씬 많다! 얼간이는 여전히 넷.\r\n"
+"\t\t네 얼간이 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:350
+msgctxt "deathforth/gamemodes.df"
+msgid "ENDLESS "
+msgstr "무한 "
+
+#: deathforth/gamemodes.df:351
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Canada is a myth perpetuated by the former government!\r\n"
+"\t\tAmerica extends northward forever! Wake up sheeple!!!\r\n"
+"\t\tTravel forever-ish. See how far you can get.\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"캐나다는 옛 정부가 퍼뜨린 허구다!\r\n"
+"\t\t미국 땅은 북쪽으로 끝없이 이어진다! 눈 좀 떠라, 우매한 양 떼들아!!!\r\n"
+"\t\t거의 영원히 여행한다. 얼마나 멀리 가나 보자.\r\n"
+"\t\t약탈자들이 더 잔혹하다."
+
+#: deathforth/gamemodes.df:358
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"An impossible challenge with no end in sight!\r\n"
+"\t\tUnlock by beating Marathon Mode."
+msgstr ""
+"끝이 보이지 않는 불가능한 도전!\r\n"
+"\t\t마라톤 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:362
+msgctxt "deathforth/gamemodes.df"
+msgid "O*P*P "
+msgstr "사기 일행 "
+
+#: deathforth/gamemodes.df:363
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Over Powered Party! Final showdown is twice as long!\r\n"
+"\t\tGet a special start that lets you pick any special characters you want and other goodies!\r\n"
+"\t\tFight Triple the default zombie amount!! Bandits are more cruel. Wins here do not count towards streaks."
+msgstr ""
+"사기 일행! 최후의 결전이 두 배로 길다!\r\n"
+"\t\t원하는 특수 캐릭터와 온갖 혜택을 고르는 특별한 시작!\r\n"
+"\t\t기본의 세 배나 되는 좀비와 싸운다!! 약탈자들이 더 잔혹하다. 승리해도 연승에 포함되지 않는다."
+
+#: deathforth/gamemodes.df:369
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A for-fun mode that lets you start with whatever rare characters that you would like!\r\n"
+"\t\tUnlock by beating Familiar Characters Extreme and Rare Characters Extreme."
+msgstr ""
+"원하는 희귀 캐릭터로 시작할 수 있는 재미용 모드!\r\n"
+"\t\t친숙한 캐릭터 익스트림과 희귀 캐릭터 익스트림을 깨면 해금된다."
+
+#: deathforth/gamemodes.df:373
+msgctxt "deathforth/gamemodes.df"
+msgid "Quick Death "
+msgstr "퀵 데스 "
+
+#: deathforth/gamemodes.df:374
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"For anyone that wants to die FAST!\r\n"
+"\t\tIt only takes 9 driving days to get to Canada!\r\n"
+"\t\tTriple the default zombie amount!!\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"빨리 죽고 싶은 사람을 위한 모드!\r\n"
+"\t\t캐나다까지 운전은 딱 9일!\r\n"
+"\t\t좀비는 기본의 세 배!!\r\n"
+"\t\t약탈자들이 더 잔혹하다."
+
+#: deathforth/gamemodes.df:381
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A quick 9 driving day mode, now with triple the zombies!\r\n"
+"\t\tUnlock by beating both Deadlier Road Mode and Short Trip to Heck Mode."
+msgstr ""
+"운전 9일짜리 짧은 모드. 이제 좀비도 세 배!\r\n"
+"\t\t더 치명적인 길과 지옥행 짧은 여행 모드를 모두 깨면 해금된다."
+
+#: deathforth/gamemodes.df:389 deathforth/gamemodes.df:459
+msgctxt "deathforth/gamemodes.df"
+msgid "INFECTION "
+msgstr "감염 "
+
+#: deathforth/gamemodes.df:390
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Race to Canada before your immunity expires. \r\n"
+"\t\t> In-mission timer ticks down; 10 days to Canada\r\n"
+"\t\t> Timer can be increased by killing zombies\r\n"
+"\t\t> If the timer runs out, you die - no refunds!\r\n"
+"\t\t> Earned time is counted post-mission\r\n"
+"\t\t> Cruel bandits"
+msgstr ""
+"면역이 사라지기 전에 캐나다로 달려라. \r\n"
+"\t\t> 임무 중 제한 시간이 줄어든다. 캐나다까지 10일\r\n"
+"\t\t> 좀비를 죽이면 시간을 늘릴 수 있다\r\n"
+"\t\t> 시간이 다 되면 죽는다. 환불은 없다!\r\n"
+"\t\t> 번 시간은 임무가 끝나면 합산된다\r\n"
+"\t\t> 잔혹한 약탈자"
+
+#: deathforth/gamemodes.df:399
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A timed mode where speed is essential. Reach Canada before the virus consumes you. \r\n"
+"\t\tUnlock by beating Deadlier Road Mode."
+msgstr ""
+"속도가 생명인 시간제 모드. 바이러스에 먹히기 전에 캐나다에 도착하라. \r\n"
+"\t\t더 치명적인 길 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:403
+msgctxt "deathforth/gamemodes.df"
+msgid "SEVERE WEATHER MODE"
+msgstr "악천후 모드"
+
+#: deathforth/gamemodes.df:404
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"''Winter is coming'' IT'S ALREADY HERE, DINK!\r\n"
+"\t\t> EXTREME WEATHER! Lightning, frost, floods!\r\n"
+"\t\t> All chars eat an additional 1 food/night for warmth \r\n"
+"\t\t> 15 days, 1x zombies, cruel bandits \r\n"
+"\t\t> More engine issues\r\n"
+"\t\t> (Don't) Stay Frosty!"
+msgstr ""
+"''겨울이 온다'' 벌써 왔어, 멍청아!\r\n"
+"\t\t> 극한 날씨! 벼락, 서리, 홍수!\r\n"
+"\t\t> 체온 유지로 매일 밤 모두 식량 1 추가 소비 \r\n"
+"\t\t> 15일, 좀비 1배, 잔혹한 약탈자 \r\n"
+"\t\t> 엔진 문제가 더 잦다\r\n"
+"\t\t> 정신은 차리고 몸은 얼지 말자!"
+
+#: deathforth/gamemodes.df:413
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A mode where the environment also wants to kill you. Don't get blasted by a lightning bolt. \r\n"
+"\t\tUnlock by beating Deadlier Road Mode."
+msgstr ""
+"환경도 당신을 죽이려 드는 모드. 벼락 맞고 터지지 마라. \r\n"
+"\t\t더 치명적인 길 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:417
+msgctxt "deathforth/gamemodes.df"
+msgid "RPG MODE"
+msgstr "RPG 모드"
+
+#: deathforth/gamemodes.df:418
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Die of dysentry. Just kidding. \r\n"
+"\t\t> Zombies drop powerups!\r\n"
+"\t\t> Select from 8 subclasses to play as!\r\n"
+"\t\t> 3x zombs, cruel bandits, 15 days  \r\n"
+"\t\t> Start with 2 bonus random chars"
+msgstr ""
+"이질에 걸려 죽는다. 농담이다. \r\n"
+"\t\t> 좀비가 능력 강화 아이템을 떨어뜨린다!\r\n"
+"\t\t> 8가지 세부 직업 중 하나를 골라라!\r\n"
+"\t\t> 좀비 3배, 잔혹한 약탈자, 15일  \r\n"
+"\t\t> 무작위 동료 2명 추가로 시작"
+
+#: deathforth/gamemodes.df:426
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A mode that encourages picking one of 8 classes. Zombies drop stat powerups. Lotsa zombies.\r\n"
+"\t\tRoleplay like you're your favourite B*ldur's G*te character! \r\n"
+"\t\tUnlock by beating 4 Jerks Extreme."
+msgstr ""
+"8가지 직업 중 하나를 고르는 모드. 좀비가 능력 강화 아이템을 떨어뜨린다. 좀비도 왕창 나온다.\r\n"
+"\t\t좋아하는 발*스 게*트 캐릭터가 된 듯 연기해 보자! \r\n"
+"\t\t네 얼간이 익스트림 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:431
+msgctxt "deathforth/gamemodes.df"
+msgid "Four Jerks"
+msgstr "네 얼간이"
+
+#: deathforth/gamemodes.df:431
+msgctxt "deathforth/gamemodes.df"
+msgid " SCEPTER"
+msgstr " 홀"
+
+#: deathforth/gamemodes.df:432
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"> Choose 4 custom characters to start!\r\n"
+"\t\t\t> Gain access to an upgrade for each character!\r\n"
+"\t\t\t> 3x zombs, 12 days, cruel bandits \r\n"
+"\t\t\t> Choose your contingent wisely! \r\n"
+"\t\t\t> Engineered for fun \r\n"
+"\t\t"
+msgstr ""
+"> 커스텀 캐릭터 4명을 골라 시작하라!\r\n"
+"\t\t\t> 캐릭터마다 강화 하나를 고를 수 있다!\r\n"
+"\t\t\t> 좀비 3배, 12일, 잔혹한 약탈자 \r\n"
+"\t\t\t> 부대원을 현명하게 골라라! \r\n"
+"\t\t\t> 재미를 위해 설계됨 \r\n"
+"\t\t"
+
+#: deathforth/gamemodes.df:437
+msgctxt "deathforth/gamemodes.df"
+msgid "''No Sorcery Lies Beyond My Grasp.''"
+msgstr "''내 손길이 닿지 않는 마법은 없다.''"
+
+#: deathforth/gamemodes.df:441
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A freakish & fun expedition with all new choking hazards.\r\n"
+"\t\tUnlock by beating 4 Jerks Extreme."
+msgstr ""
+"새로운 질식 위험이 넘치는 기괴하고 즐거운 원정.\r\n"
+"\t\t네 얼간이 익스트림 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:445 deathforth/gamemodes.df:471
+msgctxt "deathforth/gamemodes.df"
+msgid "MUTATION "
+msgstr "돌연변이 "
+
+#: deathforth/gamemodes.df:446
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"They're back - and they're MEGABUFF. \r\n"
+"\t\t> 15 days, 1x zombies \r\n"
+"\t\t> As days pass, zombs become resistant...\r\n"
+"\t\t> Zombies gain fire resist, mass and grapple strengh!\r\n"
+"\t\t> Winning raises max ZP by 5! \r\n"
+"\t\t> Cruel bandits"
+msgstr ""
+"놈들이 돌아왔다. 엄청 빵빵해져서. \r\n"
+"\t\t> 15일, 좀비 1배 \r\n"
+"\t\t> 날이 갈수록 좀비의 저항력이 높아진다...\r\n"
+"\t\t> 화염 저항, 무게, 붙잡는 힘이 늘어난다!\r\n"
+"\t\t> 승리하면 최대 좀보 포인트가 5 늘어난다! \r\n"
+"\t\t> 잔혹한 약탈자"
+
+#: deathforth/gamemodes.df:455
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A hard mode where zombies get grippier over time. \r\n"
+"\t\tUnlock by beating Deadlier Road Mode."
+msgstr ""
+"시간이 갈수록 좀비가 더 꽉 붙잡는 고난도 모드. \r\n"
+"\t\t더 치명적인 길 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:459 deathforth/gamemodes.df:471
+msgctxt "deathforth/gamemodes.df"
+msgid " EXTREME"
+msgstr " 익스트림"
+
+#: deathforth/gamemodes.df:460
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"The race to Canada is shorter than ever.\r\n"
+"\t\t> Same ruleset as normal INFECTION \r\n"
+"\t\t> Now even shorter - only 7 days! \r\n"
+"\t\t> 10 minutes of total mission time!\r\n"
+"\t\t> Cruel bandits"
+msgstr ""
+"어느 때보다 짧은 캐나다 질주.\r\n"
+"\t\t> 일반 감염 모드와 같은 규칙 \r\n"
+"\t\t> 더 짧아졌다. 딱 7일! \r\n"
+"\t\t> 임무 제한 시간은 총 10분!\r\n"
+"\t\t> 잔혹한 약탈자"
+
+#: deathforth/gamemodes.df:468
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A mode that accurately mimics the feeling of waking up at 9am when work was supposed to start at 8.\r\n"
+"\t\tUnlock by beating INFECTION Mode."
+msgstr ""
+"8시 출근인데 9시에 깼을 때의 기분을 정확히 재현하는 모드.\r\n"
+"\t\t감염 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:472
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Evil TLB is raising an army...\r\n"
+"\t\t> 15 days, 1x zombies \r\n"
+"\t\t> As days pass, zombs become very powerful. \r\n"
+"\t\t> End-game zombies will be fireproof, heavy, grippier & have much more HP.\r\n"
+"\t\t> Winning raises max ZP by 10! \r\n"
+"\t\t> Cruel bandits"
+msgstr ""
+"사악한 TLB가 군대를 모으고 있다...\r\n"
+"\t\t> 15일, 좀비 1배 \r\n"
+"\t\t> 날이 갈수록 좀비가 아주 강해진다. \r\n"
+"\t\t> 후반 좀비는 불에 안 타고, 무겁고, 더 꽉 붙잡으며 체력도 훨씬 많다.\r\n"
+"\t\t> 승리하면 최대 좀보 포인트가 10 늘어난다! \r\n"
+"\t\t> 잔혹한 약탈자"
+
+#: deathforth/gamemodes.df:481
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A challenging extension of mutation mode where the swarm is even more resilient than normal. \r\n"
+"\t\tUnlock by beating Mutation Mode."
+msgstr ""
+"좀비 무리가 평소보다 훨씬 질겨지는 돌연변이 모드의 고난도 확장판. \r\n"
+"\t\t돌연변이 모드를 깨면 해금된다."
+
+#: deathforth/gamemodes.df:484
+msgctxt "deathforth/gamemodes.df"
+msgid "THE HORRORS"
+msgstr "공포"
+
+#: deathforth/gamemodes.df:484
+msgctxt "deathforth/gamemodes.df"
+msgid " MODE"
+msgstr " 모드"
+
+#: deathforth/gamemodes.df:485
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"15 days, but zombies are always alert and will chase you aggressively. Bandits are cruel.\r\n"
+"\t\tNowhere is safe. Furthermore, zombies spawn around you periodically.  \r\n"
+"\t\t"
+msgstr ""
+"15일. 좀비는 늘 경계하며 맹렬하게 쫓아온다. 약탈자는 잔혹하다.\r\n"
+"\t\t안전한 곳은 없다. 게다가 주위에 좀비가 주기적으로 나타난다.  \r\n"
+"\t\t"
+
+#: deathforth/gamemodes.df:487
+msgctxt "deathforth/gamemodes.df"
+msgid "''BEWARE WHAT LIES WITHIN.''"
+msgstr "''그 안에 있는 것을 조심하라.''"
+
+#: deathforth/gamemodes.df:491
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"They hunt. They smell your fear, your weakness. There is nowhere to hide; you will never be safe.\r\n"
+"\t\tUnlock by beating Marathon Mode."
+msgstr ""
+"놈들은 사냥한다. 두려움과 약함을 맡는다. 숨을 곳은 없다. 결코 안전할 수 없다.\r\n"
+"\t\t마라톤 모드를 깨면 해금된다."
+
+#: deathforth/kepa/kepa.df:55
+msgctxt "deathforth/kepa/kepa.df"
+msgid " evades any attempt to be picked up."
+msgstr "은(는) 들어 올리려는 손을 요리조리 피한다."
+
+#: deathforth/kepa/kepa.df:56
+msgctxt "deathforth/kepa/kepa.df"
+msgid "Stop that! I'll follow you, fine, just stop trying to pick me up!"
+msgstr "그만해! 따라갈게, 알았으니까 들어 올리려 들지 마!"
+
+#: deathforth/kepa/kepa.df:57
+msgctxt "deathforth/kepa/kepa.df"
+msgid ""
+" sees this as an opportunity to get a free broom, without even taking up an "
+"inventory slot!"
+msgstr "은(는) 인벤토리 자리도 안 쓰고 공짜 빗자루를 얻을 기회라 생각한다!"
+
+#: deathforth/kepa/kepa.df:64
+msgctxt "deathforth/kepa/kepa.df"
+msgid "Zombie Sweeper"
+msgstr "좀비 청소부"
+
+#: deathforth/kepa/kepa.df:67
+msgctxt "deathforth/kepa/kepa.df"
+msgid " tries to grab this broom "
+msgstr "은(는) 빗자루를 잡으려 한다. "
+
+#: deathforth/kepa/kepa.df:67
+msgctxt "deathforth/kepa/kepa.df"
+msgid " found, but it suddenly starts talking!"
+msgstr "가 발견한 빗자루가 갑자기 말을 한다!"
+
+#: deathforth/kepa/kepa.df:68
+msgctxt "deathforth/kepa/kepa.df"
+msgid "HEY! Stop grabbing me, you DINGUS! I'm not a broom!"
+msgstr "야! 잡지 마, 멍청아! 난 빗자루가 아니야!"
+
+#: deathforth/kepa/kepa.df:69
+msgctxt "deathforth/kepa/kepa.df"
+msgid "This seems like an odd thing for a broom to say."
+msgstr "빗자루가 할 말치고는 좀 이상하다."
+
+#: deathforth/kepa/kepa.df:70
+msgctxt "deathforth/kepa/kepa.df"
+msgid "Pretend like you never saw this broom"
+msgstr "빗자루를 못 본 척한다"
+
+#: deathforth/kepa/kepa.df:71
+msgctxt "deathforth/kepa/kepa.df"
+msgid "Grab this broom"
+msgstr "빗자루를 잡는다"
+
+#: deathforth/locplan.df:12
+msgctxt "deathforth/locplan.df"
+msgid "Gravel Road"
+msgstr "자갈길"
+
+#: deathforth/locplan.df:18
+msgctxt "deathforth/locplan.df"
+msgid "Untouched Grocery Store"
+msgstr "손 안 탄 식료품점"
+
+#: deathforth/locplan.df:19
+msgctxt "deathforth/locplan.df"
+msgid "Hunting Lodge"
+msgstr "사냥 오두막"
+
+#: deathforth/locplan.df:20
+msgctxt "deathforth/locplan.df"
+msgid "Hazardous Materials"
+msgstr "위험 물질"
+
+#: deathforth/locplan.df:21
+msgctxt "deathforth/locplan.df"
+msgid "Danger Rangers"
+msgstr "위험 순찰대"
+
+#: deathforth/locplan.df:22
+msgctxt "deathforth/locplan.df"
+msgid "Kung Fu Master"
+msgstr "쿵푸 고수"
+
+#: deathforth/locplan.df:23
+msgctxt "deathforth/locplan.df"
+msgid "UFO Landing Site"
+msgstr "UFO 착륙지"
+
+#: deathforth/locplan.df:24
+msgctxt "deathforth/locplan.df"
+msgid "Hermit's Cabin"
+msgstr "은둔자의 오두막"
+
+#: deathforth/locplan.df:25
+msgctxt "deathforth/locplan.df"
+msgid "Giant Animal"
+msgstr "거대 동물"
+
+#: deathforth/locplan.df:26
+msgctxt "deathforth/locplan.df"
+msgid "Malicious House"
+msgstr "사악한 집"
+
+#: deathforth/locplan.df:27
+msgctxt "deathforth/locplan.df"
+msgid "Mystery Factory"
+msgstr "수상한 공장"
+
+#: deathforth/locplan.df:28
+msgctxt "deathforth/locplan.df"
+msgid "Museum"
+msgstr "박물관"
+
+#: deathforth/locplan.df:29
+msgctxt "deathforth/locplan.df"
+msgid "Fishing Cabins"
+msgstr "낚시 오두막"
+
+#: deathforth/locplan.df:30
+msgctxt "deathforth/locplan.df"
+msgid "Junkyard Pals"
+msgstr "고물상의 친구들"
+
+#: deathforth/locplan.df:31
+msgctxt "deathforth/locplan.df"
+msgid "Concrete Bunker"
+msgstr "콘크리트 벙커"
+
+#: deathforth/locplan.df:32
+msgctxt "deathforth/locplan.df"
+msgid "Ominous Labs"
+msgstr "불길한 연구소"
+
+#: deathforth/locplan.df:33
+msgctxt "deathforth/locplan.df"
+msgid "Spooky Graveyard"
+msgstr "으스스한 묘지"
+
+#: deathforth/locplan.df:34
+msgctxt "deathforth/locplan.df"
+msgid "Raging Inferno"
+msgstr "거센 불길"
+
+#: deathforth/locplan.df:35
+msgctxt "deathforth/locplan.df"
+msgid "Gothic Farm"
+msgstr "고딕 농장"
+
+#: deathforth/locplan.df:36
+msgctxt "deathforth/locplan.df"
+msgid "Haunted Mansion"
+msgstr "유령 저택"
+
+#: deathforth/locplan.df:37
+msgctxt "deathforth/locplan.df"
+msgid "Frozen Friend"
+msgstr "얼어붙은 친구"
+
+#: deathforth/locplan.df:38
+msgctxt "deathforth/locplan.df"
+msgid "Military Depot"
+msgstr "군수 창고"
+
+#: deathforth/locplan.df:39
+msgctxt "deathforth/locplan.df"
+msgid "Abandoned Warehouse"
+msgstr "버려진 창고"
+
+#: deathforth/locplan.df:40
+msgctxt "deathforth/locplan.df"
+msgid "Desolate Depot"
+msgstr "황량한 차고"
+
+#: deathforth/locplan.df:41
+msgctxt "deathforth/locplan.df"
+msgid "Putrid Bog"
+msgstr "썩은 늪"
+
+#: deathforth/locplan.df:42
+msgctxt "deathforth/locplan.df"
+msgid "Maleficent Metro"
+msgstr "사악한 지하철"
+
+#: deathforth/locplan.df:43
+msgctxt "deathforth/locplan.df"
+msgid "Gated Village"
+msgstr "울타리 마을"
+
+#: deathforth/locplan.df:60
+msgctxt "deathforth/locplan.df"
+msgid "Big House"
+msgstr "큰집"
+
+#: deathforth/locplan.df:61
+msgctxt "deathforth/locplan.df"
+msgid "Swarmed Apartment"
+msgstr "들끓는 아파트"
+
+#: deathforth/locplan.df:62
+msgctxt "deathforth/locplan.df"
+msgid "Prepper Cabin"
+msgstr "생존주의자의 오두막"
+
+#: deathforth/locplan.df:63
+msgctxt "deathforth/locplan.df"
+msgid "Stash in the Woods"
+msgstr "숲속의 은닉처"
+
+#: deathforth/locplan.df:64
+msgctxt "deathforth/locplan.df"
+msgid "Busy Hotel"
+msgstr "북적이는 호텔"
+
+#: deathforth/locplan.df:65
+msgctxt "deathforth/locplan.df"
+msgid "Bullet-Ridden House"
+msgstr "총알투성이 집"
+
+#: deathforth/locplan.df:66
+msgctxt "deathforth/locplan.df"
+msgid "Lost Stronghold"
+msgstr "잃어버린 요새"
+
+#: deathforth/locplan.df:67
+msgctxt "deathforth/locplan.df"
+msgid "Gas Station Siege"
+msgstr "주유소 포위전"
+
+#: deathforth/locplan.df:68
+msgctxt "deathforth/locplan.df"
+msgid "Police Headquarters"
+msgstr "경찰 본부"
+
+#: deathforth/locplan.df:69
+msgctxt "deathforth/locplan.df"
+msgid "Hospital Raid"
+msgstr "병원 습격"
+
+#: deathforth/locplan.df:70
+msgctxt "deathforth/locplan.df"
+msgid "Big Office Complex"
+msgstr "대형 사무실 단지"
+
+#: deathforth/locplan.df:71
+msgctxt "deathforth/locplan.df"
+msgid "Fancy Office"
+msgstr "고급 사무실"
+
+#: deathforth/locplan.df:72
+msgctxt "deathforth/locplan.df"
+msgid "Fancy House"
+msgstr "고급 주택"
+
+#: deathforth/locplan.df:73
+msgctxt "deathforth/locplan.df"
+msgid "Riled Up House"
+msgstr "흥분한 좀비의 집"
+
+#: deathforth/locplan.df:74
+msgctxt "deathforth/locplan.df"
+msgid "Riled Up Apartment"
+msgstr "흥분한 좀비의 아파트"
+
+#: deathforth/locplan.df:75
+msgctxt "deathforth/locplan.df"
+msgid "Gym Apartment"
+msgstr "체육관 아파트"
+
+#: deathforth/locplan.df:76
+msgctxt "deathforth/locplan.df"
+msgid "Dead Arcade"
+msgstr "죽은 오락실"
+
+#: deathforth/locplan.df:77
+msgctxt "deathforth/locplan.df"
+msgid "Grocery Store"
+msgstr "식료품점"
+
+#: deathforth/locplan.df:78
+msgctxt "deathforth/locplan.df"
+msgid "Big Grocery Store"
+msgstr "큰 식료품점"
+
+#: deathforth/locplan.df:79
+msgctxt "deathforth/locplan.df"
+msgid "Packed Grocery Store"
+msgstr "꽉 찬 식료품점"
+
+#: deathforth/locplan.df:80
+msgctxt "deathforth/locplan.df"
+msgid "Hardware Store"
+msgstr "철물점"
+
+#: deathforth/locplan.df:81
+msgctxt "deathforth/locplan.df"
+msgid "Crowded Yall-Mart"
+msgstr "붐비는 얄마트"
+
+#: deathforth/locplan.df:82
+msgctxt "deathforth/locplan.df"
+msgid "Deadly Yall-Mart"
+msgstr "치명적인 얄마트"
+
+#: deathforth/locplan.df:83
+msgctxt "deathforth/locplan.df"
+msgid "Bookstore"
+msgstr "서점"
+
+#: deathforth/locplan.df:84
+msgctxt "deathforth/locplan.df"
+msgid "Sporting Goods Store"
+msgstr "스포츠용품점"
+
+#: deathforth/locplan.df:85
+msgctxt "deathforth/locplan.df"
+msgid "Fancy Factory"
+msgstr "고급 공장"
+
+#: deathforth/locplan.df:86
+msgctxt "deathforth/locplan.df"
+msgid "Commercial Row"
+msgstr "상점 거리"
+
+#: deathforth/locplan.df:87
+msgctxt "deathforth/locplan.df"
+msgid "Small Suburb"
+msgstr "작은 교외 마을"
+
+#: deathforth/locplan.df:88
+msgctxt "deathforth/locplan.df"
+msgid "Apartment Row"
+msgstr "아파트 거리"
+
+#: deathforth/locplan.df:89
+msgctxt "deathforth/locplan.df"
+msgid "Apartment Rescue"
+msgstr "아파트 구조"
+
+#: deathforth/locplan.df:90
+msgctxt "deathforth/locplan.df"
+msgid "House Rescue"
+msgstr "주택 구조"
+
+#: deathforth/locplan.df:91
+msgctxt "deathforth/locplan.df"
+msgid "Grocery Rescue"
+msgstr "식료품점 구출"
+
+#: deathforth/locplan.df:92
+msgctxt "deathforth/locplan.df"
+msgid "Factory Rescue"
+msgstr "공장 구조"
+
+#: deathforth/locplan.df:93
+msgctxt "deathforth/locplan.df"
+msgid "Sewer Rescue"
+msgstr "하수도 구조"
+
+#: deathforth/locplan.df:94
+msgctxt "deathforth/locplan.df"
+msgid "Roadside Rescue"
+msgstr "도로변 구조"
+
+#: deathforth/locplan.df:95
+msgctxt "deathforth/locplan.df"
+msgid "Cabin Rescue"
+msgstr "오두막 구조"
+
+#: deathforth/locplan.df:96
+msgctxt "deathforth/locplan.df"
+msgid "Gas Station Rescue"
+msgstr "주유소 구조"
+
+#: deathforth/locplan.df:97
+msgctxt "deathforth/locplan.df"
+msgid "Mall Rescue"
+msgstr "쇼핑몰 구조"
+
+#: deathforth/locplan.df:98
+msgctxt "deathforth/locplan.df"
+msgid "Shopping Mall"
+msgstr "쇼핑몰"
+
+#: deathforth/locplan.df:99
+msgctxt "deathforth/locplan.df"
+msgid "Swarmed Gym"
+msgstr "들끓는 체육관"
+
+#: deathforth/locplan.df:100
+msgctxt "deathforth/locplan.df"
+msgid "Swarmed Arcade"
+msgstr "들끓는 오락실"
+
+#: deathforth/locplan.df:101 deathforth/locplan.df:129
+msgctxt "deathforth/locplan.df"
+msgid "Rest Stop"
+msgstr "휴게소"
+
+#: deathforth/locplan.df:102
+msgctxt "deathforth/locplan.df"
+msgid "Swarmed Rest Stop"
+msgstr "들끓는 휴게소"
+
+#: deathforth/locplan.df:103
+msgctxt "deathforth/locplan.df"
+msgid "Rest Stop with Car"
+msgstr "차가 있는 휴게소"
+
+#: deathforth/locplan.df:104
+msgctxt "deathforth/locplan.df"
+msgid "Junkyard with Car"
+msgstr "차가 있는 고물상"
+
+#: deathforth/locplan.df:105
+msgctxt "deathforth/locplan.df"
+msgid "Junkyard"
+msgstr "고물상"
+
+#: deathforth/locplan.df:106
+msgctxt "deathforth/locplan.df"
+msgid "Secure Junkyard"
+msgstr "경비가 삼엄한 고물상"
+
+#: deathforth/locplan.df:107
+msgctxt "deathforth/locplan.df"
+msgid "Cabin with Car"
+msgstr "차가 있는 오두막"
+
+#: deathforth/locplan.df:108
+msgctxt "deathforth/locplan.df"
+msgid "City Row with Car"
+msgstr "차가 있는 도시 거리"
+
+#: deathforth/locplan.df:109
+msgctxt "deathforth/locplan.df"
+msgid "Burning House"
+msgstr "불타는 집"
+
+#: deathforth/locplan.df:110
+msgctxt "deathforth/locplan.df"
+msgid "Quiet Farm"
+msgstr "조용한 농장"
+
+#: deathforth/locplan.df:111
+msgctxt "deathforth/locplan.df"
+msgid "Barn Rescue"
+msgstr "헛간 구조"
+
+#: deathforth/locplan.df:112
+msgctxt "deathforth/locplan.df"
+msgid "Dark Mansion"
+msgstr "어두운 저택"
+
+#: deathforth/locplan.df:113
+msgctxt "deathforth/locplan.df"
+msgid "Graveyard with Car"
+msgstr "차가 있는 묘지"
+
+#: deathforth/locplan.df:114
+msgctxt "deathforth/locplan.df"
+msgid "Busy Park with Car"
+msgstr "차가 있는 붐비는 공원"
+
+#: deathforth/locplan.df:115
+msgctxt "deathforth/locplan.df"
+msgid "Public Park"
+msgstr "공원"
+
+#: deathforth/locplan.df:116
+msgctxt "deathforth/locplan.df"
+msgid "Prison Complex"
+msgstr "교도소 단지"
+
+#: deathforth/locplan.df:117
+msgctxt "deathforth/locplan.df"
+msgid "Townside Beach"
+msgstr "마을 옆 해변"
+
+#: deathforth/locplan.df:118
+msgctxt "deathforth/locplan.df"
+msgid "City Central Bank"
+msgstr "도심 은행"
+
+#: deathforth/locplan.df:119
+msgctxt "deathforth/locplan.df"
+msgid "Antiquated Citadel"
+msgstr "옛 성채"
+
+#: deathforth/locplan.df:120
+msgctxt "deathforth/locplan.df"
+msgid "Rusting Harbour"
+msgstr "녹슨 항구"
+
+#: deathforth/locplan.df:127
+msgctxt "deathforth/locplan.df"
+msgid "Quiet Hotel"
+msgstr "조용한 호텔"
+
+#: deathforth/locplan.df:128
+msgctxt "deathforth/locplan.df"
+msgid "House on the Road"
+msgstr "도로변 주택"
+
+#: deathforth/locplan.df:130
+msgctxt "deathforth/locplan.df"
+msgid "Yall-Mart"
+msgstr "얄마트"
+
+#: deathforth/locplan.df:131
+msgctxt "deathforth/locplan.df"
+msgid "Quiet Factory"
+msgstr "조용한 공장"
+
+#: deathforth/locplan.df:132
+msgctxt "deathforth/locplan.df"
+msgid "Rail Yard"
+msgstr "철도 차량기지"
+
+#: deathforth/locplan.df:133
+msgctxt "deathforth/locplan.df"
+msgid "Parking Lot"
+msgstr "주차장"
+
+#: deathforth/locplan.df:177
+msgctxt "deathforth/locplan.df"
+msgid "Driving All Over"
+msgstr "여기저기 운전"
+
+#: deathforth/locplan.df:178
+msgctxt "deathforth/locplan.df"
+msgid ""
+" decides to burn some gas in hopes of finding more interesting places. "
+msgstr "은(는) 더 흥미로운 곳을 찾으려고 기름을 좀 쓰기로 한다. "
+
+#: deathforth/locplan.df:178 deathforth/locplan.df:187
+msgctxt "deathforth/locplan.df"
+msgid " find"
+msgstr "은(는)"
+
+#: deathforth/locplan.df:178 deathforth/locplan.df:187
+msgctxt "deathforth/locplan.df"
+msgid " some new locations: "
+msgstr " 새로운 장소를 찾는다: "
+
+#: deathforth/locplan.df:186
+msgctxt "deathforth/locplan.df"
+msgid "Careful Exploration"
+msgstr "신중한 탐색"
+
+#: deathforth/locplan.df:187
+msgctxt "deathforth/locplan.df"
+msgid " takes more time to explore. "
+msgstr "은(는) 시간을 더 들여 탐색한다. "
+
+#: deathforth/locplan.df:196
+msgctxt "deathforth/locplan.df"
+msgid "Explorer: "
+msgstr "탐험가: "
+
+#: deathforth/locplan.df:196
+msgctxt "deathforth/locplan.df"
+msgid "Drive More - "
+msgstr "더 운전 - "
+
+#: deathforth/locplan.df:196 deathforth/locplan.df:202
+msgctxt "deathforth/locplan.df"
+msgid " gas"
+msgstr " 기름"
+
+#: deathforth/locplan.df:202
+msgctxt "deathforth/locplan.df"
+msgid "Drive Around More - "
+msgstr "더 돌아다니기 - "
+
+#: deathforth/locplan.df:211
+msgctxt "deathforth/locplan.df"
+msgid "Map map map"
+msgstr "지도 지도 지도"
+
+#: deathforth/locplan.df:212
+msgctxt "deathforth/locplan.df"
+msgid " takes out the map and uses it to find new locations:"
+msgstr "은(는) 지도를 꺼내 새로운 장소를 찾는다:"
+
+#: deathforth/locplan.df:219
+msgctxt "deathforth/locplan.df"
+msgid "Always Be Looting"
+msgstr "언제나 물자 수집"
+
+#: deathforth/locplan.df:220
+msgctxt "deathforth/locplan.df"
+msgid "While driving on the Death Road, "
+msgstr "데스 로드를 달리던 중, "
+
+#: deathforth/locplan.df:220
+msgctxt "deathforth/locplan.df"
+msgid " decides to make a stop for supplies: "
+msgstr "은(는) 물자를 구하려고 멈추기로 한다: "
+
+#: deathforth/locplan.df:223
+msgctxt "deathforth/locplan.df"
+msgid "Cartographer's Map: "
+msgstr "지도 제작자의 지도: "
+
+#: deathforth/locplan.df:223
+msgctxt "deathforth/locplan.df"
+msgid "3 New Locations"
+msgstr "새로운 장소 3곳"
+
+#: deathforth/locplan.df:233
+msgctxt "deathforth/locplan.df"
+msgid "Embarking on the Death Road"
+msgstr "죽음의 길에 오르다"
+
+#: deathforth/locplan.df:234
+msgctxt "deathforth/locplan.df"
+msgid "To start the journey, "
+msgstr "여행을 시작하기 위해, "
+
+#: deathforth/locplan.df:234
+msgctxt "deathforth/locplan.df"
+msgid ""
+" decides to grab some supplies from a nearby location.\r\n"
+"\t\tIn order to survive the Death Road, you'll need to hoard as many supplies as you can! You will also need to find ways to train and grow your team."
+msgstr ""
+"은(는) 근처에서 물자를 챙기기로 한다.\r\n"
+"\t\t죽음의 길에서 살아남으려면 최대한 많은 물자를 모아야 한다! 동료를 훈련하고 성장시킬 방법도 찾아야 한다."
+
+#: deathforth/mission-events-human.df:8 deathforth/mission-events-human.df:241
+msgctxt "deathforth/mission-events-human.df"
+msgid "BARF!"
+msgstr "우웩!"
+
+#: deathforth/mission-events-human.df:9
+msgctxt "deathforth/mission-events-human.df"
+msgid "OH, DANG"
+msgstr "아, 젠장"
+
+#: deathforth/mission-events-human.df:10
+msgctxt "deathforth/mission-events-human.df"
+msgid "DANG IT!"
+msgstr "젠장!"
+
+#: deathforth/mission-events-human.df:11
+msgctxt "deathforth/mission-events-human.df"
+msgid "C... CANADA"
+msgstr "캐... 캐나다"
+
+#: deathforth/mission-events-human.df:12
+msgctxt "deathforth/mission-events-human.df"
+msgid "noooooo"
+msgstr "안돼애애애"
+
+#: deathforth/mission-events-human.df:13
+msgctxt "deathforth/mission-events-human.df"
+msgid "oh poop"
+msgstr "아 망했다"
+
+#: deathforth/mission-events-human.df:14
+msgctxt "deathforth/mission-events-human.df"
+msgid "uh wait... aaaaa"
+msgstr "어 잠깐... 으아아"
+
+#: deathforth/mission-events-human.df:15
+msgctxt "deathforth/mission-events-human.df"
+msgid "dangummit"
+msgstr "제기랄"
+
+#: deathforth/mission-events-human.df:16
+msgctxt "deathforth/mission-events-human.df"
+msgid "argh"
+msgstr "으악"
+
+#: deathforth/mission-events-human.df:17
+msgctxt "deathforth/mission-events-human.df"
+msgid "woops"
+msgstr "이런"
+
+#: deathforth/mission-events-human.df:18
+msgctxt "deathforth/mission-events-human.df"
+msgid "I regret nothing!"
+msgstr "난 후회 없어!"
+
+#: deathforth/mission-events-human.df:19
+msgctxt "deathforth/mission-events-human.df"
+msgid "I regret everything!"
+msgstr "전부 다 후회돼!"
+
+#: deathforth/mission-events-human.df:20
+msgctxt "deathforth/mission-events-human.df"
+msgid "Tell Tim Horton I..."
+msgstr "팀 호튼에게 전해 줘... 난..."
+
+#: deathforth/mission-events-human.df:21
+msgctxt "deathforth/mission-events-human.df"
+msgid "aaaaaaaaa!"
+msgstr "으아아아아!"
+
+#: deathforth/mission-events-human.df:22
+msgctxt "deathforth/mission-events-human.df"
+msgid "This is everyone's fault but me!"
+msgstr "나 빼고 다 너희 탓이야!"
+
+#: deathforth/mission-events-human.df:23
+msgctxt "deathforth/mission-events-human.df"
+msgid "Real mature, zombies! REAL mature!"
+msgstr "철들었네, 좀비들! 아주 철들었어!"
+
+#: deathforth/mission-events-human.df:24
+msgctxt "deathforth/mission-events-human.df"
+msgid "aaaaa!"
+msgstr "으아아!"
+
+#: deathforth/mission-events-human.df:25
+msgctxt "deathforth/mission-events-human.df"
+msgid "heeeelp!"
+msgstr "살려줘어!"
+
+#: deathforth/mission-events-human.df:26
+msgctxt "deathforth/mission-events-human.df"
+msgid "Catch you on the flip side"
+msgstr "저승에서 보자"
+
+#: deathforth/mission-events-human.df:27
+msgctxt "deathforth/mission-events-human.df"
+msgid "This dude is biting me!"
+msgstr "이놈이 날 물잖아!"
+
+#: deathforth/mission-events-human.df:28
+msgctxt "deathforth/mission-events-human.df"
+msgid "Argh!"
+msgstr "으악!"
+
+#: deathforth/mission-events-human.df:29
+msgctxt "deathforth/mission-events-human.df"
+msgid "Well... could be worse"
+msgstr "뭐... 더 나쁠 수도 있지"
+
+#: deathforth/mission-events-human.df:30
+msgctxt "deathforth/mission-events-human.df"
+msgid "I knew this would happen!"
+msgstr "이럴 줄 알았어!"
+
+#: deathforth/mission-events-human.df:31
+msgctxt "deathforth/mission-events-human.df"
+msgid "Oh uh... woops!"
+msgstr "아 어... 이런!"
+
+#: deathforth/mission-events-human.df:32
+msgctxt "deathforth/mission-events-human.df"
+msgid "Ow! Ow!!"
+msgstr "아야! 아야!!"
+
+#: deathforth/mission-events-human.df:33
+msgctxt "deathforth/mission-events-human.df"
+msgid "Hey... cut it out"
+msgstr "야... 그만해"
+
+#: deathforth/mission-events-human.df:34
+msgctxt "deathforth/mission-events-human.df"
+msgid "I hope I don't turn into a skeleton"
+msgstr "해골이 되긴 싫은데"
+
+#: deathforth/mission-events-human.df:35
+msgctxt "deathforth/mission-events-human.df"
+msgid "Please don't throw my skeleton around"
+msgstr "내 해골 던지고 놀지 마"
+
+#: deathforth/mission-events-human.df:36
+msgctxt "deathforth/mission-events-human.df"
+msgid "If only I threw more chairs..."
+msgstr "의자를 더 던졌더라면..."
+
+#: deathforth/mission-events-human.df:37
+msgctxt "deathforth/mission-events-human.df"
+msgid "consarnit"
+msgstr "젠장할"
+
+#: deathforth/mission-events-human.df:38
+msgctxt "deathforth/mission-events-human.df"
+msgid "dagnabbit"
+msgstr "제기랄"
+
+#: deathforth/mission-events-human.df:39
+msgctxt "deathforth/mission-events-human.df"
+msgid "Fine! This is fine!"
+msgstr "괜찮아! 다 괜찮아!"
+
+#: deathforth/mission-events-human.df:40
+msgctxt "deathforth/mission-events-human.df"
+msgid "Aaaaargh!"
+msgstr "으아아아악!"
+
+#: deathforth/mission-events-human.df:41
+msgctxt "deathforth/mission-events-human.df"
+msgid "Whatever!"
+msgstr "알 게 뭐야!"
+
+#: deathforth/mission-events-human.df:42
+msgctxt "deathforth/mission-events-human.df"
+msgid "Who needs Canada, anyway?"
+msgstr "캐나다가 뭐 그리 대수라고?"
+
+#: deathforth/mission-events-human.df:43
+msgctxt "deathforth/mission-events-human.df"
+msgid "No!"
+msgstr "안 돼!"
+
+#: deathforth/mission-events-human.df:44
+msgctxt "deathforth/mission-events-human.df"
+msgid "Caaaaaaaaaaaaaaaaarl!"
+msgstr "카아아아아아알!"
+
+#: deathforth/mission-events-human.df:45
+msgctxt "deathforth/mission-events-human.df"
+msgid "Ouch!"
+msgstr "아야!"
+
+#: deathforth/mission-events-human.df:46
+msgctxt "deathforth/mission-events-human.df"
+msgid "Wait, I think I dropped my gum!"
+msgstr "잠깐, 껌을 떨어뜨린 것 같아!"
+
+#: deathforth/mission-events-human.df:47
+msgctxt "deathforth/mission-events-human.df"
+msgid "Time out! Time out!"
+msgstr "타임! 타임!"
+
+#: deathforth/mission-events-human.df:48
+msgctxt "deathforth/mission-events-human.df"
+msgid "Wait, that one didn't count!"
+msgstr "잠깐, 그건 무효야!"
+
+#: deathforth/mission-events-human.df:49
+msgctxt "deathforth/mission-events-human.df"
+msgid "Wait! I get a do-over!"
+msgstr "잠깐! 다시 할 기회 줘!"
+
+#: deathforth/mission-events-human.df:50
+msgctxt "deathforth/mission-events-human.df"
+msgid "This is all YOUR fault!"
+msgstr "전부 네 탓이야!"
+
+#: deathforth/mission-events-human.df:51
+msgctxt "deathforth/mission-events-human.df"
+msgid "Uh... I meant to do that!"
+msgstr "어... 일부러 그런 거야!"
+
+#: deathforth/mission-events-human.df:52
+msgctxt "deathforth/mission-events-human.df"
+msgid "This is aaaaall part of the plan, heh"
+msgstr "다아아 계획대로야, 헤헤"
+
+#: deathforth/mission-events-human.df:53
+msgctxt "deathforth/mission-events-human.df"
+msgid "Tell everyone my last words were cool!"
+msgstr "내 유언 멋졌다고 전해 줘!"
+
+#: deathforth/mission-events-human.df:54
+msgctxt "deathforth/mission-events-human.df"
+msgid "Cheaters! You zombies cheated!"
+msgstr "반칙이야! 좀비들이 반칙했어!"
+
+#: deathforth/mission-events-human.df:55
+msgctxt "deathforth/mission-events-human.df"
+msgid "Save me, Rosdower!"
+msgstr "살려 줘, 로즈다워!"
+
+#: deathforth/mission-events-human.df:56
+msgctxt "deathforth/mission-events-human.df"
+msgid "saaave meeeeeee"
+msgstr "살려줘어어어"
+
+#: deathforth/mission-events-human.df:57
+msgctxt "deathforth/mission-events-human.df"
+msgid "Uhhh... little help?"
+msgstr "어... 좀 도와줄래?"
+
+#: deathforth/mission-events-human.df:58
+msgctxt "deathforth/mission-events-human.df"
+msgid "halp"
+msgstr "살려조"
+
+#: deathforth/mission-events-human.df:59
+msgctxt "deathforth/mission-events-human.df"
+msgid "heeelp meeeee"
+msgstr "살려줘어어"
+
+#: deathforth/mission-events-human.df:60
+msgctxt "deathforth/mission-events-human.df"
+msgid "Don't worry, I have a plan!"
+msgstr "걱정 마, 계획이 있어!"
+
+#: deathforth/mission-events-human.df:61
+msgctxt "deathforth/mission-events-human.df"
+msgid "Ow ow ow ow ow"
+msgstr "아야 아야 아야 아야 아야"
+
+#: deathforth/mission-events-human.df:62
+msgctxt "deathforth/mission-events-human.df"
+msgid "No one touch any of my stuff!"
+msgstr "내 물건 아무도 만지지 마!"
+
+#: deathforth/mission-events-human.df:63
+msgctxt "deathforth/mission-events-human.df"
+msgid "Bury me... with my food cans!"
+msgstr "묻어 줘... 내 통조림이랑!"
+
+#: deathforth/mission-events-human.df:64
+msgctxt "deathforth/mission-events-human.df"
+msgid "Bury me with my beloved car keys!"
+msgstr "내 소중한 차 열쇠도 같이 묻어 줘!"
+
+#: deathforth/mission-events-human.df:65
+msgctxt "deathforth/mission-events-human.df"
+msgid "Bury me with a sweet headstone!"
+msgstr "멋진 비석으로 묻어 줘!"
+
+#: deathforth/mission-events-human.df:66
+msgctxt "deathforth/mission-events-human.df"
+msgid "Oh well! Better luck next time."
+msgstr "뭐 어때! 다음엔 운이 좋겠지."
+
+#: deathforth/mission-events-human.df:67
+msgctxt "deathforth/mission-events-human.df"
+msgid "That was close! Oh wait, ow!"
+msgstr "아슬아슬했어! 어 잠깐, 아야!"
+
+#: deathforth/mission-events-human.df:68
+msgctxt "deathforth/mission-events-human.df"
+msgid "I got a problem, here."
+msgstr "여기 좀 문제가 생겼어."
+
+#: deathforth/mission-events-human.df:69
+msgctxt "deathforth/mission-events-human.df"
+msgid "That stings!"
+msgstr "따갑잖아!"
+
+#: deathforth/mission-events-human.df:70
+msgctxt "deathforth/mission-events-human.df"
+msgid "Ha! That tickles!"
+msgstr "하! 간지러워!"
+
+#: deathforth/mission-events-human.df:71
+msgctxt "deathforth/mission-events-human.df"
+msgid "Bring it on!!!"
+msgstr "덤벼!!!"
+
+#: deathforth/mission-events-human.df:72
+msgctxt "deathforth/mission-events-human.df"
+msgid "WOOOooooooouch!"
+msgstr "우와아아아야야!"
+
+#: deathforth/mission-events-human.df:73
+msgctxt "deathforth/mission-events-human.df"
+msgid "No problem! I got this!"
+msgstr "문제없어! 할 수 있어!"
+
+#: deathforth/mission-events-human.df:74
+msgctxt "deathforth/mission-events-human.df"
+msgid "Argh! Run for it!"
+msgstr "으악! 도망쳐!"
+
+#: deathforth/mission-events-human.df:75
+msgctxt "deathforth/mission-events-human.df"
+msgid "This was a bad idea!"
+msgstr "이건 잘못된 생각이었어!"
+
+#: deathforth/mission-events-human.df:76
+msgctxt "deathforth/mission-events-human.df"
+msgid "Wait! I got something in my eye!"
+msgstr "잠깐! 눈에 뭐 들어갔어!"
+
+#: deathforth/mission-events-human.df:77
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'm fine. I'll walk it off!"
+msgstr "괜찮아. 좀 걸으면 낫겠지!"
+
+#: deathforth/mission-events-human.df:78
+msgctxt "deathforth/mission-events-human.df"
+msgid "Just got the wind knocked outta me."
+msgstr "숨이 좀 턱 막힌 것뿐이야."
+
+#: deathforth/mission-events-human.df:79
+msgctxt "deathforth/mission-events-human.df"
+msgid "Heh, this is nothing! I've had worse!"
+msgstr "흥, 이 정도쯤! 더 심한 적도 있어!"
+
+#: deathforth/mission-events-human.df:80
+msgctxt "deathforth/mission-events-human.df"
+msgid "I can still do this! One second!"
+msgstr "아직 할 수 있어! 잠깐만!"
+
+#: deathforth/mission-events-human.df:81
+msgctxt "deathforth/mission-events-human.df"
+msgid "What-ever!"
+msgstr "알 게 뭐냐!"
+
+#: deathforth/mission-events-human.df:82
+msgctxt "deathforth/mission-events-human.df"
+msgid "*rolling eyes at zombies in disgust*"
+msgstr "*좀비를 역겹게 보며 눈을 굴림*"
+
+#: deathforth/mission-events-human.df:83
+msgctxt "deathforth/mission-events-human.df"
+msgid "Excuse me... stop eating me please"
+msgstr "실례인데... 그만 먹어 줄래"
+
+#: deathforth/mission-events-human.df:84
+msgctxt "deathforth/mission-events-human.df"
+msgid "Hey! Bad zombie! Bad!"
+msgstr "야! 나쁜 좀비! 나빠!"
+
+#: deathforth/mission-events-human.df:85
+msgctxt "deathforth/mission-events-human.df"
+msgid "Slow zombies aren't supposed to be dangerous!"
+msgstr "느린 좀비가 위험하면 안 되잖아!"
+
+#: deathforth/mission-events-human.df:86
+msgctxt "deathforth/mission-events-human.df"
+msgid "eeeeep"
+msgstr "히이익"
+
+#: deathforth/mission-events-human.df:87
+msgctxt "deathforth/mission-events-human.df"
+msgid "shrieeeeeeek"
+msgstr "꺄아아아악"
+
+#: deathforth/mission-events-human.df:88
+msgctxt "deathforth/mission-events-human.df"
+msgid "*g...gulp*"
+msgstr "*꿀... 꺽*"
+
+#: deathforth/mission-events-human.df:89
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'm in for it now!"
+msgstr "이제 큰일 났네!"
+
+#: deathforth/mission-events-human.df:90
+msgctxt "deathforth/mission-events-human.df"
+msgid "I've had it now!"
+msgstr "난 이제 끝이야!"
+
+#: deathforth/mission-events-human.df:91
+msgctxt "deathforth/mission-events-human.df"
+msgid "This is it for me!"
+msgstr "여기까지인가 봐!"
+
+#: deathforth/mission-events-human.df:92
+msgctxt "deathforth/mission-events-human.df"
+msgid "No fair!"
+msgstr "불공평해!"
+
+#: deathforth/mission-events-human.df:93
+msgctxt "deathforth/mission-events-human.df"
+msgid "No way!"
+msgstr "말도 안 돼!"
+
+#: deathforth/mission-events-human.df:94
+msgctxt "deathforth/mission-events-human.df"
+msgid "Either these zombies go... or I do!"
+msgstr "좀비들이 죽든가... 내가 죽든가!"
+
+#: deathforth/mission-events-human.df:95
+msgctxt "deathforth/mission-events-human.df"
+msgid "gurk"
+msgstr "꺽"
+
+#: deathforth/mission-events-human.df:96
+msgctxt "deathforth/mission-events-human.df"
+msgid "owowowowow"
+msgstr "아야아야아야"
+
+#: deathforth/mission-events-human.df:97
+msgctxt "deathforth/mission-events-human.df"
+msgid "ugh!"
+msgstr "으윽!"
+
+#: deathforth/mission-events-human.df:98
+msgctxt "deathforth/mission-events-human.df"
+msgid "OOF!"
+msgstr "억!"
+
+#: deathforth/mission-events-human.df:99
+msgctxt "deathforth/mission-events-human.df"
+msgid "For cripes sake..."
+msgstr "아 제발 좀..."
+
+#: deathforth/mission-events-human.df:100
+msgctxt "deathforth/mission-events-human.df"
+msgid "Ow my spleen"
+msgstr "아 내 비장"
+
+#: deathforth/mission-events-human.df:101
+msgctxt "deathforth/mission-events-human.df"
+msgid "I hope that's just ketchup"
+msgstr "이게 그냥 케첩이면 좋겠는데"
+
+#: deathforth/mission-events-human.df:102
+msgctxt "deathforth/mission-events-human.df"
+msgid "Well I'll be a monkey's uncle. I'm dead!"
+msgstr "세상에 맙소사. 나 죽었네!"
+
+#: deathforth/mission-events-human.df:103
+msgctxt "deathforth/mission-events-human.df"
+msgid "KAKAROOOOT!!"
+msgstr "카카로오오트!!"
+
+#: deathforth/mission-events-human.df:104
+msgctxt "deathforth/mission-events-human.df"
+msgid "Zombie spit, gross"
+msgstr "좀비 침, 역겨워"
+
+#: deathforth/mission-events-human.df:105
+msgctxt "deathforth/mission-events-human.df"
+msgid "No matter what... you gotta strut"
+msgstr "무슨 일이 있어도... 당당하게 걸어"
+
+#: deathforth/mission-events-human.df:106
+msgctxt "deathforth/mission-events-human.df"
+msgid "I've had worse..."
+msgstr "더 심한 적도 있었어..."
+
+#: deathforth/mission-events-human.df:107
+msgctxt "deathforth/mission-events-human.df"
+msgid "ZOINKS!"
+msgstr "이크!"
+
+#: deathforth/mission-events-human.df:108
+msgctxt "deathforth/mission-events-human.df"
+msgid "KHAAAAAAAN!!"
+msgstr "카아아아안!!"
+
+#: deathforth/mission-events-human.df:109
+msgctxt "deathforth/mission-events-human.df"
+msgid "Canada, more like Can'tada"
+msgstr "캐나다? 못가나다겠지"
+
+#: deathforth/mission-events-human.df:116
+msgctxt "deathforth/mission-events-human.df"
+msgid "These zombies are sassing me back"
+msgstr "좀비들이 나한테 말대꾸해"
+
+#: deathforth/mission-events-human.df:117
+msgctxt "deathforth/mission-events-human.df"
+msgid "Getting a little personal."
+msgstr "좀 선 넘는 것 같은데."
+
+#: deathforth/mission-events-human.df:118
+msgctxt "deathforth/mission-events-human.df"
+msgid "There's no hope!"
+msgstr "희망이 없어!"
+
+#: deathforth/mission-events-human.df:119
+msgctxt "deathforth/mission-events-human.df"
+msgid "*YAWN*"
+msgstr "*하품*"
+
+#: deathforth/mission-events-human.df:120
+msgctxt "deathforth/mission-events-human.df"
+msgid "I got bit, it's not a big deal!"
+msgstr "물린 게 뭐 대수라고!"
+
+#: deathforth/mission-events-human.df:121
+msgctxt "deathforth/mission-events-human.df"
+msgid "Cut it out, you nerd!"
+msgstr "그만해, 찌질아!"
+
+#: deathforth/mission-events-human.df:122
+msgctxt "deathforth/mission-events-human.df"
+msgid "No probs"
+msgstr "문제없음"
+
+#: deathforth/mission-events-human.df:123
+msgctxt "deathforth/mission-events-human.df"
+msgid "What a tiny little bite"
+msgstr "아주 쬐끄만 이빨 자국이네"
+
+#: deathforth/mission-events-human.df:124
+msgctxt "deathforth/mission-events-human.df"
+msgid "2 legit 2 quit"
+msgstr "멋져서 못 멈춰"
+
+#: deathforth/mission-events-human.df:125
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'm too PUMPED to die!"
+msgstr "너무 신나서 죽을 수가 없어!"
+
+#: deathforth/mission-events-human.df:126
+msgctxt "deathforth/mission-events-human.df"
+msgid "Stop touchings me!"
+msgstr "나 만지지 말라구!"
+
+#: deathforth/mission-events-human.df:127
+msgctxt "deathforth/mission-events-human.df"
+msgid "That's my purse, I don't know you"
+msgstr "이거 내 가방이야, 너 누구야"
+
+#: deathforth/mission-events-human.df:128
+msgctxt "deathforth/mission-events-human.df"
+msgid "What - ever!"
+msgstr "알 게 뭐냐구!"
+
+#: deathforth/mission-events-human.df:129
+msgctxt "deathforth/mission-events-human.df"
+msgid "SHIELD...OF...HOPE"
+msgstr "희망의... 방... 패"
+
+#: deathforth/mission-events-human.df:130
+msgctxt "deathforth/mission-events-human.df"
+msgid "Shield... of.... HOPE"
+msgstr "희망의... 방.... 패"
+
+#: deathforth/mission-events-human.df:131
+msgctxt "deathforth/mission-events-human.df"
+msgid "I can still make it! To Canada!"
+msgstr "아직 갈 수 있어! 캐나다에!"
+
+#: deathforth/mission-events-human.df:132
+msgctxt "deathforth/mission-events-human.df"
+msgid "I can still run... there's still hope!"
+msgstr "아직 뛸 수 있어... 희망은 있어!"
+
+#: deathforth/mission-events-human.df:133
+msgctxt "deathforth/mission-events-human.df"
+msgid "Still standing!"
+msgstr "아직 서 있어!"
+
+#: deathforth/mission-events-human.df:134
+msgctxt "deathforth/mission-events-human.df"
+msgid "Ow ow ow ow"
+msgstr "아야 아야 아야 아야"
+
+#: deathforth/mission-events-human.df:135
+msgctxt "deathforth/mission-events-human.df"
+msgid "No problem, no problem"
+msgstr "문제없어, 문제없어"
+
+#: deathforth/mission-events-human.df:136
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'm ok... I wasn't bit!"
+msgstr "난 괜찮아... 안 물렸어!"
+
+#: deathforth/mission-events-human.df:137
+msgctxt "deathforth/mission-events-human.df"
+msgid "I can walk this off!"
+msgstr "좀 걸으면 나아질 거야!"
+
+#: deathforth/mission-events-human.df:138
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'm still feeling pretty optimistic, I think!"
+msgstr "아직 꽤 낙관적인 것 같아!"
+
+#: deathforth/mission-events-human.df:139
+msgctxt "deathforth/mission-events-human.df"
+msgid "SHIELD OF HOPE!"
+msgstr "희망의 방패!"
+
+#: deathforth/mission-events-human.df:140
+msgctxt "deathforth/mission-events-human.df"
+msgid "SHIIIIEEEEELLLD OF HOOOOOOOPE!"
+msgstr "희이이이이망의 바아아앙패!"
+
+#: deathforth/mission-events-human.df:156
+msgctxt "deathforth/mission-events-human.df"
+msgid "whiiiiiiiine"
+msgstr "낑이이이잉"
+
+#: deathforth/mission-events-human.df:158
+msgctxt "deathforth/mission-events-human.df"
+msgid "ARRROOOOOO!"
+msgstr "아우우우우!"
+
+#: deathforth/mission-events-human.df:164
+msgctxt "deathforth/mission-events-human.df"
+msgid "this was NOT a goat simulator reference"
+msgstr "염소 시뮬레이터 패러디 아님"
+
+#: deathforth/mission-events-human.df:166
+msgctxt "deathforth/mission-events-human.df"
+msgid "BAAAAAAAAAAA!"
+msgstr "매애애애애!"
+
+#: deathforth/mission-events-human.df:172
+msgctxt "deathforth/mission-events-human.df"
+msgid "SOME PIG"
+msgstr "대단한 돼지"
+
+#: deathforth/mission-events-human.df:174
+msgctxt "deathforth/mission-events-human.df"
+msgid "SQUEEEEEL!"
+msgstr "꾸이이이익!"
+
+#: deathforth/mission-events-human.df:180
+msgctxt "deathforth/mission-events-human.df"
+msgid "i hate mondays"
+msgstr "월요일 싫어"
+
+#: deathforth/mission-events-human.df:182
+msgctxt "deathforth/mission-events-human.df"
+msgid "HISSSSSSSSSSSSS!"
+msgstr "하아아아악!"
+
+#: deathforth/mission-events-human.df:187
+msgctxt "deathforth/mission-events-human.df"
+msgid "BLORFFF!"
+msgstr "꾸우우웩!"
+
+#: deathforth/mission-events-human.df:192
+msgctxt "deathforth/mission-events-human.df"
+msgid "*GNOOOOORT*"
+msgstr "*꾸우우우울*"
+
+#: deathforth/mission-events-human.df:193
+msgctxt "deathforth/mission-events-human.df"
+msgid "nuuuuuuurp!"
+msgstr "뿌우우웁!"
+
+#: deathforth/mission-events-human.df:195
+msgctxt "deathforth/mission-events-human.df"
+msgid "DON'T HAVE.... COW"
+msgstr "열받지.... 마"
+
+#: deathforth/mission-events-human.df:197
+msgctxt "deathforth/mission-events-human.df"
+msgid "COLD.... STEEEEEEEL"
+msgstr "콜드.... 스티이이이일"
+
+#: deathforth/mission-events-human.df:199
+msgctxt "deathforth/mission-events-human.df"
+msgid "YOU ARE DEAD... no wait I am dead"
+msgstr "넌 죽었다... 아니 내가 죽었네"
+
+#: deathforth/mission-events-human.df:200
+msgctxt "deathforth/mission-events-human.df"
+msgid "SEE YOU LATER BUB"
+msgstr "또 보자, 친구"
+
+#: deathforth/mission-events-human.df:201
+msgctxt "deathforth/mission-events-human.df"
+msgid "Finally, I get to be 100% skeleton!"
+msgstr "드디어 100% 해골이 되는구나!"
+
+#: deathforth/mission-events-human.df:202
+msgctxt "deathforth/mission-events-human.df"
+msgid "THANKS A LOT... OBAMA... CAAAAAAAAAW"
+msgstr "참 고맙다... 오바마... 까아아악"
+
+#: deathforth/mission-events-human.df:204
+msgctxt "deathforth/mission-events-human.df"
+msgid "BURY ME... WITH MY LOG"
+msgstr "묻어 줘... 내 통나무랑"
+
+#: deathforth/mission-events-human.df:205
+msgctxt "deathforth/mission-events-human.df"
+msgid "YAAAAARRRRRggghhhhh!"
+msgstr "야아아아아아악!"
+
+#: deathforth/mission-events-human.df:206
+msgctxt "deathforth/mission-events-human.df"
+msgid "ZZZZZZZZZT!"
+msgstr "찌지지지직!"
+
+#: deathforth/mission-events-human.df:207
+msgctxt "deathforth/mission-events-human.df"
+msgid "SHAZBOT!"
+msgstr "샤즈봇!"
+
+#: deathforth/mission-events-human.df:208
+msgctxt "deathforth/mission-events-human.df"
+msgid "HONK!"
+msgstr "빵빵!"
+
+#: deathforth/mission-events-human.df:209
+msgctxt "deathforth/mission-events-human.df"
+msgid "*TWANG*"
+msgstr "*팅*"
+
+#: deathforth/mission-events-human.df:210
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'M BONED!"
+msgstr "뼈도 못 추리겠네!"
+
+#: deathforth/mission-events-human.df:211
+msgctxt "deathforth/mission-events-human.df"
+msgid "ANOTHER DISASTER CAUSED BY COSPLAY!"
+msgstr "코스프레가 또 재앙을 일으켰다!"
+
+#: deathforth/mission-events-human.df:212
+msgctxt "deathforth/mission-events-human.df"
+msgid "The future is crap!"
+msgstr "미래는 거지 같아!"
+
+#: deathforth/mission-events-human.df:213
+msgctxt "deathforth/mission-events-human.df"
+msgid "I made a little miscalculation..."
+msgstr "계산이 좀 잘못됐네..."
+
+#: deathforth/mission-events-human.df:214
+msgctxt "deathforth/mission-events-human.df"
+msgid "For the bees!"
+msgstr "벌들을 위하여!"
+
+#: deathforth/mission-events-human.df:215
+msgctxt "deathforth/mission-events-human.df"
+msgid "I hope you all burn!"
+msgstr "다 불타 버려라!"
+
+#: deathforth/mission-events-human.df:216
+msgctxt "deathforth/mission-events-human.df"
+msgid " whited out!"
+msgstr "은(는) 눈앞이 새하얘진다!"
+
+#: deathforth/mission-events-human.df:217
+msgctxt "deathforth/mission-events-human.df"
+msgid "I'll make a map of Heaven next!"
+msgstr "다음엔 천국 지도를 그릴게!"
+
+#: deathforth/mission-events-human.df:218
+msgctxt "deathforth/mission-events-human.df"
+msgid "DAMN YOU ALL!"
+msgstr "다 저주받아라!"
+
+#: deathforth/mission-events-human.df:219
+msgctxt "deathforth/mission-events-human.df"
+msgid "you suck"
+msgstr "너 구려"
+
+#: deathforth/mission-events-human.df:223
+msgctxt "deathforth/mission-events-human.df"
+msgid "it's OK, i'll be back in 250 years!"
+msgstr "괜찮아, 250년 뒤에 돌아올게!"
+
+#: deathforth/mission-events-human.df:224
+msgctxt "deathforth/mission-events-human.df"
+msgid "LOOKS LIKE WE FOUND OUT WHO THE REAL JOKER IS."
+msgstr "진짜 광대가 누군지 드러났군."
+
+#: deathforth/mission-events-human.df:227
+msgctxt "deathforth/mission-events-human.df"
+msgid "Welp, there goes our budget!"
+msgstr "이런, 예산 다 날렸네!"
+
+#: deathforth/mission-events-human.df:228
+msgctxt "deathforth/mission-events-human.df"
+msgid "Trittst im Morgenrot daher..."
+msgstr "새벽빛 속에 나타나시어..."
+
+#: deathforth/mission-events-human.df:230
+msgctxt "deathforth/mission-events-human.df"
+msgid "ROCK AND STOOOnnnneee..."
+msgstr "바위와 도오오올..."
+
+#: deathforth/mission-events-human.df:233
+msgctxt "deathforth/mission-events-human.df"
+msgid "The mission...is over..."
+msgstr "임무는... 끝났다..."
+
+#: deathforth/mission-events-human.df:234
+msgctxt "deathforth/mission-events-human.df"
+msgid "arrwooo..."
+msgstr "아우우..."
+
+#: deathforth/mission-events-human.df:235
+msgctxt "deathforth/mission-events-human.df"
+msgid "BETTER THIS THAN SODDING PIRATES!"
+msgstr "빌어먹을 해적보단 낫지!"
+
+#: deathforth/mission-events-human.df:267
+msgctxt "deathforth/mission-events-human.df"
+msgid "AY CRUMBO!!!"
+msgstr "아이 크럼보!!!"
+
+#: deathforth/mission-events-human.df:272
+msgctxt "deathforth/mission-events-human.df"
+msgid "CAAAAAAAAAAAAAAW!"
+msgstr "까아아아아아악!"
+
+#: deathforth/mission-events-human.df:277
+msgctxt "deathforth/mission-events-human.df"
+msgid "The skeleton was inside of me the whole time!"
+msgstr "해골은 처음부터 내 안에 있었어!"
+
+#: deathforth/mission-events-human.df:290
+msgctxt "deathforth/mission-events-human.df"
+msgid "I WILL BE UNDEFEATED!"
+msgstr "난 패배하지 않는다!"
+
+#: deathforth/mission-events-human.df:326
+msgctxt "deathforth/mission-events-human.df"
+msgid " DIED!!!!"
+msgstr "이(가) 죽었다!!!!"
+
+#: deathforth/mission-events-human.df:406
+msgctxt "deathforth/mission-events-human.df"
+msgid "COMBAT : "
+msgstr "전투 : "
+
+#: deathforth/mission-events-human.df:406
+msgctxt "deathforth/mission-events-human.df"
+msgid " TACTIC : "
+msgstr " 전술 : "
+
+#: deathforth/mission-events-human.df:573
+msgctxt "deathforth/mission-events-human.df"
+msgid "CRIT!"
+msgstr "치명타!"
+
+#: deathforth/mission-events.df:18
+msgctxt "deathforth/mission-events.df"
+msgid "OH NO!"
+msgstr "안 돼!"
+
+#: deathforth/mission-events.df:20
+msgctxt "deathforth/mission-events.df"
+msgid " are"
+msgstr "<EMPTY>"
+
+#: deathforth/mission-events.df:20
+msgctxt "deathforth/mission-events.df"
+msgid " is"
+msgstr "<EMPTY>"
+
+#: deathforth/mission-events.df:21
+msgctxt "deathforth/mission-events.df"
+msgid " not here, and will be left behind."
+msgstr "은(는) 여기 없어서 남겨지게 된다."
+
+#: deathforth/mission-events.df:25
+msgctxt "deathforth/mission-events.df"
+msgid "Stay and find them."
+msgstr "남아서 찾는다."
+
+#: deathforth/mission-events.df:28
+msgctxt "deathforth/mission-events.df"
+msgid "Just GO!"
+msgstr "그냥 가자!"
+
+#: deathforth/mission-events.df:105 deathforth/mission-events.df:150
+msgctxt "deathforth/mission-events.df"
+msgid "LEAVING"
+msgstr "떠나기"
+
+#: deathforth/mission-events.df:107
+msgctxt "deathforth/mission-events.df"
+msgid "EXITING ZOMBO TOWN"
+msgstr "좀보 마을 떠나기"
+
+#: deathforth/mission-events.df:108
+msgctxt "deathforth/mission-events.df"
+msgid "Do you want to go back to the title screen?"
+msgstr "타이틀 화면으로 돌아갈까?"
+
+#: deathforth/mission-events.df:110
+msgctxt "deathforth/mission-events.df"
+msgid "Do you want to walk back to the road?"
+msgstr "걸어서 도로로 돌아갈까?"
+
+#: deathforth/mission-events.df:113
+msgctxt "deathforth/mission-events.df"
+msgid "You will abandon your car "
+msgstr "차를 두고 "
+
+#: deathforth/mission-events.df:113
+msgctxt "deathforth/mission-events.df"
+msgid "if you "
+msgstr "<EMPTY>"
+
+#: deathforth/mission-events.df:113
+msgctxt "deathforth/mission-events.df"
+msgid "waltz off"
+msgstr "걸어가면"
+
+#: deathforth/mission-events.df:113
+msgctxt "deathforth/mission-events.df"
+msgid " without it!"
+msgstr " 차는 버리고 가는 거다!"
+
+#: deathforth/mission-events.df:119 deathforth/mission-events.df:154
+msgctxt "deathforth/mission-events.df"
+msgid "No, stay here."
+msgstr "아니, 여기 남는다."
+
+#: deathforth/mission-events.df:122
+msgctxt "deathforth/mission-events.df"
+msgid "Yes, let's hit the road."
+msgstr "그래, 다시 출발하자."
+
+#: deathforth/mission-events.df:135 deathforth/mission-events.df:142
+msgctxt "deathforth/mission-events.df"
+msgid "NO ESCAPE"
+msgstr "탈출 불가"
+
+#: deathforth/mission-events.df:136
+msgctxt "deathforth/mission-events.df"
+msgid ""
+"You can't leave from this location. You will have to find another way out."
+msgstr "여기로는 나갈 수 없다. 다른 출구를 찾아야 한다."
+
+#: deathforth/mission-events.df:143
+msgctxt "deathforth/mission-events.df"
+msgid ""
+"It's too dangerous outside right now. You can't leave from this location "
+"yet."
+msgstr "지금은 밖이 너무 위험하다. 아직 여기로 나갈 수 없다."
+
+#: deathforth/mission-events.df:151
+msgctxt "deathforth/mission-events.df"
+msgid "Do you want to leave this location?"
+msgstr "여기를 떠날까?"
+
+#: deathforth/mission-events.df:157
+msgctxt "deathforth/mission-events.df"
+msgid "Yes, let's go."
+msgstr "그래, 가자."
+
+#: deathforth/mission-events.df:167 deathforth/mission-events.df:201
+msgctxt "deathforth/mission-events.df"
+msgid "OH, NO"
+msgstr "이런!"
+
+#: deathforth/mission-events.df:168
+msgctxt "deathforth/mission-events.df"
+msgid "Your mission leader has died! Pick a new leader:"
+msgstr "임무 리더가 죽었다! 새 리더를 골라라:"
+
+#: deathforth/mission-events.df:188
+msgctxt "deathforth/mission-events.df"
+msgid "FAILED!"
+msgstr "실패!"
+
+#: deathforth/mission-events.df:190
+msgctxt "deathforth/mission-events.df"
+msgid "Your scavenging team was wiped out! Better get out of here!"
+msgstr "물자 수집팀이 전멸했다! 어서 여기서 나가야 한다!"
+
+#: deathforth/mission-events.df:202
+msgctxt "deathforth/mission-events.df"
+msgid "Everyone else is dead! "
+msgstr "나머지는 모두 죽었다! "
+
+#: deathforth/mission-events.df:202
+msgctxt "deathforth/mission-events.df"
+msgid " is all alone..."
+msgstr "은(는) 혼자 남는다..."
+
+#: deathforth/mission-events.df:268 deathforth/mission-events.df:303
+msgctxt "deathforth/mission-events.df"
+msgid "QUIT?"
+msgstr "종료?"
+
+#: deathforth/mission-events.df:271 deathforth/mission-events.df:304
+msgctxt "deathforth/mission-events.df"
+msgid "EXIT the game?"
+msgstr "게임을 종료할까?"
+
+#: deathforth/mission-events.df:276
+msgctxt "deathforth/mission-events.df"
+msgid "ABORT the game and quit to the title screen?"
+msgstr "게임을 중단하고 타이틀 화면으로 돌아갈까?"
+
+#: deathforth/mission-events.df:279
+msgctxt "deathforth/mission-events.df"
+msgid "You can resume the game later with CONTINUE GAME!"
+msgstr "나중에 게임 계속하기로 이어 할 수 있다!"
+
+#: deathforth/mission-events.df:283
+msgctxt "deathforth/mission-events.df"
+msgid "EXIT ZOMBO TOWN"
+msgstr "좀보 마을 떠나기"
+
+#: deathforth/mission-events.df:284
+msgctxt "deathforth/mission-events.df"
+msgid ""
+"Return to the title screen?\r\n"
+"\t\tAny upgrades you have purchased are already saved."
+msgstr ""
+"타이틀 화면으로 돌아갈까?\r\n"
+"\t\t구매한 강화는 이미 저장되어 있다."
+
+#: deathforth/mission-events.df:289
+msgctxt "deathforth/mission-events.df"
+msgid "WARNING: Quitting directly from a mission will delete the save!"
+msgstr "경고: 임무 도중 종료하면 저장 파일이 지워진다!"
+
+#: deathforth/mission-events.df:290
+msgctxt "deathforth/mission-events.df"
+msgid "QUIT AND DELETE SAVE"
+msgstr "종료하고 저장 삭제"
+
+#: deathforth/mission-events.df:321
+msgctxt "deathforth/mission-events.df"
+msgid " is just a "
+msgstr "은(는) 그저 "
+
+#: deathforth/mission-events.df:321
+msgctxt "deathforth/mission-events.df"
+msgid "dumb animal"
+msgstr "멍청한 동물"
+
+#: deathforth/mission-events.df:321
+msgctxt "deathforth/mission-events.df"
+msgid " and can't lead a solo mission. Sad!"
+msgstr "이라 혼자 임무를 이끌 수 없다. 슬프네!"
+
+#: deathforth/mission-events.df:344
+msgctxt "deathforth/mission-events.df"
+msgid "Sup."
+msgstr "안녕."
+
+#: deathforth/mission.df:79
+msgctxt "deathforth/mission.df"
+msgid ""
+"The Anime Girl was going to explode, but got prevented from doing so at the "
+"last possible moment."
+msgstr "애니 소녀가 폭발하려 했지만, 마지막 순간에 가까스로 막았다."
+
+#: deathforth/mission.df:80
+msgctxt "deathforth/mission.df"
+msgid "Anime Overdose"
+msgstr "애니 과다복용"
+
+#: deathforth/mission.df:81
+msgctxt "deathforth/mission.df"
+msgid ""
+" suddenly explodes while on the road. Everything is heavily damaged by "
+"flying shards of anime."
+msgstr "은(는) 여행 중 갑자기 폭발한다. 날아든 애니 파편이 모든 것을 심하게 파괴한다."
+
+#: deathforth/mission.df:82
+msgctxt "deathforth/mission.df"
+msgid "ANIME GIRL GETS OBLITERATED!"
+msgstr "애니 소녀가 소멸했다!"
+
+#: deathforth/mission.df:89
+msgctxt "deathforth/mission.df"
+msgid " uses their quick body reflexes to dive for cover!"
+msgstr "은(는) 재빠른 반사 신경으로 몸을 날려 숨는다!"
+
+#: deathforth/mission.df:91
+msgctxt "deathforth/mission.df"
+msgid " follows their lead!"
+msgstr "은(는) 뒤따라 몸을 숨긴다!"
+
+#: deathforth/mission.df:102
+msgctxt "deathforth/mission.df"
+msgid "End of the Battle"
+msgstr "전투의 끝"
+
+#: deathforth/mission.df:103
+msgctxt "deathforth/mission.df"
+msgid "The knight"
+msgstr "기사"
+
+#: deathforth/mission.df:103
+msgctxt "deathforth/mission.df"
+msgid ""
+" thanks you for the experience, but says she should probably go on her own "
+"from here. She starts slowly clanking away!"
+msgstr "은(는) 값진 경험에 감사하지만 이제 혼자 가야 할 것 같다고 한다. 느릿느릿 철컹대며 떠난다!"
+
+#: deathforth/mission.df:108
+msgctxt "deathforth/mission.df"
+msgid "After seeing it in action, "
+msgstr "실전 모습을 본 뒤, "
+
+#: deathforth/mission.df:108
+msgctxt "deathforth/mission.df"
+msgid ""
+" has to buy the sword.\r\n"
+"\t"
+msgstr ""
+"은(는) 이 검을 꼭 사고 싶어진다.\r\n"
+"\t"
+
+#: deathforth/mission.df:109
+msgctxt "deathforth/mission.df"
+msgid "You will not regret this purchase! Good luck out there!"
+msgstr "후회 안 할 거야! 행운을 빌어!"
+
+#: deathforth/mission.df:117
+msgctxt "deathforth/mission.df"
+msgid "Cold Steel Live Demo"
+msgstr "콜드 스틸 실전 시연"
+
+#: deathforth/mission.df:119
+msgctxt "deathforth/mission.df"
+msgid " is raring to go!"
+msgstr "은(는) 출발할 준비가 됐다!"
+
+#: deathforth/mission.df:119
+msgctxt "deathforth/mission.df"
+msgid ""
+"\r\n"
+"\t\t\tAre you ready to see the power of a Cold Steel weapon?\r\n"
+"\t\t\tYou'll see what this greatsword can do once you let me out of this car!"
+msgstr ""
+"\r\n"
+"\t\t\t콜드 스틸 무기의 위력을 볼 준비 됐어?\r\n"
+"\t\t\t차에서 내보내 주면 이 대검의 힘을 보여 주지!"
+
+#: deathforth/mission.df:124
+msgctxt "deathforth/mission.df"
+msgid "The demonstration is over!"
+msgstr "시연이 끝났다!"
+
+#: deathforth/mission.df:124
+msgctxt "deathforth/mission.df"
+msgid ""
+"\r\n"
+"\t\tWell, are you ready for the power of a Cold Steel sword?\r\n"
+"\t\tI'll give you a discount because we fought together as warriors! 33% off!"
+msgstr ""
+"\r\n"
+"\t\t자, 콜드 스틸 검의 위력을 받아들일 준비 됐어?\r\n"
+"\t\t함께 싸운 전우니까 할인해 줄게! 33% 할인!"
+
+#: deathforth/mission.df:127
+msgctxt "deathforth/mission.df"
+msgid "I'm still not good enough for it "
+msgstr "아직 그 검엔 내가 부족해 "
+
+#: deathforth/mission.df:129
+msgctxt "deathforth/mission.df"
+msgid "Buy it! - 30 food"
+msgstr "산다! - 식량 30"
+
+#: deathforth/mission.df:129
+msgctxt "deathforth/mission.df"
+msgid " 33% Discount!"
+msgstr " 33% 할인!"
+
+#: deathforth/mission.df:140 deathforth/mission.df:141
+#: deathforth/mission.df:142 deathforth/mission.df:148
+#: deathforth/mission.df:149 deathforth/mission.df:150
+#: deathforth/mission.df:156 deathforth/mission.df:157
+#: deathforth/mission.df:158
+msgctxt "deathforth/mission.df"
+msgid "CAN'T FIX SELF!"
+msgstr "스스로는 못 고쳐!"
+
+#: deathforth/mission.df:167
+msgctxt "deathforth/mission.df"
+msgid "YOU CAN'T STOP WHAT'S COMING"
+msgstr "다가오는 것을 막을 수 없다"
+
+#: deathforth/mission.df:168
+msgctxt "deathforth/mission.df"
+msgid " notices that "
+msgstr "은(는) 보게 된다. "
+
+#: deathforth/mission.df:168
+msgctxt "deathforth/mission.df"
+msgid " is melting in real time. This is mildly concerning!"
+msgstr "이(가) 실시간으로 녹고 있다. 조금 걱정된다!"
+
+#: deathforth/mission.df:169
+msgctxt "deathforth/mission.df"
+msgid ""
+"THIS IS JUST LIKE WHEN SUN-CHAN ANNIHILATED EARTH-CHAN IN MY APOCALYPSE-PUNK"
+" ANIMES!"
+msgstr "내 종말 펑크 애니에서 태양짱이 지구짱을 없애 버렸을 때랑 똑같아!"
+
+#: deathforth/mission.df:170
+msgctxt "deathforth/mission.df"
+msgid ""
+"UH YEAH BUT THAT WOULD ALSO KILL ALL OF US. SUN-CHAN SHOULD HAVE THOUGHT "
+"TWICE ABOUT THAT."
+msgstr "어 그래, 근데 그러면 우리도 다 죽잖아. 태양짱도 좀 더 생각했어야지."
+
+#: deathforth/mission.df:171
+msgctxt "deathforth/mission.df"
+msgid " is forced to consider the philosophical ramifications of this fact! "
+msgstr "은(는) 이 사실의 철학적 의미를 생각할 수밖에 없다! "
+
+#: deathforth/mission.df:171
+msgctxt "deathforth/mission.df"
+msgid " ANIME COUNTDOWN TIMER EXTENDED!"
+msgstr " 애니 폭발 제한 시간 연장!"
+
+#: deathforth/mission.df:174 deathforth/mission.df:185
+#: deathforth/mission.df:196
+msgctxt "deathforth/mission.df"
+msgid " has progressed to the next stage of their transformation!"
+msgstr "은(는) 변신의 다음 단계로 넘어간다!"
+
+#: deathforth/mission.df:174 deathforth/mission.df:185
+msgctxt "deathforth/mission.df"
+msgid "BEWARE...THE ANIME!"
+msgstr "조심해라... 애니를!"
+
+#: deathforth/mission.df:179
+msgctxt "deathforth/mission.df"
+msgid "OH JUST YOU WAIT AND SEE"
+msgstr "어디 두고 보자고"
+
+#: deathforth/mission.df:180
+msgctxt "deathforth/mission.df"
+msgid " has finally thought about "
+msgstr "은(는) 드디어 생각한다. "
+
+#: deathforth/mission.df:180
+msgctxt "deathforth/mission.df"
+msgid "'s condition!"
+msgstr "의 상태를!"
+
+#: deathforth/mission.df:181
+msgctxt "deathforth/mission.df"
+msgid ""
+"HEY I DON'T FEEL SO GOOD. I WISH MORPHINE-KUN WAS HERE. SHE WOULD KNOW WHAT "
+"TO SAY."
+msgstr "야 나 몸이 좀 안 좋아. 모르핀군이 있으면 좋을 텐데. 무슨 말을 할지 알았을 거야."
+
+#: deathforth/mission.df:182
+msgctxt "deathforth/mission.df"
+msgid "BE STRONG FOR MORPHINE-KUN! YOU CAN DO IT! I BELIEVE IN YOU!"
+msgstr "모르핀군을 위해 힘내! 할 수 있어! 널 믿어!"
+
+#: deathforth/mission.df:183
+msgctxt "deathforth/mission.df"
+msgid " is emboldened to carry on despite their condition! "
+msgstr "은(는) 상태가 좋지 않아도 계속 버틸 용기를 얻는다! "
+
+#: deathforth/mission.df:183 deathforth/mission.df:194
+msgctxt "deathforth/mission.df"
+msgid "ANIME COUNTDOWN TIMER EXTENDED!"
+msgstr "애니 폭발 제한 시간 연장!"
+
+#: deathforth/mission.df:190
+msgctxt "deathforth/mission.df"
+msgid "BY THE WAY, DON'T BLOW UP OR ANYTHING"
+msgstr "근데 폭발 같은 건 하지 마"
+
+#: deathforth/mission.df:191
+msgctxt "deathforth/mission.df"
+msgid " has become deeply frustrated with "
+msgstr "은(는) 아주 질려 버렸다. "
+
+#: deathforth/mission.df:191
+msgctxt "deathforth/mission.df"
+msgid "'s anime ranting!"
+msgstr "의 애니 떠벌림에!"
+
+#: deathforth/mission.df:192
+msgctxt "deathforth/mission.df"
+msgid ""
+"...AND THAT'S WHEN SENPAI-CHAN-KUN WENT WITH FEMALE-SAN AND SET OFF INTO THE"
+" SUNSET!"
+msgstr "...그래서 선배짱군이 여자씨랑 같이 석양을 향해 떠난 거야!"
+
+#: deathforth/mission.df:193
+msgctxt "deathforth/mission.df"
+msgid "COOL IT! COOL IT! PLEASE, PLEASE JUST COOL IT AND SHUT UP!"
+msgstr "진정해! 진정해! 제발, 제발 진정하고 입 좀 다물어!"
+
+#: deathforth/mission.df:194
+msgctxt "deathforth/mission.df"
+msgid ""
+" is hurt by these undeserved words, and stops thinking about anime for a "
+"while. "
+msgstr "은(는) 억울한 말에 상처받아 잠시 애니 생각을 멈춘다. "
+
+#: deathforth/mission.df:196
+msgctxt "deathforth/mission.df"
+msgid "BEWARE...THE ANIME EXPLOSION!"
+msgstr "조심해라... 애니 폭발을!"
+
+#: deathforth/mission.df:269
+msgctxt "deathforth/mission.df"
+msgid "MISSION SUMMARY"
+msgstr "임무 결과"
+
+#: deathforth/mission.df:271
+msgctxt "deathforth/mission.df"
+msgid "Found:"
+msgstr "발견:"
+
+#: deathforth/mission.df:275
+msgctxt "deathforth/mission.df"
+msgid " zombies destroyed."
+msgstr " 마리의 좀비 처치."
+
+#: deathforth/mission.df:279
+msgctxt "deathforth/mission.df"
+msgid "LEFT BEHIND: "
+msgstr "남겨진 동료: "
+
+#: deathforth/mission.df:286
+msgctxt "deathforth/mission.df"
+msgid "END of DEMO"
+msgstr "체험판 끝"
+
+#: deathforth/news/news.df:8
+msgctxt "deathforth/news/news.df"
+msgid "Spiritual Sequel"
+msgstr "정신적 후속작"
+
+#: deathforth/news/news.df:8
+msgctxt "deathforth/news/news.df"
+msgid "With Online Co-op!"
+msgstr "온라인 협동 지원!"
+
+#: deathforth/news/news.df:17
+msgctxt "deathforth/news/news.df"
+msgid "Trailer + Wishlist Now! [Steam]"
+msgstr "예고편 + 찜하기! [Steam]"
+
+#: deathforth/news/news.df:72
+msgctxt "deathforth/news/news.df"
+msgid "TWITTER AND FACEBOOK"
+msgstr "트위터와 페이스북"
+
+#: deathforth/news/news.df:74
+msgctxt "deathforth/news/news.df"
+msgid ""
+"Read updates from Rocketcat Games on Twitter or Facebook for Death Road news and upcoming games!\r\n"
+"\tRead Madgarden's Twitter for real Canadian Wisdom!"
+msgstr ""
+"로켓캣 게임즈의 트위터나 페이스북에서 데스 로드 소식과 신작 정보를 보자!\r\n"
+"\t매드가든의 트위터에는 진짜 캐나다의 지혜가 있다!"

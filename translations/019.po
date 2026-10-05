@@ -1,0 +1,2374 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/OPPmode.df:79
+msgctxt "deathforth/events/OPPmode.df"
+msgid "So OP!"
+msgstr "완전 사기다!"
+
+#: deathforth/events/OPPmode.df:99
+msgctxt "deathforth/events/OPPmode.df"
+msgid "HELLO I AM "
+msgstr "안녕 나는 "
+
+#: deathforth/events/OPPmode.df:102
+msgctxt "deathforth/events/OPPmode.df"
+msgid "WARNING: EXTREMELY BUGGY"
+msgstr "경고: 버그 엄청 많음"
+
+#: deathforth/events/OPPmode.df:104
+msgctxt "deathforth/events/OPPmode.df"
+msgid "MECHAMOUNTIE IS ESPECIALLY BUGGY! USE AT OWN RISK!"
+msgstr "메카마운티는 특히 버그가 많다! 각자 책임하에 사용할 것!"
+
+#: deathforth/events/OPPmode.df:108
+msgctxt "deathforth/events/OPPmode.df"
+msgid "You've recruited enough overpowered characters! I'm cutting you off!"
+msgstr "사기 캐릭터는 충분히 영입했다! 이제 그만!"
+
+#: deathforth/events/OPPmode.df:109
+msgctxt "deathforth/events/OPPmode.df"
+msgid "You can recruit "
+msgstr "사기 캐릭터를 더 영입할 수 있다: "
+
+#: deathforth/events/OPPmode.df:109
+msgctxt "deathforth/events/OPPmode.df"
+msgid " more overpowered characters!"
+msgstr "명!"
+
+#: deathforth/events/OPPmode.df:110
+msgctxt "deathforth/events/OPPmode.df"
+msgid "Leave "
+msgstr "일단 "
+
+#: deathforth/events/OPPmode.df:110
+msgctxt "deathforth/events/OPPmode.df"
+msgid " for now"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/events/OPPmode.df:111
+msgctxt "deathforth/events/OPPmode.df"
+msgid "Ask "
+msgstr "<EMPTY>"
+
+#: deathforth/events/OPPmode.df:111
+msgctxt "deathforth/events/OPPmode.df"
+msgid " to join"
+msgstr "에게 합류 요청"
+
+#: deathforth/events/OPPmode.df:123
+msgctxt "deathforth/events/OPPmode.df"
+msgid "Familiar Faces"
+msgstr "낯익은 얼굴들"
+
+#: deathforth/events/OPPmode.df:124
+msgctxt "deathforth/events/OPPmode.df"
+msgid "GO TO THE FAMILIAR CHARACTERS HUT?"
+msgstr "친숙한 캐릭터 오두막으로 갈까?"
+
+#: deathforth/events/OPPmode.df:125
+msgctxt "deathforth/events/OPPmode.df"
+msgid ""
+"This will teleport you to a small area that contains all your previously "
+"created Custom Characters!"
+msgstr "이전에 만든 커스텀 캐릭터가 전부 있는 작은 구역으로 순간이동한다!"
+
+#: deathforth/events/OPPmode.df:126
+msgctxt "deathforth/events/OPPmode.df"
+msgid ""
+"WARNING: This will leave the OPP Characters Area! \r\n"
+"\tNo going back if you pick 'YES'!"
+msgstr ""
+"경고: 사기 캐릭터 구역을 떠나게 된다! \r\n"
+"\t'예'를 고르면 되돌아올 수 없다!"
+
+#: deathforth/events/OPPmode.df:128
+msgctxt "deathforth/events/OPPmode.df"
+msgid "NO"
+msgstr "아니요"
+
+#: deathforth/events/OPPmode.df:129
+msgctxt "deathforth/events/OPPmode.df"
+msgid "YES"
+msgstr "예"
+
+#: deathforth/events/OPPmode.df:256
+msgctxt "deathforth/events/OPPmode.df"
+msgid "seems quiet, or possibly has no personality whatsoever."
+msgstr "은(는) 조용하거나, 어쩌면 성격이라는 게 아예 없는 것 같다."
+
+#: deathforth/events/OPPmode.df:269
+msgctxt "deathforth/events/OPPmode.df"
+msgid "is the Queen of all Fae Folk."
+msgstr "은(는) 모든 요정족의 여왕이다."
+
+#: deathforth/events/OPPmode.df:281
+msgctxt "deathforth/events/OPPmode.df"
+msgid "is a panda. Real cute unless angered."
+msgstr "은(는) 판다다. 화나게 하지만 않으면 진짜 귀엽다."
+
+#: deathforth/events/OPPmode.df:304
+msgctxt "deathforth/events/OPPmode.df"
+msgid "was surprised that he even joined the team, being a hermit and all."
+msgstr "은(는) 은둔자인 주제에 일행에 합류했다는 사실에 자기도 놀랐다."
+
+#: deathforth/events/OPPmode.df:312
+msgctxt "deathforth/events/OPPmode.df"
+msgid "is a funny clown!"
+msgstr "은(는) 웃긴 광대다!"
+
+#: deathforth/events/OPPmode.df:436
+msgctxt "deathforth/events/OPPmode.df"
+msgid "CHARACTER LOUNGE"
+msgstr "캐릭터 라운지"
+
+#: deathforth/events/OPPmode.df:447
+msgctxt "deathforth/events/OPPmode.df"
+msgid "EXPERIMENTAL - USE AT OWN RISK"
+msgstr "실험 중 - 각자 책임하에 사용"
+
+#: deathforth/events/rareloc/animestore.df:4
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " takes an hour to read the anime."
+msgstr "은(는) 한 시간 동안 애니를 읽는다."
+
+#: deathforth/events/rareloc/animestore.df:7
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " loves anime!!! Reading this bestows "
+msgstr "은(는) 애니를 사랑한다!!! 이걸 읽으니 얻게 된다: "
+
+#: deathforth/events/rareloc/animestore.df:7
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "MYSTERIOUS ANIME POWERS!"
+msgstr "신비한 애니의 힘!"
+
+#: deathforth/events/rareloc/animestore.df:12
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+" is an uncultured swine that lacks the refined tastes necessary to "
+"appreciate this work."
+msgstr "은(는) 이 작품을 감상할 만한 고상한 취향이 없는 무식한 돼지다."
+
+#: deathforth/events/rareloc/animestore.df:15
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " is a person of culture and taste and greatly appreciates this anime."
+msgstr "은(는) 교양과 취향을 갖춘 사람이라 이 애니를 아주 높이 평가한다."
+
+#: deathforth/events/rareloc/animestore.df:21
+#: deathforth/events/rareloc/animestore.df:61
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "Leave it alone for now"
+msgstr "일단 내버려 둔다"
+
+#: deathforth/events/rareloc/animestore.df:22
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " reads the anime"
+msgstr "이(가) 애니를 읽는다"
+
+#: deathforth/events/rareloc/animestore.df:26
+#: deathforth/events/rareloc/animestore.df:35
+#: deathforth/events/rareloc/animestore.df:44
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "Anime Found"
+msgstr "애니 발견"
+
+#: deathforth/events/rareloc/animestore.df:28
+#: deathforth/events/rareloc/animestore.df:37
+#: deathforth/events/rareloc/animestore.df:46
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " finds an anime titled "
+msgstr "은(는) 이런 제목의 애니를 발견한다: "
+
+#: deathforth/events/rareloc/animestore.df:28
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "SANDWICH-CHAN"
+msgstr "샌드위치쨩"
+
+#: deathforth/events/rareloc/animestore.df:28
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+"\r\n"
+"\t It's a graphic novel about a magical anime girl who is also a sandwich that lives in a refrigerator. Or maybe it's a sandwich that is also a magical anime girl. \r\n"
+"\t The plot is a little difficult to follow."
+msgstr ""
+"\r\n"
+"\t 냉장고에 사는, 샌드위치이기도 한 마법 소녀에 대한 그래픽 노블이다. 아니면 마법 소녀이기도 한 샌드위치일지도. \r\n"
+"\t 줄거리를 따라가기가 좀 어렵다."
+
+#: deathforth/events/rareloc/animestore.df:37
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "I CAN'T BELIEVE MY FIANCE IS SOME KIND OF FISH CREATURE!"
+msgstr "내 약혼자가 물고기 같은 생물이라니 말도 안 돼!"
+
+#: deathforth/events/rareloc/animestore.df:37
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+"\r\n"
+"\t It's a comic about a woman who has a dreary job in an office. Her life is brightened by getting a pet fish that has a human face and talks. \r\n"
+"\t The plot involves them having to eventually get married due to a wizard's curse."
+msgstr ""
+"\r\n"
+"\t 사무실에서 따분한 일을 하는 여자에 대한 만화다. 사람 얼굴을 하고 말하는 애완 물고기를 키우면서 그녀의 삶이 밝아진다. \r\n"
+"\t 결국 마법사의 저주 때문에 둘이 결혼해야 하는 이야기다."
+
+#: deathforth/events/rareloc/animestore.df:46
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "BAG OF PISTACHIOS"
+msgstr "피스타치오 한 봉지"
+
+#: deathforth/events/rareloc/animestore.df:46
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+"\r\n"
+"\t It's an anime about a bag of pistachios. The protagonist is surprised to discover the pistachios are sentient. Every pistachio is a different anime girl.\r\n"
+"\t There doesn't really seem to be a plot."
+msgstr ""
+"\r\n"
+"\t 피스타치오 한 봉지에 대한 애니다. 주인공은 피스타치오들에게 지각이 있다는 걸 알고 놀란다. 피스타치오 하나하나가 다른 애니 소녀다.\r\n"
+"\t 줄거리는 딱히 없는 것 같다."
+
+#: deathforth/events/rareloc/animestore.df:54
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " is now officially an anime girl! Nice!"
+msgstr "은(는) 이제 공식적으로 애니 소녀다! 좋아!"
+
+#: deathforth/events/rareloc/animestore.df:58
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "Mysterious Anime Box"
+msgstr "신비한 애니 상자"
+
+#: deathforth/events/rareloc/animestore.df:60
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " finds a box of anime. It contains a bunch of anime girl masks."
+msgstr "은(는) 애니 상자를 발견한다. 애니 소녀 가면이 잔뜩 들어 있다."
+
+#: deathforth/events/rareloc/animestore.df:62
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " puts the anime mask on"
+msgstr "이(가) 애니 가면을 쓴다"
+
+#: deathforth/events/rareloc/animestore.df:69
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "'s mind is completely blown by the existence of "
+msgstr "은(는) 이 존재 때문에 정신이 완전히 날아간다: "
+
+#: deathforth/events/rareloc/animestore.df:70
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "ANIME IS REAL!"
+msgstr "애니는 실존한다!"
+
+#: deathforth/events/rareloc/animestore.df:72
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "The purity of "
+msgstr "<EMPTY>"
+
+#: deathforth/events/rareloc/animestore.df:72
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "'s love for anime halts the "
+msgstr "의 순수한 애니 사랑이 멈춰 세운다: "
+
+#: deathforth/events/rareloc/animestore.df:72
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "CURSE OF ANIME"
+msgstr "애니의 저주"
+
+#: deathforth/events/rareloc/animestore.df:72
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " that was placed on "
+msgstr ". 그 저주가 걸려 있던 대상은 "
+
+#: deathforth/events/rareloc/animestore.df:72
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "! Enjoy!"
+msgstr "! 즐겨라!"
+
+#: deathforth/events/rareloc/animestore.df:79
+#: deathforth/events/rareloc/animestore.df:87
+#: deathforth/events/rareloc/animestore.df:95
+#: deathforth/events/rareloc/animestore.df:103
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid "The Anime Club"
+msgstr "애니 동아리"
+
+#: deathforth/events/rareloc/animestore.df:80
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " seems irritated by "
+msgstr "은(는) 짜증 난 것 같다. 이유는 "
+
+#: deathforth/events/rareloc/animestore.df:80
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+"'s existence.\r\n"
+"\t"
+msgstr ""
+"의 존재.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/animestore.df:81
+#: deathforth/events/rareloc/animestore.df:89
+#: deathforth/events/rareloc/animestore.df:97
+#: deathforth/events/rareloc/animestore.df:105
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+"I guess we can help you out, but it's not because we like you or anything!"
+msgstr "딱히 너희가 좋아서 도와주는 건 아니거든!"
+
+#: deathforth/events/rareloc/animestore.df:88
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " looks at "
+msgstr "은(는) 쳐다본다: "
+
+#: deathforth/events/rareloc/animestore.df:88
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+" with a quiet sense of superiority.\r\n"
+"\t"
+msgstr ""
+"을(를). 조용한 우월감을 품고.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/animestore.df:96
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " seems troubled and nervous. Not because of "
+msgstr "은(는) 불안하고 초조해 보인다. 딱히 "
+
+#: deathforth/events/rareloc/animestore.df:96
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid ""
+", just in general.\r\n"
+"\t"
+msgstr ""
+" 때문은 아니고, 그냥 전반적으로.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/animestore.df:104
+msgctxt "deathforth/events/rareloc/animestore.df"
+msgid " doesn't say anything, but starts following "
+msgstr "은(는) 아무 말 없이 따라가기 시작한다: "
+
+#: deathforth/events/rareloc/arq.df:28
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ""
+"The experience is reminiscent of the days before the world got destroyed by "
+"zombies. A relief washes over "
+msgstr "좀비가 세상을 망치기 전 시절이 떠오르는 경험이다. 안도감이 밀려온다: "
+
+#: deathforth/events/rareloc/arq.df:34 deathforth/events/rareloc/arq.df:56
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Nothing Unusual Here"
+msgstr "특별할 것 없음"
+
+#: deathforth/events/rareloc/arq.df:35
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "It's a toilet."
+msgstr "변기다."
+
+#: deathforth/events/rareloc/arq.df:36 deathforth/events/rareloc/arq.df:58
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid " doesn't need to use it right now."
+msgstr "은(는) 지금은 쓸 필요가 없다."
+
+#: deathforth/events/rareloc/arq.df:38
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "FINALLY!"
+msgstr "드디어!"
+
+#: deathforth/events/rareloc/arq.df:39
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid " can't believe "
+msgstr "은(는) "
+
+#: deathforth/events/rareloc/arq.df:39
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid " eyes: "
+msgstr " 눈을 믿을 수 없다: "
+
+#: deathforth/events/rareloc/arq.df:39
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ""
+"An actual functioning toilet!\r\n"
+"\t"
+msgstr ""
+"진짜로 작동하는 변기!\r\n"
+"\t"
+
+#: deathforth/events/rareloc/arq.df:40
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "This opportunity mustn't be wasted. Should "
+msgstr "이 기회를 놓칠 순 없다. 써야 할까: "
+
+#: deathforth/events/rareloc/arq.df:40 deathforth/events/rareloc/arq.df:62
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid " use it?"
+msgstr "?"
+
+#: deathforth/events/rareloc/arq.df:41 deathforth/events/rareloc/arq.df:63
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Leave it be"
+msgstr "그냥 둔다"
+
+#: deathforth/events/rareloc/arq.df:42
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ": I've been holding it in too long!"
+msgstr ": 너무 오래 참았어!"
+
+#: deathforth/events/rareloc/arq.df:47
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ""
+" runs a warm water shower and gets all soapy. A pastime long forgotten, "
+"returned."
+msgstr "은(는) 따뜻한 물로 샤워하며 비누 거품을 낸다. 오래전 잊었던 일상이 돌아왔다."
+
+#: deathforth/events/rareloc/arq.df:57
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "It's a shower."
+msgstr "샤워기다."
+
+#: deathforth/events/rareloc/arq.df:60
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "A Clean Shower"
+msgstr "깨끗한 샤워"
+
+#: deathforth/events/rareloc/arq.df:61
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ""
+"There's a shower that runs with water here. Amazing!\r\n"
+"\tShould "
+msgstr ""
+"여기 물이 나오는 샤워기가 있다. 놀랍다!\r\n"
+"\t써야 할까: "
+
+#: deathforth/events/rareloc/arq.df:64
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ": I gotta get clean!"
+msgstr ": 깨끗이 씻어야 해!"
+
+#: deathforth/events/rareloc/arq.df:125
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Alright, let's go."
+msgstr "좋아, 가자."
+
+#: deathforth/events/rareloc/arq.df:128
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Kick someone from the group:"
+msgstr "일행에서 뺄 사람:"
+
+#: deathforth/events/rareloc/arq.df:136
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid " finds "
+msgstr "은(는) 발견한다: "
+
+#: deathforth/events/rareloc/arq.df:136
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "some guy"
+msgstr "웬 녀석"
+
+#: deathforth/events/rareloc/arq.df:136
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid ""
+" standing alone, here. \r\n"
+"\t"
+msgstr ""
+". 여기 혼자 서 있다. \r\n"
+"\t"
+
+#: deathforth/events/rareloc/arq.df:137
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Sup? I'm just relaxing here, I'll come with ya if you want me to."
+msgstr "안녕? 그냥 여기서 쉬는 중이야. 원하면 따라갈게."
+
+#: deathforth/events/rareloc/arq.df:138
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Leave him for now"
+msgstr "일단 두고 간다"
+
+#: deathforth/events/rareloc/arq.df:139
+msgctxt "deathforth/events/rareloc/arq.df"
+msgid "Recruit him"
+msgstr "영입한다"
+
+#: deathforth/events/rareloc/bogan.df:6
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "He fwinks out his claws with a little "
+msgstr "그가 작은 소리를 내며 발톱을 꺼낸다: "
+
+#: deathforth/events/rareloc/bogan.df:6
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "fwiiiiiink"
+msgstr "쓰으으윽"
+
+#: deathforth/events/rareloc/bogan.df:6
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid ""
+" noise.\r\n"
+"\t"
+msgstr ""
+".\r\n"
+"\t"
+
+#: deathforth/events/rareloc/bogan.df:7
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "Let's hit the road, BUB!"
+msgstr "출발하자고, 친구!"
+
+#: deathforth/events/rareloc/bogan.df:12
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid ""
+" needs a surprising amount of room in the car. You'll have to get rid of "
+"someone:"
+msgstr "은(는) 차에서 의외로 자리를 많이 차지한다. 누군가 빼야 한다:"
+
+#: deathforth/events/rareloc/bogan.df:15
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "You're my new best friend, "
+msgstr "넌 내 새 절친이야, "
+
+#: deathforth/events/rareloc/bogan.df:20
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "Fierce Small Hairy Man"
+msgstr "사납고 작은 털북숭이 남자"
+
+#: deathforth/events/rareloc/bogan.df:22
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid ""
+"It looks like a small hairy man. Maybe some sort of new gnome species? It's weird that gnomes never were seen before the zombocalypse.\r\n"
+"\tSorry, I got off-topic."
+msgstr ""
+"작은 털북숭이 남자처럼 생겼다. 혹시 새로운 노움 종일까? 좀비 사태 전엔 노움을 본 적이 없었다니 이상하다.\r\n"
+"\t미안, 얘기가 샜다."
+
+#: deathforth/events/rareloc/bogan.df:24
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "What do you want, BUB?"
+msgstr "뭘 원해, 친구?"
+
+#: deathforth/events/rareloc/bogan.df:26
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "Leave him alone for now"
+msgstr "일단 내버려 둔다"
+
+#: deathforth/events/rareloc/bogan.df:27
+msgctxt "deathforth/events/rareloc/bogan.df"
+msgid "Recruit him"
+msgstr "영입한다"
+
+#: deathforth/events/rareloc/catnest.df:6
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "Should "
+msgstr "고양이를 영입할까? 결정은 "
+
+#: deathforth/events/rareloc/catnest.df:6
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " recruit the cat?"
+msgstr "에게."
+
+#: deathforth/events/rareloc/catnest.df:20
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "BONUS: Oscar's morale always stays above zero!"
+msgstr "보너스: 오스카의 사기는 항상 0 이상을 유지한다!"
+
+#: deathforth/events/rareloc/catnest.df:26
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid ""
+" offers the cat some food.\r\n"
+"\t\tThe cat sniffs at it carefully, then devours it in an instant. It decides not to kill "
+msgstr ""
+"은(는) 고양이에게 먹이를 내민다.\r\n"
+"\t\t고양이는 조심스럽게 냄새를 맡더니 순식간에 먹어 치운다. 고양이는 일단 지금은 죽이지 않기로 한다. 살아남은 건 "
+
+#: deathforth/events/rareloc/catnest.df:27
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " at this moment in time."
+msgstr "."
+
+#: deathforth/events/rareloc/catnest.df:31
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " has no food right now! Hopefully there's some in a nearby building..."
+msgstr "은(는) 지금 식량이 없다! 근처 건물에 좀 있으면 좋겠는데..."
+
+#: deathforth/events/rareloc/catnest.df:36
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid ""
+"Well, your call, I suppose.\r\n"
+"\t"
+msgstr ""
+"뭐, 네 선택이지.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/catnest.df:37
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " reaches out to poke the cat but is interrupted due to "
+msgstr "은(는) 고양이를 쿡 찌르려고 손을 뻗지만, 이것 때문에 중단된다: "
+
+#: deathforth/events/rareloc/catnest.df:37
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "GETTING MURDERED"
+msgstr "살해당함"
+
+#: deathforth/events/rareloc/catnest.df:37
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " by a flurry of claws and bites."
+msgstr ". 발톱과 이빨의 폭풍에."
+
+#: deathforth/events/rareloc/catnest.df:47
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "The Last Good Cat"
+msgstr "마지막 착한 고양이"
+
+#: deathforth/events/rareloc/catnest.df:48
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid ""
+" finds a cat that has made its den here. It seems different than all other post-zombocalypse cats. \r\n"
+"\t\t\tThe cat is super calm and doesn't radiate a desire to murder humans! How bizarre!\r\n"
+"\t\t\tHe is wearing a name tag that reads:"
+msgstr ""
+"은(는) 여기에 굴을 튼 고양이를 발견한다. 좀비 사태 이후의 다른 고양이들과는 달라 보인다. \r\n"
+"\t\t\t고양이가 엄청 차분하고 인간을 죽이고 싶어 하는 기운이 없다! 이상하다!\r\n"
+"\t\t\t이름표에는 이렇게 적혀 있다:"
+
+#: deathforth/events/rareloc/catnest.df:50
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " OSCAR"
+msgstr " 오스카"
+
+#: deathforth/events/rareloc/catnest.df:51
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "Leave Oscar behind"
+msgstr "오스카를 두고 간다"
+
+#: deathforth/events/rareloc/catnest.df:52
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "Recruit Oscar!"
+msgstr "오스카 영입!"
+
+#: deathforth/events/rareloc/catnest.df:55
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "The Cat Nest"
+msgstr "고양이 둥지"
+
+#: deathforth/events/rareloc/catnest.df:56
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid ""
+" finds a cat that has made its den in this trashed house. The cat stares at "
+msgstr "은(는) 엉망이 된 이 집에 굴을 튼 고양이를 발견한다. 고양이가 "
+
+#: deathforth/events/rareloc/catnest.df:56
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid " with a lazy glance that is tinged with "
+msgstr "를 나른하게 쳐다본다. 그 눈빛에 묻어 있는 건 "
+
+#: deathforth/events/rareloc/catnest.df:56
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "MURDEROUS INTENT."
+msgstr "살의."
+
+#: deathforth/events/rareloc/catnest.df:58
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "WARNING: Will kill you. If not now, maybe later."
+msgstr "경고: 죽는다. 지금이 아니면 나중에라도."
+
+#: deathforth/events/rareloc/catnest.df:59
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "Leave it alone"
+msgstr "내버려 둔다"
+
+#: deathforth/events/rareloc/catnest.df:60
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "Poke the cat! Yeah!"
+msgstr "고양이를 찌른다! 좋아!"
+
+#: deathforth/events/rareloc/catnest.df:61
+msgctxt "deathforth/events/rareloc/catnest.df"
+msgid "Coax it with food"
+msgstr "먹이로 꼬드긴다"
+
+#: deathforth/events/rareloc/cemetery.df:24
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "MAXIMUM STRENGTH, FITNESS, AND SHOOTING INCREASED!"
+msgstr "최대 근력, 체력, 사격 증가!"
+
+#: deathforth/events/rareloc/cemetery.df:25
+#: deathforth/events/rareloc/cemetery.df:33
+#: deathforth/events/rareloc/cemetery.df:59
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "The "
+msgstr "<EMPTY>"
+
+#: deathforth/events/rareloc/cemetery.df:25
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " grants a gift!"
+msgstr "이(가) 선물을 준다!"
+
+#: deathforth/events/rareloc/cemetery.df:33
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid ""
+" shakes hands with no hesitation! Making friends is fun.\r\n"
+"\t"
+msgstr ""
+"은(는) 망설임 없이 악수한다! 친구 사귀는 건 즐거워.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/cemetery.df:34
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " gets blasted with tremendous amounts of "
+msgstr "은(는) 엄청난 양의 이것에 휩싸인다: "
+
+#: deathforth/events/rareloc/cemetery.df:34
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "DEATH ENERGY!"
+msgstr "죽음의 에너지!"
+
+#: deathforth/events/rareloc/cemetery.df:36
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " is killed!"
+msgstr "은(는) 죽었다!"
+
+#: deathforth/events/rareloc/cemetery.df:36
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " Well, almost."
+msgstr " 음, 거의."
+
+#: deathforth/events/rareloc/cemetery.df:37
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " - MAXIMUM HEALTH SET TO 1!"
+msgstr " - 최대 체력이 1로 설정됨!"
+
+#: deathforth/events/rareloc/cemetery.df:41
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " feels really smug for some reason."
+msgstr "은(는) 왠지 모르게 엄청 우쭐하다."
+
+#: deathforth/events/rareloc/cemetery.df:42
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " feels "
+msgstr "은(는) 느낀다: "
+
+#: deathforth/events/rareloc/cemetery.df:42
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "EVEN MORE BERSERK!"
+msgstr "더욱더 광폭해짐!"
+
+#: deathforth/events/rareloc/cemetery.df:49
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "ARE YOU ABSOLUTELY SURE YOU WANT TO SHAKE HANDS WITH DEATH?"
+msgstr "정말로 죽음과 악수하고 싶은 거 확실해?"
+
+#: deathforth/events/rareloc/cemetery.df:50
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "This probably isn't the best deal for "
+msgstr "이건 아마 좋은 거래가 아닐 거다. 손해 보는 건 "
+
+#: deathforth/events/rareloc/cemetery.df:51
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Don't do it!"
+msgstr "하지 마!"
+
+#: deathforth/events/rareloc/cemetery.df:52
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Have someone else do it!"
+msgstr "다른 사람한테 시켜!"
+
+#: deathforth/events/rareloc/cemetery.df:53
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Shake hands! Do it!"
+msgstr "악수해! 해 버려!"
+
+#: deathforth/events/rareloc/cemetery.df:57
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "The Grim Specter of Death Road"
+msgstr "데스 로드의 음산한 사신"
+
+#: deathforth/events/rareloc/cemetery.df:59
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid ""
+", Avatar of Death Itself, emerges from the crypt.\r\n"
+"\t"
+msgstr ""
+", 죽음 그 자체의 화신이 지하 묘소에서 나온다.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/cemetery.df:60
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " looks around at the hordes and the carnage. It looks at "
+msgstr "은(는) 좀비 떼와 학살 현장을 둘러본다. 그러다 쳐다본다: "
+
+#: deathforth/events/rareloc/cemetery.df:60
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid ". It shrugs."
+msgstr ". 어깨를 으쓱한다."
+
+#: deathforth/events/rareloc/cemetery.df:61
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Try to ignore it for now"
+msgstr "일단 무시해 본다"
+
+#: deathforth/events/rareloc/cemetery.df:62
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Shake hands with Death!"
+msgstr "죽음과 악수한다!"
+
+#: deathforth/events/rareloc/cemetery.df:66
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Just Like in My Twilight Novels"
+msgstr "내 트와일라잇 소설이랑 똑같잖아"
+
+#: deathforth/events/rareloc/cemetery.df:68
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Hey, it's Dracula! Hi, Dracula."
+msgstr "어, 드라큘라다! 안녕, 드라큘라."
+
+#: deathforth/events/rareloc/cemetery.df:68
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " BLUHD! BLAUGH!"
+msgstr " 피이! 블러억!"
+
+#: deathforth/events/rareloc/cemetery.df:69
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " never thought "
+msgstr "은(는) 생각도 못 했다. "
+
+#: deathforth/events/rareloc/cemetery.df:69
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "'d meet a celebrity! He doesn't mind doing some of his catchphrases."
+msgstr "가 유명인을 만날 줄은! 그는 유행어 몇 개쯤은 기꺼이 해 준다."
+
+#: deathforth/events/rareloc/cemetery.df:72
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Should "
+msgstr "<EMPTY>"
+
+#: deathforth/events/rareloc/cemetery.df:72
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " recruit "
+msgstr "은(는) 영입해야 할까: "
+
+#: deathforth/events/rareloc/cemetery.df:72
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "? He seems pretty lonely from being stuffed in a crypt for so long."
+msgstr "? 지하 묘소에 너무 오래 갇혀 있어서 꽤 외로워 보인다."
+
+#: deathforth/events/rareloc/cemetery.df:82
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid ""
+" opens up the mausoleum, which seems like a horrible idea in the "
+"zombopocalype."
+msgstr "은(는) 영묘를 연다. 좀비 종말에 하기엔 끔찍한 생각 같다."
+
+#: deathforth/events/rareloc/cemetery.df:88
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Something emerges from the tomb as "
+msgstr "무덤에서 뭔가가 나온다. 문을 연 건 "
+
+#: deathforth/events/rareloc/cemetery.df:88
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " opens it! I hope it's a "
+msgstr "! 제발 이거였으면: "
+
+#: deathforth/events/rareloc/cemetery.df:88
+#: deathforth/events/rareloc/cemetery.df:104
+#: deathforth/events/rareloc/cemetery.df:125
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "goblin"
+msgstr "고블린"
+
+#: deathforth/events/rareloc/cemetery.df:104
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid ""
+"Nothing special in this one. It's likely that this is a decoy for the one "
+"the "
+msgstr "여긴 특별한 게 없다. 아마 진짜 사는 곳을 숨기려는 미끼일 거다. 누가 사냐면 "
+
+#: deathforth/events/rareloc/cemetery.df:104
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " is really living in."
+msgstr "."
+
+#: deathforth/events/rareloc/cemetery.df:111
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Just more tomb stuff! Your obsession with tombs and "
+msgstr "그냥 무덤 물건뿐이다! 무덤과 이것에 대한 집착이 통제 불능이 되어 가고 있다: "
+
+#: deathforth/events/rareloc/cemetery.df:111
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "goblins"
+msgstr "고블린"
+
+#: deathforth/events/rareloc/cemetery.df:111
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " is veering out of control!"
+msgstr "!"
+
+#: deathforth/events/rareloc/cemetery.df:123
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Spooky Mausoleum"
+msgstr "으스스한 영묘"
+
+#: deathforth/events/rareloc/cemetery.df:125
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "There may be a "
+msgstr "여기 숨어 있을지도 모른다: "
+
+#: deathforth/events/rareloc/cemetery.df:125
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid " hiding in here."
+msgstr "."
+
+#: deathforth/events/rareloc/cemetery.df:128
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "It would be easy to pry the door open with the crowbar."
+msgstr "쇠지렛대로 문을 쉽게 비틀어 열 수 있겠다."
+
+#: deathforth/events/rareloc/cemetery.df:131
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "The shovel could pry the door open, with some effort."
+msgstr "삽으로 좀 애쓰면 문을 비틀어 열 수 있겠다."
+
+#: deathforth/events/rareloc/cemetery.df:134
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "The door would be no match for a good sledgehammer."
+msgstr "좋은 큰 망치 앞에선 이 문도 상대가 안 된다."
+
+#: deathforth/events/rareloc/cemetery.df:137
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "The pickaxe would break this door into pieces."
+msgstr "곡괭이로 이 문을 산산조각 낼 수 있겠다."
+
+#: deathforth/events/rareloc/cemetery.df:139
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Open the Tomb"
+msgstr "무덤을 연다"
+
+#: deathforth/events/rareloc/cemetery.df:140
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid "Leave it for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/rareloc/cemetery.df:142
+msgctxt "deathforth/events/rareloc/cemetery.df"
+msgid ""
+"The door is solid and shut tight. You'd need something to pry it open with. "
+"A shovel would work. There must be one nearby."
+msgstr "문이 단단히 닫혀 있다. 비틀어 열 도구가 필요하다. 삽이면 된다. 근처에 하나쯤 있을 거다."
+
+#: deathforth/events/rareloc/comicstore.df:4
+msgctxt "deathforth/events/rareloc/comicstore.df"
+msgid "The Spandex League"
+msgstr "쫄쫄이 리그"
+
+#: deathforth/events/rareloc/comicstore.df:6
+msgctxt "deathforth/events/rareloc/comicstore.df"
+msgid ""
+" finds a comic book in good condition among the ruined ones littering the floor. \r\n"
+"\tIt seems to be about burly superheroes in tights that run around and punch people. Great!\r\n"
+"\t"
+msgstr ""
+"은(는) 바닥에 널린 망가진 만화책들 사이에서 멀쩡한 만화책 한 권을 발견한다. \r\n"
+"\t쫄쫄이를 입은 우락부락한 슈퍼히어로들이 뛰어다니며 사람을 때리는 내용 같다. 좋아!\r\n"
+"\t"
+
+#: deathforth/events/rareloc/comicstore.df:8
+msgctxt "deathforth/events/rareloc/comicstore.df"
+msgid " stuffs it into "
+msgstr "는 집어넣는다: "
+
+#: deathforth/events/rareloc/comicstore.df:8
+msgctxt "deathforth/events/rareloc/comicstore.df"
+msgid " pack."
+msgstr " 가방에."
+
+#: deathforth/events/rareloc/disco-51.df:75
+msgctxt "deathforth/events/rareloc/disco-51.df"
+msgid "Area 51 "
+msgstr "51구역 "
+
+#: deathforth/events/rareloc/disco-51.df:75
+msgctxt "deathforth/events/rareloc/disco-51.df"
+msgid "ALL NIGHT "
+msgstr "밤새도록 "
+
+#: deathforth/events/rareloc/disco-51.df:75
+msgctxt "deathforth/events/rareloc/disco-51.df"
+msgid "Disco"
+msgstr "디스코"
+
+#: deathforth/events/rareloc/dmv.df:18
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "'s name is now "
+msgstr "의 이름은 이제 이거다: "
+
+#: deathforth/events/rareloc/dmv.df:22
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "! The driver's license says so! It's legally binding!"
+msgstr "! 운전면허증에 그렇게 적혀 있다! 법적 효력이 있다!"
+
+#: deathforth/events/rareloc/dmv.df:27
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " doesn't really mind the name too much. It's kind of fitting!"
+msgstr "은(는) 이 이름이 그렇게 싫지 않다. 꽤 잘 어울린다!"
+
+#: deathforth/events/rareloc/dmv.df:30
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " instantly forms a massive chip on "
+msgstr "은(는) 단숨에 엄청난 앙심을 품는다. "
+
+#: deathforth/events/rareloc/dmv.df:30
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " shoulder. "
+msgstr " 마음속에 응어리가 생긴다. "
+
+#: deathforth/events/rareloc/dmv.df:30
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " enters a permanent state of simmering rage!"
+msgstr "는 영원히 부글부글 끓는 분노 상태에 들어간다!"
+
+#: deathforth/events/rareloc/dmv.df:35
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "What a completely awful new name!"
+msgstr "완전 최악의 새 이름이다!"
+
+#: deathforth/events/rareloc/dmv.df:40
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "This is still better than "
+msgstr "그래도 이게 더 낫다. 뭐보다? "
+
+#: deathforth/events/rareloc/dmv.df:40
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " previous name."
+msgstr " 예전 이름보다."
+
+#: deathforth/events/rareloc/dmv.df:45
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid ""
+" was the most popular name for centuries in the Late Medieval era, for both "
+"girls and boys. It was thought that it provided a blessing of good health."
+msgstr "은(는) 중세 후기에 수백 년 동안 남녀 모두에게 가장 인기 있던 이름이었다. 건강의 축복을 준다고 믿었다."
+
+#: deathforth/events/rareloc/dmv.df:51
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " feels way past cool with "
+msgstr "은(는) 새 이름이 엄청 쿨하다고 느낀다: "
+
+#: deathforth/events/rareloc/dmv.df:51
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " new name!"
+msgstr " 새 이름!"
+
+#: deathforth/events/rareloc/dmv.df:56
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "What should the name be on the driver's license?"
+msgstr "운전면허증에 어떤 이름을 넣을까?"
+
+#: deathforth/events/rareloc/dmv.df:64
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "A License... to Drive"
+msgstr "운전면허... 그건 운전하라고 있는 것"
+
+#: deathforth/events/rareloc/dmv.df:65
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid ""
+"I can't believe you skipped the line! Very rude!\r\n"
+"\tThis is a machine used to print driver's licenses.\r\n"
+"\tIt can print one final license before running out of supplies."
+msgstr ""
+"줄을 새치기하다니 믿을 수가 없네! 정말 무례해!\r\n"
+"\t운전면허증을 인쇄하는 기계다.\r\n"
+"\t재료가 다 떨어지기 전에 마지막으로 한 장 더 뽑을 수 있다."
+
+#: deathforth/events/rareloc/dmv.df:68
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " could use a new one, "
+msgstr "은(는) 새 면허증이 필요할지도 모른다. "
+
+#: deathforth/events/rareloc/dmv.df:68
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid " license is about to expire!"
+msgstr " 면허증이 곧 만료되니까!"
+
+#: deathforth/events/rareloc/dmv.df:69
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "Leave it for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/rareloc/dmv.df:70
+msgctxt "deathforth/events/rareloc/dmv.df"
+msgid "Print new license"
+msgstr "새 면허증 인쇄"
+
+#: deathforth/events/rareloc/fairy.df:5
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid " grants "
+msgstr "은(는) 소원을 들어준다. 받는 사람은 "
+
+#: deathforth/events/rareloc/fairy.df:5
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "'s wish!"
+msgstr "!"
+
+#: deathforth/events/rareloc/fairy.df:10
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "This is what's considered wealth now, right?"
+msgstr "요즘은 이런 게 부라는 거지?"
+
+#: deathforth/events/rareloc/fairy.df:11
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "She conjures up a bunch of food for "
+msgstr "그녀가 식량을 잔뜩 만들어 낸다. 받는 사람은 "
+
+#: deathforth/events/rareloc/fairy.df:17
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "She cracks her knuckles then conjures up a baseball bat."
+msgstr "그녀가 손가락 관절을 꺾더니 야구 방망이를 만들어 낸다."
+
+#: deathforth/events/rareloc/fairy.df:18
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "Sure, I'll be your friend!"
+msgstr "그래, 친구 해 줄게!"
+
+#: deathforth/events/rareloc/fairy.df:26
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "Live a long and happy life!"
+msgstr "오래오래 행복하게 살아라!"
+
+#: deathforth/events/rareloc/fairy.df:31
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "Queen of the Fairies"
+msgstr "요정 여왕"
+
+#: deathforth/events/rareloc/fairy.df:33
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "You found the Queen of the Fairies! She offers to grant "
+msgstr "요정 여왕을 찾았다! 그녀는 소원 하나를 들어주겠다고 한다: "
+
+#: deathforth/events/rareloc/fairy.df:33
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid " a wish!"
+msgstr "에게!"
+
+#: deathforth/events/rareloc/fairy.df:34
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "Don't make a wish yet"
+msgstr "아직 소원 안 빈다"
+
+#: deathforth/events/rareloc/fairy.df:35
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "Wealth"
+msgstr "부"
+
+#: deathforth/events/rareloc/fairy.df:36
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "Health"
+msgstr "건강"
+
+#: deathforth/events/rareloc/fairy.df:37
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "True Friendship"
+msgstr "진정한 우정"
+
+#: deathforth/events/rareloc/fairy.df:52
+msgctxt "deathforth/events/rareloc/fairy.df"
+msgid "is the Queen of all Fae Folk."
+msgstr "은(는) 모든 요정족의 여왕이다."
+
+#: deathforth/events/rareloc/gordon.df:6
+msgctxt "deathforth/events/rareloc/gordon.df"
+msgid " seems ok with following "
+msgstr "은(는) 따라가는 게 괜찮은 것 같다: "
+
+#: deathforth/events/rareloc/gordon.df:6
+msgctxt "deathforth/events/rareloc/gordon.df"
+msgid ". Maybe? It's hard to say due to the silent protagonist scthick."
+msgstr ". 아마도? 침묵 주인공 콘셉트라 말하기 어렵다."
+
+#: deathforth/events/rareloc/gordon.df:13
+msgctxt "deathforth/events/rareloc/gordon.df"
+msgid "The Gord Man"
+msgstr "고든 맨"
+
+#: deathforth/events/rareloc/gordon.df:17
+msgctxt "deathforth/events/rareloc/gordon.df"
+msgid "Leave him alone for now"
+msgstr "일단 내버려 둔다"
+
+#: deathforth/events/rareloc/gordon.df:18
+msgctxt "deathforth/events/rareloc/gordon.df"
+msgid "Have him follow you"
+msgstr "따라오게 한다"
+
+#: deathforth/events/rareloc/gordon.df:40
+msgctxt "deathforth/events/rareloc/gordon.df"
+msgid "seems quiet, or possibly has no personality whatsoever."
+msgstr "은(는) 조용하거나, 어쩌면 성격이라는 게 아예 없는 것 같다."
+
+#: deathforth/events/rareloc/heman.df:5
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "I agree with you!"
+msgstr "동감이야!"
+
+#: deathforth/events/rareloc/heman.df:6
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid " says he'll help you until you're on your way!"
+msgstr "은(는) 너희가 떠날 때까지 도와주겠다고 한다!"
+
+#: deathforth/events/rareloc/heman.df:12 deathforth/events/rareloc/heman.df:24
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "He bestows upon "
+msgstr "그가 "
+
+#: deathforth/events/rareloc/heman.df:12
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid " some of his "
+msgstr "에게 나눠 준다. 자신의 "
+
+#: deathforth/events/rareloc/heman.df:12
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "FABULOUS POWER"
+msgstr "끝내주는 힘"
+
+#: deathforth/events/rareloc/heman.df:18
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "He bestows renewed "
+msgstr "그가 새로운 "
+
+#: deathforth/events/rareloc/heman.df:18
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "COURAGE"
+msgstr "용기"
+
+#: deathforth/events/rareloc/heman.df:18
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid " upon "
+msgstr "을(를) 불어넣는다. 받는 사람은 "
+
+#: deathforth/events/rareloc/heman.df:24
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid " great "
+msgstr "에게 커다란 "
+
+#: deathforth/events/rareloc/heman.df:24
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "DETERMINATION"
+msgstr "결의를 불어넣는다"
+
+#: deathforth/events/rareloc/heman.df:29
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "Herman"
+msgstr "허먼"
+
+#: deathforth/events/rareloc/heman.df:31
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "The burly man in a strange costume speaks to "
+msgstr "이상한 옷을 입은 근육질 남자가 말을 건다. 상대는 "
+
+#: deathforth/events/rareloc/heman.df:32
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "What do you think is the most important quality in a hero?"
+msgstr "영웅에게 가장 중요한 자질이 뭐라고 생각하나?"
+
+#: deathforth/events/rareloc/heman.df:33
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "Don't answer yet"
+msgstr "아직 대답 안 한다"
+
+#: deathforth/events/rareloc/heman.df:34
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "Fabulous Power"
+msgstr "끝내주는 힘"
+
+#: deathforth/events/rareloc/heman.df:35
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "Courage"
+msgstr "용기"
+
+#: deathforth/events/rareloc/heman.df:36
+msgctxt "deathforth/events/rareloc/heman.df"
+msgid "Determination"
+msgstr "결의"
+
+#: deathforth/events/rareloc/johnny.df:5
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "Fighting Again"
+msgstr "다시 싸움으로"
+
+#: deathforth/events/rareloc/johnny.df:6
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "Sure, I like hanging out with JERKS. Let's see how far we can go!"
+msgstr "그래, 난 얼간이들이랑 어울리는 거 좋아해. 어디까지 갈 수 있나 보자고!"
+
+#: deathforth/events/rareloc/johnny.df:10
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "Kick someone from the group:"
+msgstr "일행에서 뺄 사람:"
+
+#: deathforth/events/rareloc/johnny.df:18
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "Army Dude"
+msgstr "군인 녀석"
+
+#: deathforth/events/rareloc/johnny.df:19
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "... What are YOU lookin' at, huh?"
+msgstr "... 뭘 봐, 어?"
+
+#: deathforth/events/rareloc/johnny.df:20
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "Leave him alone"
+msgstr "내버려 둔다"
+
+#: deathforth/events/rareloc/johnny.df:21
+msgctxt "deathforth/events/rareloc/johnny.df"
+msgid "Try to recruit"
+msgstr "영입을 시도한다"
+
+#: deathforth/events/rareloc/panda.df:6
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " starts following "
+msgstr "은(는) "
+
+#: deathforth/events/rareloc/panda.df:6
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " for awhile!"
+msgstr "을(를) 한동안 따라다니기 시작한다!"
+
+#: deathforth/events/rareloc/panda.df:11
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "The panda seems to want to follow "
+msgstr "판다가 따라가고 싶어 하는 것 같다: "
+
+#: deathforth/events/rareloc/panda.df:19
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "The panda "
+msgstr "판다가 "
+
+#: deathforth/events/rareloc/panda.df:19
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "lashes out!"
+msgstr "공격한다!"
+
+#: deathforth/events/rareloc/panda.df:23
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " offers the panda some food."
+msgstr "은(는) 판다에게 먹이를 내민다."
+
+#: deathforth/events/rareloc/panda.df:27
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid ""
+"The panda chomps on the food and then spits it out. Pandas are picky eaters,"
+" but you can keep trying with more food."
+msgstr "판다가 먹이를 씹더니 뱉어 버린다. 판다는 입이 까다롭지만, 먹이를 더 주며 계속 시도할 수 있다."
+
+#: deathforth/events/rareloc/panda.df:33
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " pulls the panda towards "
+msgstr "은(는) 판다를 "
+
+#: deathforth/events/rareloc/panda.df:33
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " in hopes that the animal follows. It seems like it's worth a shot."
+msgstr " 쪽으로 끌어당긴다. 따라오길 바라면서. 시도해 볼 만한 것 같다."
+
+#: deathforth/events/rareloc/panda.df:44 deathforth/events/rareloc/panda.df:48
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " uses "
+msgstr "은(는) "
+
+#: deathforth/events/rareloc/panda.df:44
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " DOG PSYCHOLOGY on the panda, which is a type of dog."
+msgstr " 개 심리학을 판다에게 쓴다. 판다는 개의 일종이니까."
+
+#: deathforth/events/rareloc/panda.df:48
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid " natural charm to coax the panda to follow."
+msgstr " 타고난 매력으로 판다를 꼬드겨 따라오게 한다."
+
+#: deathforth/events/rareloc/panda.df:51
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "The panda just seems irritated by "
+msgstr "판다는 그냥 짜증 난 것 같다. 원인은 "
+
+#: deathforth/events/rareloc/panda.df:60
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "Panda Panic"
+msgstr "판다 패닉"
+
+#: deathforth/events/rareloc/panda.df:62
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "It's a panda, standing around the trashed building. It stares at "
+msgstr "엉망이 된 건물 주변에 판다가 서 있다. 판다가 멍한 표정으로 쳐다본다: "
+
+#: deathforth/events/rareloc/panda.df:62
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid ""
+" with a blank expression. It may be possible to get it to follow you..."
+msgstr ". 따라오게 만들 수 있을지도..."
+
+#: deathforth/events/rareloc/panda.df:63
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid ""
+"WARNING: Will probably kill you unless you're offering it food. Is a dingus "
+"with 50% chance to waste your food."
+msgstr "경고: 먹이를 주지 않으면 아마 죽는다. 50% 확률로 먹이를 낭비하는 멍청이다."
+
+#: deathforth/events/rareloc/panda.df:64
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "Leave it alone"
+msgstr "내버려 둔다"
+
+#: deathforth/events/rareloc/panda.df:65
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "Pull the panda along"
+msgstr "판다를 끌고 간다"
+
+#: deathforth/events/rareloc/panda.df:67
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "Lure it with food"
+msgstr "먹이로 꼬드긴다"
+
+#: deathforth/events/rareloc/panda.df:69
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "Coax it with charm"
+msgstr "매력으로 달랜다"
+
+#: deathforth/events/rareloc/panda.df:83
+msgctxt "deathforth/events/rareloc/panda.df"
+msgid "is a panda. Real cute unless angered."
+msgstr "은(는) 판다다. 화나게 하지만 않으면 진짜 귀엽다."
+
+#: deathforth/events/rareloc/rare1.df:21
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Ominous Laboratory"
+msgstr "수상한 연구소"
+
+#: deathforth/events/rareloc/rare1.df:22
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " drives past an office complex. The sign says "
+msgstr "은(는) 사무실 단지를 지나간다. 간판에는 이렇게 적혀 있다: "
+
+#: deathforth/events/rareloc/rare1.df:22
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "OMNI-BIO-CORP LABS"
+msgstr "옴니-바이오-코프 연구소"
+
+#: deathforth/events/rareloc/rare1.df:22
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ", which sounds way too evil to be a real company."
+msgstr ". 진짜 회사라기엔 너무 사악하게 들린다."
+
+#: deathforth/events/rareloc/rare1.df:25
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Investigate Office"
+msgstr "사무실을 조사한다"
+
+#: deathforth/events/rareloc/rare1.df:33
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Concrete Bunker"
+msgstr "콘크리트 벙커"
+
+#: deathforth/events/rareloc/rare1.df:34
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" sees a monstrous army of zombs near a forest road! They are milling around "
+"a small concrete structure jutting from the ground."
+msgstr "은(는) 숲길 근처에서 거대한 좀비 군대를 본다! 땅에서 튀어나온 작은 콘크리트 구조물 주변을 서성이고 있다."
+
+#: deathforth/events/rareloc/rare1.df:37
+#: deathforth/events/rareloc/rare1.df:157
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Check it out"
+msgstr "살펴본다"
+
+#: deathforth/events/rareloc/rare1.df:44
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Junkyard Rescue"
+msgstr "고물상 구출"
+
+#: deathforth/events/rareloc/rare1.df:45
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " escapes the junkyard!"
+msgstr "은(는) 고물상을 탈출한다!"
+
+#: deathforth/events/rareloc/rare1.df:49
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " survives, and shows some great repair tips while he fixes up the car!"
+msgstr "은(는) 살아남아, 차를 고치면서 훌륭한 수리 요령을 보여 준다!"
+
+#: deathforth/events/rareloc/rare1.df:53
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " did not escape with you."
+msgstr "은(는) 너희와 함께 탈출하지 못했다."
+
+#: deathforth/events/rareloc/rare1.df:60
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "You rescued "
+msgstr "구출했다: "
+
+#: deathforth/events/rareloc/rare1.df:60
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ". In thanks, he gives "
+msgstr ". 고마움의 표시로 그가 사격 요령을 알려 준다. 배우는 건 "
+
+#: deathforth/events/rareloc/rare1.df:60
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " some shooting tips!"
+msgstr "!"
+
+#: deathforth/events/rareloc/rare1.df:64
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "'s adventures have ended."
+msgstr "의 모험은 끝났다."
+
+#: deathforth/events/rareloc/rare1.df:71
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Junkyard Pals"
+msgstr "고물상 친구들"
+
+#: deathforth/events/rareloc/rare1.df:73
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" sees two people get trapped in a junkyard by a massive crowd of zombies. "
+"They could be saved from their fates, if you distract the horde!"
+msgstr "은(는) 두 사람이 거대한 좀비 무리 때문에 고물상에 갇히는 걸 본다. 좀비 떼의 주의를 돌리면 그들을 구할 수 있다!"
+
+#: deathforth/events/rareloc/rare1.df:76
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Save them!"
+msgstr "구하자!"
+
+#: deathforth/events/rareloc/rare1.df:83
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Fishing Cabins"
+msgstr "낚시 오두막"
+
+#: deathforth/events/rareloc/rare1.df:84
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" notices a small row of fishing cabins past a river. Let's go fishing! "
+"You're out of luck if underwater creatures are having their own zombie "
+"apocalypse."
+msgstr ""
+"은(는) 강 건너편에 늘어선 작은 낚시 오두막들을 발견한다. 낚시하러 가자! 물속 생물들도 자기들만의 좀비 종말을 겪고 있다면 운이 없는"
+" 거고."
+
+#: deathforth/events/rareloc/rare1.df:87
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Try fishing"
+msgstr "낚시를 해 본다"
+
+#: deathforth/events/rareloc/rare1.df:94
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Museum Field Trip"
+msgstr "박물관 견학"
+
+#: deathforth/events/rareloc/rare1.df:96
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" drives close to a museum. It must have been popular, as the undead are "
+msgstr "은(는) 박물관 근처를 지나간다. 인기가 많았던 모양이다. 언데드가 "
+
+#: deathforth/events/rareloc/rare1.df:96
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "out in droves."
+msgstr "떼로 몰려 있다."
+
+#: deathforth/events/rareloc/rare1.df:96
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " Signs and banners outside advertise the "
+msgstr " 바깥의 간판과 현수막이 이 전시를 광고한다: "
+
+#: deathforth/events/rareloc/rare1.df:98
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "MALL KATANAS OF THE UNITED STATES"
+msgstr "미국의 쇼핑몰 카타나"
+
+#: deathforth/events/rareloc/rare1.df:99
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "CALL OF GUNS MODERN GUNFARE 20"
+msgstr "콜 오브 건즈 모던 건페어 20"
+
+#: deathforth/events/rareloc/rare1.df:100
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "MEDIEVAL AXES AND ARMS"
+msgstr "중세의 도끼와 무기"
+
+#: deathforth/events/rareloc/rare1.df:101
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "SNACK FOODS OF THE KNOWN WORLD"
+msgstr "알려진 세계의 과자"
+
+#: deathforth/events/rareloc/rare1.df:102
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " exhibit."
+msgstr "."
+
+#: deathforth/events/rareloc/rare1.df:105
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Visit Museum"
+msgstr "박물관에 간다"
+
+#: deathforth/events/rareloc/rare1.df:112
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Mystery Factory"
+msgstr "정체불명 공장"
+
+#: deathforth/events/rareloc/rare1.df:116
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " spots a factory whose signs have rusted to nothing. The zombies are "
+msgstr "은(는) 간판이 녹슬어 다 사라진 공장을 발견한다. 좀비들이 "
+
+#: deathforth/events/rareloc/rare1.df:116
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "swarming"
+msgstr "우글우글"
+
+#: deathforth/events/rareloc/rare1.df:116
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" over the whole place. There's probably some of whatever the factory made "
+"left inside, whatever that was."
+msgstr " 몰려 있다. 공장이 뭘 만들었든, 안에 좀 남아 있을 거다."
+
+#: deathforth/events/rareloc/rare1.df:119
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Investigate Factory"
+msgstr "공장을 조사한다"
+
+#: deathforth/events/rareloc/rare1.df:126
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Malicious House"
+msgstr "사악한 집"
+
+#: deathforth/events/rareloc/rare1.df:128
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " runs into a house at the end of a cul-de-sac. It radiates an "
+msgstr "은(는) 막다른 골목 끝의 집에 다다른다. 집에서 "
+
+#: deathforth/events/rareloc/rare1.df:128
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "OVERWHELMING"
+msgstr "압도적인"
+
+#: deathforth/events/rareloc/rare1.df:128
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" sense of dread and malice.\r\n"
+"\tThere might be a can of food inside!"
+msgstr ""
+" 공포와 악의가 뿜어져 나온다.\r\n"
+"\t안에 통조림 하나쯤 있을지도!"
+
+#: deathforth/events/rareloc/rare1.df:132
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Investigate House"
+msgstr "집을 조사한다"
+
+#: deathforth/events/rareloc/rare1.df:139
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Giant Animal"
+msgstr "거대 동물"
+
+#: deathforth/events/rareloc/rare1.df:141
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" sees a gigantic animal on the side of the road, in the middle of a bunch of"
+" stores. Maybe it is a hallucination? Or some sort of trap?"
+msgstr "은(는) 가게들 한가운데, 길가에 서 있는 거대한 동물을 본다. 환각일까? 아니면 무슨 함정?"
+
+#: deathforth/events/rareloc/rare1.df:144
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Investigate Animal"
+msgstr "동물을 조사한다"
+
+#: deathforth/events/rareloc/rare1.df:153
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Neighborly Visit"
+msgstr "이웃 방문"
+
+#: deathforth/events/rareloc/rare1.df:154
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "While trying to drive away from a big horde, "
+msgstr "큰 좀비 떼를 피해 달아나던 중, "
+
+#: deathforth/events/rareloc/rare1.df:154
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" takes a detour through the deep woods. After taking a wrong turn, they spot"
+" a cabin. There's smoke coming from the chimney!"
+msgstr "은(는) 깊은 숲으로 우회한다. 길을 잘못 들었다가 오두막을 발견한다. 굴뚝에서 연기가 나고 있다!"
+
+#: deathforth/events/rareloc/rare1.df:164
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "The Truth Is Out There"
+msgstr "진실은 저 너머에"
+
+#: deathforth/events/rareloc/rare1.df:166
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "While driving through the woods, "
+msgstr "숲을 달리던 중, "
+
+#: deathforth/events/rareloc/rare1.df:166
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " SEES A UFO AMIDST THE TREES! WHOAAAAAAA!!!!"
+msgstr "은(는) 나무 사이에서 UFO를 본다! 우와아아아아!!!!"
+
+#: deathforth/events/rareloc/rare1.df:166
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+"\r\n"
+"\t\tWatch out! There's something moving near it!"
+msgstr ""
+"\r\n"
+"\t\t조심해! 근처에서 뭔가 움직이고 있다!"
+
+#: deathforth/events/rareloc/rare1.df:170
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Investigate UFO!"
+msgstr "UFO를 조사한다!"
+
+#: deathforth/events/rareloc/rare1.df:178
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Hazmat Rescue"
+msgstr "방호복 구출"
+
+#: deathforth/events/rareloc/rare1.df:179
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " escapes the sewer!"
+msgstr "은(는) 하수도를 탈출한다!"
+
+#: deathforth/events/rareloc/rare1.df:181
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " left before finding everyone, so there was no reward."
+msgstr "은(는) 모두를 찾기 전에 떠나서 보상이 없었다."
+
+#: deathforth/events/rareloc/rare1.df:186
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "The entire Hazmat Team made it out alive!"
+msgstr "방호복 팀 전원이 살아서 나왔다!"
+
+#: deathforth/events/rareloc/rare1.df:189
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+"Not all of the Hazmat Team made it out, but the help was still appreciated."
+msgstr "방호복 팀이 전원 살아 나오진 못했지만, 그래도 도와준 걸 고마워한다."
+
+#: deathforth/events/rareloc/rare1.df:193
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " reveals a stash of carefully sealed medical supplies!"
+msgstr "은(는) 꼼꼼히 밀봉한 의약품 더미를 공개한다!"
+
+#: deathforth/events/rareloc/rare1.df:196
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " didn't survive his rescue mission."
+msgstr "은(는) 구출 작전에서 살아남지 못했다."
+
+#: deathforth/events/rareloc/rare1.df:200
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" shows off a cache of food. It may or may not have been stashed in the "
+"sewer..."
+msgstr "은(는) 식량 더미를 자랑한다. 하수도에 숨겨 뒀던 걸 수도 있고 아닐 수도 있다..."
+
+#: deathforth/events/rareloc/rare1.df:203
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " didn't make it out of the sewer."
+msgstr "은(는) 하수도를 빠져나오지 못했다."
+
+#: deathforth/events/rareloc/rare1.df:207
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " pantomimes some emergency medical techniques."
+msgstr "은(는) 응급 처치 요령을 몸짓으로 보여 준다."
+
+#: deathforth/events/rareloc/rare1.df:210
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " was left behind."
+msgstr "은(는) 남겨졌다."
+
+#: deathforth/events/rareloc/rare1.df:216
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Hazardous Materials"
+msgstr "위험 물질"
+
+#: deathforth/events/rareloc/rare1.df:218
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" is driving through an empty city when they see a man in the road. He is in "
+"a hazmat suit and is beckoning "
+msgstr "은(는) 텅 빈 도시를 지나다 길 위의 남자를 본다. 방호복을 입은 그가 손짓한다. 대상은 "
+
+#: deathforth/events/rareloc/rare1.df:218
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" for help. As the car gets closer, he opens a manhole and enters the sewer."
+msgstr ". 도와 달라는 것이다. 차가 다가가자, 그는 맨홀을 열고 하수도로 들어간다."
+
+#: deathforth/events/rareloc/rare1.df:222
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Go after him!"
+msgstr "그를 쫓아간다!"
+
+#: deathforth/events/rareloc/rare1.df:229
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Danger Ranger Fan Club"
+msgstr "데인저 레인저 팬클럽"
+
+#: deathforth/events/rareloc/rare1.df:230
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " escapes that swarmed suburb."
+msgstr "은(는) 좀비가 들끓던 그 교외를 탈출한다."
+
+#: deathforth/events/rareloc/rare1.df:234
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " unleashes her Healing Ranger Ray!"
+msgstr "은(는) 힐링 레인저 광선을 발사한다!"
+
+#: deathforth/events/rareloc/rare1.df:237
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " is no longer there to support the group."
+msgstr "은(는) 더 이상 일행을 지원해 줄 수 없다."
+
+#: deathforth/events/rareloc/rare1.df:243
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " bestows some of her energy and fitness."
+msgstr "은(는) 자신의 에너지와 체력을 나눠 준다."
+
+#: deathforth/events/rareloc/rare1.df:246
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " didn't make it. Their team is lessened."
+msgstr "은(는) 살아남지 못했다. 그들의 팀이 줄었다."
+
+#: deathforth/events/rareloc/rare1.df:252
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " grants some of his famous strength."
+msgstr "은(는) 그 유명한 근력을 나눠 준다."
+
+#: deathforth/events/rareloc/rare1.df:255
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "'s mighty strength will be missed."
+msgstr "의 강력한 힘이 그리울 거다."
+
+#: deathforth/events/rareloc/rare1.df:261
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " gives an inspirational pep talk!"
+msgstr "은(는) 감동적인 격려 연설을 한다!"
+
+#: deathforth/events/rareloc/rare1.df:264
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " will no longer provide leadership."
+msgstr "은(는) 더 이상 리더십을 보여 줄 수 없다."
+
+#: deathforth/events/rareloc/rare1.df:268
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " feels inadequate over not finding everyone."
+msgstr "은(는) 모두를 찾지 못해 자괴감을 느낀다."
+
+#: deathforth/events/rareloc/rare1.df:276
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Danger Rangers"
+msgstr "데인저 레인저"
+
+#: deathforth/events/rareloc/rare1.df:278
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" sees four people in bright, shiny outfits. They're running around punching "
+"zombies and doing little poses. They get overwhelmed by the swarm and flee "
+"in different directions."
+msgstr ""
+"은(는) 번쩍이는 옷을 입은 네 사람을 본다. 뛰어다니며 좀비를 때리고 작은 포즈를 취한다. 그러다 좀비 떼에 압도당해 사방으로 흩어져 "
+"도망친다."
+
+#: deathforth/events/rareloc/rare1.df:281
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Try to save them"
+msgstr "구해 본다"
+
+#: deathforth/events/rareloc/rare1.df:289
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " gets taught some master-level techniques! "
+msgstr "은(는) 달인급 기술을 배운다! "
+
+#: deathforth/events/rareloc/rare1.df:289
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" now hits even harder!\r\n"
+"\t\tNow "
+msgstr ""
+"는 이제 더 세게 때린다!\r\n"
+"\t\t이제 "
+
+#: deathforth/events/rareloc/rare1.df:290
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " hands can hit three targets per attack!"
+msgstr " 손은 한 번에 셋을 때릴 수 있다!"
+
+#: deathforth/events/rareloc/rare1.df:293
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " gets a crash course in martial arts! "
+msgstr "은(는) 무술 속성 강좌를 듣는다! "
+
+#: deathforth/events/rareloc/rare1.df:293
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" is able to learn one very handy move.\r\n"
+"\t\tNow "
+msgstr ""
+"는 아주 유용한 기술 하나를 배운다.\r\n"
+"\t\t이제 "
+
+#: deathforth/events/rareloc/rare1.df:294
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " hands are anti-zombie weapons!"
+msgstr " 손은 대좀비 무기다!"
+
+#: deathforth/events/rareloc/rare1.df:303
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Enter the Death Road"
+msgstr "데스 로드 진입"
+
+#: deathforth/events/rareloc/rare1.df:304
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " gets out of the car once it drives safely past the swarmed city."
+msgstr "은(는) 차가 좀비 떼 가득한 도시를 무사히 빠져나가자 차에서 내린다."
+
+#: deathforth/events/rareloc/rare1.df:308
+#: deathforth/events/rareloc/rare1.df:310
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "In return for the help, he teaches "
+msgstr "도와준 보답으로 그가 가르쳐 준다. 배우는 사람은 "
+
+#: deathforth/events/rareloc/rare1.df:308
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " an even more advanced form of martial arts!"
+msgstr ". 더 고급 무술을!"
+
+#: deathforth/events/rareloc/rare1.df:310
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " how to splat zombies with "
+msgstr ". 맨손으로 좀비를 터뜨리는 법을! 무기는 바로 "
+
+#: deathforth/events/rareloc/rare1.df:310
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " bare hands!"
+msgstr " 맨손!"
+
+#: deathforth/events/rareloc/rare1.df:313
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "In thanks for helping "
+msgstr "도와준 보답으로 - "
+
+#: deathforth/events/rareloc/rare1.df:313
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" offers to teach one person how to splat zombies bare-handed.\r\n"
+"\t\t\tWho should get the training?"
+msgstr ""
+"는 한 사람에게 맨손으로 좀비 터뜨리는 법을 가르쳐 주겠다고 한다.\r\n"
+"\t\t\t누가 훈련을 받을까?"
+
+#: deathforth/events/rareloc/rare1.df:318
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Crushing Defeat"
+msgstr "참담한 패배"
+
+#: deathforth/events/rareloc/rare1.df:319
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid " feels a great sense of loss over "
+msgstr "은(는) 큰 상실감을 느낀다. "
+
+#: deathforth/events/rareloc/rare1.df:319
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" getting eaten.\r\n"
+"\t\tHis martial arts knowledge is now gone."
+msgstr ""
+"이(가) 먹혀 버렸다.\r\n"
+"\t\t그의 무술 지식도 이제 사라졌다."
+
+#: deathforth/events/rareloc/rare1.df:326
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Kung Fu to Canada"
+msgstr "캐나다로 가는 쿵후"
+
+#: deathforth/events/rareloc/rare1.df:328
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "While driving through a very crowded city, "
+msgstr "사람으로 북적이는 도시를 지나던 중, "
+
+#: deathforth/events/rareloc/rare1.df:328
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" sees a survivor sneaking through the crowds. He's doing a pretty good job "
+"being sneaky, despite his bright yellow jumpsuit."
+msgstr "은(는) 군중 사이로 몰래 지나가는 생존자를 본다. 밝은 노란색 점프슈트를 입었는데도 꽤 잘 숨어 다닌다."
+
+#: deathforth/events/rareloc/rare1.df:331
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Try to reach him"
+msgstr "그에게 가 본다"
+
+#: deathforth/events/rareloc/rare1.df:337
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Old Bus Graveyard"
+msgstr "낡은 버스 묘지"
+
+#: deathforth/events/rareloc/rare1.df:338
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" drives past a large bus garage. Although long-since abandoned, something "
+"glimmers still in one of the garages."
+msgstr "은(는) 큰 버스 차고를 지나간다. 버려진 지 오래됐지만, 차고 한 곳에서 아직 뭔가 반짝인다."
+
+#: deathforth/events/rareloc/rare1.df:341
+#: deathforth/events/rareloc/rare1.df:422
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Forget Your Ticket"
+msgstr "표는 잊어버려"
+
+#: deathforth/events/rareloc/rare1.df:346
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Seaside Shanties"
+msgstr "해변의 오두막"
+
+#: deathforth/events/rareloc/rare1.df:347
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" finds a beach, as sandy and grainy as in childhood memory. On the approach,"
+" the faint sound of sea waves draws near..."
+msgstr "은(는) 어린 시절 기억처럼 모래가 까끌까끌한 해변을 발견한다. 다가가자, 희미한 파도 소리가 가까워진다..."
+
+#: deathforth/events/rareloc/rare1.df:350
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Get Sand Between Your Toes"
+msgstr "발가락 사이에 모래를"
+
+#: deathforth/events/rareloc/rare1.df:355
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Abandoned Warehouse"
+msgstr "버려진 창고"
+
+#: deathforth/events/rareloc/rare1.df:356
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" stumbles across an old, long forgotten warehouse. The exterior of the "
+"building is huge - perhaps something still remains inside?"
+msgstr "은(는) 오래 잊힌 낡은 창고를 우연히 발견한다. 건물 외관이 엄청 크다. 안에 아직 뭔가 남아 있을까?"
+
+#: deathforth/events/rareloc/rare1.df:359
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Forget Your Membership Card"
+msgstr "회원 카드는 잊어버려"
+
+#: deathforth/events/rareloc/rare1.df:364
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Forgotten Prison"
+msgstr "잊힌 교도소"
+
+#: deathforth/events/rareloc/rare1.df:365
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" comes across a prison. Outside, the cameras are still churning left to "
+"right. Could somebody still be inside?"
+msgstr "은(는) 교도소를 발견한다. 밖의 카메라가 아직도 좌우로 돌아가고 있다. 안에 아직 누가 있을까?"
+
+#: deathforth/events/rareloc/rare1.df:376
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Read Your Miranda Rights"
+msgstr "미란다 원칙을 읽어라"
+
+#: deathforth/events/rareloc/rare1.df:381
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Putrid Bog"
+msgstr "썩은 늪"
+
+#: deathforth/events/rareloc/rare1.df:382
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" wanders into a marshland. Past the millions of reeds, various objects seem "
+"to be glistening in the water. Maybe they're something valuable?"
+msgstr "은(는) 습지대에 들어선다. 수많은 갈대 너머 물속에서 여러 물건이 반짝이는 것 같다. 값진 물건일지도?"
+
+#: deathforth/events/rareloc/rare1.df:385
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Put Your Rainboots On"
+msgstr "장화를 신어라"
+
+#: deathforth/events/rareloc/rare1.df:391
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Central Bank"
+msgstr "중앙은행"
+
+#: deathforth/events/rareloc/rare1.df:392
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" comes across a branch's central bank. Although most of the vaults have "
+"likely been looted, perhaps something still remains inside?"
+msgstr "은(는) 지점 중앙은행을 발견한다. 금고 대부분은 털렸겠지만, 안에 아직 뭔가 남아 있을지도?"
+
+#: deathforth/events/rareloc/rare1.df:395
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Evade Taxes"
+msgstr "탈세하기"
+
+#: deathforth/events/rareloc/rare1.df:401
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Maleficent Metro"
+msgstr "사악한 지하철"
+
+#: deathforth/events/rareloc/rare1.df:402
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" is waltzing around an abandoned train station when a metro train shows up. "
+"It's one of the new-fangled self-piloting metro trains of the post-2000s "
+"era. Who knows where it might go?"
+msgstr ""
+"은(는) 버려진 기차역을 어슬렁거리다 지하철이 들어오는 걸 본다. 2000년대 이후에 나온 최신식 자율 운행 지하철이다. 어디로 갈지 "
+"누가 알겠어?"
+
+#: deathforth/events/rareloc/rare1.df:404
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "After a minute or two, zombies begin to swarm the train."
+msgstr "1~2분 뒤, 좀비들이 열차에 몰려들기 시작한다."
+
+#: deathforth/events/rareloc/rare1.df:413
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "HOLDOUT! SURVIVE AS LONG AS POSSIBLE!"
+msgstr "버텨라! 최대한 오래 살아남아라!"
+
+#: deathforth/events/rareloc/rare1.df:413
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+"\r\n"
+"\t\tHORDE SIZE: "
+msgstr ""
+"\r\n"
+"\t\t좀비 떼 규모: "
+
+#: deathforth/events/rareloc/rare1.df:414
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "RUSH HOUR"
+msgstr "출퇴근 시간"
+
+#: deathforth/events/rareloc/rare1.df:414
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+"\r\n"
+"\t\tCURRENT TIME: "
+msgstr ""
+"\r\n"
+"\t\t현재 시각: "
+
+#: deathforth/events/rareloc/rare1.df:415
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+"\r\n"
+"\t\tHOLDOUT LENGTH: "
+msgstr ""
+"\r\n"
+"\t\t버틸 시간: "
+
+#: deathforth/events/rareloc/rare1.df:416
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Variable"
+msgstr "가변"
+
+#: deathforth/events/rareloc/rare1.df:417
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "YOU CAN PULL THE STOP LEVERS TO EXIT THE SIEGE!"
+msgstr "정지 레버를 당기면 포위전을 빠져나갈 수 있다!"
+
+#: deathforth/events/rareloc/rare1.df:428
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Antiquated Citadel"
+msgstr "낡은 성채"
+
+#: deathforth/events/rareloc/rare1.df:429
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" drives past a checkpoint, right outside of a military citadel. There's "
+"boxes of ammo everywhere; clearly some kind of force was holding here. As "
+"the group approach the gate, legions of zombies swarm out of nowhere."
+msgstr ""
+"은(는) 군사 성채 바로 앞 검문소를 지나간다. 사방에 탄약 상자가 있다. 분명 어떤 부대가 여기서 버텼던 거다. 일행이 성문에 "
+"다가가자, 좀비 군단이 난데없이 몰려나온다."
+
+#: deathforth/events/rareloc/rare1.df:432
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Avoid Military Tribunal"
+msgstr "군사 재판을 피한다"
+
+#: deathforth/events/rareloc/rare1.df:439
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Dinguswater Station"
+msgstr "딩거스워터 역"
+
+#: deathforth/events/rareloc/rare1.df:440
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" finds a train depot with lots of containers. Plenty are empty now and for "
+"the most part only loadless bogies remain, but maybe some still have loot."
+msgstr ""
+"은(는) 컨테이너가 많은 기차 차량기지를 발견한다. 지금은 대부분 비었고 빈 화차만 남았지만, 몇 개엔 아직 물자가 있을지도."
+
+#: deathforth/events/rareloc/rare1.df:443
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Steal From Dinguswater Again"
+msgstr "딩거스워터에서 또 훔친다"
+
+#: deathforth/events/rareloc/rare1.df:448
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Reserved Parking"
+msgstr "지정 주차"
+
+#: deathforth/events/rareloc/rare1.df:449
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" peeks inside an old concrete parking lot. It's mostly brimming with rusty "
+"cars, although perhaps there's a functioning car left in there still."
+msgstr "은(는) 낡은 콘크리트 주차장 안을 들여다본다. 대부분 녹슨 차로 가득하지만, 아직 작동하는 차가 있을지도."
+
+#: deathforth/events/rareloc/rare1.df:452
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Enter Scary Liminal Space"
+msgstr "무서운 리미널 스페이스에 들어간다"
+
+#: deathforth/events/rareloc/rare1.df:457
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "On The Dock of a Bay"
+msgstr "부둣가에서"
+
+#: deathforth/events/rareloc/rare1.df:458
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" finds an old dockyard. Aside from many rusted machines and felled cranes, "
+"there's some containers. Perhaps they'll have loot?"
+msgstr "은(는) 오래된 조선소를 발견한다. 녹슨 기계와 쓰러진 크레인 말고도 컨테이너가 몇 개 있다. 물자가 있을까?"
+
+#: deathforth/events/rareloc/rare1.df:461
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Pay Import Duties"
+msgstr "수입 관세를 낸다"
+
+#: deathforth/events/rareloc/rare1.df:466
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "The Village Zombos"
+msgstr "마을의 좀보들"
+
+#: deathforth/events/rareloc/rare1.df:467
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid ""
+" comes across a strange gated village. One of the houses in the distance "
+"seems to have a working chimney. Perhaps there's somebody in there?"
+msgstr "은(는) 이상하게 문으로 막힌 마을을 발견한다. 멀리 한 집의 굴뚝이 아직 작동하는 것 같다. 안에 누가 있을까?"
+
+#: deathforth/events/rareloc/rare1.df:470
+msgctxt "deathforth/events/rareloc/rare1.df"
+msgid "Investigate Village"
+msgstr "마을을 조사한다"
+
+#: deathforth/events/rareloc/rare2.df:4
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Spooky Graveyard"
+msgstr "으스스한 묘지"
+
+#: deathforth/events/rareloc/rare2.df:5
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid ""
+" drives past a graveyard. There's not many zombies there, yet it feels "
+msgstr "은(는) 묘지를 지나간다. 좀비는 별로 없지만, 느낌이 "
+
+#: deathforth/events/rareloc/rare2.df:5
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "ominous to a cartoonish extent"
+msgstr "만화처럼 불길하다"
+
+#: deathforth/events/rareloc/rare2.df:5
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid ". Faintly, off to the north, spooky goblin laughter can be heard."
+msgstr ". 북쪽 멀리서 으스스한 고블린 웃음소리가 희미하게 들린다."
+
+#: deathforth/events/rareloc/rare2.df:9
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Search for Goblin"
+msgstr "고블린을 찾는다"
+
+#: deathforth/events/rareloc/rare2.df:14
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "RAGING INFERNO!"
+msgstr "맹렬한 화염!"
+
+#: deathforth/events/rareloc/rare2.df:15
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid ""
+" runs into a large house that is both swarmed and on fire. What could have caused this so recently? The answer must be inside.\r\n"
+"\t"
+msgstr ""
+"은(는) 좀비가 들끓는 데다 불까지 붙은 큰 집에 다다른다. 이렇게 최근에 무슨 일이 있었던 걸까? 답은 안에 있을 거다.\r\n"
+"\t"
+
+#: deathforth/events/rareloc/rare2.df:16
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "WARNING:"
+msgstr "경고:"
+
+#: deathforth/events/rareloc/rare2.df:16
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid " CONTENTS MAY BE HOT"
+msgstr " 내용물이 뜨거울 수 있음"
+
+#: deathforth/events/rareloc/rare2.df:19
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Dive into fire"
+msgstr "불 속으로 뛰어든다"
+
+#: deathforth/events/rareloc/rare2.df:24
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Gothic Farm"
+msgstr "고딕 농장"
+
+#: deathforth/events/rareloc/rare2.df:26
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid ""
+" sees a farm swarmed by an angry horde. Two old-fashioned farmers run into "
+"their house. They could still be saved!"
+msgstr "은(는) 성난 좀비 떼에 휩싸인 농장을 본다. 옛날식 농부 두 사람이 집 안으로 뛰어든다. 아직 구할 수 있다!"
+
+#: deathforth/events/rareloc/rare2.df:30
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Try to save them!"
+msgstr "구해 보자!"
+
+#: deathforth/events/rareloc/rare2.df:35
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Haunted Mansion"
+msgstr "유령의 저택"
+
+#: deathforth/events/rareloc/rare2.df:36
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid ""
+" runs into a super spooky mansion. It is dark and, no question, it's "
+"haunted. You might get to talk to some "
+msgstr "은(는) 엄청 으스스한 저택에 다다른다. 어둡고, 의심할 여지 없이 귀신이 나온다. 이것들과 대화하게 될지도: "
+
+#: deathforth/events/rareloc/rare2.df:36
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid ""
+"GHOSTS!\r\n"
+"\tWARNING:"
+msgstr ""
+"유령!\r\n"
+"\t경고:"
+
+#: deathforth/events/rareloc/rare2.df:37
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid " FLASHLIGHT RECOMMENDED! VERY DANGEROUS!"
+msgstr " 손전등 지참 권장! 매우 위험!"
+
+#: deathforth/events/rareloc/rare2.df:41
+msgctxt "deathforth/events/rareloc/rare2.df"
+msgid "Explore Mansion"
+msgstr "저택을 탐색한다"

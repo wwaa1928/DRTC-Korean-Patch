@@ -1,0 +1,1838 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/car-logic.df:587
+msgctxt "deathforth/car-logic.df"
+msgid "RAUUUGH!!!"
+msgstr "으아아아악!!!"
+
+#: deathforth/car-logic.df:601
+msgctxt "deathforth/car-logic.df"
+msgid "OUTSIDE OF A CAR"
+msgstr "차 밖"
+
+#: deathforth/car-logic.df:602
+msgctxt "deathforth/car-logic.df"
+msgid "It's a car. WHAT NOW?"
+msgstr "차다. 이제 뭐 하지?"
+
+#: deathforth/car-logic.df:605
+msgctxt "deathforth/car-logic.df"
+msgid "Get in."
+msgstr "탄다."
+
+#: deathforth/car-logic.df:610
+msgctxt "deathforth/car-logic.df"
+msgid "Pick up the car."
+msgstr "차를 들어 올린다."
+
+#: deathforth/car-logic.df:614
+msgctxt "deathforth/car-logic.df"
+msgid "Nevermind."
+msgstr "관둔다."
+
+#: deathforth/car-logic.df:621
+msgctxt "deathforth/car-logic.df"
+msgid "Hotwired!"
+msgstr "직결 시동 성공!"
+
+#: deathforth/car-logic.df:622
+msgctxt "deathforth/car-logic.df"
+msgid "It doesn't take long for "
+msgstr "순식간에 "
+
+#: deathforth/car-logic.df:622
+msgctxt "deathforth/car-logic.df"
+msgid " to break into the car and get it running. No keys necessary!"
+msgstr "이(가) 차에 침입해 시동을 건다. 열쇠는 필요 없다!"
+
+#: deathforth/car-logic.df:631
+msgctxt "deathforth/car-logic.df"
+msgid "Let's Roll!"
+msgstr "출발!"
+
+#: deathforth/car-logic.df:632
+msgctxt "deathforth/car-logic.df"
+msgid ""
+"The keys fit perfectly!\r\n"
+"\t\t"
+msgstr ""
+"열쇠가 딱 맞는다!\r\n"
+"\t\t"
+
+#: deathforth/car-logic.df:633
+msgctxt "deathforth/car-logic.df"
+msgid " unlocks the car door."
+msgstr "이(가) 차 문을 연다."
+
+#: deathforth/car-logic.df:635
+msgctxt "deathforth/car-logic.df"
+msgid "Get in the car"
+msgstr "차에 탄다"
+
+#: deathforth/car-logic.df:636 deathforth/car-logic.df:642
+msgctxt "deathforth/car-logic.df"
+msgid "Leave it be for now"
+msgstr "일단 그냥 둔다"
+
+#: deathforth/car-logic.df:639
+msgctxt "deathforth/car-logic.df"
+msgid "Locked Car"
+msgstr "잠긴 차"
+
+#: deathforth/car-logic.df:640
+msgctxt "deathforth/car-logic.df"
+msgid ""
+"This car looks like it's in really good condition. \r\n"
+"\t\tBut where are the keys?"
+msgstr ""
+"상태가 아주 좋아 보이는 차다. \r\n"
+"\t\t그런데 열쇠는 어디 있지?"
+
+#: deathforth/car-logic.df:644
+msgctxt "deathforth/car-logic.df"
+msgid " hotwires the car!"
+msgstr "이(가) 직결로 시동을 건다!"
+
+#: deathforth/car-logic.df:648
+msgctxt "deathforth/car-logic.df"
+msgid "Pick up the car"
+msgstr "차를 들어 올린다"
+
+#: deathforth/car-logic.df:654
+msgctxt "deathforth/car-logic.df"
+msgid "Car Keys"
+msgstr "차 열쇠"
+
+#: deathforth/car-logic.df:655
+msgctxt "deathforth/car-logic.df"
+msgid ""
+"This is a set of keys, including some car keys.\r\n"
+"\t"
+msgstr ""
+"차 열쇠가 포함된 열쇠 꾸러미다.\r\n"
+"\t"
+
+#: deathforth/car-logic.df:656
+msgctxt "deathforth/car-logic.df"
+msgid " picks it up."
+msgstr "이(가) 그것을 줍는다."
+
+#: deathforth/carstats.df:689
+msgctxt "deathforth/carstats.df"
+msgid "chassis"
+msgstr "차체"
+
+#: deathforth/carstats.df:690
+msgctxt "deathforth/carstats.df"
+msgid "engine"
+msgstr "엔진"
+
+#: deathforth/carstats.df:691
+msgctxt "deathforth/carstats.df"
+msgid "armour"
+msgstr "장갑"
+
+#: deathforth/carstats.df:694
+msgctxt "deathforth/carstats.df"
+msgid "Slow"
+msgstr "느림"
+
+#: deathforth/carstats.df:697
+msgctxt "deathforth/carstats.df"
+msgid "Average"
+msgstr "보통"
+
+#: deathforth/carstats.df:699
+msgctxt "deathforth/carstats.df"
+msgid "Fast"
+msgstr "빠름"
+
+#: deathforth/carstats.df:707
+msgctxt "deathforth/carstats.df"
+msgid "Zombo Points: "
+msgstr "좀보 포인트: "
+
+#: deathforth/carstats.df:711
+msgctxt "deathforth/carstats.df"
+msgid "Game Mode: "
+msgstr "게임 모드: "
+
+#: deathforth/carstats.df:713
+msgctxt "deathforth/carstats.df"
+msgid "NO GAME MODE"
+msgstr "게임 모드 없음"
+
+#: deathforth/carstats.df:714
+msgctxt "deathforth/carstats.df"
+msgid "Death Road Normal"
+msgstr "데스 로드 일반"
+
+#: deathforth/carstats.df:715
+msgctxt "deathforth/carstats.df"
+msgid "Long Winding Road"
+msgstr "길고 구불구불한 길"
+
+#: deathforth/carstats.df:716
+msgctxt "deathforth/carstats.df"
+msgid "Rare Characters"
+msgstr "희귀 캐릭터"
+
+#: deathforth/carstats.df:717
+msgctxt "deathforth/carstats.df"
+msgid "Familiar Characters"
+msgstr "친숙한 캐릭터"
+
+#: deathforth/carstats.df:718
+msgctxt "deathforth/carstats.df"
+msgid "Rare Characters EXTREME"
+msgstr "희귀 캐릭터 익스트림"
+
+#: deathforth/carstats.df:719
+msgctxt "deathforth/carstats.df"
+msgid "Familiar Characters EXTREME"
+msgstr "친숙한 캐릭터 익스트림"
+
+#: deathforth/carstats.df:720
+msgctxt "deathforth/carstats.df"
+msgid "K*E*P*A"
+msgstr "K*E*P*A"
+
+#: deathforth/carstats.df:721
+msgctxt "deathforth/carstats.df"
+msgid "Short Trip to Heck"
+msgstr "지옥행 짧은 여행"
+
+#: deathforth/carstats.df:722
+msgctxt "deathforth/carstats.df"
+msgid "Marathon"
+msgstr "마라톤"
+
+#: deathforth/carstats.df:723
+msgctxt "deathforth/carstats.df"
+msgid "Endless Mode"
+msgstr "무한 모드"
+
+#: deathforth/carstats.df:724
+msgctxt "deathforth/carstats.df"
+msgid "Deadlier Road"
+msgstr "더 치명적인 길"
+
+#: deathforth/carstats.df:725
+msgctxt "deathforth/carstats.df"
+msgid "O*P*P Mode"
+msgstr "O*P*P 모드"
+
+#: deathforth/carstats.df:726
+msgctxt "deathforth/carstats.df"
+msgid "Quick Death Mode"
+msgstr "퀵 데스 모드"
+
+#: deathforth/carstats.df:727
+msgctxt "deathforth/carstats.df"
+msgid "Four Jerks Mode"
+msgstr "네 얼간이 모드"
+
+#: deathforth/carstats.df:728
+msgctxt "deathforth/carstats.df"
+msgid "Four Jerks Mode EXTREME"
+msgstr "네 얼간이 모드 익스트림"
+
+#: deathforth/carstats.df:732
+msgctxt "deathforth/carstats.df"
+msgid "Extreme Weather Mode"
+msgstr "극한 날씨 모드"
+
+#: deathforth/carstats.df:733
+msgctxt "deathforth/carstats.df"
+msgid "Infection Mode"
+msgstr "감염 모드"
+
+#: deathforth/carstats.df:734
+msgctxt "deathforth/carstats.df"
+msgid "RPG Mode"
+msgstr "RPG 모드"
+
+#: deathforth/carstats.df:735
+msgctxt "deathforth/carstats.df"
+msgid "4 Jerks Scepter Mode"
+msgstr "네 얼간이 셉터 모드"
+
+#: deathforth/carstats.df:739
+msgctxt "deathforth/carstats.df"
+msgid "Mutation Mode"
+msgstr "돌연변이 모드"
+
+#: deathforth/carstats.df:740
+msgctxt "deathforth/carstats.df"
+msgid "Infection Mode EXTREME"
+msgstr "감염 모드 익스트림"
+
+#: deathforth/carstats.df:744
+msgctxt "deathforth/carstats.df"
+msgid "Mutation Mode EXTREME"
+msgstr "돌연변이 모드 익스트림"
+
+#: deathforth/carstats.df:745
+msgctxt "deathforth/carstats.df"
+msgid "The Horrors Mode"
+msgstr "공포 모드"
+
+#: deathforth/carstats.df:755
+msgctxt "deathforth/carstats.df"
+msgid "YOU MADE IT TO CANADA!!!"
+msgstr "캐나다에 도착했다!!!"
+
+#: deathforth/carstats.df:759
+msgctxt "deathforth/carstats.df"
+msgid "YOU ARE ABOUT TO CROSS INTO CANADA!!!"
+msgstr "곧 캐나다 국경을 넘는다!!!"
+
+#: deathforth/carstats.df:776
+msgctxt "deathforth/carstats.df"
+msgid "Car Speed:"
+msgstr "차 속도:"
+
+#: deathforth/carstats.df:781
+msgctxt "deathforth/carstats.df"
+msgid "Just started the Endless journey!"
+msgstr "무한 여정이 막 시작됐다!"
+
+#: deathforth/carstats.df:785
+msgctxt "deathforth/carstats.df"
+msgid "Survived the first day of Endless Mode!"
+msgstr "무한 모드 첫날을 버텼다!"
+
+#: deathforth/carstats.df:788
+msgctxt "deathforth/carstats.df"
+msgid "Still alive after "
+msgstr "길 위에서 "
+
+#: deathforth/carstats.df:788
+msgctxt "deathforth/carstats.df"
+msgid " days on the road!!!"
+msgstr "일째 생존 중!!!"
+
+#: deathforth/carstats.df:792 deathforth/carstats.df:798
+#: deathforth/carstats.df:803
+msgctxt "deathforth/carstats.df"
+msgid "Only "
+msgstr "캐나다까지 단 "
+
+#: deathforth/carstats.df:792
+msgctxt "deathforth/carstats.df"
+msgid " driving days until CANADA!!!"
+msgstr "일 남았다!!!"
+
+#: deathforth/carstats.df:798
+msgctxt "deathforth/carstats.df"
+msgid " driving days until CANADA..."
+msgstr "일 남았다... "
+
+#: deathforth/carstats.df:799
+msgctxt "deathforth/carstats.df"
+msgid "...IF WE HAD A CAR "
+msgstr "...차만 있다면 말이지 "
+
+#: deathforth/carstats.df:803
+msgctxt "deathforth/carstats.df"
+msgid " days until CANADA!!!"
+msgstr "일 남았다!!!"
+
+#: deathforth/charblurb.df:110
+msgctxt "deathforth/charblurb.df"
+msgid "UP"
+msgstr "상승"
+
+#: deathforth/charblurb.df:110
+msgctxt "deathforth/charblurb.df"
+msgid "DOWN"
+msgstr "하락"
+
+#: deathforth/charblurb.df:114
+msgctxt "deathforth/charblurb.df"
+msgid " health "
+msgstr "의 체력 "
+
+#: deathforth/charfilt.df:452
+msgctxt "deathforth/charfilt.df"
+msgid "looks just like Bart! Tip to toe, this is a Bart!"
+msgstr "은(는) 바트랑 똑같이 생겼다! 머리부터 발끝까지, 이건 바트다!"
+
+#: deathforth/charmisc.df:140
+msgctxt "deathforth/charmisc.df"
+msgid "SWOLE"
+msgstr "근육"
+
+#: deathforth/charmisc.df:141
+msgctxt "deathforth/charmisc.df"
+msgid "COOL RUNNINGS"
+msgstr "쿨 러닝"
+
+#: deathforth/charmisc.df:142
+msgctxt "deathforth/charmisc.df"
+msgid "MEDICINE TODAY"
+msgstr "오늘의 의학"
+
+#: deathforth/charmisc.df:143
+msgctxt "deathforth/charmisc.df"
+msgid "CARS-N-GADGETS"
+msgstr "자동차와 기계"
+
+#: deathforth/charmisc.df:144
+msgctxt "deathforth/charmisc.df"
+msgid "MODERN HUNTER"
+msgstr "현대 사냥꾼"
+
+#: deathforth/charmisc.df:146
+msgctxt "deathforth/charmisc.df"
+msgid "COMPLETE GUIDE TO LIFTING"
+msgstr "근력 운동 완벽 가이드"
+
+#: deathforth/charmisc.df:147
+msgctxt "deathforth/charmisc.df"
+msgid "1001 EXERCISES ANYWHERE"
+msgstr "어디서나 하는 운동 1001가지"
+
+#: deathforth/charmisc.df:148
+msgctxt "deathforth/charmisc.df"
+msgid "MORON'S GUIDE TO SURGERY"
+msgstr "바보를 위한 수술 가이드"
+
+#: deathforth/charmisc.df:149
+msgctxt "deathforth/charmisc.df"
+msgid "THE HANDYMAN'S BIBLE"
+msgstr "수리공의 바이블"
+
+#: deathforth/charmisc.df:150
+msgctxt "deathforth/charmisc.df"
+msgid "THE SCIENCE OF SHOOTING"
+msgstr "사격의 과학"
+
+#: deathforth/charmisc.df:155
+msgctxt "deathforth/charmisc.df"
+msgid "book"
+msgstr "책"
+
+#: deathforth/charmisc.df:155
+msgctxt "deathforth/charmisc.df"
+msgid "magazine"
+msgstr "잡지"
+
+#: deathforth/charmisc.df:271
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a freakishly large, gnomeless rodent. I think it's some kind of... "
+"gerbil."
+msgstr "은(는) 기괴하게 큰, 노움 없는 설치류다. 아마 일종의... 저빌인 것 같다."
+
+#: deathforth/charmisc.df:281
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is some kind of Canadian gerbil? I don't know, this is hard to keep track "
+"of."
+msgstr "은(는) 캐나다 저빌 같은 건가? 모르겠다. 이거 다 기억하기 힘들다."
+
+#: deathforth/charmisc.df:313
+msgctxt "deathforth/charmisc.df"
+msgid "is now a HALF-HUMAN, HALF-SKELETON!"
+msgstr "은(는) 이제 반은 인간, 반은 해골이다!"
+
+#: deathforth/charmisc.df:329
+msgctxt "deathforth/charmisc.df"
+msgid "is now a spooky dancing skeleton, no doubt after some blunder."
+msgstr "은(는) 무슨 실수를 한 게 분명하다. 이제 으스스하게 춤추는 해골이 되었다."
+
+#: deathforth/charmisc.df:422
+msgctxt "deathforth/charmisc.df"
+msgid "remains angry that she couldn't bring her cauldron."
+msgstr "은(는) 가마솥을 못 가져와서 아직도 화가 나 있다."
+
+#: deathforth/charmisc.df:442
+msgctxt "deathforth/charmisc.df"
+msgid "is a wizard."
+msgstr "은(는) 마법사다."
+
+#: deathforth/charmisc.df:471
+msgctxt "deathforth/charmisc.df"
+msgid "BLAH!"
+msgstr "블라!"
+
+#: deathforth/charmisc.df:479
+msgctxt "deathforth/charmisc.df"
+msgid "NOW I AM IN A BAT MOOD!"
+msgstr "이제 박쥐 기분이야!"
+
+#: deathforth/charmisc.df:498
+msgctxt "deathforth/charmisc.df"
+msgid "skulks around going BLAH for some reason."
+msgstr "은(는) 왠지 '블라!'를 외치며 어슬렁거린다."
+
+#: deathforth/charmisc.df:594
+msgctxt "deathforth/charmisc.df"
+msgid "Aw, WOOF it"
+msgstr "에이, 멍멍"
+
+#: deathforth/charmisc.df:620
+msgctxt "deathforth/charmisc.df"
+msgid " is uh... I'm not sure."
+msgstr "은(는) 어... 잘 모르겠다."
+
+#: deathforth/charmisc.df:650
+msgctxt "deathforth/charmisc.df"
+msgid "SAVE ME, KITTIES!"
+msgstr "구해 줘, 냥이들아!"
+
+#: deathforth/charmisc.df:673
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"loves cats! She loves cats far more than any other thing, person, or "
+"concept."
+msgstr "은(는) 고양이를 사랑한다! 다른 어떤 것, 사람, 개념보다도 고양이를 훨씬 더 사랑한다."
+
+#: deathforth/charmisc.df:692
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a farmer from Colombia. She is bulging with muscle. She has a tiny hat."
+msgstr "은(는) 콜롬비아에서 온 농부다. 근육이 울퉁불퉁하다. 작은 모자를 썼다."
+
+#: deathforth/charmisc.df:703
+msgctxt "deathforth/charmisc.df"
+msgid "All these zombies are good for business! "
+msgstr "좀비 덕분에 장사가 잘되는군! "
+
+#: deathforth/charmisc.df:704
+msgctxt "deathforth/charmisc.df"
+msgid "*soundtrack: guitars thrashing/wailing*"
+msgstr "*배경음악: 기타가 미친 듯이 울부짖는다*"
+
+#: deathforth/charmisc.df:705
+msgctxt "deathforth/charmisc.df"
+msgid " COLD STEEEEEEL! "
+msgstr " 콜드 스티이이이이일! "
+
+#: deathforth/charmisc.df:706
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"You put one of these by your front door, and you're going to be a power to "
+"reckon with."
+msgstr "현관문 옆에 이거 하나 두면, 아무도 함부로 못 덤빕니다."
+
+#: deathforth/charmisc.df:707
+msgctxt "deathforth/charmisc.df"
+msgid "How could anyone use the inferior weapons of my competitors? "
+msgstr "어떻게 경쟁사의 열등한 무기를 쓸 수 있죠? "
+
+#: deathforth/charmisc.df:708
+msgctxt "deathforth/charmisc.df"
+msgid "This greatsword cuts through 4 zombies at once!"
+msgstr "이 그레이트소드는 좀비 4마리를 한 번에 벱니다!"
+
+#: deathforth/charmisc.df:709
+msgctxt "deathforth/charmisc.df"
+msgid "COLD STEEL KNIVES!"
+msgstr "콜드 스틸 나이프!"
+
+#: deathforth/charmisc.df:710
+msgctxt "deathforth/charmisc.df"
+msgid "You won't believe how light this is!"
+msgstr "얼마나 가벼운지 믿기지 않으실 겁니다!"
+
+#: deathforth/charmisc.df:711
+msgctxt "deathforth/charmisc.df"
+msgid "You could do pull-ups with this thing, no problem!"
+msgstr "이걸로 턱걸이를 해도 끄떡없어요!"
+
+#: deathforth/charmisc.df:712
+msgctxt "deathforth/charmisc.df"
+msgid "Easily chops skateboards *and* surfboards in half!"
+msgstr "스케이트보드 *그리고* 서핑보드도 가볍게 반으로 잘라 버립니다!"
+
+#: deathforth/charmisc.df:713
+msgctxt "deathforth/charmisc.df"
+msgid "The sword world continues to overlook the majesty of this greatsword!"
+msgstr "검의 세계는 아직도 이 그레이트소드의 위엄을 모릅니다!"
+
+#: deathforth/charmisc.df:714
+msgctxt "deathforth/charmisc.df"
+msgid "For what you get, six pounds of sword, it's very reasonably priced!"
+msgstr "3킬로그램짜리 검을 생각하면 아주 합리적인 가격입니다!"
+
+#: deathforth/charmisc.df:715
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"Built by Cold Steel, it'll hold its own cutting with any sword in the world!"
+msgstr "콜드 스틸이 만든 이 검은 세계 어떤 검과 견줘도 손색없는 절삭력을 보여 줍니다!"
+
+#: deathforth/charmisc.df:716
+msgctxt "deathforth/charmisc.df"
+msgid "Flick, flick, flick! And up comes apart a group of zombies!"
+msgstr "휙, 휙, 휙! 좀비 무리가 산산조각 납니다!"
+
+#: deathforth/charmisc.df:717
+msgctxt "deathforth/charmisc.df"
+msgid "The greatsword is underappreciated, in my opinion."
+msgstr "제 생각에 그레이트소드는 너무 저평가되어 있어요."
+
+#: deathforth/charmisc.df:718
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"A big sword like this, can make it look easy to make that difficult cut."
+msgstr "이렇게 큰 검이면 어려운 베기도 쉬워 보이게 만들죠."
+
+#: deathforth/charmisc.df:719
+msgctxt "deathforth/charmisc.df"
+msgid "Zombies are no match for the greatsword, though!"
+msgstr "좀비는 그레이트소드 상대가 안 됩니다!"
+
+#: deathforth/charmisc.df:720
+msgctxt "deathforth/charmisc.df"
+msgid "That was absolutely effortless!"
+msgstr "전혀 힘 하나 안 들었어요!"
+
+#: deathforth/charmisc.df:721
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"If you're strong enough to wield a greatsword, it's an enormous advantage."
+msgstr "그레이트소드를 휘두를 힘만 있다면, 엄청난 이점이 됩니다."
+
+#: deathforth/charmisc.df:722
+msgctxt "deathforth/charmisc.df"
+msgid "This thing is a room wrecker, a yard wrecker, a street wrecker..."
+msgstr "이건 방 파괴자, 마당 파괴자, 거리 파괴자..."
+
+#: deathforth/charmisc.df:723
+msgctxt "deathforth/charmisc.df"
+msgid "It's just unbelievable, the cutting power and this beautiful sword."
+msgstr "믿을 수 없는 절삭력, 그리고 이 아름다운 검."
+
+#: deathforth/charmisc.df:724
+msgctxt "deathforth/charmisc.df"
+msgid "Having this sword in the zombocalypse? I've clearly enjoyed that."
+msgstr "좀비 종말에 이 검을 갖고 있다니? 확실히 즐기고 있습니다."
+
+#: deathforth/charmisc.df:725
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"This is why you buy a greatsword, because you can make those huge cuts."
+msgstr "그래서 그레이트소드를 사는 겁니다. 이런 거대한 베기를 할 수 있으니까요."
+
+#: deathforth/charmisc.df:726
+msgctxt "deathforth/charmisc.df"
+msgid "Man, this thing just sails through zombies."
+msgstr "와, 이건 좀비 사이를 그냥 미끄러지듯 지나갑니다."
+
+#: deathforth/charmisc.df:727
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"No one is going to be able to take advantage of you when you have a "
+"greatsword in your house!"
+msgstr "집에 그레이트소드가 있으면 아무도 당신을 얕보지 못합니다!"
+
+#: deathforth/charmisc.df:728
+msgctxt "deathforth/charmisc.df"
+msgid "What more do you want from a sword?"
+msgstr "검에 뭘 더 바라세요?"
+
+#: deathforth/charmisc.df:729
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"How do you beat this? Tremendous reach, cuts an ENORMOUS FLIPPIN' HOLE!"
+msgstr "이걸 어떻게 이겨요? 엄청난 리치, 어마어마하게 큰 구멍을 뚫어 버립니다!"
+
+#: deathforth/charmisc.df:730
+msgctxt "deathforth/charmisc.df"
+msgid "What more can I do to convince you to buy a greatsword?"
+msgstr "그레이트소드를 사게 하려면 제가 뭘 더 해야 할까요?"
+
+#: deathforth/charmisc.df:731
+msgctxt "deathforth/charmisc.df"
+msgid "Buy a Cold Steel greatsword. Don't be ripped off by my competitors!"
+msgstr "콜드 스틸 그레이트소드를 사세요. 경쟁사한테 바가지 쓰지 마세요!"
+
+#: deathforth/charmisc.df:732
+msgctxt "deathforth/charmisc.df"
+msgid "Don't be ripped off by my competitors selling you absolute junk!"
+msgstr "완전 쓰레기를 파는 경쟁사한테 바가지 쓰지 마세요!"
+
+#: deathforth/charmisc.df:733
+msgctxt "deathforth/charmisc.df"
+msgid "You'll praise my name, you're going to love this sword."
+msgstr "제 이름을 찬양하게 될 겁니다. 이 검을 사랑하게 될 거예요."
+
+#: deathforth/charmisc.df:775
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"C. Thompson is the CEO of Cold Steel Knives. He's giving you a live product "
+"demo!"
+msgstr "은(는) 콜드 스틸 나이프의 CEO C. 톰슨이다. 지금 실시간 제품 시연 중이다!"
+
+#: deathforth/charmisc.df:794
+msgctxt "deathforth/charmisc.df"
+msgid "baa."
+msgstr "메에."
+
+#: deathforth/charmisc.df:812
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a goat. You don't own it, it's just following you by its own free will."
+msgstr "은(는) 염소다. 네가 키우는 게 아니라, 제 발로 따라오고 있을 뿐이다."
+
+#: deathforth/charmisc.df:836
+msgctxt "deathforth/charmisc.df"
+msgid "is the ultimate sports fan."
+msgstr "은(는) 궁극의 스포츠 팬이다."
+
+#: deathforth/charmisc.df:854
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"wears a thick suit of plate armor. He lost the helmet, making him "
+"vulnerable."
+msgstr "은(는) 두꺼운 판금 갑옷을 입었다. 투구를 잃어버려서 머리가 약점이다."
+
+#: deathforth/charmisc.df:871
+msgctxt "deathforth/charmisc.df"
+msgid "was summoned in a dark ritual of antique can sacrifice."
+msgstr "은(는) 골동품 통조림을 바치는 어둠의 의식으로 소환되었다."
+
+#: deathforth/charmisc.df:883
+msgctxt "deathforth/charmisc.df"
+msgid "is fleeing from a ..... mysterious past............"
+msgstr "은(는) ..... 수상한 과거로부터 도망치는 중이다............"
+
+#: deathforth/charmisc.df:893
+msgctxt "deathforth/charmisc.df"
+msgid "is someone in a giant monster costume. You can see the zipper."
+msgstr "은(는) 거대 괴수 탈을 쓴 사람이다. 지퍼가 보인다."
+
+#: deathforth/charmisc.df:913
+msgctxt "deathforth/charmisc.df"
+msgid "is some sort of hairy gnome? Has gnomish healing factor."
+msgstr "은(는) 털 많은 노움인가? 노움 특유의 치유력이 있다."
+
+#: deathforth/charmisc.df:934
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a special agent, on a special mission, with a special gun. He won't "
+"betray you."
+msgstr "은(는) 특수 임무를 맡은 특수 요원이다. 특수한 총을 들고 있다. 배신하지 않을 것이다."
+
+#: deathforth/charmisc.df:960
+msgctxt "deathforth/charmisc.df"
+msgid "ARISE, SKELETON ARMY!"
+msgstr "일어나라, 해골 군단이여!"
+
+#: deathforth/charmisc.df:985
+msgctxt "deathforth/charmisc.df"
+msgid "is constantly followed around by skeletons."
+msgstr "은(는) 늘 해골들이 졸졸 따라다닌다."
+
+#: deathforth/charmisc.df:1004
+msgctxt "deathforth/charmisc.df"
+msgid "is now a HALF-SKELETON that leads other skeletons."
+msgstr "은(는) 이제 다른 해골들을 이끄는 반쪽 해골이다."
+
+#: deathforth/charmisc.df:1007
+msgctxt "deathforth/charmisc.df"
+msgid "has been fully upgraded to FULL-SKELETON. So cool."
+msgstr "은(는) 완전한 해골로 풀 업그레이드되었다. 멋지다."
+
+#: deathforth/charmisc.df:1021
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a living symbol of AMERICA, which no longer exists if you want to get "
+"technical."
+msgstr "은(는) 미국의 살아 있는 상징이다. 엄밀히 따지면 미국은 이제 존재하지 않지만."
+
+#: deathforth/charmisc.df:1032
+msgctxt "deathforth/charmisc.df"
+msgid "is a living symbol of AMERICA, currently escaping to Canada."
+msgstr "은(는) 미국의 살아 있는 상징이다. 지금은 캐나다로 도망치는 중이다."
+
+#: deathforth/charmisc.df:1042
+msgctxt "deathforth/charmisc.df"
+msgid "is some pig."
+msgstr "은(는) 그냥 돼지다."
+
+#: deathforth/charmisc.df:1079
+msgctxt "deathforth/charmisc.df"
+msgid "is a fighter from pre-civilization, recently thawed from ice."
+msgstr "은(는) 문명 이전 시대의 전사로, 최근 얼음 속에서 해동되었다."
+
+#: deathforth/charmisc.df:1096
+msgctxt "deathforth/charmisc.df"
+msgid "is a super fighting robot, or some weird guy in tights."
+msgstr "은(는) 슈퍼 전투 로봇이다. 아니면 쫄쫄이 입은 이상한 남자거나."
+
+#: deathforth/charmisc.df:1108
+msgctxt "deathforth/charmisc.df"
+msgid "wanders the world, helping others, seeking redemption."
+msgstr "은(는) 세상을 떠돌며 남을 돕고 속죄를 구한다."
+
+#: deathforth/charmisc.df:1121
+msgctxt "deathforth/charmisc.df"
+msgid "is a traveling singer you hired at a Ren Faire."
+msgstr "은(는) 중세 축제에서 고용한 떠돌이 가수다."
+
+#: deathforth/charmisc.df:1146
+msgctxt "deathforth/charmisc.df"
+msgid "wears a fireproof suit at all times, including the helmet at meals."
+msgstr "은(는) 늘 방화복을 입고 있다. 밥 먹을 때도 헬멧까지 쓴다."
+
+#: deathforth/charmisc.df:1163
+msgctxt "deathforth/charmisc.df"
+msgid "is a mutated green rodent of some sort."
+msgstr "은(는) 일종의 초록색 돌연변이 설치류다."
+
+#: deathforth/charmisc.df:1211
+msgctxt "deathforth/charmisc.df"
+msgid "is a high-tech space supersoldier with a personal arsenal of weapons."
+msgstr "은(는) 개인 무기고를 갖춘 첨단 우주 슈퍼솔저다."
+
+#: deathforth/charmisc.df:1221
+msgctxt "deathforth/charmisc.df"
+msgid "is hauling around a gigantic chunk of wood."
+msgstr "은(는) 거대한 통나무를 끌고 다닌다."
+
+#: deathforth/charmisc.df:1247
+msgctxt "deathforth/charmisc.df"
+msgid "can't run that fast on account her prized antique peg leg."
+msgstr "은(는) 아끼는 골동품 의족 때문에 빨리 달리지 못한다."
+
+#: deathforth/charmisc.df:1283
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is carrying her treasured heirloom shotgun. It's been in the family for "
+"generations."
+msgstr "은(는) 대대로 내려온 소중한 가보 산탄총을 들고 다닌다."
+
+#: deathforth/charmisc.df:1306
+msgctxt "deathforth/charmisc.df"
+msgid "is the personification of Valentine's Day."
+msgstr "은(는) 밸런타인데이의 화신이다."
+
+#: deathforth/charmisc.df:1368
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is about to get barbaric with her giant stash of arrows and random weapons."
+msgstr "은(는) 거대한 화살 더미와 아무 무기나 들고 야만적으로 날뛸 참이다."
+
+#: deathforth/charmisc.df:1648
+msgctxt "deathforth/charmisc.df"
+msgid "isn't sure if it's pronounced 'BREE-OO' or 'BRY-OO' or just 'BROO'."
+msgstr "은(는) 이름이 '브리-우'인지 '브라이-우'인지 그냥 '브루'인지 잘 모른다."
+
+#: deathforth/charmisc.df:1667
+msgctxt "deathforth/charmisc.df"
+msgid "is a tall semi-naked guy somehow with MAGICAL KICKBOXING."
+msgstr "은(는) 키 크고 반쯤 벌거벗은 남자인데, 어째선지 마법 킥복싱을 쓴다."
+
+#: deathforth/charmisc.df:1675
+msgctxt "deathforth/charmisc.df"
+msgid "is not a broom so STOP with the SWEEPING"
+msgstr "은(는) 빗자루가 아니니까 쓸지 좀 마"
+
+#: deathforth/charmisc.df:1765
+msgctxt "deathforth/charmisc.df"
+msgid "squek"
+msgstr "찍"
+
+#: deathforth/charmisc.df:1799
+msgctxt "deathforth/charmisc.df"
+msgid "is a main character from Punch Quest."
+msgstr "은(는) Punch Quest의 주인공이다."
+
+#: deathforth/charmisc.df:1861
+msgctxt "deathforth/charmisc.df"
+msgid "is a magical forest creature, not riding a large rodent."
+msgstr "은(는) 마법의 숲 생물이다. 큰 설치류를 타고 있지 않다."
+
+#: deathforth/charmisc.df:1937
+msgctxt "deathforth/charmisc.df"
+msgid "OOooOOOoooOOooo!"
+msgstr "오오우오오오우오오우!"
+
+#: deathforth/charmisc.df:1967
+msgctxt "deathforth/charmisc.df"
+msgid "is a magical forest creature, riding a large rodent."
+msgstr "은(는) 마법의 숲 생물이다. 큰 설치류를 타고 있다."
+
+#: deathforth/charmisc.df:2008
+msgctxt "deathforth/charmisc.df"
+msgid "CharBro's iconic Stamp"
+msgstr "CharBro의 상징적인 스탠드"
+
+#: deathforth/charmisc.df:2037
+msgctxt "deathforth/charmisc.df"
+msgid "Yare yare daze...."
+msgstr "야레야레다제...."
+
+#: deathforth/charmisc.df:2038
+msgctxt "deathforth/charmisc.df"
+msgid "Good Grief!"
+msgstr "이런 맙소사!"
+
+#: deathforth/charmisc.df:2039
+msgctxt "deathforth/charmisc.df"
+msgid "S DOGGY DOG!"
+msgstr "S 도기 도그!"
+
+#: deathforth/charmisc.df:2040
+msgctxt "deathforth/charmisc.df"
+msgid "I SUMMON MY STAMP: S DOGGY DOG!"
+msgstr "나의 스탠드를 소환한다: S 도기 도그!"
+
+#: deathforth/charmisc.df:2075
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a Stamp User. His catch phrase, roughly translated from Japanese, means "
+"'Good Grief'."
+msgstr "은(는) 스탠드 사용자다. 그의 입버릇은 일본어를 대충 번역하면 '이런 맙소사'라는 뜻이다."
+
+#: deathforth/charmisc.df:2125
+msgctxt "deathforth/charmisc.df"
+msgid "is an embodiment of propane"
+msgstr "은(는) 프로판의 화신이다"
+
+#: deathforth/charmisc.df:2152
+msgctxt "deathforth/charmisc.df"
+msgid "THAT BOY... IS NOT RIGHT..."
+msgstr "저 녀석... 뭔가 이상해..."
+
+#: deathforth/charmisc.df:2153
+msgctxt "deathforth/charmisc.df"
+msgid "BWAAAAAAAAAH!"
+msgstr "브와아아아아아아!"
+
+#: deathforth/charmisc.df:2154
+msgctxt "deathforth/charmisc.df"
+msgid "PRO-PAIN!"
+msgstr "프로-페인!"
+
+#: deathforth/charmisc.df:2155
+msgctxt "deathforth/charmisc.df"
+msgid "I TELL YOU WHAT"
+msgstr "내 말 좀 들어 봐"
+
+#: deathforth/charmisc.df:2156
+msgctxt "deathforth/charmisc.df"
+msgid "PRO-PAIN AND PRO-PAIN ACCESSORIES"
+msgstr "프로-페인과 프로-페인 액세서리"
+
+#: deathforth/charmisc.df:2157
+msgctxt "deathforth/charmisc.df"
+msgid "YOU DON'T GET THAT WITH A CLEAN BURNING FUEL!"
+msgstr "깨끗하게 타는 연료면 그런 일 없다고!"
+
+#: deathforth/charmisc.df:2158
+msgctxt "deathforth/charmisc.df"
+msgid "I SUMMON MY STAMP: PRO-PAIN!"
+msgstr "나의 스탠드를 소환한다: 프로-페인!"
+
+#: deathforth/charmisc.df:2159
+msgctxt "deathforth/charmisc.df"
+msgid "TASTE THE MEAT *AND* THE HEAT"
+msgstr "고기 맛 *그리고* 불맛을 느껴 봐"
+
+#: deathforth/charmisc.df:2198
+msgctxt "deathforth/charmisc.df"
+msgid "is a Stamp User. He claims to sell pro-pain and pro-pain accessories."
+msgstr "은(는) 스탠드 사용자다. 프로-페인과 프로-페인 액세서리를 판다고 주장한다."
+
+#: deathforth/charmisc.df:2217
+msgctxt "deathforth/charmisc.df"
+msgid "is a very large dawg"
+msgstr "은(는) 아주 큰 멍멍이다"
+
+#: deathforth/charmisc.df:2242
+msgctxt "deathforth/charmisc.df"
+msgid "SFX: [MENACING BARK]"
+msgstr "효과음: [위협적인 짖는 소리]"
+
+#: deathforth/charmisc.df:2242
+msgctxt "deathforth/charmisc.df"
+msgid "SFX: [GIANT-DAWG SUMMON THEME]"
+msgstr "효과음: [자이언트 도그 소환 테마]"
+
+#: deathforth/charmisc.df:2265
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is a Stamp User and a dog. Stamps are manifestations of intense psychic "
+"power, but they pretty much just punch things."
+msgstr "은(는) 스탠드 사용자이자 개다. 스탠드는 강력한 초능력의 발현이지만, 사실상 그냥 뭘 때린다."
+
+#: deathforth/charmisc.df:2284
+msgctxt "deathforth/charmisc.df"
+msgid "ZE WABBITO"
+msgstr "제 와비토"
+
+#: deathforth/charmisc.df:2285
+msgctxt "deathforth/charmisc.df"
+msgid "WABBIT SEASON!"
+msgstr "토끼 사냥철이다!"
+
+#: deathforth/charmisc.df:2286
+msgctxt "deathforth/charmisc.df"
+msgid "I SUMMON MY STAMP: NUGGS CHUNGUS!"
+msgstr "나의 스탠드를 소환한다: 너그스 청거스!"
+
+#: deathforth/charmisc.df:2287
+msgctxt "deathforth/charmisc.df"
+msgid "NUGGS CHUNGUS!"
+msgstr "너그스 청거스!"
+
+#: deathforth/charmisc.df:2326
+msgctxt "deathforth/charmisc.df"
+msgid ""
+"is maybe the ultimate Stamp User, and has something very strange going on "
+"with his head/hair situation."
+msgstr "은(는) 아마도 궁극의 스탠드 사용자다. 그리고 머리인지 머리카락인지가 뭔가 아주 이상하다."
+
+#: deathforth/charmisc.df:2370
+msgctxt "deathforth/charmisc.df"
+msgid "worked in construction. Not related to the famous Harry Ham."
+msgstr "은(는) 건설 노동자였다. 그 유명한 해리 햄과는 관계없다."
+
+#: deathforth/charmisc.df:2392
+msgctxt "deathforth/charmisc.df"
+msgid " pukeyballs"
+msgstr " 퓨키볼"
+
+#: deathforth/charmisc.df:2434
+msgctxt "deathforth/charmisc.df"
+msgid "is a Pukeymon. Most of them went away after the apocalypse."
+msgstr "은(는) 퓨키몬이다. 종말 이후로 대부분 사라졌다."
+
+#: deathforth/charmisc.df:2502
+msgctxt "deathforth/charmisc.df"
+msgid "needs to find some "
+msgstr "은(는) 캐나다에서 "
+
+#: deathforth/charmisc.df:2502
+msgctxt "deathforth/charmisc.df"
+msgid "hot babes"
+msgstr "섹시한 여자들"
+
+#: deathforth/charmisc.df:2502
+msgctxt "deathforth/charmisc.df"
+msgid " in Canada."
+msgstr "을(를) 찾아야 한다."
+
+#: deathforth/charmisc.df:2528
+msgctxt "deathforth/charmisc.df"
+msgid "is always making more maps!"
+msgstr "은(는) 늘 지도를 더 만들고 있다!"
+
+#: deathforth/charmisc.df:2545
+msgctxt "deathforth/charmisc.df"
+msgid "used to be in the military, before most of it got zombified."
+msgstr "은(는) 군대가 대부분 좀비가 되기 전에 군인이었다."
+
+#: deathforth/charmisc.df:2569
+msgctxt "deathforth/charmisc.df"
+msgid "is some random guy. At least he says so."
+msgstr "은(는) 그냥 아무개다. 적어도 본인은 그렇다고 한다."
+
+#: deathforth/charmisc.df:2608
+msgctxt "deathforth/charmisc.df"
+msgid "Team Dexterity Up!"
+msgstr "일행 민첩 상승!"
+
+#: deathforth/charmisc.df:2634
+msgctxt "deathforth/charmisc.df"
+msgid "Team Fitness Up!"
+msgstr "일행 체력 상승!"
+
+#: deathforth/charmisc.df:2660
+msgctxt "deathforth/charmisc.df"
+msgid "Team Strength Up!"
+msgstr "일행 근력 상승!"
+
+#: deathforth/charmisc.df:2686
+msgctxt "deathforth/charmisc.df"
+msgid "Team Shooting Up!"
+msgstr "일행 사격 상승!"
+
+#: deathforth/charmisc.df:2712
+msgctxt "deathforth/charmisc.df"
+msgid "Team Medical Up!"
+msgstr "일행 의술 상승!"
+
+#: deathforth/charmisc.df:2738
+msgctxt "deathforth/charmisc.df"
+msgid "Team Mechanical Up!"
+msgstr "일행 기계 상승!"
+
+#: deathforth/charmisc.df:3054
+msgctxt "deathforth/charmisc.df"
+msgid "CRIT!"
+msgstr "치명타!"
+
+#: deathforth/charstatmods.df:189
+msgctxt "deathforth/charstatmods.df"
+msgid " is "
+msgstr "은(는) "
+
+#: deathforth/charstatmods.df:216
+msgctxt "deathforth/charstatmods.df"
+msgid " spending the night studying."
+msgstr " 밤새 공부하는 중."
+
+#: deathforth/charstatmods.df:217
+msgctxt "deathforth/charstatmods.df"
+msgid " staying up all night researching."
+msgstr " 밤새 조사하는 중."
+
+#: deathforth/charstatmods.df:218
+msgctxt "deathforth/charstatmods.df"
+msgid " looking at old novels all night."
+msgstr " 밤새 옛날 소설을 읽는 중."
+
+#: deathforth/charstatmods.df:219
+msgctxt "deathforth/charstatmods.df"
+msgid " browsing through old magazines all night."
+msgstr " 밤새 옛날 잡지를 뒤적이는 중."
+
+#: deathforth/charstatmods.df:220
+msgctxt "deathforth/charstatmods.df"
+msgid " thinking over their life for a while."
+msgstr " 한동안 자기 인생을 돌아보는 중."
+
+#: deathforth/charstatmods.df:221
+msgctxt "deathforth/charstatmods.df"
+msgid " getting deep into an old encyclopedia."
+msgstr " 오래된 백과사전에 푹 빠진 중."
+
+#: deathforth/charstatmods.df:226
+msgctxt "deathforth/charstatmods.df"
+msgid " manages to find some rest, after"
+msgstr "은(는) 그럭저럭 쉬었다. 그 전에"
+
+#: deathforth/charstatmods.df:241
+msgctxt "deathforth/charstatmods.df"
+msgid " manages to find some rest."
+msgstr "은(는) 그럭저럭 쉬었다."
+
+#: deathforth/charstatmods.df:302
+msgctxt "deathforth/charstatmods.df"
+msgid "SICK"
+msgstr "아픔"
+
+#: deathforth/charstatmods.df:310
+msgctxt "deathforth/charstatmods.df"
+msgid "UGH, FEEL PUKEY"
+msgstr "으, 토할 것 같아"
+
+#: deathforth/charstatmods.df:316
+msgctxt "deathforth/charstatmods.df"
+msgid "CRITTIN'"
+msgstr "치명타 중"
+
+#: deathforth/charstatmods.df:330
+msgctxt "deathforth/charstatmods.df"
+msgid "TIRED"
+msgstr "피곤"
+
+#: deathforth/charstatmods.df:337
+msgctxt "deathforth/charstatmods.df"
+msgid "SUPERTRAINED"
+msgstr "초훈련됨"
+
+#: deathforth/charstatmods.df:341
+msgctxt "deathforth/charstatmods.df"
+msgid "FRIEND OF DOG"
+msgstr "개의 친구"
+
+#: deathforth/charstatmods.df:345
+msgctxt "deathforth/charstatmods.df"
+msgid "EXPLORER"
+msgstr "탐험가"
+
+#: deathforth/charstatmods.df:349
+msgctxt "deathforth/charstatmods.df"
+msgid "CLUMSY DOG"
+msgstr "덤벙대는 개"
+
+#: deathforth/charstatmods.df:385
+msgctxt "deathforth/charstatmods.df"
+msgid "NOT SAPIENT"
+msgstr "지성 없음"
+
+#: deathforth/charstatmods.df:393
+msgctxt "deathforth/charstatmods.df"
+msgid "COFFEED UP"
+msgstr "커피 충전"
+
+#: deathforth/charstatmods.df:401
+msgctxt "deathforth/charstatmods.df"
+msgid "SELLER"
+msgstr "판매왕"
+
+#: deathforth/charstatmods.df:405
+msgctxt "deathforth/charstatmods.df"
+msgid "SOUNDSLEEP"
+msgstr "꿀잠"
+
+#: deathforth/charstatmods.df:409
+msgctxt "deathforth/charstatmods.df"
+msgid "PATHFINDER"
+msgstr "길잡이"
+
+#: deathforth/charstatmods.df:462
+msgctxt "deathforth/charstatmods.df"
+msgid "*GRUNT*"
+msgstr "*끙*"
+
+#: deathforth/charstatmods.df:470
+msgctxt "deathforth/charstatmods.df"
+msgid "*FLEX*"
+msgstr "*근육 자랑*"
+
+#: deathforth/charstatmods.df:485
+msgctxt "deathforth/charstatmods.df"
+msgid "BODYSLAM!"
+msgstr "바디슬램!"
+
+#: deathforth/charstatmods.df:486
+msgctxt "deathforth/charstatmods.df"
+msgid "SPINNING PILEDRIVER!"
+msgstr "스피닝 파일드라이버!"
+
+#: deathforth/charstatmods.df:487
+msgctxt "deathforth/charstatmods.df"
+msgid "FINAL ATOMIC BUSTER!"
+msgstr "파이널 아토믹 버스터!"
+
+#: deathforth/charstatmods.df:488
+msgctxt "deathforth/charstatmods.df"
+msgid "PILEDRIVER!"
+msgstr "파일드라이버!"
+
+#: deathforth/charstatmods.df:489
+msgctxt "deathforth/charstatmods.df"
+msgid "EL SATAN ATOMIC PUNCH!"
+msgstr "엘 사탄 아토믹 펀치!"
+
+#: deathforth/charstatmods.df:490
+msgctxt "deathforth/charstatmods.df"
+msgid "BARON VON SLAMMIN SLAMMER!"
+msgstr "바론 폰 슬래밍 슬래머!"
+
+#: deathforth/charstatmods.df:491
+msgctxt "deathforth/charstatmods.df"
+msgid "PENULTIMATE BONE BREAKER!"
+msgstr "끝에서 두 번째 본 브레이커!"
+
+#: deathforth/charstatmods.df:492
+msgctxt "deathforth/charstatmods.df"
+msgid "JUDO FLIP!"
+msgstr "유도 메치기!"
+
+#: deathforth/charstatmods.df:493
+msgctxt "deathforth/charstatmods.df"
+msgid "MEGA-BODYSLAM!"
+msgstr "메가 바디슬램!"
+
+#: deathforth/charstatmods.df:494
+msgctxt "deathforth/charstatmods.df"
+msgid "FLORIDA CRUSHER!"
+msgstr "플로리다 크러셔!"
+
+#: deathforth/charstatmods.df:495
+msgctxt "deathforth/charstatmods.df"
+msgid "DR CRUSHER'S SPINE RIPPER!"
+msgstr "닥터 크러셔의 척추 뽑기!"
+
+#: deathforth/charstatmods.df:503 deathforth/charstatmods.df:1268
+msgctxt "deathforth/charstatmods.df"
+msgid "FOREIGN OBJECT!"
+msgstr "반칙 도구!"
+
+#: deathforth/charstatmods.df:518
+msgctxt "deathforth/charstatmods.df"
+msgid "En Garde!"
+msgstr "앙 가르드!"
+
+#: deathforth/charstatmods.df:519
+msgctxt "deathforth/charstatmods.df"
+msgid "Oh ho ho!"
+msgstr "오 호 호!"
+
+#: deathforth/charstatmods.df:520
+msgctxt "deathforth/charstatmods.df"
+msgid "I have you now!"
+msgstr "잡았다!"
+
+#: deathforth/charstatmods.df:521
+msgctxt "deathforth/charstatmods.df"
+msgid "Parry and riposte!"
+msgstr "막고 찌르기!"
+
+#: deathforth/charstatmods.df:522
+msgctxt "deathforth/charstatmods.df"
+msgid "They're all too slow for me!"
+msgstr "다들 나한텐 너무 느려!"
+
+#: deathforth/charstatmods.df:523
+msgctxt "deathforth/charstatmods.df"
+msgid "Now for the coup de grace!"
+msgstr "이제 마무리 일격이다!"
+
+#: deathforth/charstatmods.df:524
+msgctxt "deathforth/charstatmods.df"
+msgid "Ha!"
+msgstr "하!"
+
+#: deathforth/charstatmods.df:525
+msgctxt "deathforth/charstatmods.df"
+msgid "Thrust! Dodge! Ha!"
+msgstr "찌르고! 피하고! 하!"
+
+#: deathforth/charstatmods.df:526
+msgctxt "deathforth/charstatmods.df"
+msgid "Ha ha! Ho ho!"
+msgstr "하 하! 호 호!"
+
+#: deathforth/charstatmods.df:527
+msgctxt "deathforth/charstatmods.df"
+msgid "Too slow! Fie!"
+msgstr "너무 느려! 쳇!"
+
+#: deathforth/charstatmods.df:542
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAARL!"
+msgstr "카아아아알!"
+
+#: deathforth/charstatmods.df:543
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAAAAAARL!"
+msgstr "카아아아아아아아아아알!"
+
+#: deathforth/charstatmods.df:544
+msgctxt "deathforth/charstatmods.df"
+msgid "CARL! CAAAAARL!"
+msgstr "칼! 카아아아알!"
+
+#: deathforth/charstatmods.df:545
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAAAAAAAAAAAAAARL!"
+msgstr "카아아아아아아아아아아아아아아알!"
+
+#: deathforth/charstatmods.df:546 deathforth/charstatmods.df:550
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAARL!"
+msgstr "카아아알!"
+
+#: deathforth/charstatmods.df:548
+msgctxt "deathforth/charstatmods.df"
+msgid "I'm doin stuff"
+msgstr "나 뭐 하는 중이야"
+
+#: deathforth/charstatmods.df:549
+msgctxt "deathforth/charstatmods.df"
+msgid "CORAL!"
+msgstr "코랄!"
+
+#: deathforth/charstatmods.df:551
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAAAAARL!"
+msgstr "카아아아아아아아아알!"
+
+#: deathforth/charstatmods.df:552
+msgctxt "deathforth/charstatmods.df"
+msgid "CARL! CARL! CARL!"
+msgstr "칼! 칼! 칼!"
+
+#: deathforth/charstatmods.df:553
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAAAAAAAAAARL!"
+msgstr "카아아아아아아아아아아아아알!"
+
+#: deathforth/charstatmods.df:554
+msgctxt "deathforth/charstatmods.df"
+msgid "CAARL!"
+msgstr "카알!"
+
+#: deathforth/charstatmods.df:555
+msgctxt "deathforth/charstatmods.df"
+msgid "CRL!"
+msgstr "클!"
+
+#: deathforth/charstatmods.df:556
+msgctxt "deathforth/charstatmods.df"
+msgid "WAYNE!"
+msgstr "웨인!"
+
+#: deathforth/charstatmods.df:558
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAARL!"
+msgstr "카아알!"
+
+#: deathforth/charstatmods.df:559
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAARL!"
+msgstr "카아아아아알!"
+
+#: deathforth/charstatmods.df:560 deathforth/charstatmods.df:1339
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAARL!"
+msgstr "카아아아아아알!"
+
+#: deathforth/charstatmods.df:561
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAARL!"
+msgstr "카아아아아아아알!"
+
+#: deathforth/charstatmods.df:562
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAARL!"
+msgstr "카아아아아아아아알!"
+
+#: deathforth/charstatmods.df:563
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAAARL!"
+msgstr "카아아아아아아아아알!"
+
+#: deathforth/charstatmods.df:564
+msgctxt "deathforth/charstatmods.df"
+msgid "CAAAAAAAAAAARL!"
+msgstr "카아아아아아아아아아알!"
+
+#: deathforth/charstatmods.df:589
+msgctxt "deathforth/charstatmods.df"
+msgid "KYAAA!"
+msgstr "캬아아!"
+
+#: deathforth/charstatmods.df:590
+msgctxt "deathforth/charstatmods.df"
+msgid "KYAAAAA!"
+msgstr "캬아아아아!"
+
+#: deathforth/charstatmods.df:591
+msgctxt "deathforth/charstatmods.df"
+msgid "HYAAAA!"
+msgstr "햐아아아!"
+
+#: deathforth/charstatmods.df:592
+msgctxt "deathforth/charstatmods.df"
+msgid "KYAAAAAAAAAAA!"
+msgstr "캬아아아아아아아아아아!"
+
+#: deathforth/charstatmods.df:593
+msgctxt "deathforth/charstatmods.df"
+msgid "HYWAAA!"
+msgstr "햐와아아!"
+
+#: deathforth/charstatmods.df:600
+msgctxt "deathforth/charstatmods.df"
+msgid "HAAUUUGH!"
+msgstr "하아우우욱!"
+
+#: deathforth/charstatmods.df:615
+msgctxt "deathforth/charstatmods.df"
+msgid "INSERT TELEPORT EFFECT HERE"
+msgstr "여기에 순간이동 효과 삽입"
+
+#: deathforth/charstatmods.df:627
+msgctxt "deathforth/charstatmods.df"
+msgid "EAT HAMMER, NERDS"
+msgstr "망치나 먹어라, 찐따들아"
+
+#: deathforth/charstatmods.df:652
+msgctxt "deathforth/charstatmods.df"
+msgid "NEIGH"
+msgstr "히힝"
+
+#: deathforth/charstatmods.df:697
+msgctxt "deathforth/charstatmods.df"
+msgid "hiss!"
+msgstr "하악!"
+
+#: deathforth/charstatmods.df:719
+msgctxt "deathforth/charstatmods.df"
+msgid "FART"
+msgstr "뿡"
+
+#: deathforth/charstatmods.df:740
+msgctxt "deathforth/charstatmods.df"
+msgid "Heart Beam!"
+msgstr "하트 빔!"
+
+#: deathforth/charstatmods.df:741
+msgctxt "deathforth/charstatmods.df"
+msgid "Heeeaaaart Beeeaaaam!"
+msgstr "하아아아트 비이이이임!"
+
+#: deathforth/charstatmods.df:742
+msgctxt "deathforth/charstatmods.df"
+msgid "Kyaaaaaa!"
+msgstr "꺄아아아아!"
+
+#: deathforth/charstatmods.df:743
+msgctxt "deathforth/charstatmods.df"
+msgid "You're in for it now!"
+msgstr "이제 각오해!"
+
+#: deathforth/charstatmods.df:744
+msgctxt "deathforth/charstatmods.df"
+msgid "LOVELY TRANSFORM!"
+msgstr "러블리 트랜스폼!"
+
+#: deathforth/charstatmods.df:745
+msgctxt "deathforth/charstatmods.df"
+msgid "*sparkles*"
+msgstr "*반짝반짝*"
+
+#: deathforth/charstatmods.df:746
+msgctxt "deathforth/charstatmods.df"
+msgid "*twirls*"
+msgstr "*빙글빙글*"
+
+#: deathforth/charstatmods.df:747
+msgctxt "deathforth/charstatmods.df"
+msgid "I can't believe senpai is a zombie!"
+msgstr "선배가 좀비라니 믿을 수 없어!"
+
+#: deathforth/charstatmods.df:1035
+msgctxt "deathforth/charstatmods.df"
+msgid "EH-ZER BEAM!"
+msgstr "에-저 빔!"
+
+#: deathforth/charstatmods.df:1035
+msgctxt "deathforth/charstatmods.df"
+msgid "O, CANADA"
+msgstr "오, 캐나다"
+
+#: deathforth/charstatmods.df:1035
+msgctxt "deathforth/charstatmods.df"
+msgid "HOSER"
+msgstr "촌뜨기"
+
+#: deathforth/charstatmods.df:1060
+msgctxt "deathforth/charstatmods.df"
+msgid "CRAFTY"
+msgstr "손재주"
+
+#: deathforth/charstatmods.df:1103
+msgctxt "deathforth/charstatmods.df"
+msgid "WEAPON MASTER"
+msgstr "무기 달인"
+
+#: deathforth/charstatmods.df:1201
+msgctxt "deathforth/charstatmods.df"
+msgid "is a dog. Dogs used to be pets, now most are feral."
+msgstr "은(는) 개다. 예전엔 반려동물이었지만 지금은 대부분 야생화됐다."
+
+#: deathforth/charstatmods.df:1227
+msgctxt "deathforth/charstatmods.df"
+msgid "is a singer, trying to make it big in this zombie world."
+msgstr "은(는) 이 좀비 세상에서 성공을 꿈꾸는 가수다."
+
+#: deathforth/charstatmods.df:1243
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is The Last Bodybuilder. He is the True Swole One, others are mere "
+"pretenders."
+msgstr "은(는) 최후의 보디빌더다. 그가 진정한 근육의 화신이며, 나머지는 다 가짜다."
+
+#: deathforth/charstatmods.df:1278
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is a world famous wrestler from one of the countries where wrestling is "
+"real."
+msgstr "은(는) 레슬링이 진짜인 나라 출신의 세계적인 레슬러다."
+
+#: deathforth/charstatmods.df:1292
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"always knew that all that historical recreation swordfighting practice would"
+" pay off."
+msgstr "은(는) 역사 재현 검술 연습이 언젠가 빛을 볼 줄 알았다."
+
+#: deathforth/charstatmods.df:1337
+msgctxt "deathforth/charstatmods.df"
+msgid "used to be a sheriff. CAAAAAAAAAAAAAAAAAAAAAAAAAAAARL!!!"
+msgstr "은(는) 보안관이었다. 카아아아아아아아아아아아아아아아아아아아아아아아아아아알!!!"
+
+#: deathforth/charstatmods.df:1353
+msgctxt "deathforth/charstatmods.df"
+msgid "is a remnant from a far more civilized time."
+msgstr "은(는) 훨씬 문명화된 시대의 잔재다."
+
+#: deathforth/charstatmods.df:1369
+msgctxt "deathforth/charstatmods.df"
+msgid "isn't based off of anything and if he is, he is a parody."
+msgstr "은(는) 아무것도 따라 한 게 아니다. 혹시 그렇다면, 그건 패러디다."
+
+#: deathforth/charstatmods.df:1386
+msgctxt "deathforth/charstatmods.df"
+msgid "loves hanging out with friends!"
+msgstr "은(는) 친구들이랑 노는 걸 좋아한다!"
+
+#: deathforth/charstatmods.df:1404
+msgctxt "deathforth/charstatmods.df"
+msgid "is a dad. A post-apocalyptic dad."
+msgstr "은(는) 아빠다. 종말 이후의 아빠."
+
+#: deathforth/charstatmods.df:1424
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is a boxer, tough from fighting in the ring. She never takes her gloves off."
+msgstr "은(는) 링에서 단련된 강인한 복서다. 글러브를 절대 벗지 않는다."
+
+#: deathforth/charstatmods.df:1446
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is a scientist who left her secret lab for some field tests. She is NOT mad."
+msgstr "은(는) 현장 실험을 위해 비밀 연구실을 떠나온 과학자다. 미치지 않았다."
+
+#: deathforth/charstatmods.df:1466
+msgctxt "deathforth/charstatmods.df"
+msgid "is a sumo wrestler, keeping the ancient tradition of sumo alive."
+msgstr "은(는) 고대 스모 전통을 지켜 가는 스모 선수다."
+
+#: deathforth/charstatmods.df:1493
+msgctxt "deathforth/charstatmods.df"
+msgid "is some sorta celestial warrior. Whatever."
+msgstr "은(는) 일종의 천상의 전사다. 뭐 그렇다고."
+
+#: deathforth/charstatmods.df:1506
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"has similarities to that one guy, but is a completely original character."
+msgstr "은(는) 어떤 누군가와 닮았지만, 완전히 오리지널 캐릭터다."
+
+#: deathforth/charstatmods.df:1521
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is a fisherman. With civilization over, there's no more fishing regulations."
+msgstr "은(는) 어부다. 문명이 끝났으니 이제 낚시 규제도 없다."
+
+#: deathforth/charstatmods.df:1540
+msgctxt "deathforth/charstatmods.df"
+msgid "is a ninja. Her motives are mysterious whims. She's likely to vanish."
+msgstr "은(는) 닌자다. 동기는 수수께끼 같은 변덕이다. 언제 사라질지 모른다."
+
+#: deathforth/charstatmods.df:1562
+msgctxt "deathforth/charstatmods.df"
+msgid "is a former roller derby champion, ready to thump skulls."
+msgstr "은(는) 전 롤러 더비 챔피언으로, 두개골을 박살 낼 준비가 되어 있다."
+
+#: deathforth/charstatmods.df:1580
+msgctxt "deathforth/charstatmods.df"
+msgid "is a man in a horse mask. But he's more than a man. He's a horse."
+msgstr "은(는) 말 가면을 쓴 남자다. 하지만 그는 그냥 남자가 아니다. 그는 말이다."
+
+#: deathforth/charstatmods.df:1596
+msgctxt "deathforth/charstatmods.df"
+msgid "wears a thick suit of custom-fitted armor. She is nigh invulnerable!"
+msgstr "은(는) 맞춤 제작된 두꺼운 갑옷을 입었다. 거의 무적이다!"
+
+#: deathforth/charstatmods.df:1610
+msgctxt "deathforth/charstatmods.df"
+msgid "joined you in order to avoid doing her cleaning job."
+msgstr "은(는) 청소 일을 피하려고 일행에 합류했다."
+
+#: deathforth/charstatmods.df:1625
+msgctxt "deathforth/charstatmods.df"
+msgid "is the star of a very popular game that I can't say the title of."
+msgstr "은(는) 제목을 말할 수 없는 아주 유명한 게임의 주인공이다."
+
+#: deathforth/charstatmods.df:1642
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is a magical anime girl. She seems to be getting more anime by the day."
+msgstr "은(는) 마법 소녀다. 날이 갈수록 점점 더 애니처럼 변해 간다."
+
+#: deathforth/charstatmods.df:1758
+msgctxt "deathforth/charstatmods.df"
+msgid "is a cat. Cats used to be pets, now most are feral. And huge."
+msgstr "은(는) 고양이다. 예전엔 반려동물이었지만 지금은 대부분 야생화됐다. 그리고 거대하다."
+
+#: deathforth/charstatmods.df:1781
+msgctxt "deathforth/charstatmods.df"
+msgid "is the nicest cat in the world."
+msgstr "은(는) 세상에서 제일 착한 고양이다."
+
+#: deathforth/charstatmods.df:1795
+msgctxt "deathforth/charstatmods.df"
+msgid ""
+"is a hyper-intelligent wiener dog. \r\n"
+"\tFull name: "
+msgstr ""
+"은(는) 초지능 닥스훈트다. \r\n"
+"\t본명: "
+
+#: deathforth/charstatmods.df:1802
+msgctxt "deathforth/charstatmods.df"
+msgid "is the most overpowered Stamp."
+msgstr "은(는) 가장 사기적인 스탠드다."
+
+#: deathforth/charstats-textfill.df:6
+msgctxt "deathforth/charstats-textfill.df"
+msgid "clucks "
+msgstr "은(는) "
+
+#: deathforth/charstats-textfill.df:6
+msgctxt "deathforth/charstats-textfill.df"
+msgid " tongue a lot."
+msgstr " 혀를 자주 찬다."
+
+#: deathforth/charstats-textfill.df:7
+msgctxt "deathforth/charstats-textfill.df"
+msgid ""
+"was really well suited for the post-apocalypse. Mostly due to being a jerk."
+msgstr "은(는) 종말 이후 세상에 아주 잘 맞는다. 주로 재수 없는 성격 덕분에."
+
+#: deathforth/charstats-textfill.df:8
+msgctxt "deathforth/charstats-textfill.df"
+msgid "keeps looking around nervously."
+msgstr "은(는) 계속 불안하게 두리번거린다."
+
+#: deathforth/charstats-textfill.df:9 deathforth/charstats-textfill.df:25
+#: deathforth/charstats-textfill.df:31
+msgctxt "deathforth/charstats-textfill.df"
+msgid "claims "
+msgstr "은(는) "
+
+#: deathforth/charstats-textfill.df:9
+msgctxt "deathforth/charstats-textfill.df"
+msgid " was once a celebrity."
+msgstr "가 한때 유명인이었다고 주장한다."
+
+#: deathforth/charstats-textfill.df:10
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is covered in dirt."
+msgstr "은(는) 온몸이 흙투성이다."
+
+#: deathforth/charstats-textfill.df:11
+msgctxt "deathforth/charstats-textfill.df"
+msgid "smells funny. Not ha-ha funny."
+msgstr "은(는) 냄새가 웃기다. 웃긴 의미 말고."
+
+#: deathforth/charstats-textfill.df:12
+msgctxt "deathforth/charstats-textfill.df"
+msgid "really hogs space in the car."
+msgstr "은(는) 차에서 자리를 엄청 차지한다."
+
+#: deathforth/charstats-textfill.df:13
+msgctxt "deathforth/charstats-textfill.df"
+msgid "has a noble bearing."
+msgstr "은(는) 기품 있는 태도를 지녔다."
+
+#: deathforth/charstats-textfill.df:14
+msgctxt "deathforth/charstats-textfill.df"
+msgid "never seems to sweat."
+msgstr "은(는) 땀을 전혀 흘리지 않는 것 같다."
+
+#: deathforth/charstats-textfill.df:15
+msgctxt "deathforth/charstats-textfill.df"
+msgid "sweats copiously."
+msgstr "은(는) 땀을 비 오듯 흘린다."
+
+#: deathforth/charstats-textfill.df:16
+msgctxt "deathforth/charstats-textfill.df"
+msgid "snores, but then denies that "
+msgstr "은(는) 코를 골면서, "
+
+#: deathforth/charstats-textfill.df:16
+msgctxt "deathforth/charstats-textfill.df"
+msgid " snores."
+msgstr "는 코 안 곤다고 우긴다."
+
+#: deathforth/charstats-textfill.df:17
+msgctxt "deathforth/charstats-textfill.df"
+msgid "has a beady stare."
+msgstr "은(는) 눈빛이 날카롭다."
+
+#: deathforth/charstats-textfill.df:18
+msgctxt "deathforth/charstats-textfill.df"
+msgid "doesn't hold eye contact."
+msgstr "은(는) 눈을 잘 마주치지 않는다."
+
+#: deathforth/charstats-textfill.df:19
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is a secret nerd."
+msgstr "은(는) 숨은 너드다."
+
+#: deathforth/charstats-textfill.df:20
+msgctxt "deathforth/charstats-textfill.df"
+msgid "runs in a vaguely silly manner."
+msgstr "은(는) 어딘가 우스꽝스럽게 뛴다."
+
+#: deathforth/charstats-textfill.df:21
+msgctxt "deathforth/charstats-textfill.df"
+msgid "really hates canned food."
+msgstr "은(는) 통조림을 정말 싫어한다."
+
+#: deathforth/charstats-textfill.df:22
+msgctxt "deathforth/charstats-textfill.df"
+msgid "hopes to see a real life moose."
+msgstr "은(는) 진짜 무스를 보고 싶어 한다."
+
+#: deathforth/charstats-textfill.df:23
+msgctxt "deathforth/charstats-textfill.df"
+msgid "seems unusually calm."
+msgstr "은(는) 유난히 침착해 보인다."
+
+#: deathforth/charstats-textfill.df:24
+msgctxt "deathforth/charstats-textfill.df"
+msgid "keeps chewing gum."
+msgstr "은(는) 계속 껌을 씹는다."
+
+#: deathforth/charstats-textfill.df:25
+msgctxt "deathforth/charstats-textfill.df"
+msgid " was a top-secret supersoldier."
+msgstr "가 일급 기밀 슈퍼솔저였다고 주장한다."
+
+#: deathforth/charstats-textfill.df:26
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is always spouting pop culture quotes."
+msgstr "은(는) 늘 대중문화 명대사를 읊는다."
+
+#: deathforth/charstats-textfill.df:27
+msgctxt "deathforth/charstats-textfill.df"
+msgid "always seems a little distracted."
+msgstr "은(는) 늘 조금 정신이 딴 데 가 있는 것 같다."
+
+#: deathforth/charstats-textfill.df:28
+msgctxt "deathforth/charstats-textfill.df"
+msgid "claims to know an ancient anti-zombie martial art."
+msgstr "은(는) 고대의 대좀비 무술을 안다고 주장한다."
+
+#: deathforth/charstats-textfill.df:29
+msgctxt "deathforth/charstats-textfill.df"
+msgid "isn't sure about this whole Canada idea, but is here anyway."
+msgstr "은(는) 캐나다 계획이 영 미덥지 않지만, 일단 따라왔다."
+
+#: deathforth/charstats-textfill.df:30
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is, unknown to anyone, allergic to everything in Canada."
+msgstr "은(는) 아무도 모르지만, 캐나다에 있는 모든 것에 알레르기가 있다."
+
+#: deathforth/charstats-textfill.df:31
+msgctxt "deathforth/charstats-textfill.df"
+msgid " was a star athlete."
+msgstr "가 스타 운동선수였다고 주장한다."
+
+#: deathforth/charstats-textfill.df:32
+msgctxt "deathforth/charstats-textfill.df"
+msgid "twiddles "
+msgstr "은(는) 쉴 새 없이 "
+
+#: deathforth/charstats-textfill.df:32
+msgctxt "deathforth/charstats-textfill.df"
+msgid " thumbs near constantly."
+msgstr " 엄지를 빙빙 돌린다."
+
+#: deathforth/charstats-textfill.df:33
+msgctxt "deathforth/charstats-textfill.df"
+msgid "has a beautiful singing voice."
+msgstr "은(는) 노래하는 목소리가 아름답다."

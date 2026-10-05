@@ -1,0 +1,610 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/weapondef/M-sycamore.df:66
+msgctxt "deathforth/weapondef/M-sycamore.df"
+msgid "# PUNCH CHARGING #"
+msgstr "# 주먹 충전 중 #"
+
+#: deathforth/weapondef/M-sycamore.df:68
+msgctxt "deathforth/weapondef/M-sycamore.df"
+msgid "# CHARGING PUNCH #"
+msgstr "# 충전 주먹 #"
+
+#: deathforth/weapondef/M-sycamore.df:212
+msgctxt "deathforth/weapondef/M-sycamore.df"
+msgid "# HE HUURRLED HIS THUNDERSLAM #"
+msgstr "# 우레 강타를 날렸다 #"
+
+#: deathforth/weapondef/M-sycamore.df:450
+msgctxt "deathforth/weapondef/M-sycamore.df"
+msgid "#SO SLOW!#"
+msgstr "#너무 느려!#"
+
+#: deathforth/weapondef/M-sycamore.df:452
+msgctxt "deathforth/weapondef/M-sycamore.df"
+msgid "[Speed Mode]"
+msgstr "[속도 모드]"
+
+#: deathforth/weapondef/Sycamore_repo.df:145
+#: deathforth/weapondef/Sycamore_repo.df:149
+#: deathforth/weapondef/Sycamore_repo.df:153
+#: deathforth/weapondef/Sycamore_repo.df:157
+#: deathforth/weapondef/Sycamore_repo.df:161
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Headshot Combo: "
+msgstr "헤드샷 연속 적중: "
+
+#: deathforth/weapondef/Sycamore_repo.df:165
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "HEADSHOT! "
+msgstr "헤드샷! "
+
+#: deathforth/weapondef/Sycamore_repo.df:178
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Ammo Recovered: "
+msgstr "회수한 탄약: "
+
+#: deathforth/weapondef/Sycamore_repo.df:1255
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "COME ONE, COME ALL!"
+msgstr "모두 모여라!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1256
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "STEPPPP RIGHT UP!"
+msgstr "자아아아 어서 오세요!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1257
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "SEE THE SIGHTS!"
+msgstr "진귀한 구경거리!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1258
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "EXTRAVAGANCE AWAITS!"
+msgstr "화려한 쇼가 기다린다!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1259
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AND FOR MY NEXT TRICK..."
+msgstr "다음 마술은 바로..."
+
+#: deathforth/weapondef/Sycamore_repo.df:1260
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AND THE ZOMBIE DISAPPEARS!"
+msgstr "좀비가 사라집니다!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1261
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "HEAR THE CRACK, VIEWERS?"
+msgstr "뼈 부러지는 소리 들리시죠?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1262
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AND SOON COME THE SHARKS!"
+msgstr "곧 상어도 나옵니다!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1263
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I REQUIRE MY BIGGLES HAT!"
+msgstr "내 비글스 모자가 필요해!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1264
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "ALLOW ME TO ADDRESS YOU..."
+msgstr "여러분께 말씀 올립니다..."
+
+#: deathforth/weapondef/Sycamore_repo.df:1265
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "THE SHOW SHALL BEGIN SHORTLY!"
+msgstr "곧 공연이 시작됩니다!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1266
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "WATCH AND LEARN, THE MYSTIQUE!"
+msgstr "신비로운 마술을 보고 배우세요!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1267
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "GO, MY KRAKEN, GO!"
+msgstr "가라, 나의 크라켄!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1268
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AND ALL THE WORLD'S A STAGE!"
+msgstr "세상 모두가 무대라네!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1269
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "so much for dress rehearsal."
+msgstr "리허설은 물 건너갔군."
+
+#: deathforth/weapondef/Sycamore_repo.df:1270
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "YOU THERE, IN THE CROWD!"
+msgstr "관객 중에 거기 당신!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1271
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "ARE YOU ENTERTAINED, LITTLE ONE?"
+msgstr "재미있니, 꼬마야?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1272
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "COME, BE ENTHRALLED, EXCITED!"
+msgstr "자, 빠져들어라! 흥분해라!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1273
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "BUH BUH BUNANANANA BA BA BADUM"
+msgstr "바 바 바나나나나 바 바 바둠"
+
+#: deathforth/weapondef/Sycamore_repo.df:1274
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "BEHOLD, THE MYSTERY OF THE ORIENT!"
+msgstr "보라, 동양의 신비를!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1275
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AND FOR MY NEXT TRICK: DIE!"
+msgstr "다음 마술은 바로 죽음!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1276
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AND FOR MY NEXT TRICK: PERISH!"
+msgstr "다음 마술은 바로 소멸!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1277
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "HEAR THE THUNDER OF HUNGER!"
+msgstr "굶주림의 천둥 소리를 들어라!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1278
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CRACK GOES THE RINGMASTER WHIP!"
+msgstr "단장의 채찍이 쩌억!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1279
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I'm getting too old for this."
+msgstr "이 짓도 이젠 나이에 부치는군."
+
+#: deathforth/weapondef/Sycamore_repo.df:1280
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CHA, CHA! BACK, BEAST!"
+msgstr "이랴, 이랴! 물러서, 짐승아!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1281
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "back in my day..."
+msgstr "나 때는 말이야..."
+
+#: deathforth/weapondef/Sycamore_repo.df:1282
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "STEP RIGHT UP! STEPPPP RIGHT UP!"
+msgstr "어서 오세요! 어어어어서 오세요!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1283
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "AHA! SEE THE FEAR AT HAND!"
+msgstr "아하! 공포가 눈앞에 있구나!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1284
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "COME VIEW OUR GANGLY FREAK SHOW!"
+msgstr "삐쩍 마른 괴물 쇼를 보러 오세요!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1407
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "chitter!!!"
+msgstr "찍찍!!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1867
+#: deathforth/weapondef/Sycamore_repo.df:7624
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "PIERCED!"
+msgstr "관통!"
+
+#: deathforth/weapondef/Sycamore_repo.df:1868
+#: deathforth/weapondef/Sycamore_repo.df:7625
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Power:"
+msgstr "위력:"
+
+#: deathforth/weapondef/Sycamore_repo.df:1870
+#: deathforth/weapondef/Sycamore_repo.df:7627
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "SHOOT-THRU: "
+msgstr "관통: "
+
+#: deathforth/weapondef/Sycamore_repo.df:1931
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "POWER:"
+msgstr "위력:"
+
+#: deathforth/weapondef/Sycamore_repo.df:2357
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "ARDE!"
+msgstr "아르데!"
+
+#: deathforth/weapondef/Sycamore_repo.df:2655
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I CAN'T CONTROL TIME!"
+msgstr "시간을 조종할 수 없어!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:2661
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I NEED TO RECHARGE."
+msgstr "재충전이 필요해."
+
+#: deathforth/weapondef/Sycamore_repo.df:2691
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "PRAETERLABOR!"
+msgstr "프레테르라보르!"
+
+#: deathforth/weapondef/Sycamore_repo.df:2703
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "TEMPUS..."
+msgstr "템푸스..."
+
+#: deathforth/weapondef/Sycamore_repo.df:2708
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CESSARE!"
+msgstr "체사레!"
+
+#: deathforth/weapondef/Sycamore_repo.df:2855
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "We are infinite."
+msgstr "우리는 무한하다."
+
+#: deathforth/weapondef/Sycamore_repo.df:3329
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I'M FEELIN' HOT"
+msgstr "후끈 달아오른다!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3330
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "HOTTTT HOTTTTT"
+msgstr "뜨거워어어 뜨거워어어!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3331
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "TEQUILAAAAA"
+msgstr "테킬라아아아!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3332
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "LIKE A DRAGONNN"
+msgstr "용처럼 불타라아아!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3333
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "10000 SCOVILLES!"
+msgstr "10000 스코빌!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3334
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "BURN BABY BURRNNNN"
+msgstr "불타라, 베이비이이!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3392
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "EMPTY!"
+msgstr "텅 비었어!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3398
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "TOO HOT!"
+msgstr "너무 뜨거워!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3944
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "WHAT'S UP DINKS?"
+msgstr "잘 지내냐, 얼간이들아?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3945
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "EAT BRICKS"
+msgstr "벽돌이나 먹어라!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3946
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "ALSO TRY OREGON TRAIL"
+msgstr "오리건 트레일도 해 봐!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3947
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CHECK THE CRYPT OF DECAY"
+msgstr "부패의 지하실도 둘러봐!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3948
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "SHEEP ARE EVIL"
+msgstr "양은 사악해!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3949
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "MY WIFE LEFT ME"
+msgstr "아내가 날 버렸어!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3950
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I SAID MAYYYBEEEE"
+msgstr "그럴 수도오오 있다 했지!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3951
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I COULD GET LOUDER?"
+msgstr "더 크게 해 줄까?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3952
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "IT'S GAME OVER, MAN!"
+msgstr "이제 끝장이야, 임마!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3953
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "ROAD WORK AHEAD?"
+msgstr "앞에 도로 공사라고?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3954
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "SIX SEVENNNN"
+msgstr "식스 세브으으은!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3955
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "TROLLOLOLOLAH"
+msgstr "트롤롤롤롤라"
+
+#: deathforth/weapondef/Sycamore_repo.df:3956
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I AM...GOO"
+msgstr "나는... 끈적이다!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3957
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "GARLICCCC BREADDD!"
+msgstr "마느으을 바게트으으!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3958
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "IS THIS THING ON?"
+msgstr "이거 켜진 거 맞아?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3959
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CHECK THIS OUT!"
+msgstr "이것 좀 봐!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3960
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "GO TO WWW.COM"
+msgstr "WWW.COM에 가 봐!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3961
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "WHERE'S KEPA?"
+msgstr "케파는 어디 있어?!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3962
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "THE GOV'T LOVES POOP"
+msgstr "정부는 똥을 좋아해!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:3963
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "TESTING TESTING 1-2-3"
+msgstr "아 아, 마이크 테스트 하나 둘 셋!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:4017
+#: deathforth/weapondef/Sycamore_repo.df:4718
+#: deathforth/weapondef/Sycamore_repo.df:5993
+#: deathforth/weapondef/Sycamore_repo.df:7384
+#: deathforth/weapondef/Sycamore_repo.df:7775
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CRIT!"
+msgstr "치명타!"
+
+#: deathforth/weapondef/Sycamore_repo.df:4684
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "NEEDS "
+msgstr "필요: "
+
+#: deathforth/weapondef/Sycamore_repo.df:4684
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid " MORE AMMO"
+msgstr " 발 추가 탄약"
+
+#: deathforth/weapondef/Sycamore_repo.df:5393
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "My turn now!"
+msgstr "이젠 내 차례!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5394
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Now let me try!"
+msgstr "나도 해 볼래!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5395
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Mind if I borrow that?"
+msgstr "그거 좀 빌려도 돼?"
+
+#: deathforth/weapondef/Sycamore_repo.df:5396
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "How curious!"
+msgstr "이거 흥미로운데!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5397
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "This seems handy!"
+msgstr "이거 쓸 만하겠어!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5398
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "How peculiar!"
+msgstr "참 별나네!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5399
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Oh, that never gets old."
+msgstr "아, 해도 해도 재밌어."
+
+#: deathforth/weapondef/Sycamore_repo.df:5400
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "How about this?"
+msgstr "이건 어때?"
+
+#: deathforth/weapondef/Sycamore_repo.df:5401
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "How does this one work?"
+msgstr "이건 어떻게 쓰는 거야?"
+
+#: deathforth/weapondef/Sycamore_repo.df:5402
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "YOINK!"
+msgstr "낼름!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5407
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "Whoops, it shattered in my hands."
+msgstr "어라, 손에서 박살 나 버렸네."
+
+#: deathforth/weapondef/Sycamore_repo.df:5408
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I can't steal that!"
+msgstr "그건 훔칠 수 없어!"
+
+#: deathforth/weapondef/Sycamore_repo.df:5409
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "I can't copy that weapon."
+msgstr "그 무기는 복사할 수 없어."
+
+#: deathforth/weapondef/Sycamore_repo.df:6208
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "NO AMMO!"
+msgstr "탄약 없음!"
+
+#: deathforth/weapondef/Sycamore_repo.df:6325
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "CLEAR!"
+msgstr "물러나!"
+
+#: deathforth/weapondef/Sycamore_repo.df:6334
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "There's nobody to revive."
+msgstr "되살릴 사람이 없어."
+
+#: deathforth/weapondef/Sycamore_repo.df:8300
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "STAND FAST, FRIENDS!"
+msgstr "굳건히 버텨라, 친구들!!"
+
+#: deathforth/weapondef/Sycamore_repo.df:8417
+msgctxt "deathforth/weapondef/Sycamore_repo.df"
+msgid "NO MINES LEFT"
+msgstr "남은 지뢰 없음"
+
+#: deathforth/weapondef.df:695 deathforth/weapondef.df:6310
+msgctxt "deathforth/weapondef.df"
+msgid "PIERCED!"
+msgstr "관통!"
+
+#: deathforth/weapondef.df:696 deathforth/weapondef.df:6311
+msgctxt "deathforth/weapondef.df"
+msgid "Power:"
+msgstr "위력:"
+
+#: deathforth/weapondef.df:698 deathforth/weapondef.df:6313
+msgctxt "deathforth/weapondef.df"
+msgid "SHOOT-THRU: "
+msgstr "관통: "
+
+#: deathforth/weapondef.df:1455
+msgctxt "deathforth/weapondef.df"
+msgid "CRIT!"
+msgstr "치명타!"
+
+#: deathforth/weapondef.df:2961
+msgctxt "deathforth/weapondef.df"
+msgid "NOT WORTHY"
+msgstr "자격 없음"
+
+#: deathforth/weapondef.df:3579
+msgctxt "deathforth/weapondef.df"
+msgid "ZAPS"
+msgstr "찌릿"
+
+#: deathforth/weapondef.df:4848
+msgctxt "deathforth/weapondef.df"
+msgid "MAZAPS"
+msgstr "왕찌릿"
+
+#: deathforth/weapondef.df:6000
+msgctxt "deathforth/weapondef.df"
+msgid "PLASMS"
+msgstr "플라스마"
+
+#: deathforth/weapondef.df:6370
+msgctxt "deathforth/weapondef.df"
+msgid "POWER:"
+msgstr "위력:"
+
+#: deathforth/weapondef.df:6460
+msgctxt "deathforth/weapondef.df"
+msgid "LOVE"
+msgstr "사랑"
+
+#: deathforth/weapondef.df:7079
+msgctxt "deathforth/weapondef.df"
+msgid "i-ger!?"
+msgstr "이거!?"
+
+#: deathforth/weapondef.df:7080
+msgctxt "deathforth/weapondef.df"
+msgid "kadooshin'"
+msgstr "콰쾅"
+
+#: deathforth/zombopoints.df:6
+msgctxt "deathforth/zombopoints.df"
+msgid "  ZOMBO POINTS: "
+msgstr "  좀보 포인트: "
+
+#: deathforth/zombopoints.df:15
+msgctxt "deathforth/zombopoints.df"
+msgid "ZOMBO POINTS are full!"
+msgstr "좀보 포인트가 가득 찼다!"
+
+#: deathforth/zombopoints.df:34
+msgctxt "deathforth/zombopoints.df"
+msgid " ZOMBO POINTS EARNED!"
+msgstr " 좀보 포인트 획득!"
+
+#: deathforth/zombopoints.df:40
+msgctxt "deathforth/zombopoints.df"
+msgid "ZOMBO POINT EARNED!"
+msgstr "좀보 포인트 획득!"
+
+#: deathforth/zombopoints.df:61
+msgctxt "deathforth/zombopoints.df"
+msgid "ZOMBO POINTS MAX!"
+msgstr "좀보 포인트 최대!"
+
+#: deathforth/zombopoints.df:64
+msgctxt "deathforth/zombopoints.df"
+msgid "+1 ZOMBO POINT!"
+msgstr "+1 좀보 포인트!"
+
+#: deathforth/zombopoints.df:266
+msgctxt "deathforth/zombopoints.df"
+msgid "Perks transferred over!"
+msgstr "특전 이전 완료!"

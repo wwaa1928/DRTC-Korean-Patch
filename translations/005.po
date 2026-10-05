@@ -1,0 +1,2450 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/charstats-textfill.df:34
+msgctxt "deathforth/charstats-textfill.df"
+msgid "can't stop talking about bacon."
+msgstr "은(는) 베이컨 얘기를 멈추지 못한다."
+
+#: deathforth/charstats-textfill.df:35
+msgctxt "deathforth/charstats-textfill.df"
+msgid "misses hot water heaters most of all."
+msgstr "은(는) 온수기를 제일 그리워한다."
+
+#: deathforth/charstats-textfill.df:36
+msgctxt "deathforth/charstats-textfill.df"
+msgid "doesn't mind zombies but REALLY hates ghosts."
+msgstr "은(는) 좀비는 괜찮은데 유령은 정말 싫어한다."
+
+#: deathforth/charstats-textfill.df:37
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is terrified of skeletons, but somehow manages to get by."
+msgstr "은(는) 해골을 무서워하지만 어떻게든 버티고 있다."
+
+#: deathforth/charstats-textfill.df:38
+msgctxt "deathforth/charstats-textfill.df"
+msgid "hopes to find a flamethrower."
+msgstr "은(는) 화염방사기를 찾고 싶어 한다."
+
+#: deathforth/charstats-textfill.df:39
+msgctxt "deathforth/charstats-textfill.df"
+msgid "likes to talk about "
+msgstr "은(는) "
+
+#: deathforth/charstats-textfill.df:39
+msgctxt "deathforth/charstats-textfill.df"
+msgid " favorite canned foods."
+msgstr " 최애 통조림 얘기를 즐겨 한다."
+
+#: deathforth/charstats-textfill.df:40
+msgctxt "deathforth/charstats-textfill.df"
+msgid "feels like luck will soon be on "
+msgstr "은(는) 곧 "
+
+#: deathforth/charstats-textfill.df:40
+msgctxt "deathforth/charstats-textfill.df"
+msgid " side!"
+msgstr " 편으로 행운이 올 거라 느낀다!"
+
+#: deathforth/charstats-textfill.df:41
+msgctxt "deathforth/charstats-textfill.df"
+msgid "claims to be a chainsaw expert."
+msgstr "은(는) 자기가 전기톱 전문가라고 주장한다."
+
+#: deathforth/charstats-textfill.df:42
+msgctxt "deathforth/charstats-textfill.df"
+msgid "wants to find the perfect katana."
+msgstr "은(는) 완벽한 카타나를 찾고 싶어 한다."
+
+#: deathforth/charstats-textfill.df:43
+msgctxt "deathforth/charstats-textfill.df"
+msgid "likes bones, likes wood chunks, hates being eaten."
+msgstr "은(는) 뼈를 좋아하고, 나무토막을 좋아하고, 잡아먹히는 건 싫어한다."
+
+#: deathforth/charstats-textfill.df:44
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is afraid of chickens."
+msgstr "은(는) 닭을 무서워한다."
+
+#: deathforth/charstats-textfill.df:45
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is going to make it to Canada this time."
+msgstr "은(는) 이번엔 꼭 캐나다에 갈 것이다."
+
+#: deathforth/charstats-textfill.df:46
+msgctxt "deathforth/charstats-textfill.df"
+msgid "keeps going over "
+msgstr "은(는) "
+
+#: deathforth/charstats-textfill.df:46
+msgctxt "deathforth/charstats-textfill.df"
+msgid " contingency plans."
+msgstr " 비상 계획을 계속 점검한다."
+
+#: deathforth/charstats-textfill.df:47
+msgctxt "deathforth/charstats-textfill.df"
+msgid "believes in Santa."
+msgstr "은(는) 산타를 믿는다."
+
+#: deathforth/charstats-textfill.df:48
+msgctxt "deathforth/charstats-textfill.df"
+msgid "doesn't smell bad, which is rare in the zombopocalypse."
+msgstr "은(는) 냄새가 안 난다. 좀비 종말에선 드문 일이다."
+
+#: deathforth/charstats-textfill.df:49
+msgctxt "deathforth/charstats-textfill.df"
+msgid "hopes to drive to Canada in a fancy car."
+msgstr "은(는) 멋진 차를 타고 캐나다에 가고 싶어 한다."
+
+#: deathforth/charstats-textfill.df:50
+msgctxt "deathforth/charstats-textfill.df"
+msgid "hates it when it rains."
+msgstr "은(는) 비 오는 걸 싫어한다."
+
+#: deathforth/charstats-textfill.df:51
+msgctxt "deathforth/charstats-textfill.df"
+msgid "says "
+msgstr "은(는) "
+
+#: deathforth/charstats-textfill.df:51
+msgctxt "deathforth/charstats-textfill.df"
+msgid " was a famous videogame streamer."
+msgstr "가 유명한 게임 스트리머였다고 말한다."
+
+#: deathforth/charstats-textfill.df:52
+msgctxt "deathforth/charstats-textfill.df"
+msgid "practices "
+msgstr "은(는) 매일 아침 "
+
+#: deathforth/charstats-textfill.df:52
+msgctxt "deathforth/charstats-textfill.df"
+msgid " zombie exercises every morning."
+msgstr " 좀비 체조를 한다."
+
+#: deathforth/charstats-textfill.df:53
+msgctxt "deathforth/charstats-textfill.df"
+msgid "plans to train an army of anti-zombie dogs."
+msgstr "은(는) 대좀비 군견 부대를 훈련시킬 계획이다."
+
+#: deathforth/charstats-textfill.df:54
+msgctxt "deathforth/charstats-textfill.df"
+msgid "writes about "
+msgstr "은(는) 틈날 때마다 "
+
+#: deathforth/charstats-textfill.df:54
+msgctxt "deathforth/charstats-textfill.df"
+msgid " adventures, when "
+msgstr " 모험담을 쓴다. "
+
+#: deathforth/charstats-textfill.df:54
+msgctxt "deathforth/charstats-textfill.df"
+msgid "'s not busy."
+msgstr "가 바쁘지 않을 때."
+
+#: deathforth/charstats-textfill.df:55
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is making a song about this trip to Canada."
+msgstr "은(는) 이번 캐나다 여행에 관한 노래를 만들고 있다."
+
+#: deathforth/charstats-textfill.df:56
+msgctxt "deathforth/charstats-textfill.df"
+msgid "is drawing a comic book about "
+msgstr "은(는) "
+
+#: deathforth/charstats-textfill.df:56
+msgctxt "deathforth/charstats-textfill.df"
+msgid " life."
+msgstr " 인생에 관한 만화를 그리고 있다."
+
+#: deathforth/charstats-textfill.df:57
+msgctxt "deathforth/charstats-textfill.df"
+msgid "has a haircut that is so last season."
+msgstr "은(는) 지난 시즌 유행 머리를 하고 있다."
+
+#: deathforth/charstats-textfill.df:58
+msgctxt "deathforth/charstats-textfill.df"
+msgid "wears pants that are no longer in style."
+msgstr "은(는) 유행 지난 바지를 입고 있다."
+
+#: deathforth/charstats-textfill.df:67
+msgctxt "deathforth/charstats-textfill.df"
+msgid "TRAIT: "
+msgstr "특성: "
+
+#: deathforth/charstats-textfill.df:68
+msgctxt "deathforth/charstats-textfill.df"
+msgid " PERK: "
+msgstr " 특전: "
+
+#: deathforth/charstats-textfill.df:71
+msgctxt "deathforth/charstats-textfill.df"
+msgid "HOLDING:"
+msgstr "소지:"
+
+#: deathforth/charstats.df:81
+msgctxt "deathforth/charstats.df"
+msgid " is feeling pretty good as it is!"
+msgstr "은(는) 이미 기분이 충분히 좋다!"
+
+#: deathforth/charstats.df:82
+msgctxt "deathforth/charstats.df"
+msgid " is as optimistic as they can be already!"
+msgstr "은(는) 이미 더할 나위 없이 낙관적이다!"
+
+#: deathforth/charstats.df:83
+msgctxt "deathforth/charstats.df"
+msgid " has already achieved their maximum zen!"
+msgstr "은(는) 이미 최고의 평정에 도달했다!"
+
+#: deathforth/charstats.df:84
+msgctxt "deathforth/charstats.df"
+msgid " literally can't be any more charming!"
+msgstr "은(는) 말 그대로 더 이상 매력적일 수 없다!"
+
+#: deathforth/charstats.df:85
+msgctxt "deathforth/charstats.df"
+msgid " is already at the peak of their wits!"
+msgstr "은(는) 이미 재치의 정점에 있다!"
+
+#: deathforth/charstats.df:86
+msgctxt "deathforth/charstats.df"
+msgid " couldn't be any more loyal!"
+msgstr "은(는) 더 이상 충성스러울 수 없다!"
+
+#: deathforth/charstats.df:87
+msgctxt "deathforth/charstats.df"
+msgid " has achieved their maximum medical skill!"
+msgstr "은(는) 의술이 이미 최고다!"
+
+#: deathforth/charstats.df:88
+msgctxt "deathforth/charstats.df"
+msgid " can't improve their engineering any further!"
+msgstr "은(는) 기계 실력을 더 올릴 수 없다!"
+
+#: deathforth/charstats.df:89
+msgctxt "deathforth/charstats.df"
+msgid " couldn't improve their aim any further!"
+msgstr "은(는) 사격 실력을 더 올릴 수 없다!"
+
+#: deathforth/charstats.df:90
+msgctxt "deathforth/charstats.df"
+msgid " is at their maximum swole!"
+msgstr "은(는) 근육이 이미 최대치다!"
+
+#: deathforth/charstats.df:91
+msgctxt "deathforth/charstats.df"
+msgid " already moves at maximum speed!"
+msgstr "은(는) 이미 최고 속도로 움직인다!"
+
+#: deathforth/charstats.df:92
+msgctxt "deathforth/charstats.df"
+msgid " can't get any fitter without special training!"
+msgstr "은(는) 특별 훈련 없이는 더 이상 체력을 올릴 수 없다!"
+
+#: deathforth/charstats.df:93
+msgctxt "deathforth/charstats.df"
+msgid " is already a walking tank!"
+msgstr "은(는) 이미 걸어 다니는 탱크다!"
+
+#: deathforth/charstats.df:196
+msgctxt "deathforth/charstats.df"
+msgid "'s potential grows!"
+msgstr "의 잠재력이 성장한다!"
+
+#: deathforth/charstats.df:432
+msgctxt "deathforth/charstats.df"
+msgid " is too PUMPED UP to get killed!"
+msgstr "은(는) 너무 흥분해서 죽을 수가 없다!"
+
+#: deathforth/charstats.df:435
+msgctxt "deathforth/charstats.df"
+msgid " lives, but enters into despair!"
+msgstr "은(는) 살아남지만, 절망에 빠진다!"
+
+#: deathforth/charstats.df:438
+msgctxt "deathforth/charstats.df"
+msgid " resists death, but morale wavers!"
+msgstr "은(는) 죽음을 버텨 내지만, 사기가 흔들린다!"
+
+#: deathforth/charstats.df:440
+msgctxt "deathforth/charstats.df"
+msgid " refuses to die!"
+msgstr "은(는) 죽기를 거부한다!"
+
+#: deathforth/charstats.df:487
+msgctxt "deathforth/charstats.df"
+msgid "is now a HALF-HUMAN, HALF-SKELETON, HALF-PHOENIX, back for vengeance!"
+msgstr "은(는) 이제 반은 인간, 반은 해골, 반은 불사조다. 복수를 위해 돌아왔다!"
+
+#: deathforth/charstats.df:490
+msgctxt "deathforth/charstats.df"
+msgid ""
+"is now a HALF-SKELETON, HALF-PHOENIX, after a series of major blunders."
+msgstr "은(는) 연이은 대형 실수 끝에 이제 반은 해골, 반은 불사조다."
+
+#: deathforth/charstats.df:502
+msgctxt "deathforth/charstats.df"
+msgid " is heroically saved by "
+msgstr "은(는) 영웅적으로 구출된다. 구해 준 사람: "
+
+#: deathforth/charstats.df:511
+msgctxt "deathforth/charstats.df"
+msgid " rises from the grave!"
+msgstr "은(는) 무덤에서 되살아난다!"
+
+#: deathforth/charstats.df:514
+msgctxt "deathforth/charstats.df"
+msgid " is KILLED!"
+msgstr "은(는) 죽었다!"
+
+#: deathforth/charstats.df:549
+msgctxt "deathforth/charstats.df"
+msgid " is HURT!"
+msgstr "은(는) 다쳤다!"
+
+#: deathforth/charstats.df:561
+msgctxt "deathforth/charstats.df"
+msgid " resists some damage!"
+msgstr "은(는) 피해를 일부 버텨 낸다!"
+
+#: deathforth/cheevos.df:99
+msgctxt "deathforth/cheevos.df"
+msgid "You achieved the test cheevo!"
+msgstr "테스트 업적을 달성했습니다!"
+
+#: deathforth/cheevos.df:105
+msgctxt "deathforth/cheevos.df"
+msgid "You achieved the test cheevo #2!"
+msgstr "테스트 업적 #2를 달성했습니다!"
+
+#: deathforth/cheevos.df:112
+msgctxt "deathforth/cheevos.df"
+msgid "TOO SWOLE TO CONTROL: Beat game with T*L*B!"
+msgstr "근육이 감당 안 돼: T*L*B로 클리어!"
+
+#: deathforth/cheevos.df:117
+msgctxt "deathforth/cheevos.df"
+msgid "COUP DE GRACE: Beat game with the Fencer!"
+msgstr "꾸 드 그라스: 펜서로 클리어!"
+
+#: deathforth/cheevos.df:122
+msgctxt "deathforth/cheevos.df"
+msgid "MR POPULAR: Beat game with Mason!"
+msgstr "인기쟁이: 메이슨으로 클리어!"
+
+#: deathforth/cheevos.df:128
+msgctxt "deathforth/cheevos.df"
+msgid "MERRY CHRISTMAS: Won with a Santa!"
+msgstr "메리 크리스마스: 산타로 승리!"
+
+#: deathforth/cheevos.df:134
+msgctxt "deathforth/cheevos.df"
+msgid "THANKYAVERYMUCH: Beat game with Alvis!"
+msgstr "땡큐베리머치: 알비스로 클리어!"
+
+#: deathforth/cheevos.df:139
+msgctxt "deathforth/cheevos.df"
+msgid "LUCHADORE: Beat game with El Satan!"
+msgstr "루차도르: 엘 사탄으로 클리어!"
+
+#: deathforth/cheevos.df:144
+msgctxt "deathforth/cheevos.df"
+msgid "WORLD CHAMP: Beat game with Boxer!"
+msgstr "세계 챔피언: 복서로 클리어!"
+
+#: deathforth/cheevos.df:149
+msgctxt "deathforth/cheevos.df"
+msgid "HA! HA!: Beat game with Clown!"
+msgstr "하! 하!: 광대로 클리어!"
+
+#: deathforth/cheevos.df:154
+msgctxt "deathforth/cheevos.df"
+msgid "VALHALLA: Beat game with Valkyrie!"
+msgstr "발할라: 발키리로 클리어!"
+
+#: deathforth/cheevos.df:159
+msgctxt "deathforth/cheevos.df"
+msgid "HAPPY THANKSGIVING: Win with Turkey!"
+msgstr "해피 땡스기빙: 칠면조로 승리!"
+
+#: deathforth/cheevos.df:164
+msgctxt "deathforth/cheevos.df"
+msgid "MY LOVELY HORSE: Beat game with Horse!"
+msgstr "내 사랑 말: 말로 클리어!"
+
+#: deathforth/cheevos.df:169
+msgctxt "deathforth/cheevos.df"
+msgid "GNOME POWER: Beat game with Gnomey!"
+msgstr "노움 파워: 노미로 클리어!"
+
+#: deathforth/cheevos.df:174
+msgctxt "deathforth/cheevos.df"
+msgid "THE LAST PANDA: Beat game with Panda!"
+msgstr "최후의 판다: 판다로 클리어!"
+
+#: deathforth/cheevos.df:179
+msgctxt "deathforth/cheevos.df"
+msgid "HL3: Beat game with Gordo!"
+msgstr "HL3: 고르도로 클리어!"
+
+#: deathforth/cheevos.df:184
+msgctxt "deathforth/cheevos.df"
+msgid "WITCH'S BREW: Beat game with Witch!"
+msgstr "마녀의 물약: 마녀로 클리어!"
+
+#: deathforth/cheevos.df:189
+msgctxt "deathforth/cheevos.df"
+msgid "ABRACADABRA: Beat game with Wizard!"
+msgstr "아브라카다브라: 마법사로 클리어!"
+
+#: deathforth/cheevos.df:195
+msgctxt "deathforth/cheevos.df"
+msgid "BWAUGH!: Beat game with Vampire!"
+msgstr "브와우!: 뱀파이어로 클리어!"
+
+#: deathforth/cheevos.df:200
+msgctxt "deathforth/cheevos.df"
+msgid "G#RFENING: Beat game with G#rf!"
+msgstr "G#RF 가드닝: G#rf로 클리어!"
+
+#: deathforth/cheevos.df:205
+msgctxt "deathforth/cheevos.df"
+msgid "DA NA NA NAA: Beat game with L#nk!"
+msgstr "다 나 나 나아: L#nk로 클리어!"
+
+#: deathforth/cheevos.df:210
+msgctxt "deathforth/cheevos.df"
+msgid "CAT FANCY: Beat game with Cat Lady!"
+msgstr "고양이 사랑: 캣 레이디로 클리어!"
+
+#: deathforth/cheevos.df:215
+msgctxt "deathforth/cheevos.df"
+msgid "ZOMBIE FASHION: Win with Debutante!"
+msgstr "좀비 패션: 데뷔턴트로 승리!"
+
+#: deathforth/cheevos.df:220
+msgctxt "deathforth/cheevos.df"
+msgid "SUMO SOLUTION: Win with sumo wrestler!"
+msgstr "스모 해결법: 스모 선수로 승리!"
+
+#: deathforth/cheevos.df:225
+msgctxt "deathforth/cheevos.df"
+msgid "FAE FOLK: Win with Fairy Queen!"
+msgstr "요정족: 요정 여왕으로 승리!"
+
+#: deathforth/cheevos.df:230
+msgctxt "deathforth/cheevos.df"
+msgid "DERBY CHAMP: Win with Roller Derby Woman!"
+msgstr "더비 챔피언: 롤러 더비 우먼으로 승리!"
+
+#: deathforth/cheevos.df:235
+msgctxt "deathforth/cheevos.df"
+msgid "GRIZZLED HERMIT: Beat game with Hermit!"
+msgstr "늙은 은둔자: 은둔자로 클리어!"
+
+#: deathforth/cheevos.df:243
+msgctxt "deathforth/cheevos.df"
+msgid "DON'T LET ME DIE: Beat Kepa Mode with Kepa!"
+msgstr "날 죽게 두지 마: 케파로 케파 모드 클리어!"
+
+#: deathforth/cheevos.df:249
+msgctxt "deathforth/cheevos.df"
+msgid "CAAAAAARL!: Carl! Caaaaarl!"
+msgstr "카아아아아알!: 칼! 카아아아알!"
+
+#: deathforth/cheevos.df:256
+msgctxt "deathforth/cheevos.df"
+msgid "AMERICA DAY: Beat game America style!"
+msgstr "아메리카 데이: 미국 스타일로 클리어!"
+
+#: deathforth/cheevos.df:261
+msgctxt "deathforth/cheevos.df"
+msgid "CANADA DAY: Beat game with beaver!"
+msgstr "캐나다 데이: 비버로 클리어!"
+
+#: deathforth/cheevos.df:266
+msgctxt "deathforth/cheevos.df"
+msgid "CANNONBALL: Beat game with pirate!"
+msgstr "대포알: 해적으로 클리어!"
+
+#: deathforth/cheevos.df:271
+msgctxt "deathforth/cheevos.df"
+msgid "CAVEMAN CRUSH: Beat game with caveman!"
+msgstr "원시인 크러시: 원시인으로 클리어!"
+
+#: deathforth/cheevos.df:276
+msgctxt "deathforth/cheevos.df"
+msgid "SONG OF ZOMBO: Beat game with bard!"
+msgstr "좀보의 노래: 음유시인으로 클리어!"
+
+#: deathforth/cheevos.df:281
+msgctxt "deathforth/cheevos.df"
+msgid "SCIENTIFIC: Beat game with scientist!"
+msgstr "과학적: 과학자로 클리어!"
+
+#: deathforth/cheevos.df:295
+msgctxt "deathforth/cheevos.df"
+msgid "I HATE SKELETONS: Win with a skeleton!"
+msgstr "해골 싫어: 해골로 승리!"
+
+#: deathforth/cheevos.df:301
+msgctxt "deathforth/cheevos.df"
+msgid "BERSERKER: Won with BERSERK! character"
+msgstr "버서커: 광전사! 캐릭터로 승리"
+
+#: deathforth/cheevos.df:306
+msgctxt "deathforth/cheevos.df"
+msgid "NO JERK LEFT BEHIND: Won with a full team!"
+msgstr "얼간이 하나도 남기지 마: 풀 멤버로 승리!"
+
+#: deathforth/cheevos.df:311
+msgctxt "deathforth/cheevos.df"
+msgid "DOG SQUAD: Won with a car full of dogs!"
+msgstr "개 부대: 차를 개로 가득 채워 승리!"
+
+#: deathforth/cheevos.df:316
+msgctxt "deathforth/cheevos.df"
+msgid "CAT ATTACK: Won the game with a cat!"
+msgstr "고양이 습격: 고양이와 함께 승리!"
+
+#: deathforth/cheevos.df:321
+msgctxt "deathforth/cheevos.df"
+msgid "GOATAL VICTORY: Won with a goat!"
+msgstr "염소스러운 승리: 염소와 함께 승리!"
+
+#: deathforth/cheevos.df:326
+msgctxt "deathforth/cheevos.df"
+msgid "SOME PIG: Won with a pig!"
+msgstr "대단한 돼지: 돼지와 함께 승리!"
+
+#: deathforth/cheevos.df:331
+msgctxt "deathforth/cheevos.df"
+msgid "THE LONELIEST ROAD: Pure solo victory!"
+msgstr "가장 외로운 길: 완전 솔로 승리!"
+
+#: deathforth/cheevos.df:336
+msgctxt "deathforth/cheevos.df"
+msgid "NO ONE LEFT BEHIND: Win with no ally deaths!"
+msgstr "아무도 남기지 마: 아군 사망 없이 승리!"
+
+#: deathforth/cheevos.df:343
+msgctxt "deathforth/cheevos.df"
+msgid "FIRST TRIP TO CANADA: Won Normal Mode!"
+msgstr "첫 캐나다 여행: 일반 모드 승리!"
+
+#: deathforth/cheevos.df:348
+msgctxt "deathforth/cheevos.df"
+msgid "ARE WE THERE YET: Beat Long Winding Road!"
+msgstr "아직 멀었어: 길고 구불구불한 길 클리어!"
+
+#: deathforth/cheevos.df:353
+msgctxt "deathforth/cheevos.df"
+msgid "BUNCHA WEIRDOS: Beat Rare Characters Mode!"
+msgstr "이상한 놈들: 희귀 캐릭터 모드 클리어!"
+
+#: deathforth/cheevos.df:358
+msgctxt "deathforth/cheevos.df"
+msgid "HELP FROM MY PALS: Beat Familiar Chars Mode!"
+msgstr "친구들의 도움: 친숙한 캐릭터 모드 클리어!"
+
+#: deathforth/cheevos.df:363
+msgctxt "deathforth/cheevos.df"
+msgid "EXTREME WEIRDOS: Beat Rare Chars EXTREME!"
+msgstr "익스트림 괴짜들: 희귀 캐릭터 익스트림 클리어!"
+
+#: deathforth/cheevos.df:368
+msgctxt "deathforth/cheevos.df"
+msgid "BONDS OF STEEL: Beat Familiar Chars EXTREME!"
+msgstr "강철의 유대: 친숙한 캐릭터 익스트림 클리어!"
+
+#: deathforth/cheevos.df:373
+msgctxt "deathforth/cheevos.df"
+msgid "THE KEPANING: Beat K*E*P*A Mode!"
+msgstr "케파닝: K*E*P*A 모드 클리어!"
+
+#: deathforth/cheevos.df:378
+msgctxt "deathforth/cheevos.df"
+msgid "LITTLE VACATION: Beat Short Trip to Heck!"
+msgstr "짧은 휴가: 지옥행 짧은 여행 클리어!"
+
+#: deathforth/cheevos.df:383
+msgctxt "deathforth/cheevos.df"
+msgid "GRUELING VICTORY: Beat Marathon Mode!"
+msgstr "고된 승리: 마라톤 모드 클리어!"
+
+#: deathforth/cheevos.df:388
+msgctxt "deathforth/cheevos.df"
+msgid "COULD BE WORSE: Beat Deadlier Road!"
+msgstr "더 나쁠 수도 있었어: 더 치명적인 길 클리어!"
+
+#: deathforth/cheevos.df:402
+msgctxt "deathforth/cheevos.df"
+msgid "MODE MASTER: Won first 10 game modes!"
+msgstr "모드 마스터: 처음 10개 게임 모드 승리!"
+
+#: deathforth/cheevos.df:409
+msgctxt "deathforth/cheevos.df"
+msgid "HAS LEFT THE BUILDING: Goodbye, Alvis"
+msgstr "건물을 떠났습니다: 잘 가, 알비스"
+
+#: deathforth/cheevos.df:414
+msgctxt "deathforth/cheevos.df"
+msgid "COOLING IT: I can't believe that worked"
+msgstr "쿨하게: 그게 통할 줄이야"
+
+#: deathforth/cheevos.df:419
+msgctxt "deathforth/cheevos.df"
+msgid "ANIME SYNDROME: Anime Girl anime'd the car"
+msgstr "애니 증후군: 애니 걸이 차를 애니화했다"
+
+#: deathforth/cheevos.df:424
+msgctxt "deathforth/cheevos.df"
+msgid "GALLANT KNIGHT: Knight left group alive"
+msgstr "용맹한 기사: 기사가 살아서 일행을 떠났다"
+
+#: deathforth/cheevos.df:429
+msgctxt "deathforth/cheevos.df"
+msgid "DAY OF THE CIRCUS: ????"
+msgstr "서커스의 날: ????"
+
+#: deathforth/cheevos.df:434
+msgctxt "deathforth/cheevos.df"
+msgid "NICE ONE HOSER: Killed your chance of victory"
+msgstr "잘했다 촌뜨기: 승리의 기회를 날려 버렸다"
+
+#: deathforth/cheevos.df:439
+msgctxt "deathforth/cheevos.df"
+msgid "RAMMING SPEED: Crash car in final map"
+msgstr "충각 속도: 마지막 맵에서 차를 들이받았다"
+
+#: deathforth/cheevos.df:444
+msgctxt "deathforth/cheevos.df"
+msgid "FREE CHICKEN: Rescued a chicken"
+msgstr "닭 해방: 닭을 구출했다"
+
+#: deathforth/cheevos.df:449
+msgctxt "deathforth/cheevos.df"
+msgid "PARANORMAL: Found a spooky ghost"
+msgstr "초자연: 으스스한 유령을 발견했다"
+
+#: deathforth/cheevos.df:456
+msgctxt "deathforth/cheevos.df"
+msgid "ZOMBILLION: Splatted 100,000 zombs!"
+msgstr "좀빌리언: 좀비 100,000마리 박살!"
+
+#: deathforth/cheevos.df:461
+msgctxt "deathforth/cheevos.df"
+msgid "HUMAN REPAIR: Trained medical 50 times"
+msgstr "인간 수리: 의술 훈련 50회"
+
+#: deathforth/cheevos.df:466
+msgctxt "deathforth/cheevos.df"
+msgid "CAR REPAIR: Trained mechanical 50 times"
+msgstr "자동차 수리: 기계 훈련 50회"
+
+#: deathforth/cheevos.df:471
+msgctxt "deathforth/cheevos.df"
+msgid "TARGET PRACTICE: Trained shooting 75 times"
+msgstr "사격 연습: 사격 훈련 75회"
+
+#: deathforth/cheevos.df:476
+msgctxt "deathforth/cheevos.df"
+msgid "GETTING IN SHAPE: Trained fitness 75 times "
+msgstr "몸 만들기: 체력 훈련 75회 "
+
+#: deathforth/cheevos.df:481
+msgctxt "deathforth/cheevos.df"
+msgid "GOTTA GET HUGE: Trained strength 100 times "
+msgstr "커져야 해: 근력 훈련 100회 "
+
+#: deathforth/cheevos.df:486
+msgctxt "deathforth/cheevos.df"
+msgid "PATCH ME UP: Healed teammates 75 times"
+msgstr "응급처치: 동료 치료 75회"
+
+#: deathforth/cheevos.df:491
+msgctxt "deathforth/cheevos.df"
+msgid "Magical Wishing Toilet: Opened 100 toilets"
+msgstr "마법의 소원 변기: 변기 100개 열기"
+
+#: deathforth/cheevos.df:498
+msgctxt "deathforth/cheevos.df"
+msgid "Five Game Streak: 5 wins in a row!"
+msgstr "5연승: 5번 연속 승리!"
+
+#: deathforth/cheevos.df:512
+msgctxt "deathforth/cheevos.df"
+msgid "Omega Streak: Streaked first 10 modes!"
+msgstr "오메가 연승: 처음 10개 모드 연승!"
+
+#: deathforth/cyoa-charstats.df:8
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" joins the team!\r\n"
+"\tOnward to Canada! "
+msgstr ""
+"이(가) 일행에 합류한다!\r\n"
+"\t캐나다를 향해! "
+
+#: deathforth/cyoa-charstats.df:23 deathforth/cyoa-charstats.df:25
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "her"
+msgstr "그녀"
+
+#: deathforth/cyoa-charstats.df:23
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "his"
+msgstr "그의"
+
+#: deathforth/cyoa-charstats.df:24
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Her"
+msgstr "그녀"
+
+#: deathforth/cyoa-charstats.df:24
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "His"
+msgstr "그의"
+
+#: deathforth/cyoa-charstats.df:25
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "him"
+msgstr "그"
+
+#: deathforth/cyoa-charstats.df:26
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "she"
+msgstr "그녀"
+
+#: deathforth/cyoa-charstats.df:26
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "he"
+msgstr "그"
+
+#: deathforth/cyoa-charstats.df:27
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "She"
+msgstr "그녀"
+
+#: deathforth/cyoa-charstats.df:27
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "He"
+msgstr "그"
+
+#: deathforth/cyoa-charstats.df:29
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "their"
+msgstr "일행의"
+
+#: deathforth/cyoa-charstats.df:30
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Their"
+msgstr "일행의"
+
+#: deathforth/cyoa-charstats.df:31
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "them"
+msgstr "일행"
+
+#: deathforth/cyoa-charstats.df:32 deathforth/cyoa-charstats.df:65
+#: deathforth/cyoa-charstats.df:95
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "the group"
+msgstr "일행"
+
+#: deathforth/cyoa-charstats.df:33 deathforth/cyoa-charstats.df:94
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The group"
+msgstr "일행"
+
+#: deathforth/cyoa-charstats.df:34
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "they"
+msgstr "일행"
+
+#: deathforth/cyoa-charstats.df:35
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "They"
+msgstr "일행"
+
+#: deathforth/cyoa-charstats.df:39 deathforth/cyoa-charstats.df:40
+#: deathforth/cyoa-charstats.df:41 deathforth/cyoa-charstats.df:54
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "s"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:42
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "S"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:44
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "is"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:44
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "are"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:45
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "was"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:45
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "were"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:51 deathforth/cyoa-charstats.df:52
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " a"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:53
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " an"
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:59 deathforth/cyoa-charstats.df:60
+#: deathforth/cyoa-charstats.df:61
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " I "
+msgstr " 나 "
+
+#: deathforth/cyoa-charstats.df:59
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " we "
+msgstr " 우리 "
+
+#: deathforth/cyoa-charstats.df:60
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " WE "
+msgstr " 우리 "
+
+#: deathforth/cyoa-charstats.df:61
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " We "
+msgstr " 우리 "
+
+#: deathforth/cyoa-charstats.df:96
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "your team"
+msgstr "일행"
+
+#: deathforth/cyoa-charstats.df:98
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The other members"
+msgstr "다른 멤버들"
+
+#: deathforth/cyoa-charstats.df:99
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "the other members"
+msgstr "다른 멤버들"
+
+#: deathforth/cyoa-charstats.df:100
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " is"
+msgstr "은(는)"
+
+#: deathforth/cyoa-charstats.df:100
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The others are"
+msgstr "다른 멤버들은"
+
+#: deathforth/cyoa-charstats.df:102
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "everyone"
+msgstr "모두"
+
+#: deathforth/cyoa-charstats.df:103
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Everyone"
+msgstr "모두"
+
+#: deathforth/cyoa-charstats.df:105
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The other member is"
+msgstr "다른 멤버는"
+
+#: deathforth/cyoa-charstats.df:105
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The other members are"
+msgstr "다른 멤버들은"
+
+#: deathforth/cyoa-charstats.df:106
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "the other member is"
+msgstr "다른 멤버는"
+
+#: deathforth/cyoa-charstats.df:106
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "the other members are"
+msgstr "다른 멤버들은"
+
+#: deathforth/cyoa-charstats.df:188
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Riches and Gold"
+msgstr "부와 황금"
+
+#: deathforth/cyoa-charstats.df:189
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"Cans of food start raining from the ceiling.\r\n"
+"\t\tFinally. You're rich!\r\n"
+"\t\tThen the roof collapses on top of "
+msgstr ""
+"천장에서 통조림이 비처럼 쏟아진다.\r\n"
+"\t\t드디어. 부자다!\r\n"
+"\t\t그리고 지붕이 무너져 내린다. 깔린 사람: "
+
+#: deathforth/cyoa-charstats.df:197
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " stares in horror as "
+msgstr "은(는) 공포에 질려 바라본다. "
+
+#: deathforth/cyoa-charstats.df:197
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " skin turns to stone, trapping "
+msgstr " 피부가 돌로 변하며, "
+
+#: deathforth/cyoa-charstats.df:197
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" in place forever as a statue.\r\n"
+"\t\tNo wait, it just kind of turned "
+msgstr ""
+"를 영원히 석상으로 가둬 버린다.\r\n"
+"\t\t아니 잠깐, 그냥 "
+
+#: deathforth/cyoa-charstats.df:198
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " skin gray."
+msgstr " 피부가 회색이 됐을 뿐이다."
+
+#: deathforth/cyoa-charstats.df:203
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The Shocking Answer"
+msgstr "충격적인 대답"
+
+#: deathforth/cyoa-charstats.df:204
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"YEAH PRETTY MUCH says the genie. Then it just kind of hovers around, staring"
+" at "
+msgstr "'응 대충 그래' 하고 지니가 말한다. 그러고는 둥둥 떠다니며 "
+
+#: deathforth/cyoa-charstats.df:204
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " for awhile before it disappears."
+msgstr "을(를) 한참 쳐다보다가 사라진다."
+
+#: deathforth/cyoa-charstats.df:209
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The Wishing Toilet"
+msgstr "소원 변기"
+
+#: deathforth/cyoa-charstats.df:211
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "When "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:211
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" opened the toilet, a magical genie appeared.\r\n"
+"\t"
+msgstr ""
+"이(가) 변기를 열자, 마법의 지니가 나타났다.\r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:212
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "THANKS FOR FREEING ME FROM THE TOILET,"
+msgstr "변기에서 꺼내 줘서 고마워,"
+
+#: deathforth/cyoa-charstats.df:212
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " it says. "
+msgstr " 지니가 말한다. "
+
+#: deathforth/cyoa-charstats.df:212
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"NOW MAKE A WISH.\r\n"
+"\t"
+msgstr ""
+"이제 소원을 빌어라.\r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:213
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " makes a wish:"
+msgstr "이(가) 소원을 빈다:"
+
+#: deathforth/cyoa-charstats.df:214
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Don't make a wish yet"
+msgstr "아직 소원을 빌지 않는다"
+
+#: deathforth/cyoa-charstats.df:215
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "I vant.. to bee rich"
+msgstr "부자가 되고 시퍼"
+
+#: deathforth/cyoa-charstats.df:216
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Immortality"
+msgstr "불로불사"
+
+#: deathforth/cyoa-charstats.df:217
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Are you one of those evil genies?"
+msgstr "너 혹시 사악한 지니야?"
+
+#: deathforth/cyoa-charstats.df:233 deathforth/cyoa-charstats.df:237
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " You have "
+msgstr " 남은 "
+
+#: deathforth/cyoa-charstats.df:233
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " food left. "
+msgstr " 식량. "
+
+#: deathforth/cyoa-charstats.df:237
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " gas left. "
+msgstr " 기름. "
+
+#: deathforth/cyoa-charstats.df:248 deathforth/cyoa-charstats.df:276
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " gets to read "
+msgstr "이(가) 읽게 된 것: "
+
+#: deathforth/cyoa-charstats.df:248
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "THE SPANDEX LEAGUE"
+msgstr "스판덱스 리그"
+
+#: deathforth/cyoa-charstats.df:249 deathforth/cyoa-charstats.df:277
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " absorbs the contents! Sadly, "
+msgstr "는 내용을 흡수한다! 안타깝게도 "
+
+#: deathforth/cyoa-charstats.df:249
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " ruins the comic book for others due to "
+msgstr "가 남들은 못 읽게 만화책을 망쳐 버렸다. 이유: "
+
+#: deathforth/cyoa-charstats.df:249 deathforth/cyoa-charstats.df:277
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " grimy "
+msgstr " 더러운 "
+
+#: deathforth/cyoa-charstats.df:252
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" completely ruins the comic.\r\n"
+"\t\tSeems like someone doesn't like graphic novels."
+msgstr ""
+"이(가) 만화책을 완전히 망쳐 버린다.\r\n"
+"\t\t그래픽 노블을 안 좋아하는 사람이 있나 보다."
+
+#: deathforth/cyoa-charstats.df:258
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "It's a Graphic Novel NOT a Comic Book"
+msgstr "만화책이 아니라 그래픽 노블이라고"
+
+#: deathforth/cyoa-charstats.df:261
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The comic book got torn up during the fighting."
+msgstr "싸우는 동안 만화책이 찢어졌다."
+
+#: deathforth/cyoa-charstats.df:263
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" got out with a comic book! It's full of stories of burly people punching "
+"each other and shooting each other with eye beams."
+msgstr "이(가) 만화책을 들고 나왔다! 근육질 사람들이 서로 주먹질하고 눈에서 광선을 쏘는 이야기로 가득하다."
+
+#: deathforth/cyoa-charstats.df:266
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" reads it and absorbs the wisdom contained within! It's informative and "
+"entertaining!"
+msgstr "이(가) 읽고 그 안의 지혜를 흡수한다! 유익하고 재미있다!"
+
+#: deathforth/cyoa-charstats.df:268 deathforth/cyoa-charstats.df:299
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Who should get to read it?"
+msgstr "누가 읽을까?"
+
+#: deathforth/cyoa-charstats.df:277
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " ruins the magazine for others due to "
+msgstr "가 남들은 못 읽게 잡지를 망쳐 버렸다. 이유: "
+
+#: deathforth/cyoa-charstats.df:280
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" completely ruins the magazine.\r\n"
+"\t\tSeems like someone doesn't appreciate fine literature."
+msgstr ""
+"이(가) 잡지를 완전히 망쳐 버린다.\r\n"
+"\t\t고급 문학을 몰라보는 사람이 있나 보다."
+
+#: deathforth/cyoa-charstats.df:286
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Catch up on Reading"
+msgstr "밀린 독서"
+
+#: deathforth/cyoa-charstats.df:289
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:289
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " was lost in the carnage."
+msgstr "은(는) 아수라장 속에서 잃어버렸다."
+
+#: deathforth/cyoa-charstats.df:291
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " now has the "
+msgstr "이(가) 얻은 것: "
+
+#: deathforth/cyoa-charstats.df:294
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " reads it and absorbs the knowledge!"
+msgstr "이(가) 읽고 지식을 흡수한다!"
+
+#: deathforth/cyoa-charstats.df:297
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Everyone gets a chance to read it and learn some new things."
+msgstr "모두가 돌아가며 읽고 새로운 걸 배운다."
+
+#: deathforth/cyoa-charstats.df:305
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Reading Material"
+msgstr "읽을거리"
+
+#: deathforth/cyoa-charstats.df:307
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " finds a "
+msgstr "이(가) 찾은 것: "
+
+#: deathforth/cyoa-charstats.df:307
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" in good condition, among the ruined magazines and books. \r\n"
+"\tThe "
+msgstr ""
+"을(를) 망가진 잡지와 책들 사이에서 멀쩡한 상태로 찾았다. \r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:308
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'s title is: "
+msgstr "의 제목은: "
+
+#: deathforth/cyoa-charstats.df:309
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " stuffs it into "
+msgstr "는 그것을 "
+
+#: deathforth/cyoa-charstats.df:309
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " pack."
+msgstr " 가방에 쑤셔 넣는다."
+
+#: deathforth/cyoa-charstats.df:316
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " gets booted out of the group to make room for "
+msgstr "이(가) 일행에서 쫓겨난다. 자리를 내준 상대: "
+
+#: deathforth/cyoa-charstats.df:323
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Who would you like to replace to make room for "
+msgstr "자리를 비우려면 누구를 빼야 할까? 들어올 사람: "
+
+#: deathforth/cyoa-charstats.df:333
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/cyoa-charstats.df:337 deathforth/cyoa-charstats.df:369
+#: deathforth/cyoa-charstats.df:718 deathforth/cyoa-charstats.df:743
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Leave "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:337 deathforth/cyoa-charstats.df:369
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " behind"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/cyoa-charstats.df:347
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t자리를 비우려면 누구를 빼야 할까? 들어올 사람: "
+
+#: deathforth/cyoa-charstats.df:352
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " accepts "
+msgstr "은(는) 받아들인다: "
+
+#: deathforth/cyoa-charstats.df:352 deathforth/cyoa-charstats.df:363
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " to the team!"
+msgstr " 일행 합류!"
+
+#: deathforth/cyoa-charstats.df:358
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The group is full. Who would you like to replace to make room for "
+msgstr "일행이 꽉 찼다. 자리를 비우려면 누구를 빼야 할까? 들어올 사람: "
+
+#: deathforth/cyoa-charstats.df:363
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " recruits "
+msgstr "이(가) 영입한다: "
+
+#: deathforth/cyoa-charstats.df:368
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Ask "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:368
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " to join"
+msgstr "에게 합류를 부탁한다"
+
+#: deathforth/cyoa-charstats.df:373
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Lost to the Death Road"
+msgstr "데스 로드에서 잃다"
+
+#: deathforth/cyoa-charstats.df:374
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" gets there too late.\r\n"
+"\tThere's nothing that you can do for "
+msgstr ""
+"은(는) 너무 늦게 도착했다.\r\n"
+"\t이제 "
+
+#: deathforth/cyoa-charstats.df:375
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " now."
+msgstr "를 위해 할 수 있는 건 없다."
+
+#: deathforth/cyoa-charstats.df:396
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "mechanic"
+msgstr "기계"
+
+#: deathforth/cyoa-charstats.df:402
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " gets all sorts of secret "
+msgstr "은(는) 온갖 비밀 "
+
+#: deathforth/cyoa-charstats.df:402
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " tips from "
+msgstr " 비법을 전수받는다. 전수자: "
+
+#: deathforth/cyoa-charstats.df:402
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"!\r\n"
+"\tThe training ends, and "
+msgstr ""
+"!\r\n"
+"\t훈련이 끝나고, "
+
+#: deathforth/cyoa-charstats.df:403
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " departs."
+msgstr "은(는) 떠난다."
+
+#: deathforth/cyoa-charstats.df:413
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " doesn't understand "
+msgstr "은(는) 도무지 이해하지 못한다. "
+
+#: deathforth/cyoa-charstats.df:413
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'s attempts at training, at all."
+msgstr "의 훈련 시도를 전혀."
+
+#: deathforth/cyoa-charstats.df:422
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Who should get the "
+msgstr "누가 "
+
+#: deathforth/cyoa-charstats.df:422
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " training?"
+msgstr " 훈련을 받을까?"
+
+#: deathforth/cyoa-charstats.df:432
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Group "
+msgstr "일행 "
+
+#: deathforth/cyoa-charstats.df:435
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Strength Training"
+msgstr "근력 훈련"
+
+#: deathforth/cyoa-charstats.df:439
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Fitness Training"
+msgstr "체력 훈련"
+
+#: deathforth/cyoa-charstats.df:443
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Shooting Training"
+msgstr "사격 훈련"
+
+#: deathforth/cyoa-charstats.df:447
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Mechanic Training"
+msgstr "기계 훈련"
+
+#: deathforth/cyoa-charstats.df:451
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Medical Training"
+msgstr "의술 훈련"
+
+#: deathforth/cyoa-charstats.df:467
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Stash of 75 bullets"
+msgstr "총알 75발 더미"
+
+#: deathforth/cyoa-charstats.df:469
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Stash of 60 rifle ammo"
+msgstr "소총 탄약 60발 더미"
+
+#: deathforth/cyoa-charstats.df:471
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "45 shotgun shells"
+msgstr "산탄 45발"
+
+#: deathforth/cyoa-charstats.df:473
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Stash of 15 food"
+msgstr "식량 15개 더미"
+
+#: deathforth/cyoa-charstats.df:475
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Tank of 80 gas"
+msgstr "기름 80 한 통"
+
+#: deathforth/cyoa-charstats.df:477
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Stash of 10 medical"
+msgstr "의약품 10개 더미"
+
+#: deathforth/cyoa-charstats.df:481
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Morale Pep Talk"
+msgstr "사기 북돋는 격려"
+
+#: deathforth/cyoa-charstats.df:482
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "First Aid"
+msgstr "응급처치"
+
+#: deathforth/cyoa-charstats.df:521
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Recruit "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:521
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " to team"
+msgstr "을(를) 일행에 영입"
+
+#: deathforth/cyoa-charstats.df:533
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " sizes up "
+msgstr "은(는) 실력을 가늠해 본다: "
+
+#: deathforth/cyoa-charstats.df:533
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " skills..."
+msgstr " 실력..."
+
+#: deathforth/cyoa-charstats.df:536
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " judges "
+msgstr "은(는) 인성을 평가해 본다: "
+
+#: deathforth/cyoa-charstats.df:536
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " character..."
+msgstr " 인성..."
+
+#: deathforth/cyoa-charstats.df:548 deathforth/cyoa-charstats.df:566
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Rescue Successful!"
+msgstr "구출 성공!"
+
+#: deathforth/cyoa-charstats.df:549 deathforth/cyoa-charstats.df:568
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " catches up with "
+msgstr "이(가) 안전한 곳에서 합류한다: "
+
+#: deathforth/cyoa-charstats.df:549 deathforth/cyoa-charstats.df:568
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" at a safe spot.\r\n"
+"\t\t"
+msgstr ""
+"\r\n"
+"\t\t"
+
+#: deathforth/cyoa-charstats.df:550
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " offers a reward in thanks for saving "
+msgstr "는 구해 준 답례로 보상을 내민다: "
+
+#: deathforth/cyoa-charstats.df:554
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Yeah Well Nobody's Perfect"
+msgstr "그래, 뭐 완벽한 사람은 없지"
+
+#: deathforth/cyoa-charstats.df:555
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels pretty guilty about "
+msgstr "은(는) 꽤 죄책감을 느낀다. "
+
+#: deathforth/cyoa-charstats.df:555
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" getting eaten.\r\n"
+"\t\tSuch is life, I suppose."
+msgstr ""
+"이(가) 잡아먹힌 것에 대해.\r\n"
+"\t\t인생이 다 그렇지, 뭐."
+
+#: deathforth/cyoa-charstats.df:569
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " seems like "
+msgstr "는 "
+
+#: deathforth/cyoa-charstats.df:569
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " wants to stick around!"
+msgstr "가 계속 같이 있고 싶어 하는 것 같다!"
+
+#: deathforth/cyoa-charstats.df:571
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Set "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:571
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " free"
+msgstr "을(를) 풀어 준다"
+
+#: deathforth/cyoa-charstats.df:574
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Dog Adoption Failed"
+msgstr "개 입양 실패"
+
+#: deathforth/cyoa-charstats.df:575
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels guilty about "
+msgstr "은(는) 죄책감을 느낀다. "
+
+#: deathforth/cyoa-charstats.df:575
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" getting eaten.\r\n"
+"\t\tA dog could have been really handy."
+msgstr ""
+"이(가) 잡아먹힌 것에 대해.\r\n"
+"\t\t개가 있었으면 정말 쓸모 있었을 텐데."
+
+#: deathforth/cyoa-charstats.df:582
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The chicken is returned to its component nugs."
+msgstr "닭은 원래의 너겟 구성 요소로 돌아갔다."
+
+#: deathforth/cyoa-charstats.df:583
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Ashes to Ashes, Nugs to Nugs"
+msgstr "재는 재로, 너겟은 너겟으로"
+
+#: deathforth/cyoa-charstats.df:584
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The beautiful cycle of life continues."
+msgstr "아름다운 생명의 순환은 계속된다."
+
+#: deathforth/cyoa-charstats.df:589
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"The chicken leaves behind an egg!\r\n"
+"\tThis is a sign of good luck! Probably."
+msgstr ""
+"닭이 달걀을 남기고 떠났다!\r\n"
+"\t행운의 징조다! 아마도."
+
+#: deathforth/cyoa-charstats.df:600
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Chicken Rescued!"
+msgstr "닭 구출!"
+
+#: deathforth/cyoa-charstats.df:602
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" was able to get a chicken out of that farm!\r\n"
+"\t\tThe chicken wouldn't make for a good recruit.\r\n"
+"\t\tIt could be set free, or butchered for food. It doesn't have much meat on it, but it could be good for some chicken nuggets."
+msgstr ""
+"은(는) 농장에서 닭 한 마리를 구해 냈다!\r\n"
+"\t\t닭은 좋은 동료가 되진 못할 것이다.\r\n"
+"\t\t풀어 주거나, 식량으로 잡을 수 있다. 살은 별로 없지만 치킨 너겟 정도는 될 것 같다."
+
+#: deathforth/cyoa-charstats.df:605
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Set chicken free"
+msgstr "닭을 풀어 준다"
+
+#: deathforth/cyoa-charstats.df:606
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Nuggetify chicken"
+msgstr "닭을 너겟으로 만든다"
+
+#: deathforth/cyoa-charstats.df:609
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Chicken Rescue Failed"
+msgstr "닭 구출 실패"
+
+#: deathforth/cyoa-charstats.df:610
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" feels vaguely guilty about the chicken being eaten.\r\n"
+"\t\tIt was a waste of a good chicken."
+msgstr ""
+"은(는) 닭이 잡아먹힌 것에 막연한 죄책감을 느낀다.\r\n"
+"\t\t아까운 닭이었다."
+
+#: deathforth/cyoa-charstats.df:620
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" gets some homespun wisdom on repairing rusty junk heaps of all shapes and "
+"stripes."
+msgstr "은(는) 온갖 녹슨 고물을 고치는 소박한 지혜를 배운다."
+
+#: deathforth/cyoa-charstats.df:623
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" learns some old farmer healing remedies. Local medical herbs, ointments, "
+"home surgery techniques."
+msgstr "은(는) 옛 농부의 민간요법을 배운다. 동네 약초, 연고, 집에서 하는 수술 기술까지."
+
+#: deathforth/cyoa-charstats.df:626
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" gets a nice sharp sickle as a gift. It's light, it doesn't break, and it "
+"can do some damage."
+msgstr "은(는) 날카로운 낫을 선물로 받는다. 가볍고, 부러지지 않고, 꽤 아프다."
+
+#: deathforth/cyoa-charstats.df:628
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" is lead to a stash of pickled fruits, vegetables, and weird meat! Jar food "
+"is a nice change from canned food."
+msgstr "은(는) 피클 과일, 채소, 정체불명의 고기가 있는 곳으로 안내받는다! 병조림은 통조림에 비하면 신선한 변화다!"
+
+#: deathforth/cyoa-charstats.df:631
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Gothic Farm Rescue"
+msgstr "고딕 농장 구출"
+
+#: deathforth/cyoa-charstats.df:632
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " escapes the farm!"
+msgstr "은(는) 농장을 탈출한다!"
+
+#: deathforth/cyoa-charstats.df:636 deathforth/cyoa-charstats.df:638
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Ma"
+msgstr "엄마"
+
+#: deathforth/cyoa-charstats.df:636
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " escapes the farm, thanks to you!"
+msgstr "은(는) 네 덕분에 농장을 탈출한다!"
+
+#: deathforth/cyoa-charstats.df:638
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " did not escape with you."
+msgstr "은(는) 함께 탈출하지 못했다."
+
+#: deathforth/cyoa-charstats.df:645 deathforth/cyoa-charstats.df:647
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Pa"
+msgstr "아빠"
+
+#: deathforth/cyoa-charstats.df:645
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " survives thanks to your help!"
+msgstr "은(는) 네 도움 덕분에 살아남는다!"
+
+#: deathforth/cyoa-charstats.df:647
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " didn't make it."
+msgstr "은(는) 살아남지 못했다."
+
+#: deathforth/cyoa-charstats.df:651
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Unfortunately, neither of the farmers did."
+msgstr "안타깝게도 농부 둘 다 살아남지 못했다."
+
+#: deathforth/cyoa-charstats.df:654
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Grateful to both be alive, they offer you a gift:"
+msgstr "둘 다 살아남은 것에 감사하며, 선물을 준다:"
+
+#: deathforth/cyoa-charstats.df:655
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Stash of 10 food"
+msgstr "식량 10개 더미"
+
+#: deathforth/cyoa-charstats.df:656
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Pa's Fix-Em-Up Tips"
+msgstr "아빠의 수리 비법"
+
+#: deathforth/cyoa-charstats.df:657
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Ma's Home Remedies"
+msgstr "엄마의 민간요법"
+
+#: deathforth/cyoa-charstats.df:658
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "A Sturdy Sickle"
+msgstr "튼튼한 낫"
+
+#: deathforth/cyoa-charstats.df:665
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "OK, I'm awake!"
+msgstr "알았어, 일어났어!"
+
+#: deathforth/cyoa-charstats.df:666
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " says "
+msgstr "는 말한다. "
+
+#: deathforth/cyoa-charstats.df:666
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'ll follow you for awhile. Also that you should meet "
+msgstr "가 당분간 따라가겠다고. 그리고 둘 다 살아남으면 "
+
+#: deathforth/cyoa-charstats.df:666
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " outside of town, if you both make it."
+msgstr "를 마을 밖에서 만나자고."
+
+#: deathforth/cyoa-charstats.df:675
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " makes a careful diagnosis, and then starts kicking "
+msgstr "은(는) 신중하게 진단한 뒤, 걷어차기 시작한다: "
+
+#: deathforth/cyoa-charstats.df:675
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " on the rump."
+msgstr "의 엉덩이를."
+
+#: deathforth/cyoa-charstats.df:680
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " starts smooshing some food on "
+msgstr "은(는) 음식을 문질러 넣기 시작한다: "
+
+#: deathforth/cyoa-charstats.df:680
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'s mouth as "
+msgstr "의 입에. "
+
+#: deathforth/cyoa-charstats.df:680 deathforth/cyoa-charstats.df:694
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " sleeps."
+msgstr "가 자는 동안."
+
+#: deathforth/cyoa-charstats.df:686
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " pokes "
+msgstr "은(는) 쿡쿡 찌른다: "
+
+#: deathforth/cyoa-charstats.df:686
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " to wake "
+msgstr "을(를) 깨우려고. "
+
+#: deathforth/cyoa-charstats.df:686
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " up from sleep. It takes four consecutive hours of continuous poking."
+msgstr "가 일어나기까지 4시간 내내 쉬지 않고 찔러야 한다."
+
+#: deathforth/cyoa-charstats.df:694
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " starts licking "
+msgstr "은(는) 핥기 시작한다: "
+
+#: deathforth/cyoa-charstats.df:694
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'s face as "
+msgstr "의 얼굴을. "
+
+#: deathforth/cyoa-charstats.df:702
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Passed Out"
+msgstr "기절"
+
+#: deathforth/cyoa-charstats.df:703
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" has seen this kind of thing before.\r\n"
+"\tThis person clearly drank too much soda judging from the bottles lying around.\r\n"
+"\tNow "
+msgstr ""
+"은(는) 이런 걸 전에도 본 적 있다.\r\n"
+"\t주변에 굴러다니는 병을 보니 탄산음료를 너무 많이 마신 게 분명하다.\r\n"
+"\t이제 "
+
+#: deathforth/cyoa-charstats.df:705
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'s in need of food to even out "
+msgstr "에게 필요한 건 음식이다. "
+
+#: deathforth/cyoa-charstats.df:705
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " blood sugar."
+msgstr " 혈당을 맞춰야 한다."
+
+#: deathforth/cyoa-charstats.df:708
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " revives using medical skills"
+msgstr "이(가) 의술로 깨운다"
+
+#: deathforth/cyoa-charstats.df:711
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Feed "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:711
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " 1 food"
+msgstr "에게 식량 1 주기"
+
+#: deathforth/cyoa-charstats.df:713
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "There might be some food in a nearby building..."
+msgstr "근처 건물에 식량이 있을지도..."
+
+#: deathforth/cyoa-charstats.df:716
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " revives "
+msgstr "이(가) 깨운다: "
+
+#: deathforth/cyoa-charstats.df:716
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " via face licking"
+msgstr " (얼굴 핥기로)"
+
+#: deathforth/cyoa-charstats.df:718
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " alone"
+msgstr "는 그냥 둔다"
+
+#: deathforth/cyoa-charstats.df:720
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Poke "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:720
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " for 4 hours"
+msgstr "를 4시간 동안 찌르기"
+
+#: deathforth/cyoa-charstats.df:725 deathforth/cyoa-charstats.df:731
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " starts following "
+msgstr "이(가) 따라오기 시작한다: "
+
+#: deathforth/cyoa-charstats.df:726 deathforth/cyoa-charstats.df:732
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " could be useful, if you can get "
+msgstr "는 쓸모 있을지도 모른다. 만약 "
+
+#: deathforth/cyoa-charstats.df:726 deathforth/cyoa-charstats.df:732
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " out of here alive. Or a handy distraction, if you can't."
+msgstr "를 살려서 데리고 나갈 수 있다면. 못 하면 미끼로라도."
+
+#: deathforth/cyoa-charstats.df:739
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Everyone needs help sometimes"
+msgstr "누구나 가끔은 도움이 필요하다"
+
+#: deathforth/cyoa-charstats.df:740
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " says that "
+msgstr "은(는) 말한다. "
+
+#: deathforth/cyoa-charstats.df:740
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" really wants to get out of this place.\r\n"
+"\t"
+msgstr ""
+"는 정말 이곳을 벗어나고 싶다고.\r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:741
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " asks if "
+msgstr "는 묻는다. "
+
+#: deathforth/cyoa-charstats.df:741
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " can follow you around."
+msgstr "가 따라가도 되냐고."
+
+#: deathforth/cyoa-charstats.df:742
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Let "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:742
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " follow you"
+msgstr "가 따라오게 한다"
+
+#: deathforth/cyoa-charstats.df:743
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " for now"
+msgstr "는 일단 둔다"
+
+#: deathforth/cyoa-charstats.df:751
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The Ultra-Wiener"
+msgstr "울트라 닥스훈트"
+
+#: deathforth/cyoa-charstats.df:752
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"You've never seen a more impressive wiener dog. This must have been a show dog, with papers. The dog is also wielding a shotgun.\r\n"
+"\t\tHis collar reads:"
+msgstr ""
+"이렇게 멋진 닥스훈트는 처음 본다. 혈통서 있는 쇼견이었던 게 분명하다. 게다가 산탄총을 들고 있다.\r\n"
+"\t\t목걸이에 적힌 글자:"
+
+#: deathforth/cyoa-charstats.df:753
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " LIL' SAM BYOOL"
+msgstr " 릴 샘 뷸"
+
+#: deathforth/cyoa-charstats.df:756
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "What's a dog doing here?"
+msgstr "개가 여기서 뭐 하는 거지?"
+
+#: deathforth/cyoa-charstats.df:757
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"The dog seems unusually tame! Most dogs that are still alive have become "
+"feral at this point. This dog seems eager to see humans."
+msgstr "개가 유난히 순하다! 아직 살아 있는 개들은 대부분 야생화됐는데. 이 개는 사람을 반가워하는 것 같다."
+
+#: deathforth/cyoa-charstats.df:759
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Let dog follow you"
+msgstr "개가 따라오게 한다"
+
+#: deathforth/cyoa-charstats.df:760
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Leave dog alone for now"
+msgstr "개는 일단 둔다"
+
+#: deathforth/cyoa-charstats.df:765
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The dog wants to follow "
+msgstr "개가 따라가고 싶어 한다: "
+
+#: deathforth/cyoa-charstats.df:774
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Dog Pack"
+msgstr "들개 무리"
+
+#: deathforth/cyoa-charstats.df:775
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "The dog is feral! It's no longer capable of trusting humans. "
+msgstr "들개다! 더 이상 인간을 믿지 못한다. "
+
+#: deathforth/cyoa-charstats.df:777 deathforth/cyoa-charstats.df:791
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Leave dog alone"
+msgstr "개는 그냥 둔다"
+
+#: deathforth/cyoa-charstats.df:779 deathforth/cyoa-charstats.df:787
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Recruit the dog"
+msgstr "개를 영입한다"
+
+#: deathforth/cyoa-charstats.df:780
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "This is no problem, as there are no humans around."
+msgstr "근처에 인간이 없으니 문제없다."
+
+#: deathforth/cyoa-charstats.df:782
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " isn't a dog. The feral dog growls in suspicion."
+msgstr "은(는) 개가 아니다. 들개가 의심스럽게 으르렁댄다."
+
+#: deathforth/cyoa-charstats.df:786
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Of course, "
+msgstr "하지만 "
+
+#: deathforth/cyoa-charstats.df:786
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" is different! The dog starts to remember some long forgotten memories of "
+"when dogs and humans worked together... "
+msgstr "은(는) 다르다! 개는 개와 인간이 함께 일하던 오래전 기억을 떠올리기 시작한다... "
+
+#: deathforth/cyoa-charstats.df:789
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "This dog's eyes glimmer with recognition for a brief moment..."
+msgstr "이 개의 눈이 잠깐 알아보는 듯 반짝인다..."
+
+#: deathforth/cyoa-charstats.df:812
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Shotgun with 20 shells"
+msgstr "산탄총과 산탄 20발"
+
+#: deathforth/cyoa-charstats.df:814
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Magnum and 36 bullets"
+msgstr "매그넘과 총알 36발"
+
+#: deathforth/cyoa-charstats.df:816
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Box of 75 bullets"
+msgstr "총알 75발 상자"
+
+#: deathforth/cyoa-charstats.df:818
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Container of 80 gas"
+msgstr "기름 80 통"
+
+#: deathforth/cyoa-charstats.df:820
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Box of 45 shells"
+msgstr "산탄 45발 상자"
+
+#: deathforth/cyoa-charstats.df:822
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Box of 60 rifle ammo"
+msgstr "소총 탄약 60발 상자"
+
+#: deathforth/cyoa-charstats.df:824
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Pack of 10 medical"
+msgstr "의약품 10개 팩"
+
+#: deathforth/cyoa-charstats.df:826
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Stockpile of 15 food"
+msgstr "식량 15개 비축분"
+
+#: deathforth/cyoa-charstats.df:828
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Submachine Gun"
+msgstr "기관단총"
+
+#: deathforth/cyoa-charstats.df:830
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Hunting Rifle"
+msgstr "사냥용 소총"
+
+#: deathforth/cyoa-charstats.df:832
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Cowboy Rifle and 30 ammo"
+msgstr "카우보이 소총과 탄약 30발"
+
+#: deathforth/cyoa-charstats.df:842
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Rifled Slug Shotgun"
+msgstr "강선 슬러그 산탄총"
+
+#: deathforth/cyoa-charstats.df:845
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Auto Shotgun"
+msgstr "자동 산탄총"
+
+#: deathforth/cyoa-charstats.df:847
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Assault Rifle"
+msgstr "돌격 소총"
+
+#: deathforth/cyoa-charstats.df:879
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Safe Cracked!"
+msgstr "금고 털기 성공!"
+
+#: deathforth/cyoa-charstats.df:880
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "It takes a couple hours, but "
+msgstr "몇 시간이 걸렸지만, "
+
+#: deathforth/cyoa-charstats.df:880
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" figures out the safe's combination!\r\n"
+"\tAlong with some now useless money, it had:"
+msgstr ""
+"이(가) 금고 비밀번호를 알아냈다!\r\n"
+"\t이제는 쓸모없는 돈과 함께 들어 있던 것:"
+
+#: deathforth/cyoa-charstats.df:887
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Safe vs Pets"
+msgstr "금고 vs 반려동물"
+
+#: deathforth/cyoa-charstats.df:888
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" doesn't possess the brain necessary to be able to open a safe. Just another"
+" example of the human world's anti-"
+msgstr "은(는) 금고를 열 만한 두뇌가 없다. 인간 세상의 반-"
+
+#: deathforth/cyoa-charstats.df:888
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " bias."
+msgstr " 편견을 보여 주는 또 하나의 예다."
+
+#: deathforth/cyoa-charstats.df:891
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Safe Opened!"
+msgstr "금고 열기 성공!"
+
+#: deathforth/cyoa-charstats.df:892
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" unlocks and opens the safe!\r\n"
+"\t\tAlong with some now useless papers, it had:"
+msgstr ""
+"이(가) 금고 잠금을 풀고 연다!\r\n"
+"\t\t이제는 쓸모없는 서류와 함께 들어 있던 것:"
+
+#: deathforth/cyoa-charstats.df:896
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Locked Safe"
+msgstr "잠긴 금고"
+
+#: deathforth/cyoa-charstats.df:897
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"This safe is locked close, and too sturdy to destroy.\r\n"
+"\tWith luck the combination or key will be around, somewhere."
+msgstr ""
+"금고가 단단히 잠겨 있고 부수기엔 너무 튼튼하다.\r\n"
+"\t운이 좋으면 비밀번호나 열쇠가 어딘가에 있을 것이다."
+
+#: deathforth/cyoa-charstats.df:900
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Leave it be for now"
+msgstr "일단 그냥 둔다"
+
+#: deathforth/cyoa-charstats.df:901
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " cracks the safe!"
+msgstr "이(가) 금고를 딴다!"
+
+#: deathforth/cyoa-charstats.df:908 deathforth/cyoa-charstats.df:923
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Combination Number"
+msgstr "비밀번호"
+
+#: deathforth/cyoa-charstats.df:909
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"This skeleton is clutching a small piece of paper. \r\n"
+"\tThe paper has a series of numbers on it that looks like a padlock or safe combination!\r\n"
+"\t"
+msgstr ""
+"이 해골이 작은 종이 한 장을 움켜쥐고 있다. \r\n"
+"\t종이에 자물쇠나 금고 비밀번호 같은 숫자가 적혀 있다!\r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:911 deathforth/cyoa-charstats.df:918
+#: deathforth/cyoa-charstats.df:925
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " picks it up."
+msgstr "이(가) 그것을 줍는다."
+
+#: deathforth/cyoa-charstats.df:916
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Big Metal Key"
+msgstr "커다란 금속 열쇠"
+
+#: deathforth/cyoa-charstats.df:917
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"This big fancy key looks like it would unlock a safe!\r\n"
+"\t"
+msgstr ""
+"이 크고 화려한 열쇠는 금고를 열 수 있을 것 같다!\r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:924
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"This piece of paper has a series of numbers on it that looks like a padlock or safe combination!\r\n"
+"\t"
+msgstr ""
+"이 종이에 자물쇠나 금고 비밀번호 같은 숫자가 적혀 있다!\r\n"
+"\t"
+
+#: deathforth/cyoa-charstats.df:931
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " grows new hair! Nice!"
+msgstr "에게 새 머리카락이 났다! 좋아!"
+
+#: deathforth/cyoa-charstats.df:934 deathforth/cyoa-charstats.df:1270
+#: deathforth/cyoa-charstats.df:1276 deathforth/cyoa-charstats.df:1282
+#: deathforth/cyoa-charstats.df:1288
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " loses "
+msgstr "은(는) 잃는다: "
+
+#: deathforth/cyoa-charstats.df:934
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " hair!"
+msgstr " 머리카락!"
+
+#: deathforth/cyoa-charstats.df:940
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "'s eyes and mind are a bit more blurry..."
+msgstr "의 눈과 정신이 조금 흐릿해졌다..."
+
+#: deathforth/cyoa-charstats.df:943
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels more perceptive!"
+msgstr "은(는) 감각이 예민해진 걸 느낀다!"
+
+#: deathforth/cyoa-charstats.df:949
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels like "
+msgstr "은(는) 느낀다. "
+
+#: deathforth/cyoa-charstats.df:949
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " is slowing down..."
+msgstr "가 느려지는 것 같다고..."
+
+#: deathforth/cyoa-charstats.df:952
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels faster!"
+msgstr "은(는) 빨라진 걸 느낀다!"
+
+#: deathforth/cyoa-charstats.df:957
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels like a new person!"
+msgstr "은(는) 새사람이 된 기분이다!"
+
+#: deathforth/cyoa-charstats.df:971
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels more human!"
+msgstr "은(는) 더 인간다워진 기분이다!"
+
+#: deathforth/cyoa-charstats.df:975
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels more loyal!"
+msgstr "은(는) 충성심이 더 깊어진 기분이다!"
+
+#: deathforth/cyoa-charstats.df:981
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels like the world got bigger!"
+msgstr "은(는) 세상이 커진 것 같다!"
+
+#: deathforth/cyoa-charstats.df:985
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels large and in charge!"
+msgstr "은(는) 덩치가 커지고 자신감이 넘친다!"
+
+#: deathforth/cyoa-charstats.df:992
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels frail!"
+msgstr "은(는) 허약해진 기분이다!"
+
+#: deathforth/cyoa-charstats.df:995
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels sturdy!"
+msgstr "은(는) 튼튼해진 기분이다!"
+
+#: deathforth/cyoa-charstats.df:1001
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " turns into a dogdogdogtaur! It's unclear what this actually means..."
+msgstr "은(는) 개개개타우로스가 된다! 그게 무슨 뜻인지는 불분명하다..."
+
+#: deathforth/cyoa-charstats.df:1004
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " turns into a dogman: a dog with the body of a human!"
+msgstr "은(는) 개인간이 된다: 인간의 몸을 가진 개!"
+
+#: deathforth/cyoa-charstats.df:1008
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" turns into a dogdogtaur! A dog with the arms of a human and the head of a "
+"dog and the legs of a dog!"
+msgstr "은(는) 개개타우로스가 된다! 인간의 팔, 개의 머리, 개의 다리를 가진 개다!"
+
+#: deathforth/cyoa-charstats.df:1010
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " turns into a dogtaur: a dog with the torso and arms of a human!"
+msgstr "은(는) 개타우로스가 된다: 인간의 상체와 팔을 가진 개!"
+
+#: deathforth/cyoa-charstats.df:1016
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "A fly wanders into the machine! Doesn't seem to bother "
+msgstr "파리 한 마리가 기계 안으로 날아든다! 별로 신경 쓰지 않는 것 같다: "
+
+#: deathforth/cyoa-charstats.df:1019
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " turns into a dogfly! How horrifying!"
+msgstr "은(는) 개파리가 된다! 끔찍하다!"
+
+#: deathforth/cyoa-charstats.df:1023
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "A fly wanders into the machine as it starts up! "
+msgstr "기계가 작동하는 순간 파리 한 마리가 날아든다! "
+
+#: deathforth/cyoa-charstats.df:1023
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " gets spliced up with fly DNA! Bonus!!!"
+msgstr "은(는) 파리 DNA와 접합된다! 보너스!!!"
+
+#: deathforth/cyoa-charstats.df:1047
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Experiment Results"
+msgstr "실험 결과"
+
+#: deathforth/cyoa-charstats.df:1048
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" gets blasted by mysterious science rays until the machine ceases to work. "
+msgstr "은(는) 기계가 멈출 때까지 수수께끼의 과학 광선을 맞는다. "
+
+#: deathforth/cyoa-charstats.df:1048
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " feels energized!"
+msgstr "는 기운이 넘치는 걸 느낀다!"
+
+#: deathforth/cyoa-charstats.df:1055
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Mysterious Device"
+msgstr "수수께끼의 장치"
+
+#: deathforth/cyoa-charstats.df:1056
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+"Looks like some sorta mad science thing. There's no telling what this could "
+"do if messed with."
+msgstr "무슨 미친 과학 장치 같다. 건드렸다간 무슨 일이 생길지 모른다."
+
+#: deathforth/cyoa-charstats.df:1057
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Leave it alone for now"
+msgstr "일단 그냥 둔다"
+
+#: deathforth/cyoa-charstats.df:1058
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " enters the machine!"
+msgstr "이(가) 기계에 들어간다!"
+
+#: deathforth/cyoa-charstats.df:1064
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " touches the altar and is instantly blasted by strange energies!"
+msgstr "이(가) 제단에 손대는 순간 기묘한 힘에 휩싸인다!"
+
+#: deathforth/cyoa-charstats.df:1067
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " manages to survive, and feels different than before."
+msgstr "는 살아남았고, 전과는 뭔가 달라진 걸 느낀다."
+
+#: deathforth/cyoa-charstats.df:1070
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "For "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:1070
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" sacrifice, the altar bestows a gift!\r\n"
+"\t\tIn the distance, a "
+msgstr ""
+" 희생의 대가로, 제단이 선물을 내린다!\r\n"
+"\t\t저 멀리서 "
+
+#: deathforth/cyoa-charstats.df:1071
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "spooky goblin"
+msgstr "으스스한 고블린"
+
+#: deathforth/cyoa-charstats.df:1071
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " laughs in a goblin-like fashion."
+msgstr "이(가) 고블린처럼 웃는다."
+
+#: deathforth/cyoa-charstats.df:1092
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Sacrificial Altar"
+msgstr "제물의 제단"
+
+#: deathforth/cyoa-charstats.df:1094
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" stands near a stone altar. It must be the source of the ominous feeling coming from this entire place.\r\n"
+"\tThe altar seems "
+msgstr ""
+"은(는) 돌 제단 근처에 서 있다. 이 장소 전체에서 느껴지는 불길한 기운의 근원임이 틀림없다.\r\n"
+"\t제단은 "
+
+#: deathforth/cyoa-charstats.df:1095
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "extremely dangerous!"
+msgstr "극도로 위험해 보인다!"
+
+#: deathforth/cyoa-charstats.df:1095
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" It's a bit weird that someone would have this in their house.\r\n"
+"\tIt probably shouldn't be messed with!"
+msgstr ""
+" 누군가 집에 이런 걸 둔 것 자체가 좀 이상하다.\r\n"
+"\t건드리지 않는 게 좋겠다!"
+
+#: deathforth/cyoa-charstats.df:1097
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "WARNING: WILL KILL ANYONE NOT AT FULL HEALTH!"
+msgstr "경고: 체력이 가득 차지 않은 자는 죽음!"
+
+#: deathforth/cyoa-charstats.df:1098
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Have "
+msgstr "<EMPTY>"
+
+#: deathforth/cyoa-charstats.df:1098
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " touch altar"
+msgstr "이(가) 제단을 만지게 한다"
+
+#: deathforth/cyoa-charstats.df:1099
+msgctxt "deathforth/cyoa-charstats.df"
+msgid "Leave altar alone for now"
+msgstr "제단은 일단 둔다"
+
+#: deathforth/cyoa-charstats.df:1254
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " has left the team!"
+msgstr "이(가) 일행을 떠났다!"
+
+#: deathforth/cyoa-charstats.df:1270
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " primary weapon!"
+msgstr " 주무기!"
+
+#: deathforth/cyoa-charstats.df:1276
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " secondary weapon!"
+msgstr " 보조 무기!"
+
+#: deathforth/cyoa-charstats.df:1282
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " tertiary weapon!"
+msgstr " 세 번째 무기!"
+
+#: deathforth/cyoa-charstats.df:1288
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " weapons!"
+msgstr " 무기들!"
+
+#: deathforth/cyoa-charstats.df:1295
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " WEAPONS LOST!"
+msgstr "개 무기 분실!"
+
+#: deathforth/cyoa-charstats.df:1305
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " has to eat extra to keep warm."
+msgstr "은(는) 몸을 데우려고 더 많이 먹어야 한다."
+
+#: deathforth/cyoa-charstats.df:1308
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " doesn't have enough food to stay warm. Frost nips at their fingers."
+msgstr "은(는) 몸을 데울 식량이 부족하다. 손가락에 동상이 걸린다."
+
+#: deathforth/cyoa-charstats.df:1319
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" decides to have some ice cream from the truck for dessert. It's a small, if"
+" usually forgotten, comfort."
+msgstr "은(는) 디저트로 트럭에 있던 아이스크림을 먹기로 한다. 작지만, 흔히 잊히는 위안이다."
+
+#: deathforth/cyoa-charstats.df:1324
+msgctxt "deathforth/cyoa-charstats.df"
+msgid ""
+" shovels so much ice cream into their mouth that they get brainfreeze right "
+"away."
+msgstr "은(는) 아이스크림을 너무 퍼먹어서 바로 머리가 띵해진다."
+
+#: deathforth/cyoa-charstats.df:1335
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " doesn't really understand the taste palette, but food is food."
+msgstr "은(는) 맛을 잘 모르지만, 음식은 음식이다."
+
+#: deathforth/cyoa-charstats.df:1337
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " thinks the meal was great! It tastes amazing!"
+msgstr "은(는) 식사가 훌륭하다고 생각한다! 맛이 끝내준다!"
+
+#: deathforth/cyoa-charstats.df:1365
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " eats a fantastic meal, served up by "
+msgstr "은(는) 훌륭한 식사를 한다. 요리사: "
+
+#: deathforth/cyoa-charstats.df:1376
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " eats a decent meal."
+msgstr "은(는) 그럭저럭 괜찮은 식사를 한다."
+
+#: deathforth/cyoa-charstats.df:1387
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " is low on food, and eats less."
+msgstr "은(는) 식량이 부족해서 적게 먹는다."
+
+#: deathforth/cyoa-charstats.df:1395
+msgctxt "deathforth/cyoa-charstats.df"
+msgid " finds that there is no food left at all. Despair creeps in."
+msgstr "은(는) 식량이 하나도 남지 않았다는 걸 알게 된다. 절망이 스며든다."

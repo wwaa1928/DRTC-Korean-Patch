@@ -1,0 +1,2861 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/trade/rare.df:537
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You will find true love on the Death Road! Shortly after that you will"
+msgstr "운명의 길에서 진정한 사랑을 만날 거야! 그리고 얼마 뒤 넌 "
+
+#: deathforth/events/trade/rare.df:538
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You won't make it to Canada, instead you will"
+msgstr "캐나다에 닿지 못할 거야. 그 대신 넌 "
+
+#: deathforth/events/trade/rare.df:539
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"You will refuse helping someone in need, and the fates will punish you by "
+"making you"
+msgstr "어려운 사람을 외면한 죄로 운명의 벌을 받아 넌 "
+
+#: deathforth/events/trade/rare.df:540
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You will reach Canada! I see it! Then you will"
+msgstr "캐나다에 닿을 거야! 보여! 그리고 넌 "
+
+#: deathforth/events/trade/rare.df:541
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"You will be succeeded by an army of super-intelligent dogs that make a new "
+"civilization. They will replace mankind. You won't see this because you will"
+msgstr "너의 뒤를 이을 초지능 개 군단이 새 문명을 세워 인류를 대체할 거야. 하지만 넌 보지 못하겠지. 넌 "
+
+#: deathforth/events/trade/rare.df:542
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The zombies get bored and quit. This happens long after you"
+msgstr "좀비들이 지루해서 때려치울 거야. 하지만 그보다 한참 전에 넌 "
+
+#: deathforth/events/trade/rare.df:543
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Saying COOL IT gets your team in trouble, and you"
+msgstr "진정하라고 했다가 일행이 곤경에 처하고, 넌 "
+
+#: deathforth/events/trade/rare.df:544
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Your lucky numbers are 4 and 22! Also, you will"
+msgstr "행운의 숫자는 4와 22야! 그리고 넌 "
+
+#: deathforth/events/trade/rare.df:545
+msgctxt "deathforth/events/trade/rare.df"
+msgid "A mysterious stranger will cross your path and you both"
+msgstr "수상한 낯선 사람을 만난 뒤 너희 둘 다"
+
+#: deathforth/events/trade/rare.df:546
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The zombies all get replaced by werewolves and you"
+msgstr "좀비가 전부 늑대인간으로 바뀌고 넌 "
+
+#: deathforth/events/trade/rare.df:547
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"The Well of Wishes hides in the Crypt of Decay! You won't find it though, "
+"you'll"
+msgstr "부패의 지하실에 소원의 우물이 숨어 있어! 넌 못 찾겠지만. 넌 "
+
+#: deathforth/events/trade/rare.df:548
+msgctxt "deathforth/events/trade/rare.df"
+msgid "It will rain tomorrow. Or it won't. One of those two. You will"
+msgstr "내일 비가 올 거야. 아니면 안 오거나. 둘 중 하나지. 넌 "
+
+#: deathforth/events/trade/rare.df:549
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Mostly just seeing death in your future, sorry. You'll most likely"
+msgstr "네 미래엔 주로 죽음이 보이네. 미안. 아마 넌 "
+
+#: deathforth/events/trade/rare.df:550
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The prophesies speak of you! They state you will"
+msgstr "예언에서 널 언급했어! 거기 따르면 넌 "
+
+#: deathforth/events/trade/rare.df:551
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You shall make it to Canada! It is foreseen! Just kidding, you'll"
+msgstr "캐나다에 닿으리라! 예견되었노라! 농담이고, 넌 "
+
+#: deathforth/events/trade/rare.df:556
+msgctxt "deathforth/events/trade/rare.df"
+msgid "YOUR FORTUNE"
+msgstr "당신의 운세"
+
+#: deathforth/events/trade/rare.df:562
+msgctxt "deathforth/events/trade/rare.df"
+msgid " resolves to defy fate!"
+msgstr "은(는) 운명에 맞서기로 결심한다!"
+
+#: deathforth/events/trade/rare.df:563
+msgctxt "deathforth/events/trade/rare.df"
+msgid " - MAX HEALTH AND LUCK INCREASED!"
+msgstr " - 최대 체력과 행운 증가!"
+
+#: deathforth/events/trade/rare.df:569
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The tarot reading reveals amazing personal truths about "
+msgstr "타로 점괘가 놀라운 내면의 진실을 밝혀 준다. 대상은 "
+
+#: deathforth/events/trade/rare.df:578
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Who should get the tarot reading? It will reveal a lot about them."
+msgstr "누가 타로 점을 볼까? 그 사람에 관해 많은 것을 알 수 있을 것이다."
+
+#: deathforth/events/trade/rare.df:583
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" hires the wizard!\r\n"
+"\t"
+msgstr ""
+"은(는) 마법사를 고용한다!\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:584
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The prophecies still say that you will"
+msgstr "여전히 예언은 이렇군. 넌 "
+
+#: deathforth/events/trade/rare.df:588
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for the wizard?"
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t마법사를 영입하려면 누구를 내보낼까?"
+
+#: deathforth/events/trade/rare.df:598
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The Wizard"
+msgstr "마법사"
+
+#: deathforth/events/trade/rare.df:600
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"This guy looks like he might be a wizard.\r\n"
+"\t"
+msgstr ""
+"이 사람은 마법사처럼 보인다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:601
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"I'm a wizard! I can foresee your future, or reveal hidden truths with the "
+"power of the tarot!"
+msgstr "난 마법사야! 미래를 내다보거나 타로의 힘으로 숨은 진실을 밝힐 수 있지!"
+
+#: deathforth/events/trade/rare.df:604
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Free fortune: You're going to starve! Then you'll"
+msgstr "공짜 운세다! 넌 굶게 될 거야! 그리고 넌 "
+
+#: deathforth/events/trade/rare.df:605
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Cool, a free fortune!"
+msgstr "와, 공짜 운세!"
+
+#: deathforth/events/trade/rare.df:607
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Give nothing to this FRAUD"
+msgstr "이 사기꾼에게 아무것도 주지 않기"
+
+#: deathforth/events/trade/rare.df:609
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Get fortune - 1 food"
+msgstr "운세 보기 - 식량 1"
+
+#: deathforth/events/trade/rare.df:613
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Get a tarot reading - 5 food"
+msgstr "타로 점 보기 - 식량 5"
+
+#: deathforth/events/trade/rare.df:616
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Recruit wizard - 20 food"
+msgstr "마법사 영입 - 식량 20"
+
+#: deathforth/events/trade/rare.df:634
+msgctxt "deathforth/events/trade/rare.df"
+msgid " reads "
+msgstr "은(는) 읽는다. "
+
+#: deathforth/events/trade/rare.df:634 deathforth/events/trade/rare.df:668
+msgctxt "deathforth/events/trade/rare.df"
+msgid "THE ULTIMATE GUIDE TO DOGS"
+msgstr "개에 대한 궁극의 안내서"
+
+#: deathforth/events/trade/rare.df:634
+msgctxt "deathforth/events/trade/rare.df"
+msgid ". This massive book has every page filled with dog knowledge."
+msgstr ". 이 거대한 책은 모든 페이지가 개에 관한 지식으로 가득하다."
+
+#: deathforth/events/trade/rare.df:635 deathforth/events/trade/rare.df:643
+msgctxt "deathforth/events/trade/rare.df"
+msgid " gains the perk: "
+msgstr "가 얻은 특전: "
+
+#: deathforth/events/trade/rare.df:635
+msgctxt "deathforth/events/trade/rare.df"
+msgid "FRIEND OF DOG!"
+msgstr "개의 친구!"
+
+#: deathforth/events/trade/rare.df:642
+msgctxt "deathforth/events/trade/rare.df"
+msgid " buys "
+msgstr "은(는) 산다. "
+
+#: deathforth/events/trade/rare.df:642 deathforth/events/trade/rare.df:671
+msgctxt "deathforth/events/trade/rare.df"
+msgid "P.L. PLARKEN'S MAP ATLAS"
+msgstr "P.L. 플라켄의 지도책"
+
+#: deathforth/events/trade/rare.df:642
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+". It contains maps of every street from here to Canada. This will be "
+"extremely valuable."
+msgstr ". 여기서 캐나다까지 모든 거리의 지도가 들어 있다. 엄청나게 유용할 것이다."
+
+#: deathforth/events/trade/rare.df:643
+msgctxt "deathforth/events/trade/rare.df"
+msgid "EXPLORER!"
+msgstr "탐험가!"
+
+#: deathforth/events/trade/rare.df:649
+msgctxt "deathforth/events/trade/rare.df"
+msgid " - 5 food"
+msgstr " - 식량 5"
+
+#: deathforth/events/trade/rare.df:653
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Rare Books"
+msgstr "희귀 서적"
+
+#: deathforth/events/trade/rare.df:655
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"This bookish trader talks about how she's selling valuable rare books.\r\n"
+"\t"
+msgstr ""
+"책벌레 같은 상인이 값진 희귀 서적을 팔고 있다고 말한다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:656
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"Please don't mess with the display books! They're fake, I put them down to "
+"confuse book thieves."
+msgstr "전시용 책은 건드리지 마! 다 가짜야. 책 도둑을 속이려고 놓아뒀지."
+
+#: deathforth/events/trade/rare.df:659
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You don't have enough food to buy any of the good books!"
+msgstr "좋은 책을 살 식량이 부족해!"
+
+#: deathforth/events/trade/rare.df:660
+msgctxt "deathforth/events/trade/rare.df"
+msgid "I wanted those books"
+msgstr "그 책들 갖고 싶었는데"
+
+#: deathforth/events/trade/rare.df:662
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Books are for nerds"
+msgstr "책은 샌님들이나 보는 거지"
+
+#: deathforth/events/trade/rare.df:668 deathforth/events/trade/rare.df:671
+msgctxt "deathforth/events/trade/rare.df"
+msgid " - 15 food"
+msgstr " - 식량 15"
+
+#: deathforth/events/trade/rare.df:680
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys the giant sword.\r\n"
+"\t"
+msgstr ""
+"은(는) 거대한 검을 산다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:681
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You will not regret the purchase of a Cold Steel sword!"
+msgstr "콜드 스틸 검을 산 걸 후회하지 않을 거야!"
+
+#: deathforth/events/trade/rare.df:688
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"He thought you'd never ask.\r\n"
+"\t"
+msgstr ""
+"언제 부탁하나 기다렸다고 한다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:689
+msgctxt "deathforth/events/trade/rare.df"
+msgid " temporarily recruits "
+msgstr "은(는) "
+
+#: deathforth/events/trade/rare.df:689
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" so that he can provide a live demonstration.\r\n"
+"\t"
+msgstr ""
+"을(를) 시범을 보기 위해 잠시 영입한다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:690
+msgctxt "deathforth/events/trade/rare.df"
+msgid "You'll be amazed by the power of the Cold Steel Greatsword!"
+msgstr "콜드 스틸 대검의 위력에 깜짝 놀랄 거야!"
+
+#: deathforth/events/trade/rare.df:692
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room?"
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t자리를 만들려면 누구를 내보낼까?"
+
+#: deathforth/events/trade/rare.df:702
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Your group is full. If you ask for the demo, "
+msgstr "일행이 꽉 찼다. 시범을 부탁하려면 "
+
+#: deathforth/events/trade/rare.df:702
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"you will have to choose a team member to boot from the group!\r\n"
+"\tYou will then gain a temporary recruit for the next location."
+msgstr ""
+"동료 하나를 내보내야 한다!\r\n"
+"\t다음 장소에서 함께할 임시 동료를 얻게 된다."
+
+#: deathforth/events/trade/rare.df:704
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Cancel the demo"
+msgstr "시범 취소하기"
+
+#: deathforth/events/trade/rare.df:705
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Ditch someone for demo"
+msgstr "동료 내보내고 시범 보기"
+
+#: deathforth/events/trade/rare.df:709
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Cold Steel Knives"
+msgstr "콜드 스틸 나이브스"
+
+#: deathforth/events/trade/rare.df:711
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"I'm selling the finest weapon you'll ever see, before or after the zombie apocalypse.\r\n"
+"\t\tIt's the Cold Steel Greatsword from Cold Steel Knives! Only 45 food!"
+msgstr ""
+"좀비 종말 전후를 통틀어 최고의 무기를 팔고 있어.\r\n"
+"\t\t콜드 스틸 나이브스의 콜드 스틸 대검이야! 식량 45면 돼!"
+
+#: deathforth/events/trade/rare.df:714
+msgctxt "deathforth/events/trade/rare.df"
+msgid "I'm not good enough for this sword "
+msgstr "이 검을 쓰기엔 내 실력이 부족해 "
+
+#: deathforth/events/trade/rare.df:716
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Buy the Greatsword - 45 food"
+msgstr "대검 사기 - 식량 45"
+
+#: deathforth/events/trade/rare.df:719 deathforth/events/trade/rare.df:721
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Ask for a demo"
+msgstr "시범 부탁하기"
+
+#: deathforth/events/trade/rare.df:733
+msgctxt "deathforth/events/trade/rare.df"
+msgid " buys the "
+msgstr "은(는) 산다. "
+
+#: deathforth/events/trade/rare.df:733
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"SKULL HAMMER.\r\n"
+"\t"
+msgstr ""
+"해골 망치를.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:734
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Beholdeth the incredible destructive power of my spare SKULL HAMMER."
+msgstr "여분의 해골 망치가 지닌 놀라운 파괴력을 보라."
+
+#: deathforth/events/trade/rare.df:739
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys the skeleton's shortsword!\r\n"
+"\t"
+msgstr ""
+"은(는) 해골의 단검을 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:740
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"This gladius is a great sword, yet I never liked it becauseth it's not skull"
+" themed."
+msgstr "훌륭한 글라디우스이나, 해골 문양이 없어 내 취향이 아니었노라."
+
+#: deathforth/events/trade/rare.df:745
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys five Bomb Skulls!\r\n"
+"\t"
+msgstr ""
+"은(는) 해골 폭탄 다섯 개를 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:746
+msgctxt "deathforth/events/trade/rare.df"
+msgid "These skulls art enchanted with devastating SKULL POWER!"
+msgstr "이 해골들에는 파괴적인 해골의 힘이 깃들어 있노라!"
+
+#: deathforth/events/trade/rare.df:751
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" asks the skeleton why it needs food.\r\n"
+"\t"
+msgstr ""
+"은(는) 해골에게 왜 식량이 필요한지 묻는다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:752
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Because I eat it, you dinguseth!"
+msgstr "먹으려고지, 이 얼간아!"
+
+#: deathforth/events/trade/rare.df:758
+msgctxt "deathforth/events/trade/rare.df"
+msgid " farts on the skeleton knight's bone pile."
+msgstr "은(는) 해골 기사의 뼈 더미에 방귀를 뀐다."
+
+#: deathforth/events/trade/rare.df:760
+msgctxt "deathforth/events/trade/rare.df"
+msgid " tells the skeletal knight to "
+msgstr "은(는) 해골 기사에게 말한다. "
+
+#: deathforth/events/trade/rare.df:760
+msgctxt "deathforth/events/trade/rare.df"
+msgid "COOL IT."
+msgstr "입 닥쳐."
+
+#: deathforth/events/trade/rare.df:763
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"His skull makes rapid creaking noises. Laughter?\r\n"
+"\t\t"
+msgstr ""
+"해골에서 빠르게 삐걱대는 소리가 난다. 웃는 건가?\r\n"
+"\t\t"
+
+#: deathforth/events/trade/rare.df:764
+msgctxt "deathforth/events/trade/rare.df"
+msgid "I haven't heard a jape like that in ten centuries!"
+msgstr "천 년 만에 듣는 재밌는 농담이로다!"
+
+#: deathforth/events/trade/rare.df:771
+msgctxt "deathforth/events/trade/rare.df"
+msgid "He insists on joining. Who would you like to replace to make room for "
+msgstr "그가 합류하겠다고 우긴다. 자리를 만들려면 누구를 내보낼까? 영입할 사람: "
+
+#: deathforth/events/trade/rare.df:777
+msgctxt "deathforth/events/trade/rare.df"
+msgid "YOU COOLETH IT! YOU COOLETH IT!!"
+msgstr "그대나 닥치거라! 그대나 닥치거라!!"
+
+#: deathforth/events/trade/rare.df:777
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"\r\n"
+"\t\tThe heavily armed knight threatens to send "
+msgstr ""
+"\r\n"
+"\t\t중무장한 기사가 위협한다. 보내 주겠다며 "
+
+#: deathforth/events/trade/rare.df:778
+msgctxt "deathforth/events/trade/rare.df"
+msgid " to the "
+msgstr "을(를) "
+
+#: deathforth/events/trade/rare.df:778
+msgctxt "deathforth/events/trade/rare.df"
+msgid "BONE ZONE"
+msgstr "뼈다귀 지대로"
+
+#: deathforth/events/trade/rare.df:784
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Skeleton Knight"
+msgstr "해골 기사"
+
+#: deathforth/events/trade/rare.df:786
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"It's an animated skeleton, wearing plate armor.\r\n"
+"\t"
+msgstr ""
+"판금 갑옷을 입은 움직이는 해골이다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:787
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"I also hate zombies. They're coated in skin and flesh. It's disgusting!"
+msgstr "나도 좀비를 증오한다. 피부와 살로 뒤덮여 있지. 역겨운 것들!"
+
+#: deathforth/events/trade/rare.df:789
+msgctxt "deathforth/events/trade/rare.df"
+msgid "I'll sell you some of my spare weapons, if it pleaseth you."
+msgstr "원한다면 여분의 무기를 팔겠노라."
+
+#: deathforth/events/trade/rare.df:791
+msgctxt "deathforth/events/trade/rare.df"
+msgid "That's all I can spareth! Have fun with your crusade."
+msgstr "팔 수 있는 건 그게 전부로다! 성전을 즐기거라."
+
+#: deathforth/events/trade/rare.df:794 deathforth/events/trade/rare.df:889
+#: deathforth/events/trade/rare.df:933
+msgctxt "deathforth/events/trade/rare.df"
+msgid "No thanks"
+msgstr "괜찮아"
+
+#: deathforth/events/trade/rare.df:796
+msgctxt "deathforth/events/trade/rare.df"
+msgid " tells him to COOL IT"
+msgstr "은(는) 그에게 진정하라고 한다"
+
+#: deathforth/events/trade/rare.df:799
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Ask why he needs food"
+msgstr "왜 식량이 필요한지 묻기"
+
+#: deathforth/events/trade/rare.df:802
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Skull Hammer for 25 food"
+msgstr "해골 망치 - 식량 25"
+
+#: deathforth/events/trade/rare.df:805
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Gladius for 15 food"
+msgstr "글라디우스 - 식량 15"
+
+#: deathforth/events/trade/rare.df:808
+msgctxt "deathforth/events/trade/rare.df"
+msgid "5 Bomb Skulls for 5 food"
+msgstr "해골 폭탄 5개 - 식량 5"
+
+#: deathforth/events/trade/rare.df:820
+msgctxt "deathforth/events/trade/rare.df"
+msgid " jams food into the sleeping person's face."
+msgstr "은(는) 잠자는 사람의 입에 식량을 쑤셔 넣는다."
+
+#: deathforth/events/trade/rare.df:824
+msgctxt "deathforth/events/trade/rare.df"
+msgid " starts to understand "
+msgstr "은(는) "
+
+#: deathforth/events/trade/rare.df:824
+msgctxt "deathforth/events/trade/rare.df"
+msgid " perfect zen tranquility, and learns the "
+msgstr " 완벽한 평온을 이해하고 "
+
+#: deathforth/events/trade/rare.df:824
+msgctxt "deathforth/events/trade/rare.df"
+msgid "SOUND SLEEPER"
+msgstr "깊은 잠"
+
+#: deathforth/events/trade/rare.df:824
+msgctxt "deathforth/events/trade/rare.df"
+msgid " ability!"
+msgstr " 능력을 배운다!"
+
+#: deathforth/events/trade/rare.df:826
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Someone notices that "
+msgstr "누군가 눈치챈다. "
+
+#: deathforth/events/trade/rare.df:826
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" has been jamming large amounts of food into a sleeping person's mouth."
+msgstr "이(가) 잠자는 사람의 입에 엄청난 식량을 쑤셔 넣고 있었다는 걸."
+
+#: deathforth/events/trade/rare.df:827
+msgctxt "deathforth/events/trade/rare.df"
+msgid "HEY! YOU GET OUT OF THIS CAMP RIGHT NOW!"
+msgstr "야! 너 당장 이 야영지에서 나가!!"
+
+#: deathforth/events/trade/rare.df:828
+msgctxt "deathforth/events/trade/rare.df"
+msgid " runs away, fleeing from the trader camp!"
+msgstr "은(는) 상인 야영지에서 도망친다!"
+
+#: deathforth/events/trade/rare.df:831
+msgctxt "deathforth/events/trade/rare.df"
+msgid " talks nonsense in "
+msgstr "는 "
+
+#: deathforth/events/trade/rare.df:831
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" sleep.\r\n"
+"\t\tOr at least it sounds like nonsense, at first. "
+msgstr ""
+" 잠결에 헛소리를 늘어놓는다.\r\n"
+"\t\t적어도 처음에는 헛소리처럼 들렸다. "
+
+#: deathforth/events/trade/rare.df:832
+msgctxt "deathforth/events/trade/rare.df"
+msgid " thinks about it and realizes it's valuable knowledge."
+msgstr "은(는) 곰곰이 생각한 끝에 값진 지식이라는 걸 깨닫는다."
+
+#: deathforth/events/trade/rare.df:838
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Sleeping Trader"
+msgstr "잠자는 상인"
+
+#: deathforth/events/trade/rare.df:840
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"This person is asleep. How could they sleep so soundly in the middle of the "
+"zombocalypse? Right on the ground, no less."
+msgstr "이 사람은 잠들어 있다. 좀비 종말 한복판에서 어떻게 저렇게 푹 잘까? 그것도 맨바닥에서."
+
+#: deathforth/events/trade/rare.df:841
+msgctxt "deathforth/events/trade/rare.df"
+msgid " must have it all figured out."
+msgstr "는 뭔가 깨달은 모양이다."
+
+#: deathforth/events/trade/rare.df:843
+msgctxt "deathforth/events/trade/rare.df"
+msgid "WARNING: Jamming 4 more food in "
+msgstr "경고: "
+
+#: deathforth/events/trade/rare.df:843
+msgctxt "deathforth/events/trade/rare.df"
+msgid " mouth will get you in trouble, but will also give "
+msgstr " 입에 식량을 4개 더 넣으면 곤경에 처하지만, "
+
+#: deathforth/events/trade/rare.df:843
+msgctxt "deathforth/events/trade/rare.df"
+msgid " a new ability!"
+msgstr "에게 새 능력이 생긴다!"
+
+#: deathforth/events/trade/rare.df:847
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Leave "
+msgstr "<EMPTY>"
+
+#: deathforth/events/trade/rare.df:847
+msgctxt "deathforth/events/trade/rare.df"
+msgid " alone"
+msgstr "을(를) 내버려두기"
+
+#: deathforth/events/trade/rare.df:849
+msgctxt "deathforth/events/trade/rare.df"
+msgid ": Feed "
+msgstr "의 선택: 먹이기 - "
+
+#: deathforth/events/trade/rare.df:858
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys up a half dozen eggs. Zombies beware!\r\n"
+"\t"
+msgstr ""
+"은(는) 달걀 여섯 개를 산다. 좀비들, 각오해라!\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:859
+msgctxt "deathforth/events/trade/rare.df"
+msgid "BAKKAAAAAAAAAAAAW!"
+msgstr "꼬꼬꼬꼬꼬꼬댁!"
+
+#: deathforth/events/trade/rare.df:864
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys a few eggs, adding to the egg arsenal.\r\n"
+"\t"
+msgstr ""
+"은(는) 달걀 몇 개를 사서 달걀 무기고에 추가한다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:865
+msgctxt "deathforth/events/trade/rare.df"
+msgid "BAKAAAAW!"
+msgstr "꼬꼬꼬댁!"
+
+#: deathforth/events/trade/rare.df:870
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys up a single precious egg.\r\n"
+"\t"
+msgstr ""
+"은(는) 귀중한 달걀 하나를 산다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:871
+msgctxt "deathforth/events/trade/rare.df"
+msgid "BAWK!"
+msgstr "꼬댁!"
+
+#: deathforth/events/trade/rare.df:876
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Free Range Chicken"
+msgstr "방목한 닭"
+
+#: deathforth/events/trade/rare.df:878
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"This chicken has opened up a business for itself!\r\n"
+"\t"
+msgstr ""
+"이 닭이 사업을 차렸다!\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:879
+msgctxt "deathforth/events/trade/rare.df"
+msgid "BAKAW!"
+msgstr "꼬꼬댁!"
+
+#: deathforth/events/trade/rare.df:881
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The chicken has run out of eggs!"
+msgstr "닭의 달걀이 떨어졌다!"
+
+#: deathforth/events/trade/rare.df:885
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The chicken takes pity on you and gives you a free egg."
+msgstr "닭이 일행을 불쌍히 여겨 달걀 하나를 공짜로 준다."
+
+#: deathforth/events/trade/rare.df:888
+msgctxt "deathforth/events/trade/rare.df"
+msgid "It is selling very fresh eggs! 1 egg per 1 food."
+msgstr "아주 신선한 달걀을 판다! 식량 1개에 달걀 1개."
+
+#: deathforth/events/trade/rare.df:891
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Buy 6 Eggs"
+msgstr "달걀 6개 사기"
+
+#: deathforth/events/trade/rare.df:894
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Buy 3 Eggs"
+msgstr "달걀 3개 사기"
+
+#: deathforth/events/trade/rare.df:897
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Buy 1 Egg"
+msgstr "달걀 1개 사기"
+
+#: deathforth/events/trade/rare.df:908
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys a red turret. The ultimate turret. Throw it and then see zombies get mowed down.\r\n"
+"\t"
+msgstr ""
+"은(는) 빨간 포탑을 산다. 최강의 포탑이다. 던져 두면 좀비들이 쓸려 나간다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:909
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"No more zombie problems!\r\n"
+"\tUntil the turret runs out of ammo..."
+msgstr ""
+"좀비 걱정 끝!\r\n"
+"\t포탑의 탄약이 떨어질 때까지는..."
+
+#: deathforth/events/trade/rare.df:915
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+" buys a green turret. Throw it on the ground and watch it go.\r\n"
+"\t"
+msgstr ""
+"은(는) 초록 포탑을 산다. 바닥에 던져 놓고 활약을 구경하자.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:916
+msgctxt "deathforth/events/trade/rare.df"
+msgid "These can help a lot in a fight!"
+msgstr "싸움에서 큰 도움이 될 거야!"
+
+#: deathforth/events/trade/rare.df:921
+msgctxt "deathforth/events/trade/rare.df"
+msgid "What a Nerd"
+msgstr "너드 중의 너드"
+
+#: deathforth/events/trade/rare.df:923
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"This nerd is surrounded by beeping nerd doodads.\r\n"
+"\t"
+msgstr ""
+"삐삐거리는 너드 잡동사니에 둘러싸인 너드다.\r\n"
+"\t"
+
+#: deathforth/events/trade/rare.df:924
+msgctxt "deathforth/events/trade/rare.df"
+msgid "I'm not a nerd! I have lots of interests! I go to sports bars!"
+msgstr "난 너드 아니야! 관심사도 많고! 스포츠 바도 간다고!"
+
+#: deathforth/events/trade/rare.df:926
+msgctxt "deathforth/events/trade/rare.df"
+msgid "The nerd has run out stock!"
+msgstr "너드의 재고가 떨어졌다!"
+
+#: deathforth/events/trade/rare.df:930
+msgctxt "deathforth/events/trade/rare.df"
+msgid ""
+"You can't afford anything. The nerd gives you a pukeyball as a consolation "
+"prize."
+msgstr "아무것도 살 수 없다. 너드가 위로의 선물로 푸키볼을 준다."
+
+#: deathforth/events/trade/rare.df:935
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Buy Green Turret - 6 food"
+msgstr "초록 포탑 사기 - 식량 6"
+
+#: deathforth/events/trade/rare.df:938
+msgctxt "deathforth/events/trade/rare.df"
+msgid "Buy Red Turret - 12 food"
+msgstr "빨간 포탑 사기 - 식량 12"
+
+#: deathforth/events/trade/shuffler.df:97
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Visit Trader Camp"
+msgstr "상인 야영지 방문"
+
+#: deathforth/events/trade/shuffler.df:98
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Ignore Traders"
+msgstr "상인들 무시하기"
+
+#: deathforth/events/trade/shuffler.df:101
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " runs into a trading camp!"
+msgstr "은(는) 상인 야영지를 발견한다!"
+
+#: deathforth/events/trade/shuffler.df:105
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Getting Closer to Canada"
+msgstr "캐나다에 가까워지다"
+
+#: deathforth/events/trade/shuffler.df:106
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Canada is close! This is the second to last chance to trade!"
+msgstr "캐나다가 가깝다! 거래할 기회가 이제 두 번밖에 남지 않았다!"
+
+#: deathforth/events/trade/shuffler.df:111
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Last Shop Before Canada"
+msgstr "캐나다 전 마지막 상점"
+
+#: deathforth/events/trade/shuffler.df:112
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "This is the last chance to trade! Good luck!"
+msgstr "거래할 마지막 기회다! 행운을 빈다!"
+
+#: deathforth/events/trade/shuffler.df:120
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Trading on the Death Road"
+msgstr "죽음의 길에서 거래하기"
+
+#: deathforth/events/trade/shuffler.df:122
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+"Outside of Canada, most of society and civilization has been destroyed. You "
+"can still find people engaging in trade, with preserved food being the new "
+"currency."
+msgstr "캐나다 밖의 사회와 문명은 대부분 파괴됐다. 그래도 거래하는 사람들은 찾을 수 있다. 보존 식량이 새 화폐다."
+
+#: deathforth/events/trade/shuffler.df:126
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+" feels a sense of dread. Something dangerous is coming. The road seems like "
+"it's getting steadily more crowded with the undead, and they're getting "
+"riled up."
+msgstr "은(는) 불길함을 느낀다. 위험한 것이 다가온다. 길은 점점 더 많은 언데드로 붐비고, 놈들은 갈수록 흥분한다."
+
+#: deathforth/events/trade/shuffler.df:131
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+"The drive to Canada used to take a few days, at most. The apocalypse filled "
+"the roads with debris, hordes of zombies, and lots of stranded cars. It's "
+"now a long trip."
+msgstr "예전에는 캐나다까지 길어야 며칠이면 갔다. 종말 이후 도로는 잔해와 좀비 떼, 버려진 차로 가득 찼다. 이제는 긴 여정이다."
+
+#: deathforth/events/trade/shuffler.df:136
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+"The road trip continues. The sky starts to turn an ominous red, as if the "
+"universe wants "
+msgstr "여행은 계속된다. 하늘이 불길한 붉은빛으로 물든다. 우주가 바라기라도 하는 것 같다. "
+
+#: deathforth/events/trade/shuffler.df:136
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " to fail."
+msgstr "의 실패를."
+
+#: deathforth/events/trade/shuffler.df:141
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+"An enormous army of undead shambles around the carnage that surrounds the border to Canada. Many have tried to get through. Most only succeed in having their bodies added to the horde.\r\n"
+"\t\tMaybe "
+msgstr ""
+"캐나다 국경 주변의 참혹한 현장에 거대한 언데드 군대가 어슬렁댄다. 많은 이들이 통과하려 했다. 대부분은 자기 몸을 좀비 떼에 보태는 데 그쳤다.\r\n"
+"\t\t어쩌면 "
+
+#: deathforth/events/trade/shuffler.df:142
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " will be different..."
+msgstr "은(는) 다를지도..."
+
+#: deathforth/events/trade/shuffler.df:147
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "It's been a very long and winding road to Canada. "
+msgstr "캐나다까지 오는 길은 정말 길고 구불구불했다. "
+
+#: deathforth/events/trade/shuffler.df:147
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " is now only a couple days away!"
+msgstr "은(는) 이제 며칠만 더 가면 된다!"
+
+#: deathforth/events/trade/shuffler.df:152
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+"The end is in sight. At the end of this very long road is a massive amount of zombies, the natural end result of the hordes getting a little bigger every few days of travel.\r\n"
+"\t\tMaybe "
+msgstr ""
+"끝이 보인다. 이 기나긴 길 끝에는 엄청난 수의 좀비가 있다. 며칠 이동할 때마다 조금씩 불어나던 무리가 결국 이렇게 된 것이다.\r\n"
+"\t\t어쩌면 "
+
+#: deathforth/events/trade/shuffler.df:153
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " can make it!"
+msgstr "은(는) 해낼 수 있을지도!"
+
+#: deathforth/events/trade/shuffler.df:158
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+" is driving down a long stretch of road. No threats on the horizon, but not "
+"much else of interest, either. "
+msgstr "은(는) 길게 뻗은 도로를 달린다. 저 멀리 위협은 보이지 않지만, 딱히 흥미로운 것도 없다. "
+
+#: deathforth/events/trade/shuffler.df:160
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid ""
+" continues making progress along the Death Road. As long as one person "
+"remains alive, the dream of Canada lives on."
+msgstr "은(는) 죽음의 길에서 계속 전진한다. 한 사람이라도 살아 있는 한, 캐나다의 꿈도 살아 있다."
+
+#: deathforth/events/trade/shuffler.df:163
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid "Unexpectedly, "
+msgstr "뜻밖에도 "
+
+#: deathforth/events/trade/shuffler.df:163
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " finds someone "
+msgstr "은(는) 거래할 만한 사람을 찾는다. "
+
+#: deathforth/events/trade/shuffler.df:163
+msgctxt "deathforth/events/trade/shuffler.df"
+msgid " can trade with: "
+msgstr "의 거래 상대: "
+
+#: deathforth/events/trade/supplies.df:6
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "The group"
+msgstr "일행"
+
+#: deathforth/events/trade/supplies.df:7
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " is forced to flee the trader camp!"
+msgstr "은(는) 상인 야영지에서 도망쳐야 한다!"
+
+#: deathforth/events/trade/supplies.df:19
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " knocks the man over, grabs a sack of food, and then runs. "
+msgstr "은(는) 남자를 넘어뜨리고 식량 자루를 낚아채 달아난다. "
+
+#: deathforth/events/trade/supplies.df:21
+#: deathforth/events/trade/supplies.df:79
+#: deathforth/events/trade/supplies.df:523
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " dragged into it."
+msgstr "은(는) 거기에 휘말렸다."
+
+#: deathforth/events/trade/supplies.df:28
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 25 units of gas for 2 food."
+msgstr "은(는) 기름 25를 식량 2와 교환한다."
+
+#: deathforth/events/trade/supplies.df:33
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 50 units of gas for 4 food."
+msgstr "은(는) 기름 50을 식량 4와 교환한다."
+
+#: deathforth/events/trade/supplies.df:38
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 100 units of gas for 8 food."
+msgstr "은(는) 기름 100을 식량 8과 교환한다."
+
+#: deathforth/events/trade/supplies.df:43
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Gas to Snacks Conversion"
+msgstr "기름을 간식으로"
+
+#: deathforth/events/trade/supplies.df:45
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " sees a man standing near an SUV."
+msgstr "은(는) SUV 옆에 서 있는 남자를 본다."
+
+#: deathforth/events/trade/supplies.df:47
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+"Do you have any spare gas? I'm running out!\r\n"
+"\t\t"
+msgstr ""
+"남는 기름 있어? 곧 바닥날 것 같아서!\r\n"
+"\t\t"
+
+#: deathforth/events/trade/supplies.df:48
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "He offers to give you 2 cans of food for every 25 units of gas."
+msgstr "기름 25마다 통조림 식량 2개를 주겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:50
+#: deathforth/events/trade/supplies.df:111
+#: deathforth/events/trade/supplies.df:171
+#: deathforth/events/trade/supplies.df:229
+#: deathforth/events/trade/supplies.df:286
+#: deathforth/events/trade/supplies.df:344
+#: deathforth/events/trade/supplies.df:491
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "No thanks"
+msgstr "괜찮아"
+
+#: deathforth/events/trade/supplies.df:52
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " robs him"
+msgstr "은(는) 그를 턴다"
+
+#: deathforth/events/trade/supplies.df:55
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Thanks for all the gas!"
+msgstr "기름 줘서 고마워!"
+
+#: deathforth/events/trade/supplies.df:58
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Not enough to spare."
+msgstr "나눠 줄 여유가 없어."
+
+#: deathforth/events/trade/supplies.df:61
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade 100 gas"
+msgstr "기름 100 교환"
+
+#: deathforth/events/trade/supplies.df:64
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade 50 gas"
+msgstr "기름 50 교환"
+
+#: deathforth/events/trade/supplies.df:67
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade 25 gas"
+msgstr "기름 25 교환"
+
+#: deathforth/events/trade/supplies.df:77
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " grabs a couple of gas canisters and runs. "
+msgstr "은(는) 기름통 몇 개를 낚아채 달아난다. "
+
+#: deathforth/events/trade/supplies.df:86
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 5 food for 50 units of gas."
+msgstr "은(는) 식량 5를 기름 50과 교환한다."
+
+#: deathforth/events/trade/supplies.df:91
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 10 food for 100 units of gas."
+msgstr "은(는) 식량 10을 기름 100과 교환한다."
+
+#: deathforth/events/trade/supplies.df:96
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 15 food for 150 units of gas."
+msgstr "은(는) 식량 15를 기름 150과 교환한다."
+
+#: deathforth/events/trade/supplies.df:101
+#: deathforth/events/trade/supplies.df:162
+#: deathforth/events/trade/supplies.df:220
+#: deathforth/events/trade/supplies.df:277
+#: deathforth/events/trade/supplies.df:476
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades "
+msgstr "은(는) 교환한다. "
+
+#: deathforth/events/trade/supplies.df:101
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " remaining food for gas."
+msgstr " 남은 식량을 기름으로."
+
+#: deathforth/events/trade/supplies.df:106
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Gas For Sale"
+msgstr "기름 팝니다"
+
+#: deathforth/events/trade/supplies.df:107
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" finds a man near a rusted truck. The truck is full of gas tanks and oily "
+"rags. Both the man and truck reek of gasoline."
+msgstr ""
+"은(는) 녹슨 트럭 옆에서 남자를 만난다. 트럭은 기름통과 기름 묻은 헝겊으로 가득하다. 남자와 트럭 모두 휘발유 냄새가 진동한다."
+
+#: deathforth/events/trade/supplies.df:109
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+"He offers to sell 10 units of gas in exchange for every food item he gets."
+msgstr "식량 한 개에 기름 10씩 팔겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:113
+#: deathforth/events/trade/supplies.df:173
+#: deathforth/events/trade/supplies.df:231
+#: deathforth/events/trade/supplies.df:288
+#: deathforth/events/trade/supplies.df:346
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " robs the trader"
+msgstr "은(는) 상인을 턴다"
+
+#: deathforth/events/trade/supplies.df:116
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "He's all out of gas."
+msgstr "그에게 기름이 더는 없다."
+
+#: deathforth/events/trade/supplies.df:121
+#: deathforth/events/trade/supplies.df:180
+#: deathforth/events/trade/supplies.df:238
+#: deathforth/events/trade/supplies.df:295
+#: deathforth/events/trade/supplies.df:353
+#: deathforth/events/trade/supplies.df:503
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade 15 food"
+msgstr "식량 15 교환"
+
+#: deathforth/events/trade/supplies.df:124
+#: deathforth/events/trade/supplies.df:183
+#: deathforth/events/trade/supplies.df:241
+#: deathforth/events/trade/supplies.df:298
+#: deathforth/events/trade/supplies.df:356
+#: deathforth/events/trade/supplies.df:506
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade 10 food"
+msgstr "식량 10 교환"
+
+#: deathforth/events/trade/supplies.df:128
+#: deathforth/events/trade/supplies.df:187
+#: deathforth/events/trade/supplies.df:245
+#: deathforth/events/trade/supplies.df:302
+#: deathforth/events/trade/supplies.df:360
+#: deathforth/events/trade/supplies.df:510
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade 5 food"
+msgstr "식량 5 교환"
+
+#: deathforth/events/trade/supplies.df:130
+#: deathforth/events/trade/supplies.df:189
+#: deathforth/events/trade/supplies.df:247
+#: deathforth/events/trade/supplies.df:304
+#: deathforth/events/trade/supplies.df:362
+#: deathforth/events/trade/supplies.df:512
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Trade "
+msgstr "교환: "
+
+#: deathforth/events/trade/supplies.df:130
+#: deathforth/events/trade/supplies.df:189
+#: deathforth/events/trade/supplies.df:247
+#: deathforth/events/trade/supplies.df:304
+#: deathforth/events/trade/supplies.df:362
+#: deathforth/events/trade/supplies.df:512
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " food"
+msgstr " 식량"
+
+#: deathforth/events/trade/supplies.df:141
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" grabs a few boxes of bullets, then runs. The scavenger was lying about not "
+"using firearms, and sends some extra bullets towards "
+msgstr ""
+"은(는) 탄약 상자 몇 개를 집어 들고 달아난다. 수집가는 총을 안 쓴다고 거짓말한 것이었다. 추가 탄약을 직접 날려 보낸다. 상대는 "
+
+#: deathforth/events/trade/supplies.df:147
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 5 food for 40 bullets."
+msgstr "은(는) 식량 5를 권총탄 40발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:152
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 10 food for 80 bullets."
+msgstr "은(는) 식량 10을 권총탄 80발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:157
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 15 food for 120 bullets."
+msgstr "은(는) 식량 15를 권총탄 120발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:162
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " remaining food for bullets."
+msgstr " 남은 식량을 권총탄으로."
+
+#: deathforth/events/trade/supplies.df:167
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Bullet Surplus"
+msgstr "남는 권총탄"
+
+#: deathforth/events/trade/supplies.df:168
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" talks to a friendly scavenger who is selling extra bullets. She claims to "
+"not use pistols due to how gunshots rile up zombies."
+msgstr "은(는) 남는 권총탄을 파는 친절한 수집가와 대화한다. 총소리에 좀비가 흥분하니 권총을 쓰지 않는다고 주장한다."
+
+#: deathforth/events/trade/supplies.df:170
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "She offers 8 bullets for every food item she gets."
+msgstr "식량 한 개에 권총탄 8발을 주겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:176
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "She's fresh out of bullets."
+msgstr "그녀의 권총탄이 방금 다 떨어졌다."
+
+#: deathforth/events/trade/supplies.df:200
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" takes a big box of shotgun shells and walks away with it. In a calm and "
+"fluid motion, the shell merchant whips out a shotgun and starts blasting."
+msgstr "은(는) 산탄 상자 하나를 들고 떠난다. 산탄 상인은 침착하고 매끄러운 동작으로 산탄총을 꺼내 난사한다."
+
+#: deathforth/events/trade/supplies.df:205
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 5 food for 25 shotgun shells."
+msgstr "은(는) 식량 5를 산탄 25발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:210
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 10 food for 50 shotgun shells."
+msgstr "은(는) 식량 10을 산탄 50발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:215
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 15 food for 75 shotgun shells."
+msgstr "은(는) 식량 15를 산탄 75발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:220
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " remaining food for shotgun shells."
+msgstr " 남은 식량을 산탄으로."
+
+#: deathforth/events/trade/supplies.df:225
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Shotgun Shell Stand"
+msgstr "산탄 가판대"
+
+#: deathforth/events/trade/supplies.df:226
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " sees a gruff man near an ice cream truck. The words "
+msgstr "은(는) 아이스크림 트럭 옆의 무뚝뚝한 남자를 본다. 간판의 "
+
+#: deathforth/events/trade/supplies.df:226
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "ICE CREAM"
+msgstr "아이스크림"
+
+#: deathforth/events/trade/supplies.df:226
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " have been crossed off its sign with "
+msgstr "에 줄을 긋고 "
+
+#: deathforth/events/trade/supplies.df:226
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "SHOTGUN SHELLS"
+msgstr "산탄"
+
+#: deathforth/events/trade/supplies.df:226
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " written in."
+msgstr "이라고 써 놓았다."
+
+#: deathforth/events/trade/supplies.df:228
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "He offers to sell 5 shotgun shells for every food item you give him."
+msgstr "식량 한 개에 산탄 5발을 팔겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:234
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "He's all out of shotgun shells."
+msgstr "그에게 산탄이 더는 없다."
+
+#: deathforth/events/trade/supplies.df:258
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+"'s robbery attempt ends up messy. The seller has two loaded assault rifles. "
+"She fires them wildly, one in each hand, spraying ammo everywhere."
+msgstr ""
+"의 강도질은 엉망이 된다. 판매원은 장전된 돌격소총을 두 자루 갖고 있다. 양손에 한 자루씩 들고 마구 쏘며 사방에 탄약을 뿌린다."
+
+#: deathforth/events/trade/supplies.df:263
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 5 food for 30 rifle ammo."
+msgstr "은(는) 식량 5를 소총탄 30발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:268
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 10 food for 60 rifle ammo."
+msgstr "은(는) 식량 10을 소총탄 60발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:272
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 15 food for 90 rifle ammo."
+msgstr "은(는) 식량 15를 소총탄 90발과 교환한다."
+
+#: deathforth/events/trade/supplies.df:277
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " remaining food for rifle ammo."
+msgstr " 남은 식량을 소총탄으로."
+
+#: deathforth/events/trade/supplies.df:282
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Rifle Ammo Seller"
+msgstr "소총탄 판매원"
+
+#: deathforth/events/trade/supplies.df:283
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" runs into someone selling extra rifle ammo. She says she's frugal with "
+"ammo, often killing multiple zombies in one shot."
+msgstr "은(는) 남는 소총탄을 파는 사람을 만난다. 그녀는 탄약을 아껴 쓰며 한 발로 여러 좀비를 죽이곤 한다고 말한다."
+
+#: deathforth/events/trade/supplies.df:285
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "She offers to give 6 rifle ammo per food item she gets."
+msgstr "식량 한 개에 소총탄 6발을 주겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:291
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "She's run out of rifle ammo."
+msgstr "그녀의 소총탄이 떨어졌다."
+
+#: deathforth/events/trade/supplies.df:315
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" robs the trader but later realizes that everything was just poop medicine "
+"for cats. This still has some value, but just barely."
+msgstr "은(는) 상인을 털지만 나중에 전부 고양이 변비약이었다는 걸 깨닫는다. 그래도 쓸모는 있다. 아주 조금은."
+
+#: deathforth/events/trade/supplies.df:320
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 5 food for 5 medical supplies."
+msgstr "은(는) 식량 5를 의약품 5와 교환한다."
+
+#: deathforth/events/trade/supplies.df:325
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 10 food for 10 medical supplies."
+msgstr "은(는) 식량 10을 의약품 10과 교환한다."
+
+#: deathforth/events/trade/supplies.df:330
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 15 food for 15 medical supplies."
+msgstr "은(는) 식량 15를 의약품 15와 교환한다."
+
+#: deathforth/events/trade/supplies.df:335
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades their remaining food for medical supplies."
+msgstr "은(는) 남은 식량을 의약품과 교환한다."
+
+#: deathforth/events/trade/supplies.df:340
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Medicine Salesman"
+msgstr "약 장수"
+
+#: deathforth/events/trade/supplies.df:341
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" finds a man claiming to be a travelling medicine salesman. He's carrying "
+"two suitcases of medical supplies."
+msgstr "은(는) 떠돌이 약 장수라고 주장하는 남자를 만난다. 의약품이 든 가방 두 개를 들고 있다."
+
+#: deathforth/events/trade/supplies.df:343
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "He offers one medical item for each item of food."
+msgstr "식량 한 개에 의약품 한 개를 주겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:349
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "He's now out of medicine to sell."
+msgstr "그에게 팔 약이 더는 없다."
+
+#: deathforth/events/trade/supplies.df:371
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" robs the doctor of supplies. The other people in the trading camp swoop in "
+"to defend her."
+msgstr "은(는) 의사의 물자를 턴다. 상인 야영지의 다른 사람들이 그녀를 지키려고 달려든다."
+
+#: deathforth/events/trade/supplies.df:377
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " gets a check-up, but there's nothing wrong with "
+msgstr "은(는) 검진을 받는다. 이상이 없는 사람은 바로 "
+
+#: deathforth/events/trade/supplies.df:379
+#: deathforth/events/trade/supplies.df:396
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " gets treatment for "
+msgstr "은(는) 치료를 받는다. 치료 범위: "
+
+#: deathforth/events/trade/supplies.df:379
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " wounds."
+msgstr " 상처."
+
+#: deathforth/events/trade/supplies.df:393
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " gets a check-up, but there's nothing wrong with them."
+msgstr "은(는) 검진을 받지만, 별다른 이상은 없다."
+
+#: deathforth/events/trade/supplies.df:398
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "all"
+msgstr "전부"
+
+#: deathforth/events/trade/supplies.df:400
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "most"
+msgstr "대부분"
+
+#: deathforth/events/trade/supplies.df:402
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " of their wounds."
+msgstr "의 상처."
+
+#: deathforth/events/trade/supplies.df:414
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Who should get the treatment?"
+msgstr "누가 치료를 받을까?"
+
+#: deathforth/events/trade/supplies.df:420
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" convinces the doctor to offer her services for free!\r\n"
+"\t\t"
+msgstr ""
+"은(는) 의사를 설득해 무료 진료를 받는다!\r\n"
+"\t\t"
+
+#: deathforth/events/trade/supplies.df:421
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "'s just that charming."
+msgstr "의 매력은 그 정도다."
+
+#: deathforth/events/trade/supplies.df:424
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" accidentally just comes off as creepy. \r\n"
+"\t\t"
+msgstr ""
+"은(는) 어쩌다 보니 그냥 기분 나쁜 사람처럼 보인다. \r\n"
+"\t\t"
+
+#: deathforth/events/trade/supplies.df:425
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " is asked to leave and never return."
+msgstr "은(는) 떠나서 다시는 돌아오지 말라는 말을 듣는다."
+
+#: deathforth/events/trade/supplies.df:430
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Medical Attention"
+msgstr "진료"
+
+#: deathforth/events/trade/supplies.df:431
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" finds a woman surrounded by medical equipment. She claims to be a skilled doctor!\r\n"
+"\tShe offers to provide health care in exchange for food."
+msgstr ""
+"은(는) 의료 장비에 둘러싸인 여자를 만난다. 숙련된 의사라고 주장한다!\r\n"
+"\t식량을 받으면 치료해 주겠다고 한다."
+
+#: deathforth/events/trade/supplies.df:433
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Leave for now"
+msgstr "일단 떠나기"
+
+#: deathforth/events/trade/supplies.df:435
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "There's not enough food to afford treatment."
+msgstr "치료받을 식량이 부족하다."
+
+#: deathforth/events/trade/supplies.df:437
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Give 6 food for treatment"
+msgstr "치료받기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:439
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Give "
+msgstr "단체 진료 - "
+
+#: deathforth/events/trade/supplies.df:439
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " food for group care"
+msgstr " 식량"
+
+#: deathforth/events/trade/supplies.df:443
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " uses charm"
+msgstr "은(는) 매력을 발휘한다"
+
+#: deathforth/events/trade/supplies.df:446
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " robs the doctor"
+msgstr "은(는) 의사를 턴다"
+
+#: deathforth/events/trade/supplies.df:456
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" attempts to steal from the big ammo cache. The dog is not happy with this, "
+"and it goes"
+msgstr "은(는) 커다란 탄약 창고에서 훔치려 한다. 개는 마음에 들지 않는지"
+
+#: deathforth/events/trade/supplies.df:456
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " COMPLETELY NUTS"
+msgstr " 완전히 미쳐 날뛴다"
+
+#: deathforth/events/trade/supplies.df:461
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 5 food for a bit of ammo."
+msgstr "은(는) 식량 5를 약간의 탄약과 교환한다."
+
+#: deathforth/events/trade/supplies.df:466
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 10 food for a bunch of ammo."
+msgstr "은(는) 식량 10을 많은 탄약과 교환한다."
+
+#: deathforth/events/trade/supplies.df:471
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " trades 15 food for an assortment of ammo."
+msgstr "은(는) 식량 15를 여러 종류의 탄약과 교환한다."
+
+#: deathforth/events/trade/supplies.df:476
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " remaining food for some ammo."
+msgstr " 남은 식량을 탄약과."
+
+#: deathforth/events/trade/supplies.df:481
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" uses DOG PSYCHOLOGY in order to get a heap of free ammo from the dog. It's "
+"great that this works on talking dogs."
+msgstr "은(는) 개 심리학을 활용해 개에게 공짜 탄약을 잔뜩 얻는다. 말하는 개에게도 통하다니 다행이다."
+
+#: deathforth/events/trade/supplies.df:486
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Ammo Emporium"
+msgstr "탄약 백화점"
+
+#: deathforth/events/trade/supplies.df:487
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " finds a dog surrounded by a bunch of ammo. The dog speaks:"
+msgstr "은(는) 탄약 더미에 둘러싸인 개를 발견한다. 개가 말을 한다:"
+
+#: deathforth/events/trade/supplies.df:487
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+"\r\n"
+"\tWELCOME TO AMMO EMPORIUM! EVERYTHING MUST GO!"
+msgstr ""
+"\r\n"
+"\t탄약 백화점에 오신 걸 환영합니다!! 전부 팔아 치웁니다!!"
+
+#: deathforth/events/trade/supplies.df:490
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "It offers 5 bullets, 4 rifle ammo, and 3 shotgun shells per food item."
+msgstr "식량 한 개에 권총탄 5발, 소총탄 4발, 산탄 3발을 준다고 한다."
+
+#: deathforth/events/trade/supplies.df:493
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " robs the dog"
+msgstr "은(는) 개를 턴다"
+
+#: deathforth/events/trade/supplies.df:496
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " uses DOG PSYCHOLOGY"
+msgstr "은(는) 개 심리학을 활용한다"
+
+#: deathforth/events/trade/supplies.df:499
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "The dog's out of supplies after selling you a heap of ammo!"
+msgstr "개는 일행에게 탄약을 잔뜩 팔아서 물자가 떨어졌다!"
+
+#: deathforth/events/trade/supplies.df:521
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "The trader defends herself by throwing cans of food at "
+msgstr "상인이 통조림을 던져 자신을 지킨다. 목표는 "
+
+#: deathforth/events/trade/supplies.df:521
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "! It's surprisingly effective. "
+msgstr "! 의외로 효과적이다. "
+
+#: deathforth/events/trade/supplies.df:530
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "NO DROP, NO SALE"
+msgstr "안 내놓으면 못 팔지"
+
+#: deathforth/events/trade/supplies.df:531
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" refuses to part with this weapon! The trader is mildly irritated by her "
+"time being wasted."
+msgstr "은(는) 이 무기를 놓으려 하지 않는다! 상인은 시간을 낭비했다며 약간 짜증을 낸다."
+
+#: deathforth/events/trade/supplies.df:536
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "WEAPON SOLD!"
+msgstr "무기 판매 완료!"
+
+#: deathforth/events/trade/supplies.df:811
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Weapons Bartering"
+msgstr "무기 물물교환"
+
+#: deathforth/events/trade/supplies.df:813
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+" sees a woman standing near a stockpile of crates. The crates seem to "
+"contain a large amount of food and drink."
+msgstr "은(는) 상자 더미 옆에 서 있는 여자를 본다. 상자에는 음식과 음료가 많이 든 것 같다."
+
+#: deathforth/events/trade/supplies.df:814
+msgctxt "deathforth/events/trade/supplies.df"
+msgid ""
+"I got food! I'm looking for some great weapons!\r\n"
+"\t\t"
+msgstr ""
+"식량 있어! 좋은 무기를 구하고 있어!\r\n"
+"\t\t"
+
+#: deathforth/events/trade/supplies.df:815
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "She takes a quick look at what "
+msgstr "그녀가 재빨리 살펴본다. "
+
+#: deathforth/events/trade/supplies.df:815
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " is carrying..."
+msgstr "이(가) 들고 있는 것을..."
+
+#: deathforth/events/trade/supplies.df:817
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Give nothing right now"
+msgstr "지금은 아무것도 주지 않기"
+
+#: deathforth/events/trade/supplies.df:819
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "She doesn't see anything that she wants!"
+msgstr "그녀가 원하는 것은 없다!"
+
+#: deathforth/events/trade/supplies.df:821
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " However, there's something you can sell "
+msgstr " 그래도 팔 수 있는 게 있다. "
+
+#: deathforth/events/trade/supplies.df:823
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "on a different character."
+msgstr "다른 캐릭터가 가진 물건 중에."
+
+#: deathforth/events/trade/supplies.df:825
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "sitting in the car's trunk."
+msgstr "차 트렁크 안에."
+
+#: deathforth/events/trade/supplies.df:828
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Come back later"
+msgstr "나중에 돌아오기"
+
+#: deathforth/events/trade/supplies.df:831
+msgctxt "deathforth/events/trade/supplies.df"
+msgid " robs her"
+msgstr "은(는) 그녀를 턴다"
+
+#: deathforth/events/trade/supplies.df:838
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Bardiche - 6 food"
+msgstr "바르디슈 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:839
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Skull Mace - 10 food"
+msgstr "해골 철퇴 팔기 - 식량 10"
+
+#: deathforth/events/trade/supplies.df:840
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Grim Reaper - 15 food"
+msgstr "사신 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:841
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Scythe - 3 food"
+msgstr "낫 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:842
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Zweihander - 11 food"
+msgstr "츠바이헨더 팔기 - 식량 11"
+
+#: deathforth/events/trade/supplies.df:843
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Alien Raygun - 15 food"
+msgstr "외계 광선총 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:844
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Snubnose - 1 food"
+msgstr "스너브노즈 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:845
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Strong Katana - 15 food"
+msgstr "튼튼한 카타나 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:846
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Tactical Spear - 2 food"
+msgstr "전술 창 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:847
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Aluminum Bat - 1 food"
+msgstr "알루미늄 야구 방망이 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:848
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Nightstick - 1 food"
+msgstr "경찰봉 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:849
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell BIG DAWG - 10 food"
+msgstr "빅 도그 팔기 - 식량 10"
+
+#: deathforth/events/trade/supplies.df:850
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Uzi - 4 food"
+msgstr "우지 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:851
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Slug Shotgun - 6 food"
+msgstr "슬러그 산탄총 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:852
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Autoshotty - 7 food"
+msgstr "자동 산탄총 팔기 - 식량 7"
+
+#: deathforth/events/trade/supplies.df:853
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Minigun - 16 food"
+msgstr "미니건 팔기 - 식량 16"
+
+#: deathforth/events/trade/supplies.df:854
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Assault Rifle - 6 food"
+msgstr "돌격소총 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:855
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Gladius - 3 food"
+msgstr "글라디우스 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:856
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Hunting Rifle - 3 food"
+msgstr "사냥 소총 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:857
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Flamethrower - 12 food"
+msgstr "화염방사기 팔기 - 식량 12"
+
+#: deathforth/events/trade/supplies.df:858
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Parking Meter - 1 food"
+msgstr "주차 미터기 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:859
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Chainsaw - 4 food"
+msgstr "전기톱 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:860
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Sturdy Machete - 3 food"
+msgstr "튼튼한 마체테 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:861
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Claymore - 8 food"
+msgstr "클레이모어 팔기 - 식량 8"
+
+#: deathforth/events/trade/supplies.df:862
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Knight Sword - 5 food"
+msgstr "기사의 검 팔기 - 식량 5"
+
+#: deathforth/events/trade/supplies.df:863
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Mega Maul - 3 food"
+msgstr "메가 대형 망치 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:864
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Sledgehammer - 1 food"
+msgstr "큰 망치 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:865
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Windstar - 3 food"
+msgstr "윈드스타 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:866
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Dolt 45 - 1 food"
+msgstr "돌트 45 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:867
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Cowboy Rifle - 1 food"
+msgstr "카우보이 소총 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:868
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Shotgun - 1 food"
+msgstr "산탄총 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:869
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Medieval Axe - 5 food"
+msgstr "중세 도끼 팔기 - 식량 5"
+
+#: deathforth/events/trade/supplies.df:870
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Electric Guitar - 2 food"
+msgstr "일렉 기타 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:871
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Fire Axe - 1 food"
+msgstr "소방 도끼 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:872
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Ded9 - 3 food"
+msgstr "데드9 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:874
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Weed Whacker - 2 food"
+msgstr "예초기 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:875
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Quiet Shotgun - 7 food"
+msgstr "조용한 산탄총 팔기 - 식량 7"
+
+#: deathforth/events/trade/supplies.df:876
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Sniper Rifle - 6 food"
+msgstr "저격 소총 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:877
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Silenced Pistol - 1 food"
+msgstr "소음 권총 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:878
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell TactiCop Lite - 1 food"
+msgstr "택티캅 라이트 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:879
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Red Turret - 4 food"
+msgstr "빨간 포탑 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:880
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Green Turret - 2 food"
+msgstr "초록 포탑 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:881
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Branch Trimmer - 1 food"
+msgstr "전지가위 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:882
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Cavalry Sabre - 8 food"
+msgstr "기병도 팔기 - 식량 8"
+
+#: deathforth/events/trade/supplies.df:883
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Dragonslayer - 20 food"
+msgstr "드래곤슬레이어 팔기 - 식량 20"
+
+#: deathforth/events/trade/supplies.df:884
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Firelunk Greatsword - 15 food"
+msgstr "파이어렁크 대검 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:885
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Brass Knucks - 1 food"
+msgstr "너클 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:886
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell the Whammer - 3 food"
+msgstr "워머 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:887
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Red Robot - 4 food"
+msgstr "빨간 로봇 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:888
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Blue Robot - 2 food"
+msgstr "파란 로봇 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:889
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Halberd - 7 food"
+msgstr "할버드 팔기 - 식량 7"
+
+#: deathforth/events/trade/supplies.df:890
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Dagger - 2 food"
+msgstr "단검 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:891
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Sai - 3 food"
+msgstr "사이 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:892
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Golden Knife - 15 food"
+msgstr "황금 칼 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:893
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Megaknight Blade - 15 food"
+msgstr "메가나이트 검 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:894
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Ultimate Log - 1 food"
+msgstr "최강 통나무 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:895
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Hot Poker - 6 food"
+msgstr "달군 부지깽이 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:896
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Golden Spear - 20 food"
+msgstr "황금 창 팔기 - 식량 20"
+
+#: deathforth/events/trade/supplies.df:897
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Wooden Club - 1 food"
+msgstr "나무 몽둥이 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:898
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Sickle - 2 food"
+msgstr "낫 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:899
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Weed Blower - 2 food"
+msgstr "송풍기 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:900
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Double Barrel - 3 food"
+msgstr "쌍열 산탄총 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:902
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell E-Whacker - 2 food"
+msgstr "전동 예초기 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:903
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell E-Blower - 2 food"
+msgstr "전동 송풍기 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:905
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell E-Chainsaw - 2 food"
+msgstr "전동 전기톱 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:906
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Blacksmith Hammer - 1 food"
+msgstr "대장장이 망치 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:907
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Bazooka - 4 food"
+msgstr "바주카 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:908
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Grenade Launcher - 3 food"
+msgstr "유탄 발사기 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:909
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Napalm Launcher - 4 food"
+msgstr "네이팜 발사기 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:910
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Haunted Spoon - 1 food"
+msgstr "귀신 들린 숟가락 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:911
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Haunted Knife - 1 food"
+msgstr "귀신 들린 칼 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:912
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Haunted Fork - 1 food"
+msgstr "귀신 들린 포크 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:914
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Golden Axe - 15 food"
+msgstr "황금 도끼 팔기 - 식량 15"
+
+#: deathforth/events/trade/supplies.df:915
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Heavy Gold Axe - 20 food"
+msgstr "무거운 황금 도끼 팔기 - 식량 20"
+
+#: deathforth/events/trade/supplies.df:917
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Duck Hunter - 7 food"
+msgstr "오리 사냥꾼 팔기 - 식량 7"
+
+#: deathforth/events/trade/supplies.df:918
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Dolt Big Iron - 6 food"
+msgstr "돌트 빅 아이언 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:919
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Lever-Action - 6 food"
+msgstr "레버액션 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:922
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Autorevolver - 3 food"
+msgstr "자동 리볼버 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:923
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Fletchette - 1 food"
+msgstr "플레셰트 팔기 - 식량 1"
+
+#: deathforth/events/trade/supplies.df:924
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Mamba - 7 food"
+msgstr "맘바 팔기 - 식량 7"
+
+#: deathforth/events/trade/supplies.df:927
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell M.O.A.R - 8 food"
+msgstr "M.O.A.R 팔기 - 식량 8"
+
+#: deathforth/events/trade/supplies.df:928
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Kukri - 2 food"
+msgstr "쿠크리 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:929
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Steel Pike - 4 food"
+msgstr "강철 장창 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:930
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell DNK-16 - 6 food"
+msgstr "DNK-16 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:933
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Battle Rifle - 3 food"
+msgstr "전투 소총 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:934
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Target Rifle - 2 food"
+msgstr "표적 소총 팔기 - 식량 2"
+
+#: deathforth/events/trade/supplies.df:936
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Machinepistol - 4 food"
+msgstr "기관권총 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:937
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell SWAT Shotgun - 4 food"
+msgstr "SWAT 산탄총 팔기 - 식량 4"
+
+#: deathforth/events/trade/supplies.df:938
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Masterkey - 3 food"
+msgstr "마스터키 팔기 - 식량 3"
+
+#: deathforth/events/trade/supplies.df:941
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Mortar - 7 food"
+msgstr "박격포 팔기 - 식량 7"
+
+#: deathforth/events/trade/supplies.df:942
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Freeze Ray - 5 food"
+msgstr "냉동 광선총 팔기 - 식량 5"
+
+#: deathforth/events/trade/supplies.df:943
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Heat Ray - 5 food"
+msgstr "열 광선총 팔기 - 식량 5"
+
+#: deathforth/events/trade/supplies.df:944
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Flail - 6 food"
+msgstr "도리깨 팔기 - 식량 6"
+
+#: deathforth/events/trade/supplies.df:945
+msgctxt "deathforth/events/trade/supplies.df"
+msgid "Sell Cobalt Flail - 8 food"
+msgstr "코발트 도리깨 팔기 - 식량 8"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:28
+#: deathforth/events/trade/trader-camp-region-special1.df:35
+#: deathforth/events/trade/trader-camp-region-special1.df:74
+#: deathforth/events/trade/trader-camp-region-special1.df:81
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid " buys a "
+msgstr "은(는) 산 것: "
+
+#: deathforth/events/trade/trader-camp-region-special1.df:28
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "BLUE ROBIT"
+msgstr "파란 로봇"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:28
+#: deathforth/events/trade/trader-camp-region-special1.df:35
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"!\r\n"
+"\tThrow it on the ground and it will help you until it runs out of batteries."
+msgstr ""
+"!\r\n"
+"\t바닥에 던져 두면 배터리가 떨어질 때까지 도와준다."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:35
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "RED ROBIT"
+msgstr "빨간 로봇"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:41
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Helpful Robot"
+msgstr "도움이 되는 로봇"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:42
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"It's a helpful robot!\r\n"
+"\tFor its off time, it's programmed with a sales pitch."
+msgstr ""
+"도움이 되는 로봇이다!\r\n"
+"\t쉬는 시간에는 판매 멘트를 하도록 프로그래밍됐다."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:44
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"1. BEEP 2. HONK\r\n"
+"\t3. I AM SELLING ROBITS\r\n"
+"\t4. UP TO TWO ROBITS"
+msgstr ""
+"1. 삐빅 2. 빵빵\r\n"
+"\t3. 로봇을 팝니다\r\n"
+"\t4. 최대 두 대"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:47
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "No sale!"
+msgstr "안 살래!"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:49
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Buy Blue Robot - 3 food"
+msgstr "파란 로봇 사기 - 식량 3"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:51
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "It wants 3 food for one."
+msgstr "한 대에 식량 3을 요구한다."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:56
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Menacing Robot"
+msgstr "위협적인 로봇"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:57
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"This robot seems intense.\r\n"
+"\tIts claws look menacing. It must be a guard."
+msgstr ""
+"이 로봇은 강렬해 보인다.\r\n"
+"\t발톱이 위협적이다. 경비 로봇일 것이다."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:59
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"1. BEEP 2. HONK\r\n"
+"\t3. I AM SELLING A ROBIT\r\n"
+"\t4. MAXIMUM OVERPOWER"
+msgstr ""
+"1. 삐빅 2. 빵빵\r\n"
+"\t3. 로봇 한 대를 팝니다\r\n"
+"\t4. 최대치의 압도적 위력"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:62
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Get away from me"
+msgstr "나한테서 떨어져"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:64
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Buy Red Robot - 6 food"
+msgstr "빨간 로봇 사기 - 식량 6"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:66
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "It wants 6 food."
+msgstr "식량 6을 요구한다."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:74
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "MAZER PISTOL"
+msgstr "메이저 권총"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:75
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"Someone with better aim than me could really use this efficently.\r\n"
+"\tThe piercing potential is immense due to the power of "
+msgstr ""
+"나보다 조준을 잘하는 사람이면 정말 효율적으로 쓸 수 있어.\r\n"
+"\t엄청난 관통력의 비결은 바로 "
+
+#: deathforth/events/trade/trader-camp-region-special1.df:76
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Mazer Energy!"
+msgstr "메이저 에너지!"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:81
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "SCIENCY DOODAD"
+msgstr "과학 잡동사니"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:82
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"This can teleport you short distances. \r\n"
+"\tIt has 5 shots. Don't lose count, I forgot to build a useful display for it. The display on it now doesn't mean anything, it just blinks at random."
+msgstr ""
+"짧은 거리를 순간이동할 수 있어. \r\n"
+"\t5번 쓸 수 있으니 잘 세어 둬. 쓸 만한 표시창 만드는 걸 깜빡했거든. 지금 있는 표시창은 아무 의미 없어. 그냥 무작위로 깜빡여."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:89
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "I'm ready to zap things! I brought my solar recharger."
+msgstr "지져 버릴 준비됐어! 태양광 충전기도 가져왔지."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:94
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"Sure, I can join you. I'm getting bored here, I need to do some research out in the field.\r\n"
+"\tFinish buying anything you want before you recruit me! It's not that I don't trust you, but after I join I'm locking all my weapons to my fingerprint ID. \r\n"
+"\tJust in case I die mysteriously."
+msgstr ""
+"그래, 같이 갈게. 여기서 지루하던 참이야. 현장 연구를 좀 해야겠어.\r\n"
+"\t날 영입하기 전에 사고 싶은 건 다 사 둬! 못 믿어서 그러는 건 아니지만, 합류하면 내 무기들은 전부 내 지문으로 잠글 거거든. \r\n"
+"\t내가 의문사를 당할 수도 있으니까."
+
+#: deathforth/events/trade/trader-camp-region-special1.df:97
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Recruit her later"
+msgstr "나중에 영입하기"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:98
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Recruit her! - 20 food"
+msgstr "그녀 영입! - 식량 20"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:102
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "The Science of Shopping"
+msgstr "쇼핑의 과학"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:104
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "All trading you do here will go towards the advancement of science!"
+msgstr "여기서 하는 모든 거래는 과학의 발전에 보탬이 돼!"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:106
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid ""
+"The scientist takes pity on your lack of food. She gives you a free "
+"teleporter, slightly used. 2 shots remaining!"
+msgstr "과학자가 식량 없는 일행을 불쌍히 여겨 조금 쓴 순간이동 장치를 공짜로 준다. 2회 남았다!"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:108
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Leave her for now"
+msgstr "일단 두고 가기"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:110
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Buy Teleporter - 5 food"
+msgstr "순간이동 장치 사기 - 식량 5"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:113
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Buy Mazer Pistol - 12 food"
+msgstr "메이저 권총 사기 - 식량 12"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:117
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Recruit her to team - 20 food"
+msgstr "그녀 영입 - 식량 20"
+
+#: deathforth/events/trade/trader-camp-region-special1.df:119
+msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
+msgid "Recruit her to team! - 20 food"
+msgstr "그녀 영입! - 식량 20"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:17
+#: deathforth/events/trade/trader-camp-region-special2.df:24
+#: deathforth/events/trade/trader-camp-region-special2.df:31
+#: deathforth/events/trade/trader-camp-region-special2.df:61
+#: deathforth/events/trade/trader-camp-region-special2.df:67
+#: deathforth/events/trade/trader-camp-region-special2.df:73
+#: deathforth/events/trade/trader-camp-region-special2.df:101
+#: deathforth/events/trade/trader-camp-region-special2.df:107
+#: deathforth/events/trade/trader-camp-region-special2.df:113
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid " buys a "
+msgstr "은(는) 산 것: "
+
+#: deathforth/events/trade/trader-camp-region-special2.df:17
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "GAUNTLET"
+msgstr "건틀릿"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:18
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"I lost the other one of this pair!\r\n"
+"\tIf you punch a zombie with this, they'll usually go flying!"
+msgstr ""
+"이거랑 짝인 다른 쪽을 잃어버렸어!\r\n"
+"\t이걸로 좀비를 때리면 대개 날아가 버리지!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:24
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "DAGGER"
+msgstr "단검"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:25
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"I have a ton of these!\r\n"
+"\tBuy them as souvenirs for the whole family!"
+msgstr ""
+"이건 엄청 많아!\r\n"
+"\t온 가족에게 기념품으로 사다 줘!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:31
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "GLADIUS"
+msgstr "글라디우스"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:32
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"This is my favorite sword! It's so quick!\r\n"
+"\tIt will become your favorite sword, too!"
+msgstr ""
+"내가 제일 좋아하는 검이야! 아주 빠르지!\r\n"
+"\t너도 제일 좋아하게 될 거야!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:38
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Light Knight"
+msgstr "가벼운 기사"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:39
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"Sup thine! I deal in light armaments!\r\n"
+"\tFor the knight on a budget!"
+msgstr ""
+"안녕하신가! 가벼운 무장을 다룬다네!\r\n"
+"\t주머니가 가벼운 기사에게 딱이지!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:43
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "The knight notices your lack of food and gives you a free dagger!"
+msgstr "기사가 식량 없는 일행을 보고 공짜 단검을 준다!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:46
+#: deathforth/events/trade/trader-camp-region-special2.df:86
+#: deathforth/events/trade/trader-camp-region-special2.df:131
+#: deathforth/events/trade/trader-camp-region-special2.df:159
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Leave for now"
+msgstr "일단 떠나기"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:48
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Spare Gauntlet - 3 food"
+msgstr "여분의 건틀릿 사기 - 식량 3"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:51
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Dagger - 5 food"
+msgstr "단검 사기 - 식량 5"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:54
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Gladius - 12 food"
+msgstr "글라디우스 사기 - 식량 12"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:61
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "MORNING STAR"
+msgstr "모닝스타"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:62
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Sends foes flying! The cleave can be hard to count on."
+msgstr "적을 날려 보내지! 한 번에 여러 놈을 맞히기는 좀 불안정해."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:67
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "KNIGHT SWORD"
+msgstr "기사의 검"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:68
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Exceedingly reliable!"
+msgstr "아주 믿음직하지!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:73
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "HALBERD"
+msgstr "할버드"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:74
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Lighter than a claymore, with the same impressive cleave!"
+msgstr "클레이모어보다 가벼워도, 여러 적을 한 번에 베는 솜씨는 똑같이 대단하지!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:79
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Knight of the Golden Locks"
+msgstr "금발의 기사"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:80
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"Sup thou. \r\n"
+"\tMy armaments are neither too heavy or too light.\r\n"
+"\tThey are just right."
+msgstr ""
+"안녕하신가. \r\n"
+"\t내 무기는 너무 무겁지도, 너무 가볍지도 않다네.\r\n"
+"\t아주 적당하지."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:84
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "You can't afford anything from this knight."
+msgstr "이 기사에게서 뭘 살 식량이 없다."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:88
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Morning Star - 15 food"
+msgstr "모닝스타 사기 - 식량 15"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:91
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Knight Sword - 15 food"
+msgstr "기사의 검 사기 - 식량 15"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:94
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Halberd - 24 food"
+msgstr "할버드 사기 - 식량 24"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:101
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "MEDIEVAL AXE"
+msgstr "중세 도끼"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:102
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Not as chivalrous as a sword. Still, a certain appeal....."
+msgstr "검만큼 기사답지는 않지. 그래도 나름의 매력은 있어....."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:107
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "MIGHTY CLAYMORE"
+msgstr "강력한 클레이모어"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:108
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Truly! A "
+msgstr "실로! 이것은 "
+
+#: deathforth/events/trade/trader-camp-region-special2.df:108
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Chivalrous Blade......."
+msgstr "기사도의 검......."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:113
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "MEGAKNIGHT BLADE"
+msgstr "메가나이트 검"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:114
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "The... perfect sword....."
+msgstr "그야말로... 완벽한 검....."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:115
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "The knight throws in the promised "
+msgstr "기사가 약속했던 보너스를 제공한다. "
+
+#: deathforth/events/trade/trader-camp-region-special2.df:115
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Knightly Training!"
+msgstr "기사의 훈련!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:121
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Heavy LARP"
+msgstr "무거운 역할극"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:122
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"I only selleth the HEAVIEST ARMAMENTS!\r\n"
+"\tIf thou havest the coin...... and mettle....??"
+msgstr ""
+"오직 가장 무거운 무장만 파노라!\r\n"
+"\t그대에게 돈이 있다면...... 그리고 기개도....??"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:125
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "The knight offers a special deal if you buy the MegaKnight Blade: "
+msgstr "기사가 메가나이트 검을 사면 특별 혜택을 준다고 한다: "
+
+#: deathforth/events/trade/trader-camp-region-special2.df:126
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Free Knightly Strength Training Session"
+msgstr "무료 기사 근력 훈련"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:129
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "The knight scoffs at your lack of food."
+msgstr "기사가 일행의 부족한 식량을 비웃는다."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:133
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Medieval Axe - 15 food"
+msgstr "중세 도끼 사기 - 식량 15"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:136
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy Mighty Claymore - 30 food"
+msgstr "강력한 클레이모어 사기 - 식량 30"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:139
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buy MegaKnight Blade - 35 food"
+msgstr "메가나이트 검 사기 - 식량 35"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:144
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid " buys the "
+msgstr "은(는) "
+
+#: deathforth/events/trade/trader-camp-region-special2.df:144
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "SUIT OF ARMOR"
+msgstr "갑옷 한 벌"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:144
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+" and puts it on!\r\n"
+"\t"
+msgstr ""
+"을(를) 사서 입는다!\r\n"
+"\t"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:145
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Finally! I can leave this Ren Faire!"
+msgstr "드디어! 이 르네상스 축제를 떠날 수 있겠어!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:152
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Buying Knighthood"
+msgstr "기사 지위 사기"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:153
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"I'm getting tired of all this LARPing!\r\n"
+"\tI can sell you my armor. I don't have the helmet, so you won't be fully protected. You will still be able to take much more damage than before!\r\n"
+"\tJust 40 food!"
+msgstr ""
+"이 역할극도 이제 지겨워!\r\n"
+"\t내 갑옷을 팔 수 있어. 투구는 없어서 완벽하게 보호되지는 않겠지만, 전보다 훨씬 많이 맞아도 버틸 수 있을 거야!\r\n"
+"\t식량 40이면 돼!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:157
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "You can't afford the armor."
+msgstr "갑옷을 살 식량이 부족하다."
+
+#: deathforth/events/trade/trader-camp-region-special2.df:161
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ": Give me that armor! - 40 food "
+msgstr "의 선택: 갑옷 줘! - 식량 40 "
+
+#: deathforth/events/trade/trader-camp-region-special2.df:167
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "I'm ready to L.A.R.P.!"
+msgstr "몸으로 하는 역할극 준비 완료!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:168
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "*TRANSLATOR'S NOTE: 'Live Action Role Play'"
+msgstr "*역주: 실제로 몸을 움직여 연기하는 역할극"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:173
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Song Request"
+msgstr "노래 요청"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:175
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid ""
+"I shall sing you all the songs you like.\r\n"
+"\tAll I requireth... is 5 food!"
+msgstr ""
+"그대가 원하는 노래는 모두 부르리라.\r\n"
+"\t내가 요구하는 건... 식량 5뿐이니!"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:177
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Leave her for now"
+msgstr "일단 두고 가기"
+
+#: deathforth/events/trade/trader-camp-region-special2.df:179
+msgctxt "deathforth/events/trade/trader-camp-region-special2.df"
+msgid "Recruit the bard - 5 food"
+msgstr "음유시인 영입 - 식량 5"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:45
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " gets all pumped up from the strength training regiment!"
+msgstr "은(는) 근력 훈련으로 잔뜩 의욕이 넘친다!"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:47
+#: deathforth/events/trade/trader-camp-region-special3.df:98
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " has reached the limits of what training can do for "
+msgstr "은(는) 더는 훈련으로 강해질 수 없다. 한계에 도달한 사람은 "
+
+#: deathforth/events/trade/trader-camp-region-special3.df:53
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "The entire group gets strength training!"
+msgstr "일행 전체가 근력 훈련을 받는다!"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:62
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "Who should get this INTENSE strength workout?"
+msgstr "누가 이 격렬한 근력 훈련을 받을까?"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:67
+#: deathforth/events/trade/trader-camp-region-special3.df:118
+#: deathforth/events/trade/trader-camp-region-special3.df:302
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "THE GYM "
+msgstr "체육관 "
+
+#: deathforth/events/trade/trader-camp-region-special3.df:67
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "U GET"
+msgstr "너도"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:67
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " SWOLE"
+msgstr " 근육 빵빵"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:68
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid ""
+"Welcome to SWOLE MOUNTAIN!\r\n"
+"\tWith SWOLE MOUNTAIN'S patented methods, I can train you to whatever level of strength you want, FAST!\r\n"
+"\tAs long as you have the food, we can keep training!"
+msgstr ""
+"근육 산에 오신 걸 환영합니다!\r\n"
+"\t근육 산의 특허받은 방법이면 원하는 근력까지 빠르게 훈련할 수 있죠!\r\n"
+"\t식량만 있으면 계속 훈련할 수 있어요!"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:72
+#: deathforth/events/trade/trader-camp-region-special3.df:123
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "You can't afford any more training."
+msgstr "훈련받을 식량이 더는 없다."
+
+#: deathforth/events/trade/trader-camp-region-special3.df:74
+#: deathforth/events/trade/trader-camp-region-special3.df:125
+#: deathforth/events/trade/trader-camp-region-special3.df:163
+#: deathforth/events/trade/trader-camp-region-special3.df:251
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "Leave for now"
+msgstr "일단 떠나기"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:76
+#: deathforth/events/trade/trader-camp-region-special3.df:79
+#: deathforth/events/trade/trader-camp-region-special3.df:127
+#: deathforth/events/trade/trader-camp-region-special3.df:130
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "Give "
+msgstr "지불: "
+
+#: deathforth/events/trade/trader-camp-region-special3.df:76
+#: deathforth/events/trade/trader-camp-region-special3.df:127
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " food for single training"
+msgstr " 식량으로 개인 훈련"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:79
+#: deathforth/events/trade/trader-camp-region-special3.df:130
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " food for group training"
+msgstr " 식량으로 단체 훈련"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:96
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " gets all jazzed up from the fitness training regiment!"
+msgstr "은(는) 체력 훈련으로 잔뜩 활기가 넘친다!"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:104
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "The entire group gets fitness training!"
+msgstr "일행 전체가 체력 훈련을 받는다!"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:113
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "Who should get this INTENSE fitness workout?"
+msgstr "누가 이 격렬한 체력 훈련을 받을까?"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:118
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid "U ALSO GET"
+msgstr "너도 더욱"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:118
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid " FIT"
+msgstr " 튼튼"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:119
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid ""
+"Welcome to SWOLE MOUNTAIN!\r\n"
+"\tHere at SWOLE MOUNTAIN, we believe cardio training is very important!\r\n"
+"\tAs long as you have the food, we can keep training!"
+msgstr ""
+"근육 산에 오신 걸 환영합니다!\r\n"
+"\t근육 산은 유산소 운동이 아주 중요하다고 믿습니다!\r\n"
+"\t식량만 있으면 계속 훈련할 수 있어요!"
+
+#: deathforth/events/trade/trader-camp-region-special3.df:139
+msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
+msgid ""
+" already knew how to throw a punch!\r\n"
+"\t\t"
+msgstr ""
+"은(는) 이미 주먹을 제대로 날릴 줄 알았다!\r\n"
+"\t\t"

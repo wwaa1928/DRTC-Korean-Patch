@@ -1,0 +1,2381 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/exterior/region/canada-crossing-region.df:1226
+msgctxt "deathforth/events/exterior/region/canada-crossing-region.df"
+msgid "SHE'S GONNA BLOW!"
+msgstr "터진다아!"
+
+#: deathforth/events/exterior/region/canada-crossing-region.df:1227
+msgctxt "deathforth/events/exterior/region/canada-crossing-region.df"
+msgid "EXTREEEEEEMMMMME!"
+msgstr "익스트리이이이이임!"
+
+#: deathforth/events/exterior/region/canada-crossing-region.df:1228
+msgctxt "deathforth/events/exterior/region/canada-crossing-region.df"
+msgid "TUCK AND ROLL! OOOOOOF"
+msgstr "구르고 굴러! 으윽"
+
+#: deathforth/events/exterior/region/canada-crossing-region.df:1229
+msgctxt "deathforth/events/exterior/region/canada-crossing-region.df"
+msgid "ZOMBIES ARE NEEEEEEERDS!"
+msgstr "좀비는 찐따들이야아아아!"
+
+#: deathforth/events/exterior/region/canada-crossing-region.df:1230
+msgctxt "deathforth/events/exterior/region/canada-crossing-region.df"
+msgid "LETS DO THIS!"
+msgstr "가자!"
+
+#: deathforth/events/exterior/region/canada-crossing-region.df:1231
+msgctxt "deathforth/events/exterior/region/canada-crossing-region.df"
+msgid "UH WOOPS... MY CAR!"
+msgstr "어 이런... 내 차!"
+
+#: deathforth/events/exterior/region/frozen.df:12
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "The caveman runs off to enjoy the zombie future."
+msgstr "원시인은 좀비 미래를 즐기러 뛰어간다."
+
+#: deathforth/events/exterior/region/frozen.df:15
+#: deathforth/events/exterior/region/frozen.df:23
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid " teaches "
+msgstr "은(는) "
+
+#: deathforth/events/exterior/region/frozen.df:15
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid " some ancient fighting secrets that were lost to time!"
+msgstr "에게 시간 속에 잊힌 고대의 싸움 비법을 가르쳐 준다!"
+
+#: deathforth/events/exterior/region/frozen.df:17
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "'s MAXIMUM STRENGTH INCREASED!"
+msgstr "의 최대 근력 증가!"
+
+#: deathforth/events/exterior/region/frozen.df:23
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid " some ancient techniques in medicine and conserving energy!"
+msgstr "에게 의술과 체력 아끼는 고대의 기술을 가르쳐 준다!"
+
+#: deathforth/events/exterior/region/frozen.df:25
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "'s MAXIMUM FITNESS INCREASED!"
+msgstr "의 최대 체력 증가!"
+
+#: deathforth/events/exterior/region/frozen.df:33
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "Prehistoric Pal"
+msgstr "선사시대 친구"
+
+#: deathforth/events/exterior/region/frozen.df:34
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "I overslept! Urghhghhg..."
+msgstr "늦잠 잤다! 으어어어..."
+
+#: deathforth/events/exterior/region/frozen.df:35
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "The "
+msgstr "<EMPTY>"
+
+#: deathforth/events/exterior/region/frozen.df:35
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid ""
+" doesn't understand the mysterious ways of the future/present, and can't fire guns.\r\n"
+"\tShe is capable of "
+msgstr ""
+"은(는) 미래/현재의 신비한 방식을 이해하지 못하고, 총을 쏠 줄 모른다.\r\n"
+"\t대신 이만큼 키울 수 있다: "
+
+#: deathforth/events/exterior/region/frozen.df:36
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "very high"
+msgstr "아주 높은"
+
+#: deathforth/events/exterior/region/frozen.df:36
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid ""
+" amounts of maximum strength and fitness! She needs several training "
+"sessions to reach her full potential."
+msgstr " 최대 근력과 체력! 잠재력을 다 끌어내려면 훈련을 여러 번 해야 한다."
+
+#: deathforth/events/exterior/region/frozen.df:37
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "Leave her for now"
+msgstr "일단 두고 간다"
+
+#: deathforth/events/exterior/region/frozen.df:38
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "Recruit her to team"
+msgstr "일행으로 영입한다"
+
+#: deathforth/events/exterior/region/frozen.df:39
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid ": Ask for fighting tips"
+msgstr ": 싸움 요령을 묻는다"
+
+#: deathforth/events/exterior/region/frozen.df:40
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid ": Ask for survival tips"
+msgstr ": 생존 요령을 묻는다"
+
+#: deathforth/events/exterior/region/frozen.df:45
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid "Breaking the Ice"
+msgstr "얼음 깨기"
+
+#: deathforth/events/exterior/region/frozen.df:46
+msgctxt "deathforth/events/exterior/region/frozen.df"
+msgid ""
+"A caveman is frozen in this giant hunk of ice!\r\n"
+"\tThere's really no way to get the caveman out without blasting the ice into chunks. Preferably with guns.\r\n"
+"\tThis could take awhile, unless you have strong weapons!"
+msgstr ""
+"원시인이 거대한 얼음덩어리 속에 얼어 있다!\r\n"
+"\t얼음을 산산조각 내지 않고서는 원시인을 꺼낼 방법이 없다. 되도록 총으로.\r\n"
+"\t강한 무기가 없다면 시간이 좀 걸릴 거다!"
+
+#: deathforth/events/exterior/region/graveyardcar.df:33
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " starts following "
+msgstr "은(는) 따라오기 시작한다: "
+
+#: deathforth/events/exterior/region/graveyardcar.df:34
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " could be useful, if you can get "
+msgstr "는 쓸모 있을지도 모른다. 살려서 여기서 데리고 나갈 수만 있다면: "
+
+#: deathforth/events/exterior/region/graveyardcar.df:34
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " out of here alive. Or a handy distraction, if you can't."
+msgstr ". 아니면 쓸 만한 미끼라도 되겠지."
+
+#: deathforth/events/exterior/region/graveyardcar.df:41
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid "Undead Undead"
+msgstr "죽지 않는 언데드"
+
+#: deathforth/events/exterior/region/graveyardcar.df:42
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " says that "
+msgstr "은(는) 말한다. "
+
+#: deathforth/events/exterior/region/graveyardcar.df:42
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid ""
+" is tired of being a gravekeeper. Everyone just keeps crawling out of the ground right after they're buried.\r\n"
+"\t"
+msgstr ""
+"는 묘지기 일에 지쳤다고. 다들 묻히자마자 땅에서 기어 나온다고.\r\n"
+"\t"
+
+#: deathforth/events/exterior/region/graveyardcar.df:43
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " asks if "
+msgstr "는 묻는다. "
+
+#: deathforth/events/exterior/region/graveyardcar.df:43
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " can follow you around."
+msgstr "가 따라가도 되냐고."
+
+#: deathforth/events/exterior/region/graveyardcar.df:44
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid "Let "
+msgstr "<EMPTY>"
+
+#: deathforth/events/exterior/region/graveyardcar.df:44
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " follow you"
+msgstr "를 데려간다"
+
+#: deathforth/events/exterior/region/graveyardcar.df:45
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid "Leave "
+msgstr "일단 "
+
+#: deathforth/events/exterior/region/graveyardcar.df:45
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid " for now"
+msgstr "를 두고 간다"
+
+#: deathforth/events/exterior/region/graveyardcar.df:55
+msgctxt "deathforth/events/exterior/region/graveyardcar.df"
+msgid "keeps blasting dark music about vampires and such."
+msgstr "은(는) 뱀파이어 같은 어두운 음악을 계속 틀어 댄다."
+
+#: deathforth/events/exterior/region/road-long.df:9
+msgctxt "deathforth/events/exterior/region/road-long.df"
+msgid "We're All Out of Death Road"
+msgstr "데스 로드는 여기까지다"
+
+#: deathforth/events/exterior/region/road-long.df:11
+msgctxt "deathforth/events/exterior/region/road-long.df"
+msgid "The Mountie's clothing is pristine, despite his zombie slaugtherings."
+msgstr "기마경찰의 옷은 좀비를 학살했는데도 티끌 하나 없다."
+
+#: deathforth/events/exterior/region/road-long.df:13
+msgctxt "deathforth/events/exterior/region/road-long.df"
+msgid ""
+"The Mountie is merely winded. Somehow not even his clothes are ripped from "
+"his battle with the zombies."
+msgstr "기마경찰은 숨만 조금 찰 뿐이다. 어째선지 좀비와 싸웠는데도 옷 하나 찢어지지 않았다."
+
+#: deathforth/events/exterior/region/road-long.df:15
+msgctxt "deathforth/events/exterior/region/road-long.df"
+msgid ""
+"WELL, THIS IS ALL WE GOT FOR NOW, EH?\r\n"
+"\tCONGRATULATIONS ON WINNING THE ALPHA!"
+msgstr ""
+"지금은 이게 전부야, 응?\r\n"
+"\t알파 클리어를 축하해!"
+
+#: deathforth/events/exterior/region/road-long.df:16
+msgctxt "deathforth/events/exterior/region/road-long.df"
+msgid ""
+"\r\n"
+"\tPlease post your feedback so far to Kickstarter, either by direct message or by using the comments section for the last private update."
+msgstr ""
+"\r\n"
+"\t지금까지의 피드백을 킥스타터에 올려 주세요. 메시지로 보내도 되고, 마지막 비공개 업데이트 댓글란을 써도 됩니다."
+
+#: deathforth/events/exterior/region/road-long.df:18
+msgctxt "deathforth/events/exterior/region/road-long.df"
+msgid "I did it!"
+msgstr "해냈다!"
+
+#: deathforth/events/exterior/roadloot.df:9
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Tunnel of Zombs"
+msgstr "좀비 터널"
+
+#: deathforth/events/exterior/roadloot.df:11
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid ""
+" spots a fork in the road leading to a dark tunnel full of wrecked cars. The"
+" sounds of undead echo from the entrance."
+msgstr "은(는) 망가진 차로 가득한 어두운 터널로 이어지는 갈림길을 발견한다. 입구에서 언데드의 소리가 울린다."
+
+#: deathforth/events/exterior/roadloot.df:14
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Search tunnel"
+msgstr "터널을 뒤진다"
+
+#: deathforth/events/exterior/roadloot.df:19
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Convoy on Dirt Road"
+msgstr "비포장도로 위의 차량 행렬"
+
+#: deathforth/events/exterior/roadloot.df:21
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid ""
+" sees a bunch of destroyed cars on a dirt road in the distance, surrounded "
+"by zombies. It may be worth the risk to walk there and see if there's any "
+"loot left."
+msgstr ""
+"은(는) 멀리 비포장도로 위에 좀비에 둘러싸인 부서진 차 여러 대를 본다. 걸어가서 물자가 남았는지 볼 만한 가치가 있을지도."
+
+#: deathforth/events/exterior/roadloot.df:24
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Walk to ruined cars"
+msgstr "부서진 차까지 걸어간다"
+
+#: deathforth/events/exterior/roadloot.df:29
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Rocky Road"
+msgstr "험한 길"
+
+#: deathforth/events/exterior/roadloot.df:31
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid " is travelling down a gravel road when "
+msgstr "은(는) 자갈길을 달리고 있다. 그러다 "
+
+#: deathforth/events/exterior/roadloot.df:31
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid " come"
+msgstr "은(는)"
+
+#: deathforth/events/exterior/roadloot.df:31
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid ""
+" see a group of wrecked cars ahead, with an undead horde travelling through "
+"it."
+msgstr " 앞쪽에 부서진 차 무리와, 그 사이를 지나가는 언데드 떼를 본다."
+
+#: deathforth/events/exterior/roadloot.df:34
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Check out ruined cars"
+msgstr "부서진 차를 살펴본다"
+
+#: deathforth/events/exterior/roadloot.df:39
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Friendly Country Road"
+msgstr "정겨운 시골길"
+
+#: deathforth/events/exterior/roadloot.df:41
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid ""
+" is driving down the highway in a quiet countryside. Up ahead is a big crowd"
+" of burnt out cars, with zombies roaming around them."
+msgstr "은(는) 조용한 시골 고속도로를 달리고 있다. 앞에 불탄 차들이 잔뜩 모여 있고, 그 주변을 좀비들이 돌아다닌다."
+
+#: deathforth/events/exterior/roadloot.df:44
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Investigate the cars"
+msgstr "차들을 조사한다"
+
+#: deathforth/events/exterior/roadloot.df:49
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "The Mean Street"
+msgstr "험악한 거리"
+
+#: deathforth/events/exterior/roadloot.df:51
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid " is driving through a city when "
+msgstr "은(는) 도시를 지나고 있다. 그러다 "
+
+#: deathforth/events/exterior/roadloot.df:51
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid " spot"
+msgstr "은(는)"
+
+#: deathforth/events/exterior/roadloot.df:51
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid ""
+" an intersecting road congested with rusted cars and a horde of already "
+"angry zombies."
+msgstr " 녹슨 차와 이미 화가 난 좀비 떼로 꽉 막힌 교차로를 발견한다."
+
+#: deathforth/events/exterior/roadloot.df:54
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Check this side street"
+msgstr "이 골목을 살펴본다"
+
+#: deathforth/events/exterior/roadloot.df:59
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "The End of the Death Road"
+msgstr "데스 로드의 끝"
+
+#: deathforth/events/exterior/roadloot.df:61
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid ""
+" has made it to right before the border to Canada!\r\n"
+"\tSo close to safety, here's where it gets the most dangerous!"
+msgstr ""
+"은(는) 캐나다 국경 바로 앞까지 왔다!\r\n"
+"\t안전이 코앞인 바로 여기가 가장 위험하다!"
+
+#: deathforth/events/exterior/roadloot.df:65
+msgctxt "deathforth/events/exterior/roadloot.df"
+msgid "Let's Do This!!!"
+msgstr "가자!!!"
+
+#: deathforth/events/exterior/yallmart.df:5
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Yall-Mart"
+msgstr "얄마트"
+
+#: deathforth/events/exterior/yallmart.df:6
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" spots an abandoned Y'all-Mart off in the distance. It looks like it's been "
+"looted, but maybe there's some untouched loot inside."
+msgstr "은(는) 멀리 버려진 얄마트를 발견한다. 털린 것 같지만, 안에 손 안 댄 물자가 있을지도."
+
+#: deathforth/events/exterior/yallmart.df:9
+#: deathforth/events/exterior/yallmart.df:54
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Go bargain hunting"
+msgstr "떨이 사냥 간다"
+
+#: deathforth/events/exterior/yallmart.df:14
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Grocery Store"
+msgstr "식료품점"
+
+#: deathforth/events/exterior/yallmart.df:15
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" finds a grocery store. Zombies wander inside, as if guarding the remaining "
+"food."
+msgstr "은(는) 식료품점을 발견한다. 남은 식량을 지키기라도 하듯 좀비들이 안을 서성인다."
+
+#: deathforth/events/exterior/yallmart.df:18
+#: deathforth/events/exterior/yallmart.df:27
+#: deathforth/events/exterior/yallmart.df:36
+#: deathforth/events/exterior/yallmart.df:72
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Go shopping"
+msgstr "장 보러 간다"
+
+#: deathforth/events/exterior/yallmart.df:23
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Hardware Store"
+msgstr "철물점"
+
+#: deathforth/events/exterior/yallmart.df:24
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" finds a hardware store. There may be cans of gas or a chainsaw here, but "
+"only if other people haven't picked the place clean yet."
+msgstr "은(는) 철물점을 발견한다. 다른 사람들이 싹 털어 가지 않았다면 기름통이나 전기톱이 있을지도."
+
+#: deathforth/events/exterior/yallmart.df:32
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Grocery Shopping"
+msgstr "장보기"
+
+#: deathforth/events/exterior/yallmart.df:33
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" spots a big grocery store. Many zombies roam inside, guarding shelves and "
+"storage rooms."
+msgstr "은(는) 큰 식료품점을 발견한다. 많은 좀비가 안을 돌아다니며 선반과 창고를 지키고 있다."
+
+#: deathforth/events/exterior/yallmart.df:41
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Grocery Rescue"
+msgstr "식료품점 구출"
+
+#: deathforth/events/exterior/yallmart.df:42
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" watches as another survivor retreats into a big grocery store. The survivor"
+" is pursued by a large, angry horde."
+msgstr "은(는) 다른 생존자가 큰 식료품점 안으로 도망쳐 들어가는 걸 본다. 생존자는 크고 성난 좀비 떼에게 쫓기고 있다."
+
+#: deathforth/events/exterior/yallmart.df:45
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Attempt Rescue!"
+msgstr "구출을 시도한다!"
+
+#: deathforth/events/exterior/yallmart.df:50
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Crowded Yall-Mart"
+msgstr "붐비는 얄마트"
+
+#: deathforth/events/exterior/yallmart.df:51
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" sees a big Y'all-Mart. A large amount of undead protects the supplies "
+"scattered around inside."
+msgstr "은(는) 큰 얄마트를 발견한다. 엄청난 수의 언데드가 안에 흩어진 물자를 지키고 있다."
+
+#: deathforth/events/exterior/yallmart.df:59
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Bookstore Browsing"
+msgstr "서점 구경"
+
+#: deathforth/events/exterior/yallmart.df:60
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" sees a large bookstore. Most of the books and magazines have gotten wet and"
+" rotted by now, but one here remains in good condition."
+msgstr "은(는) 큰 서점을 발견한다. 책과 잡지 대부분은 젖어서 썩었지만, 하나는 상태가 좋다."
+
+#: deathforth/events/exterior/yallmart.df:63
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Get something to read"
+msgstr "읽을거리를 챙긴다"
+
+#: deathforth/events/exterior/yallmart.df:68
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Sporting Goods Store"
+msgstr "스포츠용품점"
+
+#: deathforth/events/exterior/yallmart.df:69
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" spots a large sporting goods store. Many zombies roam inside, likely fallen"
+" looters once hunting for a gun or machete."
+msgstr "은(는) 큰 스포츠용품점을 발견한다. 많은 좀비가 안을 돌아다닌다. 아마 총이나 마체테를 찾다 쓰러진 약탈자들일 거다."
+
+#: deathforth/events/exterior/yallmart.df:77
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Big Grocery Run"
+msgstr "대규모 장보기"
+
+#: deathforth/events/exterior/yallmart.df:78
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" spots a big grocery store. Even its parking lot is packed with zombies. Not"
+" too many scavengers have been able to get near all the food still inside."
+msgstr "은(는) 큰 식료품점을 발견한다. 주차장까지 좀비로 꽉 차 있다. 안에 남은 식량 근처까지 가 본 사람은 별로 없다."
+
+#: deathforth/events/exterior/yallmart.df:81
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Shop for danger"
+msgstr "위험을 쇼핑한다"
+
+#: deathforth/events/exterior/yallmart.df:86
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Yall-Mart: Deadly Savings"
+msgstr "얄마트: 죽음의 할인"
+
+#: deathforth/events/exterior/yallmart.df:87
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+" spots a large Yall-Mart packed with zombies. Ignoring the heavy danger, it "
+"could be a great shopping experience."
+msgstr "은(는) 좀비로 꽉 찬 큰 얄마트를 발견한다. 엄청난 위험만 무시하면, 아주 멋진 쇼핑이 될 수도 있다."
+
+#: deathforth/events/exterior/yallmart.df:90
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Shop in the stampede"
+msgstr "인파 속에서 쇼핑한다"
+
+#: deathforth/events/exterior/yallmart.df:95
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Untouched Grocery Store"
+msgstr "손 안 탄 식료품점"
+
+#: deathforth/events/exterior/yallmart.df:96
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid ""
+"The outbreak in this crowded grocery store happened so fast that the panicked crowd turned into zombies before the place could be looted.\r\n"
+"\tMany of the groceries are still on the shelves."
+msgstr ""
+"붐비는 이 식료품점에서는 좀비 사태가 너무 빨리 일어나, 약탈당하기도 전에 겁에 질린 손님들이 좀비로 변해 버렸다.\r\n"
+"\t식료품 상당수가 아직 선반에 있다."
+
+#: deathforth/events/exterior/yallmart.df:100
+msgctxt "deathforth/events/exterior/yallmart.df"
+msgid "Take a big risk"
+msgstr "큰 모험을 한다"
+
+#: deathforth/events/finale/end-of-the-road.df:94
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Death Road Normal Mode completed"
+msgstr "데스 로드 일반 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:104
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Long Winding Road Mode completed"
+msgstr "길고 구불구불한 길 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:114
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Rare Characters Mode completed"
+msgstr "희귀 캐릭터 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:124
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Familiar Characters Mode completed"
+msgstr "친숙한 캐릭터 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:134
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Rare Characters EXTREME completed"
+msgstr "희귀 캐릭터 익스트림 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:144
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Familiar Characters EXTREME completed"
+msgstr "친숙한 캐릭터 익스트림 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:155
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "K*E*P*A Mode completed"
+msgstr "K*E*P*A 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:165
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Short Trip to Heck Mode completed"
+msgstr "지옥행 짧은 여행 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:175
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Marathon Mode completed"
+msgstr "마라톤 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:185
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Deadlier Road Mode completed"
+msgstr "더 치명적인 길 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:197
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Endless Mode completed"
+msgstr "무한 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:207
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "OverPowered Party Mode completed"
+msgstr "사기 일행 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:217
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Quick Death Mode completed"
+msgstr "빠른 죽음 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:229
+#: deathforth/events/finale/end-of-the-road.df:239
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Four Jerks Mode completed"
+msgstr "네 얼간이 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:249
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "RPG Mode completed"
+msgstr "RPG 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:259
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Weather Mode completed"
+msgstr "날씨 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:269
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "4 Jerks Scepter Mode completed"
+msgstr "네 얼간이 홀 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:279
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Infection Mode completed"
+msgstr "감염 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:289
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Infection Mode Extreme completed"
+msgstr "감염 모드 익스트림 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:299
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Mutation Mode completed"
+msgstr "돌연변이 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:309
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Mutation Mode EXTREME completed"
+msgstr "돌연변이 모드 익스트림 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:319
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Horror Mode completed"
+msgstr "공포 모드 클리어"
+
+#: deathforth/events/finale/end-of-the-road.df:338
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "O*P*P Mode does not increase your total win streak!"
+msgstr "사기 일행 모드는 전체 연승 기록을 올리지 않는다!"
+
+#: deathforth/events/finale/end-of-the-road.df:340
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Consecutive Win Streak: "
+msgstr "연승 기록: "
+
+#: deathforth/events/finale/end-of-the-road.df:345
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Death Road Normal Win Streak: "
+msgstr "데스 로드 일반 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:349
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Long Winding Road Win Streak: "
+msgstr "길고 구불구불한 길 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:353
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Rare Characters Win Streak: "
+msgstr "희귀 캐릭터 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:357
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Familiar Characters Win Streak: "
+msgstr "친숙한 캐릭터 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:361
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Rare Characters EX Win Streak: "
+msgstr "희귀 캐릭터 EX 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:365
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Familiar Characters EX Win Streak: "
+msgstr "친숙한 캐릭터 EX 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:369
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "K*E*P*A Win Streak: "
+msgstr "K*E*P*A 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:373
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Short Trip to Heck Win Streak: "
+msgstr "지옥행 짧은 여행 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:377
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Marathon Win Streak: "
+msgstr "마라톤 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:381
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Deadlier Road Win Streak: "
+msgstr "더 치명적인 길 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:385
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Endless Mode Win Streak: "
+msgstr "무한 모드 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:389
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "OverPowered Party Win Streak: "
+msgstr "사기 일행 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:393
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Quick Death Win Streak: "
+msgstr "빠른 죽음 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:397
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Four Jerks Win Streak: "
+msgstr "네 얼간이 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:401
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Four Jerks EX Win Streak: "
+msgstr "네 얼간이 EX 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:405
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "RPG Mode Win Streak: "
+msgstr "RPG 모드 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:409
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Infection Mode Win Streak: "
+msgstr "감염 모드 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:413
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Scepter Mode Win Streak: "
+msgstr "홀 모드 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:417
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Weather Forecast Streak: "
+msgstr "일기 예보 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:421
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Mutation Mode Win Streak: "
+msgstr "돌연변이 모드 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:425
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Mutation Mode EX Win Streak: "
+msgstr "돌연변이 모드 EX 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:429
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Horror Mode Win Streak: "
+msgstr "공포 모드 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:433
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Infection Mode EX Win Streak: "
+msgstr "감염 모드 EX 연승: "
+
+#: deathforth/events/finale/end-of-the-road.df:448
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Try a different Gameplay Mode!"
+msgstr "다른 게임 모드도 해 봐!"
+
+#: deathforth/events/finale/end-of-the-road.df:452
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Keep on driving!"
+msgstr "계속 달려!"
+
+#: deathforth/events/finale/end-of-the-road.df:456
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "I hope you got an OP character!"
+msgstr "사기 캐릭터 뽑았길 바란다!"
+
+#: deathforth/events/finale/end-of-the-road.df:460
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Zombies were no match for your group!"
+msgstr "좀비는 너희 일행의 상대가 안 됐다!"
+
+#: deathforth/events/finale/end-of-the-road.df:464
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Rare Character EXTREME Complete!"
+msgstr "희귀 캐릭터 익스트림 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:468
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Familiar Characters EXTREME Complete!"
+msgstr "친숙한 캐릭터 익스트림 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:472
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "K*E*P*A COMPLETE!"
+msgstr "K*E*P*A 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:476
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Congrats! Now try Four Jerks EXTREME!"
+msgstr "축하해! 이제 네 얼간이 익스트림을 해 봐!"
+
+#: deathforth/events/finale/end-of-the-road.df:480
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Four Jerks Mode EXTREME Complete!"
+msgstr "네 얼간이 모드 익스트림 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:484
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Congrats on your speedy victory!"
+msgstr "빠른 승리 축하해!"
+
+#: deathforth/events/finale/end-of-the-road.df:488
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "MARATHON MODE COMPLETE!"
+msgstr "마라톤 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:492
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Congrats! Now try the ULTRA-HARD modes!"
+msgstr "축하해! 이제 울트라 하드 모드를 해 봐!"
+
+#: deathforth/events/finale/end-of-the-road.df:496
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "ENDLESS MODE COMPLETE!!!!!"
+msgstr "무한 모드 클리어!!!!!"
+
+#: deathforth/events/finale/end-of-the-road.df:500
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "OVERPOWERED PARTY MODE COMPLETE!"
+msgstr "사기 일행 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:504
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "QUICK DEATH MODE COMPLETE!"
+msgstr "빠른 죽음 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:508
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "INFECTION MODE COMPLETE!"
+msgstr "감염 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:512
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "INFECTION MODE EXTREME COMPLETE!"
+msgstr "감염 모드 익스트림 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:516
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "MUTATION MODE COMPLETE!"
+msgstr "돌연변이 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:520
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "MUTATION MODE EXTREME COMPLETE!"
+msgstr "돌연변이 모드 익스트림 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:524
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "THE HORRORS MODE COMPLETE!"
+msgstr "공포 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:528
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "WEATHER FORECAST COMPLETE!"
+msgstr "일기 예보 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:533
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "RPG MODE COMPLETE!"
+msgstr "RPG 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:538
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "SCEPTER MODE COMPLETE!"
+msgstr "홀 모드 클리어!"
+
+#: deathforth/events/finale/end-of-the-road.df:542
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "AAAAAAAAAARGH"
+msgstr "아아아아아아아아악"
+
+#: deathforth/events/finale/end-of-the-road.df:575
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "BUT... WHAT BECAME OF THEM IN CANADA?"
+msgstr "그런데... 그들은 캐나다에서 어떻게 됐을까?"
+
+#: deathforth/events/finale/end-of-the-road.df:578
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "BUT... WHAT BECAME OF HER IN CANADA?"
+msgstr "그런데... 그녀는 캐나다에서 어떻게 됐을까?"
+
+#: deathforth/events/finale/end-of-the-road.df:580
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "BUT... WHAT BECAME OF HIM IN CANADA?"
+msgstr "그런데... 그는 캐나다에서 어떻게 됐을까?"
+
+#: deathforth/events/finale/end-of-the-road.df:608
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Seconds Remaining: "
+msgstr "남은 시간(초): "
+
+#: deathforth/events/finale/end-of-the-road.df:611
+#: deathforth/events/finale/end-of-the-road.df:615
+#: deathforth/events/finale/end-of-the-road.df:619
+#: deathforth/events/finale/end-of-the-road.df:623
+#: deathforth/events/finale/end-of-the-road.df:627
+#: deathforth/events/finale/end-of-the-road.df:631
+#: deathforth/events/finale/end-of-the-road.df:635
+#: deathforth/events/finale/end-of-the-road.df:639
+#: deathforth/events/finale/end-of-the-road.df:643
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Rank: "
+msgstr "등급: "
+
+#: deathforth/events/finale/end-of-the-road.df:635
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "GNOMEY"
+msgstr "노움급"
+
+#: deathforth/events/finale/end-of-the-road.df:639
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "GNOMEY+"
+msgstr "노움급+"
+
+#: deathforth/events/finale/end-of-the-road.df:643
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "ULTRA GNOMEY!"
+msgstr "울트라 노움급!"
+
+#: deathforth/events/finale/end-of-the-road.df:649
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Total Zombie Kills: "
+msgstr "좀비 처치 수: "
+
+#: deathforth/events/finale/end-of-the-road.df:666
+#: deathforth/events/finale/end-of-the-road.df:686
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "DEATH ROAD TO CANADA"
+msgstr "데스 로드 투 캐나다"
+
+#: deathforth/events/finale/end-of-the-road.df:667
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "A game by "
+msgstr "제작: "
+
+#: deathforth/events/finale/end-of-the-road.df:675
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Design: "
+msgstr "디자인: "
+
+#: deathforth/events/finale/end-of-the-road.df:676
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Developer: "
+msgstr "개발: "
+
+#: deathforth/events/finale/end-of-the-road.df:677
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Artists: "
+msgstr "아트: "
+
+#: deathforth/events/finale/end-of-the-road.df:678
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "Musician: "
+msgstr "음악: "
+
+#: deathforth/events/finale/end-of-the-road.df:685
+msgctxt "deathforth/events/finale/end-of-the-road.df"
+msgid "THANK YOU FOR PLAYING!"
+msgstr "플레이해 주셔서 감사합니다!"
+
+#: deathforth/events/finale/ending-bits.df:10
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Sooooo... this is Canada eh"
+msgstr "그러니까아... 여기가 캐나다구나, 응"
+
+#: deathforth/events/finale/ending-bits.df:12
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Guess I made it alone."
+msgstr "혼자서 해낸 것 같네."
+
+#: deathforth/events/finale/ending-bits.df:14
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Yup."
+msgstr "그래."
+
+#: deathforth/events/finale/ending-bits.df:17
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "It's a bit... brisk"
+msgstr "좀... 쌀쌀하네"
+
+#: deathforth/events/finale/ending-bits.df:20
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Oh, well."
+msgstr "뭐, 어쩔 수 없지."
+
+#: deathforth/events/finale/ending-bits.df:22
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Ya think?"
+msgstr "그렇게 생각해?"
+
+#: deathforth/events/finale/ending-bits.df:29
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Hey look! Penguins!!"
+msgstr "저기 봐! 펭귄이다!!"
+
+#: deathforth/events/finale/ending-bits.df:35
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Wait what"
+msgstr "잠깐 뭐"
+
+#: deathforth/events/finale/ending-bits.df:36
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What?"
+msgstr "뭐?"
+
+#: deathforth/events/finale/ending-bits.df:37
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "There are no penguins in Canada..."
+msgstr "캐나다엔 펭귄 없어..."
+
+#: deathforth/events/finale/ending-bits.df:38
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "But... ice, snow... PENGUINS! "
+msgstr "그치만... 얼음, 눈... 펭귄! "
+
+#: deathforth/events/finale/ending-bits.df:39
+#: deathforth/events/finale/ending-bits.df:313
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...sigh"
+msgstr "...한숨"
+
+#: deathforth/events/finale/ending-bits.df:45
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What a long road!"
+msgstr "정말 긴 길이었다!"
+
+#: deathforth/events/finale/ending-bits.df:48
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "That felt like it took an eternity."
+msgstr "영원처럼 느껴졌어."
+
+#: deathforth/events/finale/ending-bits.df:49
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Oh well."
+msgstr "뭐, 어쩔 수 없지."
+
+#: deathforth/events/finale/ending-bits.df:50
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "At least I made it!"
+msgstr "적어도 도착은 했잖아!"
+
+#: deathforth/events/finale/ending-bits.df:52
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Remind me..."
+msgstr "다시 말해 봐..."
+
+#: deathforth/events/finale/ending-bits.df:53
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Who's idea was it to take the long way, again?"
+msgstr "먼 길로 가자고 한 게 누구였더라?"
+
+#: deathforth/events/finale/ending-bits.df:54
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...shut up."
+msgstr "...닥쳐."
+
+#: deathforth/events/finale/ending-bits.df:55
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What a pleasant time in Canada you two will have, eh?"
+msgstr "너희 둘, 캐나다에서 참 즐겁게 지내겠구나, 응?"
+
+#: deathforth/events/finale/ending-bits.df:62
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I met a bunch of weirdos!"
+msgstr "이상한 녀석들을 잔뜩 만났어!"
+
+#: deathforth/events/finale/ending-bits.df:65
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Awh, dang! I just remembered."
+msgstr "아, 젠장! 방금 생각났다."
+
+#: deathforth/events/finale/ending-bits.df:66
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I didn't get their twitter handles..."
+msgstr "걔네 트위터 아이디를 못 받았어..."
+
+#: deathforth/events/finale/ending-bits.df:68
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I wonder if there are more weirdos out there?"
+msgstr "저 밖에 이상한 녀석들이 더 있을까?"
+
+#: deathforth/events/finale/ending-bits.df:69
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Yeah, more DINKS, maybe."
+msgstr "그래, 얼간이들이 더 있겠지, 아마."
+
+#: deathforth/events/finale/ending-bits.df:72
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "They'd better have passports too!"
+msgstr "그 녀석들도 여권은 있어야 할 텐데!"
+
+#: deathforth/events/finale/ending-bits.df:78
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I saw a lot of familiar faces!"
+msgstr "낯익은 얼굴들을 많이 봤어!"
+
+#: deathforth/events/finale/ending-bits.df:81
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...not that I liked them very much."
+msgstr "...딱히 좋아하진 않았지만."
+
+#: deathforth/events/finale/ending-bits.df:82
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "FINALLY, I CAN GET AWAY FROM THESE DINKS."
+msgstr "드디어 이 얼간이들한테서 벗어날 수 있다."
+
+#: deathforth/events/finale/ending-bits.df:84
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "They didn't look very familiar to me."
+msgstr "난 별로 낯익지 않던데."
+
+#: deathforth/events/finale/ending-bits.df:85
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Mhm, well, you need your eyes checked."
+msgstr "음, 그래, 넌 눈 검사 좀 받아야겠다."
+
+#: deathforth/events/finale/ending-bits.df:88
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Who knows who was left behind by the apocalypse?"
+msgstr "종말에 누가 남겨졌는지 누가 알겠어?"
+
+#: deathforth/events/finale/ending-bits.df:94
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I did it!"
+msgstr "해냈다!"
+
+#: deathforth/events/finale/ending-bits.df:95
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "And I met so many interesting people on the way!"
+msgstr "오는 길에 흥미로운 사람들을 정말 많이 만났어!"
+
+#: deathforth/events/finale/ending-bits.df:96
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...and some, admittedly REAL DARN STINKY people, too."
+msgstr "...그리고 솔직히 진짜 엄청 냄새나는 사람들도."
+
+#: deathforth/events/finale/ending-bits.df:97
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Ahh...I miss soap..."
+msgstr "아아... 비누가 그립다..."
+
+#: deathforth/events/finale/ending-bits.df:103
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Good thing I had all my friends!"
+msgstr "친구들이 다 있어서 다행이야!"
+
+#: deathforth/events/finale/ending-bits.df:106
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Well, I used to..."
+msgstr "뭐, 있었지..."
+
+#: deathforth/events/finale/ending-bits.df:107
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Guess I'll have to make some new ones."
+msgstr "새 친구를 사귀어야겠네."
+
+#: deathforth/events/finale/ending-bits.df:108
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I'll be your friend!"
+msgstr "내가 친구가 되어 줄게!"
+
+#: deathforth/events/finale/ending-bits.df:109
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Love wins."
+msgstr "사랑이 이긴다."
+
+#: deathforth/events/finale/ending-bits.df:111
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What would I do without you?"
+msgstr "너 없으면 난 어떡하지?"
+
+#: deathforth/events/finale/ending-bits.df:112
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Don't make this weird."
+msgstr "이상하게 만들지 마."
+
+#: deathforth/events/finale/ending-bits.df:113
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Okay..."
+msgstr "알았어..."
+
+#: deathforth/events/finale/ending-bits.df:120
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I have defeated... K*E*P*A MODE!"
+msgstr "내가 해냈다... K*E*P*A 모드를!"
+
+#: deathforth/events/finale/ending-bits.df:122
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Keep-Everybody's-Pears-Always Mode, right?"
+msgstr "'케(K)이크는 에(E)브리바디가 피(P)자처럼 아(A)껴 먹자' 모드 맞지?"
+
+#: deathforth/events/finale/ending-bits.df:123
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "or...Kill Electric Ponies Always Mode?..."
+msgstr "아니면... '킬(K) 전(E)기 포(P)니 언제나(A)' 모드?..."
+
+#: deathforth/events/finale/ending-bits.df:124
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Gahh, I forget."
+msgstr "아, 까먹었다."
+
+#: deathforth/events/finale/ending-bits.df:125
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Survivors these days..."
+msgstr "요즘 생존자들이란..."
+
+#: deathforth/events/finale/ending-bits.df:131
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Speed run complete!"
+msgstr "스피드런 완료!"
+
+#: deathforth/events/finale/ending-bits.df:132
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Did I beat my best time?"
+msgstr "최고 기록 깼나?"
+
+#: deathforth/events/finale/ending-bits.df:133
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Nope, I don't think so."
+msgstr "아니, 못 깬 것 같은데."
+
+#: deathforth/events/finale/ending-bits.df:134
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "DAMN IT "
+msgstr "젠장 "
+
+#: deathforth/events/finale/ending-bits.df:140
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "That was a pretty big detour!"
+msgstr "꽤 큰 우회로였어!"
+
+#: deathforth/events/finale/ending-bits.df:141
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I'm exhausted! I need a drink."
+msgstr "지쳤다! 한잔해야겠어."
+
+#: deathforth/events/finale/ending-bits.df:142
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "OR SEVERAL! "
+msgstr "아니면 여러 잔! "
+
+#: deathforth/events/finale/ending-bits.df:145
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Mhm...better make it several."
+msgstr "음... 여러 잔이 낫겠다."
+
+#: deathforth/events/finale/ending-bits.df:152
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "That was fairly deadly!"
+msgstr "꽤 치명적이었어!"
+
+#: deathforth/events/finale/ending-bits.df:154
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You could even say it was a death road."
+msgstr "죽음의 길이었다고 해도 되겠는데."
+
+#: deathforth/events/finale/ending-bits.df:155
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...a Death Road to Canada, even."
+msgstr "...캐나다로 가는 죽음의 길이라고 해도."
+
+#: deathforth/events/finale/ending-bits.df:156
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Roll credits. Oh, wait..."
+msgstr "크레딧 올려. 아, 잠깐..."
+
+#: deathforth/events/finale/ending-bits.df:162
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Road triiiiip!"
+msgstr "로드 트리이이입!"
+
+#: deathforth/events/finale/ending-bits.df:165
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid ""
+"Would've been a much better trip if there was somebody to share it with."
+msgstr "같이 나눌 사람이 있었으면 훨씬 좋은 여행이었을 텐데."
+
+#: deathforth/events/finale/ending-bits.df:166
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Nevermind..."
+msgstr "됐다..."
+
+#: deathforth/events/finale/ending-bits.df:167
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I'm right here, eh!"
+msgstr "나 여기 있잖아, 응!"
+
+#: deathforth/events/finale/ending-bits.df:168
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I feel so lonely..."
+msgstr "너무 외로워..."
+
+#: deathforth/events/finale/ending-bits.df:170
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "We made it! Together!"
+msgstr "해냈다! 함께!"
+
+#: deathforth/events/finale/ending-bits.df:171
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "But I did all the work?"
+msgstr "근데 일은 내가 다 했잖아?"
+
+#: deathforth/events/finale/ending-bits.df:172
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "IN YOUR DREAMS, JERK!"
+msgstr "꿈 깨, 얼간아!"
+
+#: deathforth/events/finale/ending-bits.df:173
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Ahhh, friendship..."
+msgstr "아아, 우정이란..."
+
+#: deathforth/events/finale/ending-bits.df:180
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "ROAAAD TRIIIIP EXTREEEEME!"
+msgstr "로오오드 트리이이입 익스트리이이임!"
+
+#: deathforth/events/finale/ending-bits.df:181
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Didn't seem that extreme to me, eh?"
+msgstr "나한텐 별로 익스트림해 보이지 않던데, 응?"
+
+#: deathforth/events/finale/ending-bits.df:182
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You had NO idea."
+msgstr "넌 전혀 모를 거야."
+
+#: deathforth/events/finale/ending-bits.df:183
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "It was horrible!"
+msgstr "끔찍했다고!"
+
+#: deathforth/events/finale/ending-bits.df:186
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Guess that explains why you're alone."
+msgstr "그래서 혼자인가 보구나."
+
+#: deathforth/events/finale/ending-bits.df:192
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Why do I suddenly feel so...tired?"
+msgstr "왜 갑자기 이렇게... 피곤하지?"
+
+#: deathforth/events/finale/ending-bits.df:193
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You're not about to explode, are you?"
+msgstr "설마 폭발하려는 건 아니지?"
+
+#: deathforth/events/finale/ending-bits.df:194
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "No? Why, should I be? "
+msgstr "아니? 왜, 그래야 돼? "
+
+#: deathforth/events/finale/ending-bits.df:195
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Oh. No reason."
+msgstr "아. 그냥 물어봤어."
+
+#: deathforth/events/finale/ending-bits.df:201
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Wow, so many roleplayers these days."
+msgstr "와, 요즘 역할극 하는 사람 참 많네."
+
+#: deathforth/events/finale/ending-bits.df:202
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You must be here for the jerk convention."
+msgstr "얼간이 컨벤션 때문에 온 거구나."
+
+#: deathforth/events/finale/ending-bits.df:203
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "RIGHT THIS WAY!"
+msgstr "이쪽으로 오세요!"
+
+#: deathforth/events/finale/ending-bits.df:204
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "HECK YEAH!"
+msgstr "좋았어!"
+
+#: deathforth/events/finale/ending-bits.df:211
+#: deathforth/events/finale/ending-bits.df:214
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What lovely weather we've had!"
+msgstr "날씨 참 좋았지!"
+
+#: deathforth/events/finale/ending-bits.df:212
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...are you blind, eh?"
+msgstr "...너 눈 멀었냐, 응?"
+
+#: deathforth/events/finale/ending-bits.df:215
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "YEAH?"
+msgstr "그래?"
+
+#: deathforth/events/finale/ending-bits.df:216
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WHAT'S SO DARN LOVELY ABOUT IT?"
+msgstr "대체 어디가 그렇게 좋았는데?"
+
+#: deathforth/events/finale/ending-bits.df:223
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Hey, my purse just got bigger."
+msgstr "어, 내 지갑이 방금 커졌어."
+
+#: deathforth/events/finale/ending-bits.df:224
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...I'M LOADED!"
+msgstr "...나 부자다!"
+
+#: deathforth/events/finale/ending-bits.df:227
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What will you spend your share on?"
+msgstr "네 몫은 어디다 쓸 거야?"
+
+#: deathforth/events/finale/ending-bits.df:228
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Hmm...."
+msgstr "흠...."
+
+#: deathforth/events/finale/ending-bits.df:229
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "MORE DOGS!"
+msgstr "개를 더!"
+
+#: deathforth/events/finale/ending-bits.df:230
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "sigh"
+msgstr "한숨"
+
+#: deathforth/events/finale/ending-bits.df:237
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Wait a minute, what's this in my pocket?"
+msgstr "잠깐, 내 주머니에 이거 뭐지?"
+
+#: deathforth/events/finale/ending-bits.df:238
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "A blank check?"
+msgstr "백지수표?"
+
+#: deathforth/events/finale/ending-bits.df:239
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WE'RE RICCCCHHHHH!!!"
+msgstr "우리 부자다아아아아!!!"
+
+#: deathforth/events/finale/ending-bits.df:240
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "AND WE ONLY HAD TO ALMOST DIE FOR IT!"
+msgstr "게다가 거의 죽을 뻔한 것만으로 얻었어!"
+
+#: deathforth/events/finale/ending-bits.df:241
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Don't spend it all in one place!"
+msgstr "한 번에 다 쓰지 마!"
+
+#: deathforth/events/finale/ending-bits.df:247
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Hahaha, we made it! We actually made it!"
+msgstr "하하하, 해냈다! 진짜로 해냈어!"
+
+#: deathforth/events/finale/ending-bits.df:248
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I need a new pair of pants!"
+msgstr "새 바지가 필요해!"
+
+#: deathforth/events/finale/ending-bits.df:249
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I can point you to a good overalls store."
+msgstr "괜찮은 멜빵바지 가게를 알려 줄게."
+
+#: deathforth/events/finale/ending-bits.df:250
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You'll fit right in."
+msgstr "딱 어울릴 거야."
+
+#: deathforth/events/finale/ending-bits.df:256
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Aueghh...I think I'm going to hurl..."
+msgstr "우욱... 토할 것 같아..."
+
+#: deathforth/events/finale/ending-bits.df:257
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Puking is allowed. Just don't explode, please."
+msgstr "토하는 건 괜찮아. 폭발만 하지 마, 제발."
+
+#: deathforth/events/finale/ending-bits.df:258
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "EXPLODE?"
+msgstr "폭발?"
+
+#: deathforth/events/finale/ending-bits.df:259
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "...long story. Don't worry about it."
+msgstr "...얘기가 길어. 신경 쓰지 마."
+
+#: deathforth/events/finale/ending-bits.df:266
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You're lucky to even be alive!"
+msgstr "살아 있는 것만 해도 운이 좋은 거야!"
+
+#: deathforth/events/finale/ending-bits.df:267
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Congratulations on making it, eh?"
+msgstr "도착한 거 축하해, 응?"
+
+#: deathforth/events/finale/ending-bits.df:268
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What'll you do first, now you're in Canada?"
+msgstr "캐나다에 왔으니 제일 먼저 뭐 할 거야?"
+
+#: deathforth/events/finale/ending-bits.df:272
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Make the world's biggest bowl of nachos."
+msgstr "세상에서 제일 큰 나초 한 그릇 만들기."
+
+#: deathforth/events/finale/ending-bits.df:274
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Wrestle with some meese!"
+msgstr "무스랑 레슬링하기!"
+
+#: deathforth/events/finale/ending-bits.df:278
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I'm not sure. I've not made up my mind yet."
+msgstr "글쎄. 아직 못 정했어."
+
+#: deathforth/events/finale/ending-bits.df:279
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "LAAAAAMEEEEEE. I WANNA DROWN IN POUTINE!"
+msgstr "시시해애애애. 난 푸틴에 빠져 죽을래!"
+
+#: deathforth/events/finale/ending-bits.df:281
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Unsure...I still need to think about it."
+msgstr "글쎄... 아직 생각 좀 해 봐야겠어."
+
+#: deathforth/events/finale/ending-bits.df:282
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What is there to think about? They have Tim Hortons!"
+msgstr "생각할 게 뭐 있어? 팀 홀튼이 있잖아!"
+
+#: deathforth/events/finale/ending-bits.df:287
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Sounds good to me. Can I join?"
+msgstr "좋은데. 나도 껴도 돼?"
+
+#: deathforth/events/finale/ending-bits.df:289
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Right, because that's a VERY normal thing to do."
+msgstr "그래, 그게 '아주' 평범한 일이지."
+
+#: deathforth/events/finale/ending-bits.df:297
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I LOVE BEIN STRONG"
+msgstr "난 강한 게 좋아"
+
+#: deathforth/events/finale/ending-bits.df:298
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I ALSO LOVE: NOT DYING."
+msgstr "그리고 이것도 좋아: 안 죽는 거."
+
+#: deathforth/events/finale/ending-bits.df:312
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "More penguins!"
+msgstr "펭귄 또 있다!"
+
+#: deathforth/events/finale/ending-bits.df:319
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You made it, but there's an even longer road mode!"
+msgstr "해냈구나. 그런데 더 긴 길 모드도 있어!"
+
+#: deathforth/events/finale/ending-bits.df:325
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Lots of interesting people on the Death Road!"
+msgstr "데스 로드엔 흥미로운 사람이 많지!"
+
+#: deathforth/events/finale/ending-bits.df:331
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Welcome to Canada!"
+msgstr "캐나다에 온 걸 환영해!"
+
+#: deathforth/events/finale/ending-bits.df:337
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "FEH"
+msgstr "흥"
+
+#: deathforth/events/finale/ending-bits.df:338
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WHAT WAS SO RARE ABOUT THESE CHARACTERS?"
+msgstr "이 캐릭터들이 뭐가 그렇게 희귀했다는 거야?"
+
+#: deathforth/events/finale/ending-bits.df:344
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WOW! WHAT A BUNCH OF JERKS!"
+msgstr "와! 얼간이 집합소구먼!"
+
+#: deathforth/events/finale/ending-bits.df:346
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WITH FRIENDS LIKE THESE..."
+msgstr "이런 친구들이 있으면..."
+
+#: deathforth/events/finale/ending-bits.df:347
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WHO NEEDS ENEMIES??"
+msgstr "적이 왜 필요해??"
+
+#: deathforth/events/finale/ending-bits.df:354
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Congratulations! You saved Kepa!"
+msgstr "축하해! 케파를 구했구나!"
+
+#: deathforth/events/finale/ending-bits.df:355
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You are a true Death Road-er!"
+msgstr "넌 진정한 데스 로더야!"
+
+#: deathforth/events/finale/ending-bits.df:357
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "But... did you truly win?"
+msgstr "그런데... 정말 이긴 걸까?"
+
+#: deathforth/events/finale/ending-bits.df:358
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Where did you lose Kepa?"
+msgstr "케파는 어디서 잃어버렸어?"
+
+#: deathforth/events/finale/ending-bits.df:365
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I hope the trip didn't take too long for you!"
+msgstr "여행이 너무 길지 않았길 바라!"
+
+#: deathforth/events/finale/ending-bits.df:371
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You took the scenic route, eh?"
+msgstr "경치 좋은 길로 왔구먼, 응?"
+
+#: deathforth/events/finale/ending-bits.df:377
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Could have been worse!"
+msgstr "더 나쁠 수도 있었어!"
+
+#: deathforth/events/finale/ending-bits.df:383
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "This was supposed to be Endless!"
+msgstr "이거 무한이라며!"
+
+#: deathforth/events/finale/ending-bits.df:384
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "What a rip-off!"
+msgstr "사기잖아!"
+
+#: deathforth/events/finale/ending-bits.df:390
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WOW! SO OVERPOWERED!"
+msgstr "와! 완전 사기다!"
+
+#: deathforth/events/finale/ending-bits.df:396
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Took the shortcut, eh?"
+msgstr "지름길로 왔구먼, 응?"
+
+#: deathforth/events/finale/ending-bits.df:403
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You got your passport?"
+msgstr "여권 챙겼어?"
+
+#: deathforth/events/finale/ending-bits.df:405
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You guys got your passports?"
+msgstr "너희 여권 챙겼어?"
+
+#: deathforth/events/finale/ending-bits.df:412
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Can't believe we're still getting tourists!"
+msgstr "아직도 관광객이 온다니 믿기지가 않네!"
+
+#: deathforth/events/finale/ending-bits.df:418
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Nobody has any symptoms, right?"
+msgstr "아무도 증상 없지, 그치?"
+
+#: deathforth/events/finale/ending-bits.df:424
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Sorry you didn't get to level 12!"
+msgstr "12레벨까지 못 가서 아쉽다!"
+
+#: deathforth/events/finale/ending-bits.df:430
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Just last week I had my car smited by a lightning bolt."
+msgstr "지난주에 내 차가 번개를 정통으로 맞았지 뭐야."
+
+#: deathforth/events/finale/ending-bits.df:437
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "You look out of breath. Is everything oke?"
+msgstr "숨이 차 보이네. 괜찮아?"
+
+#: deathforth/events/finale/ending-bits.df:443
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Okay...so they're yellow?"
+msgstr "그래... 그러니까 노랗다고?"
+
+#: deathforth/events/finale/ending-bits.df:449
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "I thought I saw graphite on the ground."
+msgstr "땅에 흑연이 보인 것 같았는데."
+
+#: deathforth/events/finale/ending-bits.df:450
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Hmph. Guess not."
+msgstr "흠. 아닌가 보네."
+
+#: deathforth/events/finale/ending-bits.df:456
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "Jumpscare in 3...2...1..."
+msgstr "깜짝 놀래키기 3...2...1..."
+
+#: deathforth/events/finale/ending-bits.df:465
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "NNNNNNNNNNG."
+msgstr "으으으으으으윽."
+
+#: deathforth/events/finale/ending-bits.df:467
+msgctxt "deathforth/events/finale/ending-bits.df"
+msgid "WHOA! NICE?"
+msgstr "우와! 좋은 건가?"
+
+#: deathforth/events/finale/epilogue-check.df:20
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "his"
+msgstr "그의"
+
+#: deathforth/events/finale/epilogue-check.df:20
+#: deathforth/events/finale/epilogue-check.df:21
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "her"
+msgstr "그녀"
+
+#: deathforth/events/finale/epilogue-check.df:21
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "him"
+msgstr "그"
+
+#: deathforth/events/finale/epilogue-check.df:22
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "he"
+msgstr "그"
+
+#: deathforth/events/finale/epilogue-check.df:22
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "she"
+msgstr "그녀"
+
+#: deathforth/events/finale/epilogue-check.df:31
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Canada is going to be great!"
+msgstr "캐나다는 끝내줄 거야!"
+
+#: deathforth/events/finale/epilogue-check.df:32
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "This was definitely worth all the carnage!"
+msgstr "이 대학살을 겪을 가치가 충분했어!"
+
+#: deathforth/events/finale/epilogue-check.df:33
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "That wasn't so bad!"
+msgstr "그렇게 나쁘진 않았네!"
+
+#: deathforth/events/finale/epilogue-check.df:34
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm sorry that the journey is over now!"
+msgstr "여정이 이제 끝나서 아쉬워!"
+
+#: deathforth/events/finale/epilogue-check.df:39
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "It's too cold here!"
+msgstr "여기 너무 추워!"
+
+#: deathforth/events/finale/epilogue-check.df:40
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "My feet hurt!"
+msgstr "발 아파!"
+
+#: deathforth/events/finale/epilogue-check.df:41
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I already hate Canada! Canada smells bad!"
+msgstr "벌써 캐나다가 싫어! 캐나다 냄새나!"
+
+#: deathforth/events/finale/epilogue-check.df:42
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I can't believe I marched all the way here!"
+msgstr "여기까지 걸어왔다니 믿기지 않아!"
+
+#: deathforth/events/finale/epilogue-check.df:43
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Canada is bad! Downvoted!"
+msgstr "캐나다 별로! 비추!"
+
+#: deathforth/events/finale/epilogue-check.df:48
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Nice job."
+msgstr "잘했어."
+
+#: deathforth/events/finale/epilogue-check.df:49
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Good."
+msgstr "좋아."
+
+#: deathforth/events/finale/epilogue-check.df:50
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "What's next?"
+msgstr "다음은?"
+
+#: deathforth/events/finale/epilogue-check.df:51
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Easy."
+msgstr "쉽네."
+
+#: deathforth/events/finale/epilogue-check.df:56
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm pumped! I'm PUMPED!"
+msgstr "흥분된다! 완전 흥분된다고!"
+
+#: deathforth/events/finale/epilogue-check.df:57
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Woooooo!"
+msgstr "우와아아아!"
+
+#: deathforth/events/finale/epilogue-check.df:58
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Extreeeeeme!"
+msgstr "익스트리이이임!"
+
+#: deathforth/events/finale/epilogue-check.df:59
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "AAAAAAAAAAAAAAAARGH! I DID IT!"
+msgstr "아아아아아아아아아악! 해냈다!"
+
+#: deathforth/events/finale/epilogue-check.df:64
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "All according to plan!"
+msgstr "모든 게 계획대로야!"
+
+#: deathforth/events/finale/epilogue-check.df:65
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "My prediction was a 90% chance of reaching Canada!"
+msgstr "캐나다 도착 확률을 90%로 예측했지!"
+
+#: deathforth/events/finale/epilogue-check.df:66
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I learned a lot about myself. And zombies."
+msgstr "나 자신에 대해 많이 배웠어. 좀비에 대해서도."
+
+#: deathforth/events/finale/epilogue-check.df:67
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I bet I could get here even easier, knowing what I do now."
+msgstr "지금 아는 걸로 다시 하면 더 쉽게 올 수 있을 텐데."
+
+#: deathforth/events/finale/epilogue-check.df:72
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Are we there yet?"
+msgstr "아직 멀었어?"
+
+#: deathforth/events/finale/epilogue-check.df:73
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Is this Canada?"
+msgstr "여기가 캐나다야?"
+
+#: deathforth/events/finale/epilogue-check.df:74
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Huuuuuuh? Oh, I made it."
+msgstr "으으으음? 아, 도착했네."
+
+#: deathforth/events/finale/epilogue-check.df:75
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Where am I? I wasn't paying attention."
+msgstr "여기 어디야? 딴생각하고 있었어."
+
+#: deathforth/events/finale/epilogue-check.df:80
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "We did it!"
+msgstr "우리가 해냈어!"
+
+#: deathforth/events/finale/epilogue-check.df:81
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "This is all thanks to teamwork!"
+msgstr "이게 다 팀워크 덕분이야!"
+
+#: deathforth/events/finale/epilogue-check.df:82
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Let's be friends 5ever!"
+msgstr "우리 5원히 친구 하자!"
+
+#: deathforth/events/finale/epilogue-check.df:83
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Friendship is the reason we made it!"
+msgstr "우정 덕분에 여기까지 왔어!"
+
+#: deathforth/events/finale/epilogue-check.df:88
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "No! I'm the only one!"
+msgstr "안 돼! 나 혼자뿐이야!"
+
+#: deathforth/events/finale/epilogue-check.df:89
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Here's to the ones that didn't make it."
+msgstr "도착하지 못한 이들을 위하여."
+
+#: deathforth/events/finale/epilogue-check.df:90
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Well uh... crap. Guess I'm alone."
+msgstr "어... 젠장. 나 혼자네."
+
+#: deathforth/events/finale/epilogue-check.df:91
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Err woops. Well, who needs friends I guess."
+msgstr "어 이런. 뭐, 친구 따위 누가 필요해."
+
+#: deathforth/events/finale/epilogue-check.df:96
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Nice, a whole new country to rob."
+msgstr "좋아, 털어먹을 새 나라가 통째로 생겼군."
+
+#: deathforth/events/finale/epilogue-check.df:97
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I knew that I'd make it hhhhheh."
+msgstr "내가 해낼 줄 알았지 흐흐흐흐흣."
+
+#: deathforth/events/finale/epilogue-check.df:98
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'll rule this place!"
+msgstr "이곳은 내가 지배한다!"
+
+#: deathforth/events/finale/epilogue-check.df:99
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Look at all these suckers. I'll do fine here."
+msgstr "호구들 천지네. 여기선 잘 지내겠어."
+
+#: deathforth/events/finale/epilogue-check.df:104
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I punched a moose so hard that it exploded!"
+msgstr "무스를 너무 세게 때려서 터져 버렸어!"
+
+#: deathforth/events/finale/epilogue-check.df:105
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "AAAAAAAAAARGH! AAAAARGH!"
+msgstr "아아아아아아아악! 아아아아악!"
+
+#: deathforth/events/finale/epilogue-check.df:106
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BERSEEEERKEEEEEEEER!"
+msgstr "버서어어어어커어어어어!"
+
+#: deathforth/events/finale/epilogue-check.df:107
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I love 'zerkin!!!"
+msgstr "광폭화가 좋아!!!"
+
+#: deathforth/events/finale/epilogue-check.df:112
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I made it!"
+msgstr "해냈다!"
+
+#: deathforth/events/finale/epilogue-check.df:113
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Time to enjoy the Canadian way of life!"
+msgstr "이제 캐나다식 삶을 즐길 시간!"
+
+#: deathforth/events/finale/epilogue-check.df:114
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "That's enough zombies for me, thanks."
+msgstr "좀비는 이걸로 충분해, 고마워."
+
+#: deathforth/events/finale/epilogue-check.df:115
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Wait! I left my toothbrush in Florida!"
+msgstr "잠깐! 칫솔을 플로리다에 두고 왔어!"
+
+#: deathforth/events/finale/epilogue-check.df:116
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Touchdooooown!"
+msgstr "터치다아아아운!"
+
+#: deathforth/events/finale/epilogue-check.df:117
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "That was a lot of zombies."
+msgstr "좀비 진짜 많았다."
+
+#: deathforth/events/finale/epilogue-check.df:118
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm going to need a new car..."
+msgstr "새 차가 필요하겠는데..."
+
+#: deathforth/events/finale/epilogue-check.df:119
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I feel insecure with no throwing chairs in sight."
+msgstr "던질 의자가 안 보이니 불안해."
+
+#: deathforth/events/finale/epilogue-check.df:120
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I hope I can loot more toilets later."
+msgstr "나중에 변기를 더 뒤질 수 있으면 좋겠다."
+
+#: deathforth/events/finale/epilogue-check.df:121
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Time to kick back and relax."
+msgstr "이제 느긋하게 쉴 시간."
+
+#: deathforth/events/finale/epilogue-check.df:122
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Victory!"
+msgstr "승리!"
+
+#: deathforth/events/finale/epilogue-check.df:123
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I deserve a vacation."
+msgstr "나 휴가 갈 자격 있어."
+
+#: deathforth/events/finale/epilogue-check.df:124
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Does it always snow here?"
+msgstr "여긴 맨날 눈 와?"
+
+#: deathforth/events/finale/epilogue-check.df:125
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Party time!"
+msgstr "파티 타임!"
+
+#: deathforth/events/finale/epilogue-check.df:126
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Congratulations!"
+msgstr "축하해!"
+
+#: deathforth/events/finale/epilogue-check.df:127
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Whoaaaa!"
+msgstr "우와아아아!"
+
+#: deathforth/events/finale/epilogue-check.df:128
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "This is all thanks to me!"
+msgstr "이게 다 내 덕분이야!"
+
+#: deathforth/events/finale/epilogue-check.df:133
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "This is just like in my Japanese animes!"
+msgstr "딱 내가 보던 일본 애니 같아!"
+
+#: deathforth/events/finale/epilogue-check.df:134
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "They made fun of my anime figurines but who's laughing NOW?"
+msgstr "내 애니 피규어 놀리던 놈들, 이제 누가 웃나 보자!"
+
+#: deathforth/events/finale/epilogue-check.df:135
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Is there Canadian anime?"
+msgstr "캐나다 애니도 있어?"
+
+#: deathforth/events/finale/epilogue-check.df:136
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "This is all thanks to the superiority of Japanese weaponry!"
+msgstr "이게 다 일본 무기의 우월함 덕분이야!"
+
+#: deathforth/events/finale/epilogue-check.df:142
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Justice triumphs!"
+msgstr "정의는 승리한다!"
+
+#: deathforth/events/finale/epilogue-check.df:143
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HEART BEAM!"
+msgstr "하트 빔!"
+
+#: deathforth/events/finale/epilogue-check.df:145
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Well, I didn't explode this time so that's nice."
+msgstr "뭐, 이번엔 폭발 안 해서 다행이네."
+
+#: deathforth/events/finale/epilogue-check.df:150
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "TOO SWOLE TO CONTROL, BABY!!!"
+msgstr "너무 우람해서 감당 불가다, 베이비!!!"
+
+#: deathforth/events/finale/epilogue-check.df:151
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I HAVE REACHED MAXIMUM SWOLE!"
+msgstr "최대 우람함에 도달했다!"
+
+#: deathforth/events/finale/epilogue-check.df:152
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "YEAH!!!!!! TOO SWOLE!"
+msgstr "예에!!!!!! 너무 우람해!"
+
+#: deathforth/events/finale/epilogue-check.df:153
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I LOVE BEIN STRONG!!!"
+msgstr "난 강한 게 좋아!!!"
+
+#: deathforth/events/finale/epilogue-check.df:158
+#: deathforth/events/finale/epilogue-check.df:326
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'll always be your bodyguard."
+msgstr "난 언제까지나 네 보디가드야."
+
+#: deathforth/events/finale/epilogue-check.df:159
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Iiiiii-I-Iiiiiii... wiiiilll always love yoooouuuuu."
+msgstr "앤-다-아아아이... 윌 올웨이즈 러브 유우우우우."
+
+#: deathforth/events/finale/epilogue-check.df:160
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Get down, Mr Prime Minister!"
+msgstr "엎드리세요, 총리님!"
+
+#: deathforth/events/finale/epilogue-check.df:161
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm still on alert. I'm assessing threats."
+msgstr "아직 경계 중이다. 위협을 평가하고 있다."
+
+#: deathforth/events/finale/epilogue-check.df:166
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Gotta go fast!"
+msgstr "빠르게 가야 해!"
+
+#: deathforth/events/finale/epilogue-check.df:167
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Way past cool."
+msgstr "쿨함 그 이상."
+
+#: deathforth/events/finale/epilogue-check.df:168
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Eat that, Dr. Robotnik!"
+msgstr "이거나 먹어라, 닥터 로보트닉!"
+
+#: deathforth/events/finale/epilogue-check.df:169
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm faster than Sonic the Hedgehog!"
+msgstr "난 고슴도치 소닉보다 빠르다!"
+
+#: deathforth/events/finale/epilogue-check.df:174
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I've satisfied my hunger... for victory!"
+msgstr "배고픔을 채웠다... 승리에 대한!"
+
+#: deathforth/events/finale/epilogue-check.df:175
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I was getting tired of eating canned food."
+msgstr "통조림만 먹는 거 질려 가던 참이야."
+
+#: deathforth/events/finale/epilogue-check.df:176
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I need another meal."
+msgstr "한 끼 더 먹어야겠어."
+
+#: deathforth/events/finale/epilogue-check.df:177
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Are you gunna eat that? Cause I will."
+msgstr "그거 먹을 거야? 안 먹으면 내가 먹는다."
+
+#: deathforth/events/finale/epilogue-check.df:182
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BARK!"
+msgstr "멍!"
+
+#: deathforth/events/finale/epilogue-check.df:183
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "WOOF! WOOF!"
+msgstr "왈! 왈!"
+
+#: deathforth/events/finale/epilogue-check.df:184
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BORK!"
+msgstr "멍멍!"
+
+#: deathforth/events/finale/epilogue-check.df:185
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BJORK!"
+msgstr "뵤크!"
+
+#: deathforth/events/finale/epilogue-check.df:186
+#: deathforth/events/finale/epilogue-check.df:225
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "WOOF!"
+msgstr "왈!"
+
+#: deathforth/events/finale/epilogue-check.df:187
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "farts.*"
+msgstr "방귀를 뀐다.*"
+
+#: deathforth/events/finale/epilogue-check.df:188
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "licks itself.*"
+msgstr "자기 몸을 핥는다.*"
+
+#: deathforth/events/finale/epilogue-check.df:209
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Feh! I can't believe I was convinced to leave my cabin."
+msgstr "쳇! 오두막을 떠나라는 말에 넘어가다니."
+
+#: deathforth/events/finale/epilogue-check.df:210
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Merry Christmas to all!"
+msgstr "모두 메리 크리스마스!"
+
+#: deathforth/events/finale/epilogue-check.df:211
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HO!HO!HO!HO!HO!HO!HO!HO!HO!HO!HO!HO!HO!"
+msgstr "호!호!호!호!호!호!호!호!호!호!호!호!호!"
+
+#: deathforth/events/finale/epilogue-check.df:212
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "burbleburble"
+msgstr "부글부글"
+
+#: deathforth/events/finale/epilogue-check.df:213
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "All that training came in handy!"
+msgstr "그동안의 훈련이 쓸모가 있었어!"
+
+#: deathforth/events/finale/epilogue-check.df:214
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "That was a good battle. I guess."
+msgstr "좋은 싸움이었어. 아마도."
+
+#: deathforth/events/finale/epilogue-check.df:215
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "That made me think of a new wrestling move! The MECHA PRESS!"
+msgstr "덕분에 새 레슬링 기술이 떠올랐어! 메카 프레스!"
+
+#: deathforth/events/finale/epilogue-check.df:216
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "One-two... one-two... I'm brutal and ruthless!"
+msgstr "원투... 원투... 난 잔혹하고 무자비하다!"
+
+#: deathforth/events/finale/epilogue-check.df:217
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Knowledge triumphs again! I rule."
+msgstr "지식이 또 이겼다! 내가 최고."
+
+#: deathforth/events/finale/epilogue-check.df:218
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I need more cat food!"
+msgstr "고양이 사료가 더 필요해!"
+
+#: deathforth/events/finale/epilogue-check.df:219
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm going to need some stylish winter clothes..."
+msgstr "멋진 겨울옷이 좀 필요하겠는데..."
+
+#: deathforth/events/finale/epilogue-check.df:220
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "What an enchanting land!"
+msgstr "정말 매혹적인 땅이군!"
+
+#: deathforth/events/finale/epilogue-check.df:221
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "That was easy! Rollerderby's more dangerous."
+msgstr "쉬웠어! 롤러 더비가 더 위험해."
+
+#: deathforth/events/finale/epilogue-check.df:223
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I never believed I'd make it!"
+msgstr "내가 해낼 줄은 꿈에도 몰랐어!"
+
+#: deathforth/events/finale/epilogue-check.df:224
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Hhhhheh I'll be running this place in a week, tops."
+msgstr "흐흐흐흣 일주일 안에 여기를 내가 굴리게 될 거다."
+
+#: deathforth/events/finale/epilogue-check.df:226
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "AM I FINALLY TOO SWOLE?"
+msgstr "나 드디어 너무 우람해진 건가?"
+
+#: deathforth/events/finale/epilogue-check.df:227
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Yes!"
+msgstr "좋아!"
+
+#: deathforth/events/finale/epilogue-check.df:228
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "gobble gobble"
+msgstr "꾸룩 꾸룩"
+
+#: deathforth/events/finale/epilogue-check.df:229
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HA! TIME FOR A NEW ADVENTURE!"
+msgstr "하! 새로운 모험의 시간이다!"
+
+#: deathforth/events/finale/epilogue-check.df:230
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "This is my victory!"
+msgstr "이건 나의 승리다!"
+
+#: deathforth/events/finale/epilogue-check.df:231
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I FREAKING HATE MONDAYS!"
+msgstr "월요일 진짜 싫어!"
+
+#: deathforth/events/finale/epilogue-check.df:232
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Ooo! Never forget me! Oooooo!"
+msgstr "우우! 날 잊지 마! 우우우우!"
+
+#: deathforth/events/finale/epilogue-check.df:233
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "NEIGH!"
+msgstr "히히힝!"
+
+#: deathforth/events/finale/epilogue-check.df:234
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "EEEEEEEEEEEEEEEEE!"
+msgstr "이이이이이이이이이이이이이이이이이!"
+
+#: deathforth/events/finale/epilogue-check.df:235
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "thankyouverymuch"
+msgstr "땡큐베리머치"
+
+#: deathforth/events/finale/epilogue-check.df:236
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "We really.... cleaned up!"
+msgstr "우리 진짜.... 싹 쓸어 담았네!"
+
+#: deathforth/events/finale/epilogue-check.df:237
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm a mercenary.... a mercenary for hire."
+msgstr "난 용병이다.... 돈 받고 일하는 용병."
+
+#: deathforth/events/finale/epilogue-check.df:239
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Half-Life 3 is NOT coming out, sorry."
+msgstr "하프라이프 3는 안 나와, 미안."
+
+#: deathforth/events/finale/epilogue-check.df:240
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HYAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!"
+msgstr "히야아아아아아아아아아아아아아악!"
+
+#: deathforth/events/finale/epilogue-check.df:241
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "fart"
+msgstr "방귀"
+
+#: deathforth/events/finale/epilogue-check.df:242
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Abracadabra, nerds!"
+msgstr "수리수리마수리, 찐따들아!"

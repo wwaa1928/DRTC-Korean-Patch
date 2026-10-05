@@ -1,0 +1,2321 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/inner/gymloc.df:33
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " hears something in "
+msgstr "는 들었다. "
+
+#: deathforth/events/inner/gymloc.df:33
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " body make a funny snapping sound."
+msgstr " 몸에서 뭔가 툭 끊어지는 웃긴 소리를."
+
+#: deathforth/events/inner/gymloc.df:37
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " was disappointed with the workout. "
+msgstr "은(는) 운동이 실망스러웠다. "
+
+#: deathforth/events/inner/gymloc.df:37
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " will have to push "
+msgstr "는 앞으로 "
+
+#: deathforth/events/inner/gymloc.df:37
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "self more in the future."
+msgstr " 자신을 더 몰아붙여야겠다."
+
+#: deathforth/events/inner/gymloc.df:39
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+" makes a lot of strained grunting noises as that bar gets lifted. What a "
+"workout!"
+msgstr "는 바벨을 들어 올리며 힘겨운 신음 소리를 잔뜩 낸다. 대단한 운동이다!"
+
+#: deathforth/events/inner/gymloc.df:42
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " attempts to lift the ridiculously overloaded barbell. "
+msgstr "은(는) 터무니없이 무거운 바벨을 들어 보려 한다. "
+
+#: deathforth/events/inner/gymloc.df:42
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"\r\n"
+"\tIF THE BAR AIN'T BENDING YOU'RE JUST PRETENDING"
+msgstr ""
+"\r\n"
+"\t봉이 안 휘면 그냥 하는 척이다"
+
+#: deathforth/events/inner/gymloc.df:43
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+" \r\n"
+"\t-- Ancient Bodybuilder Wisdom"
+msgstr ""
+" \r\n"
+"\t-- 고대 보디빌더의 지혜"
+
+#: deathforth/events/inner/gymloc.df:46
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " lifts it, though "
+msgstr "는 들어 올리긴 하지만, "
+
+#: deathforth/events/inner/gymloc.df:46
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " eyes almost pop out of "
+msgstr " 눈알이 튀어나올 뻔한다. 그것도 "
+
+#: deathforth/events/inner/gymloc.df:46
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " head."
+msgstr " 머리에서."
+
+#: deathforth/events/inner/gymloc.df:49
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Trying to lift that was a catastrophically bad idea! "
+msgstr "저걸 들려고 한 건 재앙급으로 나쁜 생각이었다! "
+
+#: deathforth/events/inner/gymloc.df:49
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " feels something in "
+msgstr "은(는) 느낀다. "
+
+#: deathforth/events/inner/gymloc.df:49
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " body explode."
+msgstr " 몸속에서 뭔가 터지는 걸."
+
+#: deathforth/events/inner/gymloc.df:56
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "I.T.B.A.B.Y.J.P."
+msgstr "I.T.B.A.B.Y.J.P."
+
+#: deathforth/events/inner/gymloc.df:58
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"There's a fully loaded olympic weight set here. The amount of weight on it "
+"can be adjusted down to a less hernia-causing amount."
+msgstr "올림픽 역도 세트가 무게까지 꽉 채워져 있다. 탈장이 덜 날 만큼 무게를 줄일 수 있다."
+
+#: deathforth/events/inner/gymloc.df:60
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"Unfortunately, olympic weightlifting really isn't designed to work with "
+msgstr "안타깝게도 올림픽 역도는 이런 몸에 맞게 설계되지 않았다: "
+
+#: deathforth/events/inner/gymloc.df:60 deathforth/events/inner/gymloc.df:121
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "'s body."
+msgstr "의 몸."
+
+#: deathforth/events/inner/gymloc.df:63 deathforth/events/inner/gymloc.df:127
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"With no one nearby to watch out for zombies, it might be dangerous to get a "
+"workout in."
+msgstr "좀비를 감시해 줄 사람이 근처에 없으니, 운동하다가 위험해질 수 있다."
+
+#: deathforth/events/inner/gymloc.df:65
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " considers taking a break to get some strength training in as "
+msgstr "은(는) 지켜 주는 동료가 있으니 잠깐 근력 운동을 할까 고민한다. "
+
+#: deathforth/events/inner/gymloc.df:65 deathforth/events/inner/gymloc.df:129
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " is guarded."
+msgstr "도 안전하다."
+
+#: deathforth/events/inner/gymloc.df:67
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Lift Light Weight"
+msgstr "가볍게 든다"
+
+#: deathforth/events/inner/gymloc.df:68
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Lift Heavy Weight"
+msgstr "무겁게 든다"
+
+#: deathforth/events/inner/gymloc.df:69
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Lift Massive Weight"
+msgstr "어마어마하게 든다"
+
+#: deathforth/events/inner/gymloc.df:70 deathforth/events/inner/gymloc.df:134
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Leave it for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/inner/gymloc.df:74
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " dies on the exercise bike from the sheer exertion."
+msgstr "은(는) 실내 자전거를 타다가 너무 무리해서 죽는다."
+
+#: deathforth/events/inner/gymloc.df:76
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "An hour passed during that exercise session."
+msgstr "운동하는 사이 한 시간이 지났다."
+
+#: deathforth/events/inner/gymloc.df:79
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " had to fend off zombies while cycling. Watch out!"
+msgstr "는 자전거를 타며 좀비를 막아야 했다. 조심해!"
+
+#: deathforth/events/inner/gymloc.df:84 deathforth/events/inner/gymloc.df:94
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " sets the stationary cycle to "
+msgstr "은(는) 실내 자전거를 이 모드로 설정한다: "
+
+#: deathforth/events/inner/gymloc.df:84
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "PAVED ROAD ON THE MOON"
+msgstr "달 위의 포장도로"
+
+#: deathforth/events/inner/gymloc.df:84
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " and starts moving "
+msgstr " 그리고 움직이기 시작한다: "
+
+#: deathforth/events/inner/gymloc.df:84 deathforth/events/inner/gymloc.df:94
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " legs."
+msgstr " 다리를."
+
+#: deathforth/events/inner/gymloc.df:86
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "It's good exercise for "
+msgstr "좋은 운동이 된다. "
+
+#: deathforth/events/inner/gymloc.df:86
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ", due to being very out of shape."
+msgstr "에게는. 몸이 많이 망가져 있었으니까."
+
+#: deathforth/events/inner/gymloc.df:89
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"The exercise wasn't really much better than just sitting around in the car."
+msgstr "앉아서 차 타고 있는 거랑 별 차이 없는 운동이었다."
+
+#: deathforth/events/inner/gymloc.df:94
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "UPHILL COUNTRY ROAD"
+msgstr "오르막 시골길"
+
+#: deathforth/events/inner/gymloc.df:94
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " and starts pumping "
+msgstr " 그리고 힘차게 굴리기 시작한다: "
+
+#: deathforth/events/inner/gymloc.df:96
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " manages to pull something in "
+msgstr "는 다리 근육을 삐끗한다: "
+
+#: deathforth/events/inner/gymloc.df:96
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " leg! The pain makes "
+msgstr " 다리! 너무 아파서 "
+
+#: deathforth/events/inner/gymloc.df:96
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " fall off the bike."
+msgstr "는 자전거에서 떨어진다."
+
+#: deathforth/events/inner/gymloc.df:100
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " didn't even break a sweat! It does nothing for improving "
+msgstr "은(는) 땀 한 방울 안 흘렸다! 체력 향상엔 아무 도움이 안 된다: "
+
+#: deathforth/events/inner/gymloc.df:100
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " fitness."
+msgstr " 체력."
+
+#: deathforth/events/inner/gymloc.df:102
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " produces a whole river of sweat. What a workout!"
+msgstr "는 강물처럼 땀을 쏟는다. 대단한 운동이다!"
+
+#: deathforth/events/inner/gymloc.df:105
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " sets the cycle to "
+msgstr "은(는) 자전거를 이 모드로 설정한다: "
+
+#: deathforth/events/inner/gymloc.df:105
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "DEATH ROAD TO CANADA"
+msgstr "데스 로드 투 캐나다"
+
+#: deathforth/events/inner/gymloc.df:105
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " and starts straining "
+msgstr " 그리고 한계까지 굴린다: "
+
+#: deathforth/events/inner/gymloc.df:105
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " legs to their limit."
+msgstr " 다리를."
+
+#: deathforth/events/inner/gymloc.df:107
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " truly "
+msgstr "는 진정으로 "
+
+#: deathforth/events/inner/gymloc.df:107
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "FEELS THE BURN!"
+msgstr "근육이 불타는 걸 느낀다!"
+
+#: deathforth/events/inner/gymloc.df:110
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " doesn't last long before falling down from exhaustion. "
+msgstr "은(는) 얼마 못 가 기진맥진해서 쓰러진다. "
+
+#: deathforth/events/inner/gymloc.df:110
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " gasps and horks up an organ."
+msgstr "는 헐떡이다가 장기 하나를 토해 낸다."
+
+#: deathforth/events/inner/gymloc.df:117
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Cardiovascular Training"
+msgstr "유산소 훈련"
+
+#: deathforth/events/inner/gymloc.df:119
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"There's a deluxe UltraMegaFit brand stationary cycle here. Unlike "
+"treadmills, this works with the electricity cut off."
+msgstr "고급 울트라메가핏 브랜드 실내 자전거가 있다. 러닝머신과 달리 전기가 끊겨도 작동한다."
+
+#: deathforth/events/inner/gymloc.df:121
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Unfortunately, this device just isn't designed to work with "
+msgstr "안타깝게도 이 기구는 이런 몸에 맞게 설계되지 않았다: "
+
+#: deathforth/events/inner/gymloc.df:124
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Unfortunately, "
+msgstr "안타깝게도, "
+
+#: deathforth/events/inner/gymloc.df:124
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " does NOT do cardio!"
+msgstr "은(는) 유산소 운동은 절대 안 한다!"
+
+#: deathforth/events/inner/gymloc.df:129
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " considers taking a break to get some fitness training in as "
+msgstr "은(는) 지켜 주는 동료가 있으니 잠깐 체력 운동을 할까 고민한다. "
+
+#: deathforth/events/inner/gymloc.df:131
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Light Exercise"
+msgstr "가벼운 운동"
+
+#: deathforth/events/inner/gymloc.df:132
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Heavy Exercise"
+msgstr "힘든 운동"
+
+#: deathforth/events/inner/gymloc.df:133
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "INTENSE EXERCISE"
+msgstr "극한 운동"
+
+#: deathforth/events/inner/mansion.df:15
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "The ghost is "
+msgstr "유령은 "
+
+#: deathforth/events/inner/mansion.df:15
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "VERY SPOOKY"
+msgstr "엄청 무섭다"
+
+#: deathforth/events/inner/mansion.df:15
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " to "
+msgstr ", 특히 이 사람에게: "
+
+#: deathforth/events/inner/mansion.df:15
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "! It vanishes!"
+msgstr "! 유령이 사라진다!"
+
+#: deathforth/events/inner/mansion.df:20
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ""
+"Talking to a ghost is EXTREMELY spooky and is sure to be a morale hit, in "
+"addition to whatever else happens."
+msgstr "유령과 대화하는 건 엄청 무서운 일이라, 무슨 일이 일어나든 사기가 떨어질 게 분명하다."
+
+#: deathforth/events/inner/mansion.df:21
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "Ignore ghost for now"
+msgstr "일단 유령은 무시한다"
+
+#: deathforth/events/inner/mansion.df:26
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "The Ghost runs away! By that I mean it floats away real fast."
+msgstr "유령이 도망친다! 정확히는 엄청 빨리 둥둥 떠서 사라진다."
+
+#: deathforth/events/inner/mansion.df:27
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " is amused that "
+msgstr "은(는) 재밌어한다. "
+
+#: deathforth/events/inner/mansion.df:27
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " scared a ghost."
+msgstr "가 유령을 겁줬다는 게."
+
+#: deathforth/events/inner/mansion.df:32
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ""
+"The Ghost emits steam out of the sides of its head for a second, and then "
+msgstr "유령이 잠깐 머리 양옆에서 김을 뿜더니, "
+
+#: deathforth/events/inner/mansion.df:32
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "EXPLODES!"
+msgstr "폭발한다!"
+
+#: deathforth/events/inner/mansion.df:33
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " is hurt, but the blast infuses "
+msgstr "은(는) 다쳤지만, 폭발이 "
+
+#: deathforth/events/inner/mansion.df:33
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " with mysterious "
+msgstr "에게 신비한 힘을 불어넣는다: "
+
+#: deathforth/events/inner/mansion.df:33
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "GHOST ENERGY!"
+msgstr "유령 에너지!"
+
+#: deathforth/events/inner/mansion.df:39
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "This ghost rapidly alternates between trying to scare "
+msgstr "이 유령은 겁주려다가 수줍어하기를 정신없이 반복한다. 겁주려는 상대는 "
+
+#: deathforth/events/inner/mansion.df:39
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ", and being overwhelmed with shyness."
+msgstr "."
+
+#: deathforth/events/inner/mansion.df:40
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " talks to ghost about shyness"
+msgstr "이(가) 유령과 수줍음에 대해 이야기한다"
+
+#: deathforth/events/inner/mansion.df:41
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " kisses the ghost"
+msgstr "이(가) 유령에게 뽀뽀한다"
+
+#: deathforth/events/inner/mansion.df:45
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "CHOMP CHOMP CHOMP ALL DAY"
+msgstr "하루 종일 냠냠냠"
+
+#: deathforth/events/inner/mansion.df:46
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "The Ghost chomps down on "
+msgstr "유령이 유령 이빨로 깨문다: "
+
+#: deathforth/events/inner/mansion.df:46
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " with its ghost teeth! The paranormal pain toughens "
+msgstr "! 초자연적인 고통이 단련시킨다: "
+
+#: deathforth/events/inner/mansion.df:46
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " up!"
+msgstr "를!"
+
+#: deathforth/events/inner/mansion.df:51
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "It's a ghost! It has nice chompers."
+msgstr "유령이다! 이빨이 멋지다."
+
+#: deathforth/events/inner/mansion.df:52
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " talks to ghost about teeth"
+msgstr "이(가) 유령과 이빨에 대해 이야기한다"
+
+#: deathforth/events/inner/mansion.df:56
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "OF COURSE I'M SASSING YOU! GET SASSED!"
+msgstr "당연히 너한테 깐족대는 거지! 깐족거림이나 받아라!"
+
+#: deathforth/events/inner/mansion.df:57
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "The Ghost sasses "
+msgstr "유령이 깐족댄다. 대상은 "
+
+#: deathforth/events/inner/mansion.df:57
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ", big time!"
+msgstr ". 아주 제대로!"
+
+#: deathforth/events/inner/mansion.df:62
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "OF COURSE I'M FLEXING! I LOVE BEING STRONG!"
+msgstr "당연히 힘주는 거지! 난 강한 게 좋아!"
+
+#: deathforth/events/inner/mansion.df:63 deathforth/events/inner/mansion.df:95
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "The Ghost curses "
+msgstr "유령이 저주를 건다. 대상은 "
+
+#: deathforth/events/inner/mansion.df:63
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " ... with strength!"
+msgstr " ... 근력의 저주를!"
+
+#: deathforth/events/inner/mansion.df:68
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "Curse of Sass"
+msgstr "깐족의 저주"
+
+#: deathforth/events/inner/mansion.df:69
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ""
+"This ghost looks like it's flexing, or maybe it's making a really sassy "
+"gesture? It's hard to tell due to the ghost lacking a corporeal form."
+msgstr "이 유령은 힘을 주고 있는 것 같기도 하고, 아주 깐족대는 몸짓 같기도 하다? 유령이 실체가 없어서 구분하기 어렵다."
+
+#: deathforth/events/inner/mansion.df:70
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " asks ghost if it's flexing"
+msgstr "이(가) 유령에게 힘주는 거냐고 묻는다"
+
+#: deathforth/events/inner/mansion.df:71
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " asks if it's sassing "
+msgstr "이(가) 깐족대는 거냐고 묻는다: "
+
+#: deathforth/events/inner/mansion.df:76
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " farts on the ghost."
+msgstr "은(는) 유령에게 방귀를 뀐다."
+
+#: deathforth/events/inner/mansion.df:78
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " tells the ghost to"
+msgstr "은(는) 유령에게 말한다:"
+
+#: deathforth/events/inner/mansion.df:78
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " COOL IT."
+msgstr " 진정해."
+
+#: deathforth/events/inner/mansion.df:82
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ""
+"I HAVE NEVER HEARD SUCH PERFECTION!\r\n"
+"\t\tYOU HAVE LIFTED MY GHOST CURSE! NOW CHOOSE A GHOSTLY REWARD!"
+msgstr ""
+"이런 완벽한 말은 처음 들어 봐!\r\n"
+"\t\t내 유령 저주를 풀어 줬구나! 이제 유령의 보상을 골라라!"
+
+#: deathforth/events/inner/mansion.df:86
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ""
+"WHAT? YOU CAN'T TELL ME TO COOL IT!\r\n"
+"\t\tY... YOU'RE A NERD!"
+msgstr ""
+"뭐? 네가 나한테 진정하라고 할 수는 없어!\r\n"
+"\t\t너... 너 찐따야!"
+
+#: deathforth/events/inner/mansion.df:88
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "The Ghost disappears in an angry little puff of ghost smoke. "
+msgstr "유령이 작고 화난 유령 연기를 뿜으며 사라진다. "
+
+#: deathforth/events/inner/mansion.df:88
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " feels really smug about this."
+msgstr "은(는) 이 일로 무척 우쭐하다."
+
+#: deathforth/events/inner/mansion.df:94
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "UH, MAYBE YOU SHOULD COOL IT"
+msgstr "어, 너야말로 진정하는 게 좋겠는데"
+
+#: deathforth/events/inner/mansion.df:95
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " with the "
+msgstr ". 걸린 저주는 "
+
+#: deathforth/events/inner/mansion.df:95
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "Curse of Cool It!"
+msgstr "'진정해'의 저주!"
+
+#: deathforth/events/inner/mansion.df:96
+msgctxt "deathforth/events/inner/mansion.df"
+msgid "'s personality becomes very annoying!"
+msgstr "의 성격이 아주 짜증 나게 바뀐다!"
+
+#: deathforth/events/inner/mansion.df:101
+msgctxt "deathforth/events/inner/mansion.df"
+msgid ""
+"The ghost keeps waving its tongue around. It already seems like an annoying "
+"being."
+msgstr "유령이 혀를 계속 날름거린다. 이미 짜증 나는 존재 같다."
+
+#: deathforth/events/inner/mansion.df:103
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " tells ghost to 'Cool It'"
+msgstr "이(가) 유령에게 '진정해'라고 한다"
+
+#: deathforth/events/inner/mansion.df:105
+msgctxt "deathforth/events/inner/mansion.df"
+msgid " yells at ghost"
+msgstr "이(가) 유령에게 소리친다"
+
+#: deathforth/events/inner/region/beach.df:650
+msgctxt "deathforth/events/inner/region/beach.df"
+msgid "Inspired by Walton-On-The-Naze, England."
+msgstr "잉글랜드의 월턴온더네이즈에서 영감을 받았다."
+
+#: deathforth/events/inner/region/beach.df:691
+msgctxt "deathforth/events/inner/region/beach.df"
+msgid "YIPPEE!"
+msgstr "야호!"
+
+#: deathforth/events/inner/region/hmp.df:259
+msgctxt "deathforth/events/inner/region/hmp.df"
+msgid "We need keys to open this."
+msgstr "이걸 열려면 열쇠가 필요해."
+
+#: deathforth/events/inner/region/hmp.df:435
+msgctxt "deathforth/events/inner/region/hmp.df"
+msgid "CAMERAS DISABLED."
+msgstr "카메라 비활성화."
+
+#: deathforth/events/inner/region/hmp2.df:259
+msgctxt "deathforth/events/inner/region/hmp2.df"
+msgid "We need keys to open this."
+msgstr "이걸 열려면 열쇠가 필요해."
+
+#: deathforth/events/inner/region/hmp2.df:435
+msgctxt "deathforth/events/inner/region/hmp2.df"
+msgid "CAMERAS DISABLED."
+msgstr "카메라 비활성화."
+
+#: deathforth/events/inner/region/rpgfare.df:59
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "has an assortment of fiery spells!"
+msgstr "은(는) 온갖 불꽃 주문을 쓴다!"
+
+#: deathforth/events/inner/region/rpgfare.df:82
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "can dance on the head of a pin as well."
+msgstr "은(는) 바늘 끝 위에서도 춤출 수 있다."
+
+#: deathforth/events/inner/region/rpgfare.df:104
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"is ever so slightly accident-prone, which is not great for an explosives-"
+"wielder."
+msgstr "은(는) 아주 살짝 사고뭉치다. 폭발물 쓰는 사람한텐 별로 좋지 않다."
+
+#: deathforth/events/inner/region/rpgfare.df:120
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "is going to have an unpleasant time on the toilet."
+msgstr "은(는) 화장실에서 곤란한 시간을 보낼 예정이다."
+
+#: deathforth/events/inner/region/rpgfare.df:143
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "thinks they're in a Lord Of The Dinks remake."
+msgstr "은(는) 자기가 '반지의 얼간이' 리메이크 속에 있다고 생각한다."
+
+#: deathforth/events/inner/region/rpgfare.df:168
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "doesn't sleep so well due to the glow of their sword."
+msgstr "은(는) 자기 검에서 나오는 빛 때문에 잠을 잘 못 잔다."
+
+#: deathforth/events/inner/region/rpgfare.df:190
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "is really good at tossing grenades."
+msgstr "은(는) 수류탄을 정말 잘 던진다."
+
+#: deathforth/events/inner/region/rpgfare.df:213
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "is something similar to Oda Nobunaga, sometimes scarily so."
+msgstr "은(는) 오다 노부나가 비슷한 사람이다. 가끔은 무서울 정도로."
+
+#: deathforth/events/inner/region/rpgfare.df:234
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" puts the final piece of their armour on, only to find a part of it is "
+"REALLY chafing. Deus Vult! "
+msgstr "은(는) 갑옷의 마지막 조각을 입었는데, 한 부분이 엄청나게 쓸린다. 데우스 불트! "
+
+#: deathforth/events/inner/region/rpgfare.df:235
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "Don't let zombies get past your shield!"
+msgstr "좀비가 방패를 지나가지 못하게 해라!"
+
+#: deathforth/events/inner/region/rpgfare.df:240
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" heaves the katana into their hands. They nearly fall over from the weight. "
+"Time to make ZOMBO SALAD!"
+msgstr "은(는) 카타나를 두 손에 든다. 무게 때문에 넘어질 뻔한다. 좀보 샐러드를 만들 시간이다!"
+
+#: deathforth/events/inner/region/rpgfare.df:241
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "You can find your samurai sword in the trunk. Make sure to use it!"
+msgstr "사무라이 검은 트렁크에 있다. 꼭 써라!"
+
+#: deathforth/events/inner/region/rpgfare.df:246
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" becomes one with the way of the marksman, spinning their revolver and tying"
+" their coat with pleasure. It's highhhhh nooooon! "
+msgstr "은(는) 명사수의 길과 하나가 된다. 리볼버를 돌리고 코트 끈을 흐뭇하게 묶는다. 하아아아이 누우우운이다! "
+
+#: deathforth/events/inner/region/rpgfare.df:247
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"You can find your MAMBA and SLUG SHOTGUN in the trunk. Make sure to use "
+"them!"
+msgstr "맘바와 슬러그 산탄총은 트렁크에 있다. 꼭 써라!"
+
+#: deathforth/events/inner/region/rpgfare.df:254
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" twirls their bow around in their hands, before nearly dropping the bow on "
+"their foot. Go for the eyes! "
+msgstr "은(는) 활을 손에서 빙글빙글 돌리다가 발등에 떨어뜨릴 뻔한다. 눈을 노려라! "
+
+#: deathforth/events/inner/region/rpgfare.df:255
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "Juggle your bow and other weapons where necessary!"
+msgstr "필요하면 활과 다른 무기를 번갈아 써라!"
+
+#: deathforth/events/inner/region/rpgfare.df:260
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" silently recites a spell known for GREAT GLUTES under their breath. May "
+"your magic be potent, and your spells deadly! "
+msgstr "은(는) 숨죽여 '위대한 엉덩이'로 유명한 주문을 외운다. 그대의 마법은 강력하고, 주문은 치명적이기를! "
+
+#: deathforth/events/inner/region/rpgfare.df:261
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "Get trained up! Your weapons are powerful...but heavy."
+msgstr "훈련해서 키워라! 무기는 강력하지만... 무겁다."
+
+#: deathforth/events/inner/region/rpgfare.df:266
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" binds their weapon to their patron, who promptly rewards them with a "
+"massively inflated ego. Dolor! "
+msgstr "은(는) 무기를 후원자에게 묶는다. 후원자는 곧바로 엄청나게 부풀어 오른 자존심을 보상으로 준다. 돌로르! "
+
+#: deathforth/events/inner/region/rpgfare.df:267
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "You can find your hexblade sword in the trunk. Make sure to use it!"
+msgstr "헥스블레이드 검은 트렁크에 있다. 꼭 써라!"
+
+#: deathforth/events/inner/region/rpgfare.df:272
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" tinkers with the fuse of one of their bombs, only to realise it's a DUD. "
+"Blow em all to heck! "
+msgstr "은(는) 폭탄 하나의 도화선을 만지작거리다가 그게 불발탄이라는 걸 깨닫는다. 다 날려 버려라! "
+
+#: deathforth/events/inner/region/rpgfare.df:273
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"Don't be afraid to lob your dynamite everywhere! Your poleaxe is in the "
+"trunk."
+msgstr "다이너마이트를 사방에 던지는 걸 두려워하지 마라! 폴액스는 트렁크에 있다."
+
+#: deathforth/events/inner/region/rpgfare.df:280
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+" excitedly lights a handful of grenades, before realising this is a terrible"
+" idea and putting them out. Molon Labe! "
+msgstr "은(는) 신나서 수류탄 한 줌에 불을 붙였다가, 이게 끔찍한 생각이라는 걸 깨닫고 끈다. 몰론 라베! "
+
+#: deathforth/events/inner/region/rpgfare.df:281
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"Get those support stats increased to help your team! Your poleaxe is in the "
+"trunk."
+msgstr "지원 능력치를 올려서 일행을 도와라! 폴액스는 트렁크에 있다."
+
+#: deathforth/events/inner/region/rpgfare.df:289
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The Melee Class"
+msgstr "근접 클래스"
+
+#: deathforth/events/inner/region/rpgfare.df:293
+#: deathforth/events/inner/region/rpgfare.df:314
+#: deathforth/events/inner/region/rpgfare.df:335
+#: deathforth/events/inner/region/rpgfare.df:356
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"You have already picked a class for this character. Since character stats, "
+"perks and traits stack with the subclass bonuses, only 1 class is allowed "
+"per character per save."
+msgstr ""
+"이 캐릭터는 이미 클래스를 골랐다. 캐릭터 능력치, 특전, 특성이 서브클래스 보너스와 중첩되기 때문에, 저장마다 캐릭터당 클래스는 하나만"
+" 허용된다."
+
+#: deathforth/events/inner/region/rpgfare.df:296
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"The melee classes are generally tougher and receive bonuses to STR and FIT. "
+"They cannot shoot guns. Samurais start with a good sword that can crit, "
+"whereas the Knight starts with more health and a shield that can REPEL "
+"ZOMBIES in the direction you are facing/moving."
+msgstr ""
+"근접 클래스는 대체로 튼튼하고 근력과 체력 보너스를 받는다. 총은 쏠 수 없다. 사무라이는 치명타가 나는 좋은 검으로 시작하고, 기사는 "
+"체력이 더 많고 바라보거나 움직이는 방향으로 좀비를 밀쳐 내는 방패로 시작한다."
+
+#: deathforth/events/inner/region/rpgfare.df:299
+#: deathforth/events/inner/region/rpgfare.df:320
+#: deathforth/events/inner/region/rpgfare.df:341
+#: deathforth/events/inner/region/rpgfare.df:363
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"Your character's perk and trait setup means they are already complex. Due to"
+" this, some features of their perks or traits may be disabled by Archer, "
+"Bombardier or Grenadier."
+msgstr ""
+"이 캐릭터는 특전과 특성 구성이 이미 복잡하다. 그래서 궁수, 폭격수, 척탄병을 고르면 특전이나 특성의 일부 기능이 꺼질 수 있다."
+
+#: deathforth/events/inner/region/rpgfare.df:302
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The melee classes have FITNESS as their most important stat."
+msgstr "근접 클래스는 체력이 가장 중요한 능력치다."
+
+#: deathforth/events/inner/region/rpgfare.df:304
+#: deathforth/events/inner/region/rpgfare.df:325
+#: deathforth/events/inner/region/rpgfare.df:346
+#: deathforth/events/inner/region/rpgfare.df:368
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "No, thanks!"
+msgstr "됐어요!"
+
+#: deathforth/events/inner/region/rpgfare.df:305
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Knight]"
+msgstr "[기사 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:306
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Samurai]"
+msgstr "[사무라이 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:310
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The Ranger Class"
+msgstr "원거리 클래스"
+
+#: deathforth/events/inner/region/rpgfare.df:317
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"The ranged classes are reliable ways to deal with hordes. Marksman is ammo-"
+"dependent but powerful, and the only major source of SHOOTING. Archer is "
+"only STR/FIT dependent, but limited by their bow."
+msgstr ""
+"원거리 클래스는 좀비 떼를 상대하는 믿을 만한 방법이다. 명사수는 탄약에 의존하지만 강력하고, 사격 능력치를 올릴 유일한 주요 수단이다."
+" 궁수는 근력/체력에만 의존하지만, 활에 제약을 받는다."
+
+#: deathforth/events/inner/region/rpgfare.df:323
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The ranged classes have SHOOTING as their most important stat."
+msgstr "원거리 클래스는 사격이 가장 중요한 능력치다."
+
+#: deathforth/events/inner/region/rpgfare.df:326
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Marksman]"
+msgstr "[명사수 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:327
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Archer]"
+msgstr "[궁수 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:331
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The Mage Class"
+msgstr "마법 클래스"
+
+#: deathforth/events/inner/region/rpgfare.df:338
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"Magic classes can obliterate hordes but are fragile. Mages can cast "
+"fireballs, or chain deadly damage with scorching ray. Picking mage will "
+"likely replace most of your held weapons. Spellblades have excellent stats "
+"and even a bit of control, but must remain in melee range."
+msgstr ""
+"마법 클래스는 좀비 떼를 쓸어버릴 수 있지만 연약하다. 마법사는 파이어볼을 쏘거나, 작열 광선으로 치명적인 연쇄 피해를 줄 수 있다. "
+"마법사를 고르면 들고 있는 무기 대부분이 바뀔 가능성이 높다. 마검사는 능력치가 뛰어나고 약간의 제어력도 있지만, 근접 거리에 있어야 "
+"한다."
+
+#: deathforth/events/inner/region/rpgfare.df:344
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The magic classes have STRENGTH as their most important stat."
+msgstr "마법 클래스는 근력이 가장 중요한 능력치다."
+
+#: deathforth/events/inner/region/rpgfare.df:347
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Mage]"
+msgstr "[마법사 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:348
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Spellblade]"
+msgstr "[마검사 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:352
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The Bombardier Class"
+msgstr "폭격 클래스"
+
+#: deathforth/events/inner/region/rpgfare.df:359
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"The bombardier is a safe but limited explosive option. Bombardier bombs "
+"cause no self damage, whereas grenadier grenades are better but have self-"
+"damage. Grenadiers receive large bonuses to MED and MECH."
+msgstr ""
+"폭격수는 안전하지만 제한적인 폭발물 선택지다. 폭격수의 폭탄은 자신에게 피해를 주지 않고, 척탄병의 수류탄은 더 좋지만 자신도 다친다. "
+"척탄병은 의술과 기계에 큰 보너스를 받는다."
+
+#: deathforth/events/inner/region/rpgfare.df:360
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid ""
+"Both classes also receive a poleaxe for when they are not tossing bombs."
+msgstr "두 클래스 모두 폭탄을 던지지 않을 때 쓸 폴액스를 받는다."
+
+#: deathforth/events/inner/region/rpgfare.df:366
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "The bombard classes have MECH or MED as their most important stat."
+msgstr "폭격 클래스는 기계나 의술이 가장 중요한 능력치다."
+
+#: deathforth/events/inner/region/rpgfare.df:369
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Bombardier]"
+msgstr "[폭격수 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:370
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "[Pick The Grenadier]"
+msgstr "[척탄병 선택]"
+
+#: deathforth/events/inner/region/rpgfare.df:502
+msgctxt "deathforth/events/inner/region/rpgfare.df"
+msgid "Oh hey, free items."
+msgstr "오, 공짜 아이템이다."
+
+#: deathforth/events/inner/region/scepter-range.df:41
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " is raring to go!"
+msgstr "은(는) 출발할 준비가 됐다!"
+
+#: deathforth/events/inner/region/scepter-range.df:44
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t이 사람 자리를 만들려면 누구를 뺄까: "
+
+#: deathforth/events/inner/region/scepter-range.df:57
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Pick Your Jerks"
+msgstr "얼간이 고르기"
+
+#: deathforth/events/inner/region/scepter-range.df:61
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " is ready for a road trip!"
+msgstr "은(는) 여행 갈 준비가 됐다!"
+
+#: deathforth/events/inner/region/scepter-range.df:63
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "You've recruited enough jerks! The car is full!"
+msgstr "얼간이를 충분히 영입했다! 차가 꽉 찼다!"
+
+#: deathforth/events/inner/region/scepter-range.df:66
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+" claims to know you, but you swear you've never seen this person before..."
+msgstr "는 너희를 안다고 주장하지만, 너희는 이 사람을 본 적이 없다고 맹세할 수 있다..."
+
+#: deathforth/events/inner/region/scepter-range.df:68
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "TRAIT: "
+msgstr "특성: "
+
+#: deathforth/events/inner/region/scepter-range.df:69
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "  PERK: "
+msgstr "  특전: "
+
+#: deathforth/events/inner/region/scepter-range.df:72
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "You can recruit "
+msgstr "얼간이를 더 영입할 수 있다: "
+
+#: deathforth/events/inner/region/scepter-range.df:72
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " more jerks!"
+msgstr "명!"
+
+#: deathforth/events/inner/region/scepter-range.df:74
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Leave "
+msgstr "일단 "
+
+#: deathforth/events/inner/region/scepter-range.df:74
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " for now"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/events/inner/region/scepter-range.df:76
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Recruit "
+msgstr "영입: "
+
+#: deathforth/events/inner/region/scepter-range.df:147
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+" senses a strange surge of happiness. Maybe things really will be okay; this"
+" single thought gives them strength to carry on."
+msgstr "은(는) 이상한 행복감이 솟구치는 걸 느낀다. 어쩌면 정말 괜찮아질지도. 이 생각 하나가 계속 나아갈 힘을 준다."
+
+#: deathforth/events/inner/region/scepter-range.df:148
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Bonus Morale!!!"
+msgstr "보너스 사기!!!"
+
+#: deathforth/events/inner/region/scepter-range.df:156
+#: deathforth/events/inner/region/scepter-range.df:296
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "After all, why shouldn't I?"
+msgstr "나라고 왜 안 되겠어?"
+
+#: deathforth/events/inner/region/scepter-range.df:157
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Watching the pure joy on that little face was enough to permanently change "
+"the feelings of a team member. Who feels inspired by this small act?"
+msgstr ""
+"그 작은 얼굴에 떠오른 순수한 기쁨을 보는 것만으로도 일행 한 명의 마음이 영원히 바뀌었다. 이 작은 행동에 감동받은 사람은 누구일까?"
+
+#: deathforth/events/inner/region/scepter-range.df:171
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Unlocked: A variety of special traits!"
+msgstr "해금: 다양한 특수 특성!"
+
+#: deathforth/events/inner/region/scepter-range.df:172
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Unlocked: Max out a random stat!"
+msgstr "해금: 무작위 능력치 하나 최대치!"
+
+#: deathforth/events/inner/region/scepter-range.df:173
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Endless happiness! This character will never enter despair again!"
+msgstr "해금: 끝없는 행복! 이 캐릭터는 다시는 절망에 빠지지 않는다!"
+
+#: deathforth/events/inner/region/scepter-range.df:174
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Unlocked: Bodypumped! Your strength stat bonus has increased by 10!"
+msgstr "해금: 근육 펌핑! 근력 능력치 보너스가 10 증가했다!"
+
+#: deathforth/events/inner/region/scepter-range.df:175
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Elite! A sniper rifle has materialised in your trunk, and your max"
+" shooting stat has increased by 3!"
+msgstr "해금: 엘리트! 트렁크에 저격 소총이 나타났고, 최대 사격 능력치가 3 증가했다!"
+
+#: deathforth/events/inner/region/scepter-range.df:176
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Steel Skin! Your vitality has substantially increased, up to a "
+"maximum of 6!"
+msgstr "해금: 강철 피부! 생명력이 크게 증가했다. 최대 6까지!"
+
+#: deathforth/events/inner/region/scepter-range.df:182
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "VERY SPECIAL TRAIT COCKTAIL"
+msgstr "아주 특별한 특성 칵테일"
+
+#: deathforth/events/inner/region/scepter-range.df:183
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "RANDOM STAT MASSIVE BONUS"
+msgstr "무작위 능력치 대폭 보너스"
+
+#: deathforth/events/inner/region/scepter-range.df:184
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "NO MORE DESPAIR"
+msgstr "더는 절망 없음"
+
+#: deathforth/events/inner/region/scepter-range.df:185
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "GIGA-BUFF"
+msgstr "기가 근육"
+
+#: deathforth/events/inner/region/scepter-range.df:186
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "ELITE SNIPER"
+msgstr "엘리트 저격수"
+
+#: deathforth/events/inner/region/scepter-range.df:187
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "SUPER STEEL SKIN"
+msgstr "슈퍼 강철 피부"
+
+#: deathforth/events/inner/region/scepter-range.df:192
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "CRYSTAL SHIELD"
+msgstr "크리스탈 방패"
+
+#: deathforth/events/inner/region/scepter-range.df:193
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "RIGHTEOUS SMITE"
+msgstr "정의의 강타"
+
+#: deathforth/events/inner/region/scepter-range.df:194
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "HIGH CALIBRE ROUNDS"
+msgstr "고구경 탄환"
+
+#: deathforth/events/inner/region/scepter-range.df:195
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "MELEE MINIGUN"
+msgstr "근접 미니건"
+
+#: deathforth/events/inner/region/scepter-range.df:196
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "ECHO STRIKE"
+msgstr "메아리 일격"
+
+#: deathforth/events/inner/region/scepter-range.df:197
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "SUPERCRITTER"
+msgstr "슈퍼 크리터"
+
+#: deathforth/events/inner/region/scepter-range.df:203
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Crystal Shield! The shield protects against zombie grapples. "
+"Charge it by hitting stuff. Takes effect next mission."
+msgstr "해금: 크리스탈 방패! 방패가 좀비의 붙잡기를 막아 준다. 뭔가를 때려서 충전한다. 다음 임무부터 적용."
+
+#: deathforth/events/inner/region/scepter-range.df:204
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Righteous Smite! When at high morale, sometimes smite zombies on-"
+"hit for bonus damage! Damage scales with weapon and STR."
+msgstr "해금: 정의의 강타! 사기가 높을 때 가끔 좀비를 때리면 강타로 추가 피해를 준다! 피해는 무기와 근력에 비례."
+
+#: deathforth/events/inner/region/scepter-range.df:205
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: High Calibre Rounds! When firing single-shot firearms, your "
+"bullets hit much harder!"
+msgstr "해금: 고구경 탄환! 단발 총기를 쏠 때 총알이 훨씬 세게 맞는다!"
+
+#: deathforth/events/inner/region/scepter-range.df:206
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Melee Minigun! HIT, HIT, HIT! Every hit reduces the cooldown of "
+"the next."
+msgstr "해금: 근접 미니건! 때려, 때려, 때려! 한 번 맞힐 때마다 다음 공격의 재사용 대기시간이 줄어든다."
+
+#: deathforth/events/inner/region/scepter-range.df:207
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Echo Strike! Melee swings send forth a short-lived projection, "
+"which attacks again 0.5s later!"
+msgstr "해금: 메아리 일격! 근접 공격을 휘두르면 잠깐 존재하는 환영이 나가 0.5초 뒤에 다시 공격한다!"
+
+#: deathforth/events/inner/region/scepter-range.df:208
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Unlocked: Supercrits! Supercrits activate 35% of the time whilst attacking "
+"in melee."
+msgstr "해금: 슈퍼 크리! 근접 공격 중 35% 확률로 슈퍼 치명타가 발동한다."
+
+#: deathforth/events/inner/region/scepter-range.df:213
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''WOAOOAAHHHH? HNGGG??''"
+msgstr "''우와아아아? 흐으읍??''"
+
+#: deathforth/events/inner/region/scepter-range.df:214
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''WOWCHA''"
+msgstr "''와우차''"
+
+#: deathforth/events/inner/region/scepter-range.df:215
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''Oh hey this actually kinda cool.''"
+msgstr "''오 이거 진짜 좀 멋진데.''"
+
+#: deathforth/events/inner/region/scepter-range.df:216
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''GIVE ME BUR- oh okay I'll take this.''"
+msgstr "''버거 내놔- 아 알았어 이거 받을게.''"
+
+#: deathforth/events/inner/region/scepter-range.df:217
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''YOU CAN'T HAVE THIS SCEPTER COZ YOU'RE A DINKKK!!!''"
+msgstr "''넌 얼간이라서 이 홀 못 가져가!!!''"
+
+#: deathforth/events/inner/region/scepter-range.df:218
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''Now I can finally be like my favourite anime character!!!''"
+msgstr "''이제 드디어 최애 애니 캐릭터처럼 될 수 있어!!!''"
+
+#: deathforth/events/inner/region/scepter-range.df:219
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''Was I meant to swallow it whole?''"
+msgstr "''이거 통째로 삼키는 거였어?''"
+
+#: deathforth/events/inner/region/scepter-range.df:220
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''TAKEEEEE ONNNNNN MEEEEEEEE.''"
+msgstr "''테이크 오오온 미이이이.''"
+
+#: deathforth/events/inner/region/scepter-range.df:221
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''HNNNNGGGGGGGGGGG?''"
+msgstr "''흐으으으으으읍?''"
+
+#: deathforth/events/inner/region/scepter-range.df:222
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "''TRY THIS ONE FOR SIZE!''"
+msgstr "''이건 어떠냐!''"
+
+#: deathforth/events/inner/region/scepter-range.df:236
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Make sure you pay attention next time! Scepter stacking is disabled."
+msgstr "다음엔 잘 보고 고르라고! 홀 중첩은 꺼져 있다."
+
+#: deathforth/events/inner/region/scepter-range.df:241
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+" touches the scepter's crystal, causing it to radiate a gentle blue light "
+"before disappearing. They feel more powerful already."
+msgstr "은(는) 홀의 크리스탈을 만진다. 크리스탈이 부드러운 푸른빛을 내뿜더니 사라진다. 벌써 힘이 세진 것 같다."
+
+#: deathforth/events/inner/region/scepter-range.df:243
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Sycamore Scepter Powerup Unlocked!!!"
+msgstr "시카모어 홀 강화 해금!!!"
+
+#: deathforth/events/inner/region/scepter-range.df:245
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Sycamore Scepter already unlocked!"
+msgstr "시카모어 홀은 이미 해금됐다!"
+
+#: deathforth/events/inner/region/scepter-range.df:264
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "OH GREAT, NOW WHAT SYCAMORE?"
+msgstr "오 좋아, 이번엔 또 뭐야 시카모어?"
+
+#: deathforth/events/inner/region/scepter-range.df:265
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Against their better judgement, somebody touches the crystal. But who?"
+msgstr "말리는 마음을 무릅쓰고, 누군가 크리스탈을 만진다. 그런데 누가?"
+
+#: deathforth/events/inner/region/scepter-range.df:266
+#: deathforth/events/inner/region/scepter-range.df:298
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "FROM THIS SCEPTER YOU WILL RECIEVE..."
+msgstr "이 홀에서 받게 될 것은..."
+
+#: deathforth/events/inner/region/scepter-range.df:267
+#: deathforth/events/inner/region/scepter-range.df:299
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " OR "
+msgstr " 또는 "
+
+#: deathforth/events/inner/region/scepter-range.df:269
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Characters with complex perks/traits - like KENSAI or CHAIRMASTER - receive "
+msgstr "복잡한 특전/특성(KENSAI, CHAIRMASTER 등)을 가진 캐릭터는 이걸 받는다: "
+
+#: deathforth/events/inner/region/scepter-range.df:269
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "RED"
+msgstr "빨간색"
+
+#: deathforth/events/inner/region/scepter-range.df:269
+#: deathforth/events/inner/region/scepter-range.df:270
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " pool upgrades."
+msgstr " 풀 업그레이드."
+
+#: deathforth/events/inner/region/scepter-range.df:270
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"Characters with simpler perks/traits - like MEGABUFF or ATHLETE - receive "
+msgstr "단순한 특전/특성(MEGABUFF, ATHLETE 등)을 가진 캐릭터는 이걸 받는다: "
+
+#: deathforth/events/inner/region/scepter-range.df:270
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "BLUE"
+msgstr "파란색"
+
+#: deathforth/events/inner/region/scepter-range.df:271
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Characters highlighted in "
+msgstr "<EMPTY>"
+
+#: deathforth/events/inner/region/scepter-range.df:271
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "PURPLE"
+msgstr "보라색"
+
+#: deathforth/events/inner/region/scepter-range.df:271
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid " already possess a scepter upgrade and will not benefit from another."
+msgstr "(으)로 표시된 캐릭터는 이미 홀 업그레이드가 있어서 더 받아도 소용없다."
+
+#: deathforth/events/inner/region/scepter-range.df:297
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"These magical scepters appear to have manifested out of nowhere. Already, "
+"from the glow alone, it's clear that these are powerful objects. Perhaps "
+"somebody should touch them."
+msgstr "이 마법의 홀들은 난데없이 나타난 것 같다. 빛만 봐도 강력한 물건이라는 게 분명하다. 누군가 만져 봐야 하지 않을까."
+
+#: deathforth/events/inner/region/scepter-range.df:303
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Pick somebody to touch"
+msgstr "만질 사람 고르기"
+
+#: deathforth/events/inner/region/scepter-range.df:304
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Leave it be"
+msgstr "그냥 둔다"
+
+#: deathforth/events/inner/region/scepter-range.df:312
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid ""
+"There's a strange scepter laying on the floor. It gets tossed in with the "
+"other loot, for inspection afterwards."
+msgstr "바닥에 이상한 홀이 놓여 있다. 나중에 살펴보려고 다른 물자와 함께 챙긴다."
+
+#: deathforth/events/inner/region/scepter-range.df:406
+msgctxt "deathforth/events/inner/region/scepter-range.df"
+msgid "Make sure you pick your powerups before leaving."
+msgstr "떠나기 전에 강화를 꼭 골라라."
+
+#: deathforth/events/inner/region/swarmarcade.df:13
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid " smashes the prize machine open. "
+msgstr "은(는) 뽑기 기계를 부숴 연다. "
+
+#: deathforth/events/inner/region/swarmarcade.df:17
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid ""
+" stuffs all the gumballs into a sack. They are technically food if you eat a"
+" lot of them."
+msgstr "는 껌볼을 전부 자루에 쓸어 담는다. 많이 먹으면 엄밀히 말해 식량이다."
+
+#: deathforth/events/inner/region/swarmarcade.df:20
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid ""
+"The capsules contain rubber balls, tiny plastic novelty spiders, fake barf, "
+"and so on. Nice!"
+msgstr "캡슐 안에는 고무공, 작은 플라스틱 장난감 거미, 가짜 토사물 같은 게 들어 있다. 좋아!"
+
+#: deathforth/events/inner/region/swarmarcade.df:23
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid ""
+"One of the figurines in the capsules was an ULTRA-RARE LIMITED EDITION! "
+"Whoa! It's very inspiring."
+msgstr "캡슐 속 피규어 하나가 초희귀 한정판이었다! 우와! 아주 고무적이다."
+
+#: deathforth/events/inner/region/swarmarcade.df:26
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "The capsules are all full of MUTAGENIC OOZE that open and splatter on "
+msgstr "캡슐마다 돌연변이 점액이 가득해서, 열리자마자 튄다: "
+
+#: deathforth/events/inner/region/swarmarcade.df:27
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid ""
+"THIS OOZE IS A DISCONTINUED LIMITED EDITION! A COLLECTORS ITEM!!! WHOAAAAA!"
+msgstr "이 점액은 단종된 한정판이다! 수집품이야!!! 우와아아아!"
+
+#: deathforth/events/inner/region/swarmarcade.df:34
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid " collects the candy in the machine. It's "
+msgstr "은(는) 기계 안의 사탕을 챙긴다. "
+
+#: deathforth/events/inner/region/swarmarcade.df:34
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid " favorite!"
+msgstr " 최애 사탕이다!"
+
+#: deathforth/events/inner/region/swarmarcade.df:38
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid " takes one of the toy guns, and immediately accidentally shoots "
+msgstr "는 장난감 총 하나를 집더니 곧바로 실수로 쏜다: "
+
+#: deathforth/events/inner/region/swarmarcade.df:38
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid ""
+"self in the eye! Ouch!\r\n"
+"\t\t\tAn important lesson about firearms is learned."
+msgstr ""
+" 자신의 눈을! 아야!\r\n"
+"\t\t\t총기에 대한 중요한 교훈을 얻는다."
+
+#: deathforth/events/inner/region/swarmarcade.df:47
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "Gachapon!"
+msgstr "뽑기 기계!"
+
+#: deathforth/events/inner/region/swarmarcade.df:49
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid ""
+" finds an unbroken prize machine. You'd use to put in a quarter and get "
+"something. Now it's more convenient to just smash it."
+msgstr "은(는) 멀쩡한 뽑기 기계를 발견한다. 예전엔 동전을 넣고 뭔가를 뽑았겠지만, 지금은 그냥 부수는 게 더 편하다."
+
+#: deathforth/events/inner/region/swarmarcade.df:52
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "The machine is full of gumballs."
+msgstr "기계 안에 껌볼이 가득하다."
+
+#: deathforth/events/inner/region/swarmarcade.df:53
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "It contains little capsules full of cheap toys."
+msgstr "싸구려 장난감이 든 작은 캡슐이 들어 있다."
+
+#: deathforth/events/inner/region/swarmarcade.df:54
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "The prizes are capsules with small figurines."
+msgstr "경품은 작은 피규어가 든 캡슐이다."
+
+#: deathforth/events/inner/region/swarmarcade.df:55
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "The machine has capsules filled with green fluid."
+msgstr "기계에 초록색 액체가 든 캡슐이 있다."
+
+#: deathforth/events/inner/region/swarmarcade.df:56
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "The machine is over half empty, but contains candy."
+msgstr "기계는 반 넘게 비었지만, 사탕이 들어 있다."
+
+#: deathforth/events/inner/region/swarmarcade.df:57
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "It's full of capsules housing tiny toy guns."
+msgstr "작은 장난감 총이 든 캡슐로 가득하다."
+
+#: deathforth/events/inner/region/swarmarcade.df:60
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "Smash it open!"
+msgstr "부숴서 연다!"
+
+#: deathforth/events/inner/region/swarmarcade.df:61
+msgctxt "deathforth/events/inner/region/swarmarcade.df"
+msgid "Leave it alone"
+msgstr "그냥 둔다"
+
+#: deathforth/events/inner/shoploc.df:8
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "HUNKY STUD"
+msgstr "섹시 훈남"
+
+#: deathforth/events/inner/shoploc.df:9
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "ULTRA BABE"
+msgstr "울트라 미녀"
+
+#: deathforth/events/inner/shoploc.df:10
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "DATE HAVER"
+msgstr "연애 고수"
+
+#: deathforth/events/inner/shoploc.df:11
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "POWER WAIF"
+msgstr "파워 청순"
+
+#: deathforth/events/inner/shoploc.df:12
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "HANDSOME LAD"
+msgstr "잘생긴 청년"
+
+#: deathforth/events/inner/shoploc.df:13
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "CASANOVA"
+msgstr "카사노바"
+
+#: deathforth/events/inner/shoploc.df:14
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "CLEOPATRA"
+msgstr "클레오파트라"
+
+#: deathforth/events/inner/shoploc.df:20
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "FART BUTT"
+msgstr "방귀 엉덩이"
+
+#: deathforth/events/inner/shoploc.df:21
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "ICEY WIENER"
+msgstr "얼음 소시지"
+
+#: deathforth/events/inner/shoploc.df:22
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "SMELLY JERK"
+msgstr "냄새나는 얼간이"
+
+#: deathforth/events/inner/shoploc.df:23
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "DINGUS"
+msgstr "멍청이"
+
+#: deathforth/events/inner/shoploc.df:24
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "COLD FISH"
+msgstr "냉혈한"
+
+#: deathforth/events/inner/shoploc.df:25
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "STINK DUDE"
+msgstr "냄새 대장"
+
+#: deathforth/events/inner/shoploc.df:26
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "FUTURE SKELETON"
+msgstr "미래의 해골"
+
+#: deathforth/events/inner/shoploc.df:40
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "'s Love Tester rating: "
+msgstr "의 러브 테스터 평가: "
+
+#: deathforth/events/inner/shoploc.df:42
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " feels oddly flattered by this!"
+msgstr "은(는) 이상하게 우쭐해진다!"
+
+#: deathforth/events/inner/shoploc.df:44
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+"The Love Tester makes a terrible grinding noise. Something in it must have "
+"broken."
+msgstr "러브 테스터가 끔찍하게 갈리는 소리를 낸다. 안에서 뭔가 부서진 게 틀림없다."
+
+#: deathforth/events/inner/shoploc.df:48
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " ignores "
+msgstr "은(는) 참는다: "
+
+#: deathforth/events/inner/shoploc.df:48
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " strong impulse to smash the machine."
+msgstr " 충동, 기계를 부숴 버리고 싶은 강렬한 충동을."
+
+#: deathforth/events/inner/shoploc.df:51
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " smashes the machine until it stops working!"
+msgstr "은(는) 기계가 멈출 때까지 부숴 버린다!"
+
+#: deathforth/events/inner/shoploc.df:57
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " laughs this off, but a part of "
+msgstr "은(는) 웃어넘기지만, "
+
+#: deathforth/events/inner/shoploc.df:57
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " dies this day."
+msgstr "의 일부는 오늘 죽었다."
+
+#: deathforth/events/inner/shoploc.df:59
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " is infuriated by this humiliation!"
+msgstr "은(는) 이 굴욕에 격분한다!"
+
+#: deathforth/events/inner/shoploc.df:68
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "The Love Tester"
+msgstr "러브 테스터"
+
+#: deathforth/events/inner/shoploc.df:70
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+"It's an old fashioned Love Tester machine! \r\n"
+"\tWill this reveal HIDDEN TRUTHS about "
+msgstr ""
+"옛날식 러브 테스터 기계다! \r\n"
+"\t이게 숨겨진 진실을 밝혀낼까? 대상은 "
+
+#: deathforth/events/inner/shoploc.df:73
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "This wasn't designed with "
+msgstr "이 기계는 이런 존재를 위해 만든 게 아니다: "
+
+#: deathforth/events/inner/shoploc.df:73
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+" in mind. Yet another example of human and more-or-less human favoritism."
+msgstr ". 인간과, 대충 인간 비슷한 존재만 편애하는 또 하나의 사례다."
+
+#: deathforth/events/inner/shoploc.df:75
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "Leave it for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/inner/shoploc.df:76
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ": Use Love Tester"
+msgstr ": 러브 테스터 사용"
+
+#: deathforth/events/inner/shoploc.df:87
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "NOW PLAYING: ZOMBONITA BEACH"
+msgstr "지금 재생 중: 좀보니타 비치"
+
+#: deathforth/events/inner/shoploc.df:92
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "MUSIC OFF!"
+msgstr "음악 끔!"
+
+#: deathforth/events/inner/shoploc.df:503
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+" spends an hour reading through the book. It contains many pictures of "
+"famous martial artists, anatomically wrong diagrams and vague idioms. "
+msgstr "은(는) 한 시간 동안 책을 읽는다. 유명한 무술가 사진, 해부학적으로 틀린 도해, 모호한 격언이 잔뜩 있다. "
+
+#: deathforth/events/inner/shoploc.df:503
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " absorbs all of this."
+msgstr "은(는) 이 모든 걸 흡수한다."
+
+#: deathforth/events/inner/shoploc.df:506
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+" has quite literally nothing to learn from the book. They are already a "
+"martial arts master."
+msgstr "은(는) 이 책에서 배울 게 말 그대로 하나도 없다. 이미 무술의 달인이다."
+
+#: deathforth/events/inner/shoploc.df:507
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " feels extremely smug about this!"
+msgstr "은(는) 이 일로 엄청 우쭐하다!"
+
+#: deathforth/events/inner/shoploc.df:517
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " has learnt tai-chi!"
+msgstr "은(는) 태극권을 익혔다!"
+
+#: deathforth/events/inner/shoploc.df:526
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+" knew most of this already, but gets some good ideas for practice exercises."
+msgstr "은(는) 대부분 이미 알던 내용이지만, 연습 방법에 대한 좋은 아이디어를 얻는다."
+
+#: deathforth/events/inner/shoploc.df:531
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid ""
+" was already a martial arts expert, but the book gives them some new ideas!"
+msgstr "은(는) 이미 무술 전문가였지만, 책에서 새 아이디어를 얻는다!"
+
+#: deathforth/events/inner/shoploc.df:532
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " has learnt DINKJITSU!"
+msgstr "은(는) 얼간이주짓수를 익혔다!"
+
+#: deathforth/events/inner/shoploc.df:536
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "An hour passed during that impromptu reading session."
+msgstr "즉흥 독서를 하는 사이 한 시간이 지났다."
+
+#: deathforth/events/inner/shoploc.df:546
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "Who should read the martial arts manual?"
+msgstr "누가 무술 교본을 읽을까?"
+
+#: deathforth/events/inner/shoploc.df:551
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "TAI CHI FOR YOU AND ME"
+msgstr "너와 나를 위한 태극권"
+
+#: deathforth/events/inner/shoploc.df:552
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "JUDO SO YOU KNOW"
+msgstr "유도는 알고 하자"
+
+#: deathforth/events/inner/shoploc.df:553
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "HIGH CHOPS FOR MUTTON CHOPS"
+msgstr "구레나룻을 위한 하이 촙"
+
+#: deathforth/events/inner/shoploc.df:554
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "ONE INCH PINCH"
+msgstr "원 인치 꼬집기"
+
+#: deathforth/events/inner/shoploc.df:555
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "RUNNING AWAY VERY BRAVELY"
+msgstr "아주 용감하게 도망치기"
+
+#: deathforth/events/inner/shoploc.df:560
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "JUDO IN THE STUDIO"
+msgstr "스튜디오 속 유도"
+
+#: deathforth/events/inner/shoploc.df:562
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "Amidst all the mats and phony black belts, "
+msgstr "매트와 가짜 검은 띠들 사이에서, "
+
+#: deathforth/events/inner/shoploc.df:562
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid " finds a self-help guide for martial arts."
+msgstr "은(는) 무술 자기 계발서를 발견한다."
+
+#: deathforth/events/inner/shoploc.df:563
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "The book's title is: "
+msgstr "책 제목: "
+
+#: deathforth/events/inner/shoploc.df:564
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "Who should read it?"
+msgstr "누가 읽을까?"
+
+#: deathforth/events/inner/shoploc.df:566
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "Pick somebody to read"
+msgstr "읽을 사람 고르기"
+
+#: deathforth/events/inner/shoploc.df:568
+msgctxt "deathforth/events/inner/shoploc.df"
+msgid "Leave it"
+msgstr "둔다"
+
+#: deathforth/events/locationlogic.df:43
+#: deathforth/events/locationlogic.df:137
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Empty"
+msgstr "없음"
+
+#: deathforth/events/locationlogic.df:44
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Sparse"
+msgstr "드문드문"
+
+#: deathforth/events/locationlogic.df:45
+#: deathforth/events/locationlogic.df:138
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Mild"
+msgstr "약간"
+
+#: deathforth/events/locationlogic.df:46
+#: deathforth/events/locationlogic.df:139
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Moderate"
+msgstr "보통"
+
+#: deathforth/events/locationlogic.df:47
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Thick"
+msgstr "빽빽"
+
+#: deathforth/events/locationlogic.df:48
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Thick"
+msgstr "아주 빽빽"
+
+#: deathforth/events/locationlogic.df:49
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Thick!"
+msgstr "아주 빽빽!"
+
+#: deathforth/events/locationlogic.df:50
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Thick!!"
+msgstr "아주 빽빽!!"
+
+#: deathforth/events/locationlogic.df:51
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Thick!!!"
+msgstr "아주 빽빽!!!"
+
+#: deathforth/events/locationlogic.df:52
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Sardine Packed"
+msgstr "정어리 통조림"
+
+#: deathforth/events/locationlogic.df:53
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Sardine Packed!"
+msgstr "정어리 통조림!"
+
+#: deathforth/events/locationlogic.df:54
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Sardine Packed!!"
+msgstr "정어리 통조림!!"
+
+#: deathforth/events/locationlogic.df:55
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Sardine Packed!!!"
+msgstr "정어리 통조림!!!"
+
+#: deathforth/events/locationlogic.df:56
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Death Swarm"
+msgstr "죽음의 떼"
+
+#: deathforth/events/locationlogic.df:57
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Death Swarm!"
+msgstr "죽음의 떼!"
+
+#: deathforth/events/locationlogic.df:58
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Death Swarm!!"
+msgstr "죽음의 떼!!"
+
+#: deathforth/events/locationlogic.df:59
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Death Swarm!!!"
+msgstr "죽음의 떼!!!"
+
+#: deathforth/events/locationlogic.df:60
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Impossible"
+msgstr "불가능"
+
+#: deathforth/events/locationlogic.df:61
+msgctxt "deathforth/events/locationlogic.df"
+msgid "NEARLY SOLID"
+msgstr "거의 꽉 막힘"
+
+#: deathforth/events/locationlogic.df:62
+msgctxt "deathforth/events/locationlogic.df"
+msgid "COMPLETELY SOLID??!"
+msgstr "완전히 꽉 막힘??!"
+
+#: deathforth/events/locationlogic.df:66
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Midnight"
+msgstr "자정"
+
+#: deathforth/events/locationlogic.df:67
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Before Dawn"
+msgstr "새벽 전"
+
+#: deathforth/events/locationlogic.df:68
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Daybreak"
+msgstr "동틀 녘"
+
+#: deathforth/events/locationlogic.df:69
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Morning"
+msgstr "아침"
+
+#: deathforth/events/locationlogic.df:70
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Late Morning"
+msgstr "늦은 아침"
+
+#: deathforth/events/locationlogic.df:71
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Noon"
+msgstr "정오"
+
+#: deathforth/events/locationlogic.df:72
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Near Noon"
+msgstr "정오 무렵"
+
+#: deathforth/events/locationlogic.df:73
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Afternoon"
+msgstr "오후"
+
+#: deathforth/events/locationlogic.df:74
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Late Afternoon"
+msgstr "늦은 오후"
+
+#: deathforth/events/locationlogic.df:75
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Near Sunset"
+msgstr "해 질 녘"
+
+#: deathforth/events/locationlogic.df:76
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Nightfall"
+msgstr "해 진 뒤"
+
+#: deathforth/events/locationlogic.df:77
+msgctxt "deathforth/events/locationlogic.df"
+msgid "After Dark"
+msgstr "어두워진 뒤"
+
+#: deathforth/events/locationlogic.df:78
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Late Night"
+msgstr "깊은 밤"
+
+#: deathforth/events/locationlogic.df:79
+msgctxt "deathforth/events/locationlogic.df"
+msgid "TIME TO BUY A NEW WATCH"
+msgstr "새 시계 살 때가 됐다"
+
+#: deathforth/events/locationlogic.df:83
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Sluggish"
+msgstr "굼뜸"
+
+#: deathforth/events/locationlogic.df:84
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Calm"
+msgstr "차분"
+
+#: deathforth/events/locationlogic.df:85
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Irritated"
+msgstr "짜증 남"
+
+#: deathforth/events/locationlogic.df:86
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Hunting"
+msgstr "사냥 중"
+
+#: deathforth/events/locationlogic.df:87
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Mega-Cheesed"
+msgstr "메가 치즈 폭발"
+
+#: deathforth/events/locationlogic.df:88
+msgctxt "deathforth/events/locationlogic.df"
+msgid "DIE!!!"
+msgstr "죽어!!!"
+
+#: deathforth/events/locationlogic.df:92
+#: deathforth/events/locationlogic.df:109
+msgctxt "deathforth/events/locationlogic.df"
+msgid ""
+"Your zombie forecast is:\r\n"
+"\t\tSWARM SIZE: "
+msgstr ""
+"좀비 예보:\r\n"
+"\t\t떼 규모: "
+
+#: deathforth/events/locationlogic.df:93
+msgctxt "deathforth/events/locationlogic.df"
+msgid ""
+"\r\n"
+"\t\tAGGRESSION: "
+msgstr ""
+"\r\n"
+"\t\t공격성: "
+
+#: deathforth/events/locationlogic.df:94
+#: deathforth/events/locationlogic.df:110
+#: deathforth/events/locationlogic.df:185
+msgctxt "deathforth/events/locationlogic.df"
+msgid ""
+"\r\n"
+"\t\tCURRENT TIME: "
+msgstr ""
+"\r\n"
+"\t\t현재 시각: "
+
+#: deathforth/events/locationlogic.df:110
+msgctxt "deathforth/events/locationlogic.df"
+msgid "   AGGRESSION: "
+msgstr "   공격성: "
+
+#: deathforth/events/locationlogic.df:140
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Large"
+msgstr "큼"
+
+#: deathforth/events/locationlogic.df:141
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Large"
+msgstr "아주 큼"
+
+#: deathforth/events/locationlogic.df:142
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Large!"
+msgstr "아주 큼!"
+
+#: deathforth/events/locationlogic.df:143
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Large!!"
+msgstr "아주 큼!!"
+
+#: deathforth/events/locationlogic.df:144
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Very Large!!!"
+msgstr "아주 큼!!!"
+
+#: deathforth/events/locationlogic.df:145
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Massive"
+msgstr "거대"
+
+#: deathforth/events/locationlogic.df:146
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Massive!"
+msgstr "거대!"
+
+#: deathforth/events/locationlogic.df:147
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Massive!!"
+msgstr "거대!!"
+
+#: deathforth/events/locationlogic.df:148
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Massive!!!"
+msgstr "거대!!!"
+
+#: deathforth/events/locationlogic.df:149
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Overwhelming"
+msgstr "압도적"
+
+#: deathforth/events/locationlogic.df:150
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Overwhelming!"
+msgstr "압도적!"
+
+#: deathforth/events/locationlogic.df:151
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Overwhelming!!"
+msgstr "압도적!!"
+
+#: deathforth/events/locationlogic.df:152
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Overwhelming!!!"
+msgstr "압도적!!!"
+
+#: deathforth/events/locationlogic.df:153
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Undead Flood"
+msgstr "언데드 홍수"
+
+#: deathforth/events/locationlogic.df:154
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Undead Flood!"
+msgstr "언데드 홍수!"
+
+#: deathforth/events/locationlogic.df:155
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Undead Flood!!"
+msgstr "언데드 홍수!!"
+
+#: deathforth/events/locationlogic.df:156
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Undead Flood!!!"
+msgstr "언데드 홍수!!!"
+
+#: deathforth/events/locationlogic.df:157
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Army of Death"
+msgstr "죽음의 군대"
+
+#: deathforth/events/locationlogic.df:158
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Army of Death!"
+msgstr "죽음의 군대!"
+
+#: deathforth/events/locationlogic.df:159
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Army of Death!!"
+msgstr "죽음의 군대!!"
+
+#: deathforth/events/locationlogic.df:160
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Army of Death!!!"
+msgstr "죽음의 군대!!!"
+
+#: deathforth/events/locationlogic.df:161
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Army of Death!!!!"
+msgstr "죽음의 군대!!!!"
+
+#: deathforth/events/locationlogic.df:162
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Army of Death!!!!!"
+msgstr "죽음의 군대!!!!!"
+
+#: deathforth/events/locationlogic.df:163
+msgctxt "deathforth/events/locationlogic.df"
+msgid "NO HOPE"
+msgstr "희망 없음"
+
+#: deathforth/events/locationlogic.df:169
+#: deathforth/events/locationlogic.df:171
+#: deathforth/events/locationlogic.df:172
+msgctxt "deathforth/events/locationlogic.df"
+msgid " HOURS "
+msgstr "시간 "
+
+#: deathforth/events/locationlogic.df:170
+msgctxt "deathforth/events/locationlogic.df"
+msgid "1 HOUR"
+msgstr "1시간"
+
+#: deathforth/events/locationlogic.df:184
+msgctxt "deathforth/events/locationlogic.df"
+msgid "SIEGE ALERT! THERE'S NO ESCAPE!"
+msgstr "포위 경보! 도망칠 곳이 없다!"
+
+#: deathforth/events/locationlogic.df:184
+msgctxt "deathforth/events/locationlogic.df"
+msgid ""
+"\r\n"
+"\t\tHORDE SIZE: "
+msgstr ""
+"\r\n"
+"\t\t좀비 떼 규모: "
+
+#: deathforth/events/locationlogic.df:186
+msgctxt "deathforth/events/locationlogic.df"
+msgid ""
+"\r\n"
+"\t\tSIEGE LENGTH: "
+msgstr ""
+"\r\n"
+"\t\t포위 시간: "
+
+#: deathforth/events/locationlogic.df:211
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Drive to Another Location - "
+msgstr "다른 장소로 이동 - "
+
+#: deathforth/events/locationlogic.df:211
+msgctxt "deathforth/events/locationlogic.df"
+msgid " gas"
+msgstr " 기름"
+
+#: deathforth/events/locationlogic.df:215
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Ignore them"
+msgstr "무시한다"
+
+#: deathforth/events/locationlogic.df:216
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Leave them behind"
+msgstr "두고 간다"
+
+#: deathforth/events/locationlogic.df:217
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Leave them be"
+msgstr "내버려 둔다"
+
+#: deathforth/events/locationlogic.df:218
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Pass them by"
+msgstr "그냥 지나친다"
+
+#: deathforth/events/locationlogic.df:219
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Leave them"
+msgstr "놔둔다"
+
+#: deathforth/events/locationlogic.df:220
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Avoid them"
+msgstr "피해 간다"
+
+#: deathforth/events/locationlogic.df:221
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Drive past them"
+msgstr "차로 지나친다"
+
+#: deathforth/events/locationlogic.df:222
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Keep driving"
+msgstr "계속 달린다"
+
+#: deathforth/events/locationlogic.df:223
+msgctxt "deathforth/events/locationlogic.df"
+msgid "Keep driving past"
+msgstr "계속 지나쳐 간다"
+
+#: deathforth/events/moments/moment-example.df:8
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "There's just the slightest pang of guilt, but it passes."
+msgstr "아주 살짝 죄책감이 들지만, 금방 사라진다."
+
+#: deathforth/events/moments/moment-example.df:10
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " feels like "
+msgstr "은(는) 이 모든 게 "
+
+#: deathforth/events/moments/moment-example.df:10
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " is to blame for all of this."
+msgstr "의 탓이라고 느낀다."
+
+#: deathforth/events/moments/moment-example.df:17
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "Hooray!"
+msgstr "만세!"
+
+#: deathforth/events/moments/moment-example.df:20
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "Victory! "
+msgstr "승리! "
+
+#: deathforth/events/moments/moment-example.df:20
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " pats "
+msgstr "은(는) "
+
+#: deathforth/events/moments/moment-example.df:20
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "self on the back."
+msgstr " 자신의 등을 토닥인다."
+
+#: deathforth/events/moments/moment-example.df:22
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "Victory! Everyone cheers and pats "
+msgstr "승리! 모두가 환호하며 등을 토닥인다. 주인공은 "
+
+#: deathforth/events/moments/moment-example.df:22
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " on the back."
+msgstr "."
+
+#: deathforth/events/moments/moment-example.df:32
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "Nice one!"
+msgstr "잘했어!"
+
+#: deathforth/events/moments/moment-example.df:38
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " shakes "
+msgstr "은(는) "
+
+#: deathforth/events/moments/moment-example.df:38
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " head at "
+msgstr " 고개를 젓는다. 한심한 건 "
+
+#: deathforth/events/moments/moment-example.df:38
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "self."
+msgstr " 자신이다."
+
+#: deathforth/events/moments/moment-example.df:40
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " gives "
+msgstr "은(는) "
+
+#: deathforth/events/moments/moment-example.df:40
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " the stink eye."
+msgstr "을(를) 째려본다."
+
+#: deathforth/events/moments/moment-example.df:52
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "There's no one around to carry on the dream of Canada."
+msgstr "캐나다의 꿈을 이어 갈 사람이 아무도 없다."
+
+#: deathforth/events/moments/moment-example.df:55
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " is deeply affected by "
+msgstr "은(는) "
+
+#: deathforth/events/moments/moment-example.df:55
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "'s death."
+msgstr "의 죽음에 깊은 충격을 받는다."
+
+#: deathforth/events/moments/moment-example.df:120
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "There will be more hot dog eating contests in the future."
+msgstr "앞으로도 핫도그 먹기 대회는 또 있을 거다."
+
+#: deathforth/events/moments/moment-example.df:127
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "This could have been prevented!"
+msgstr "이건 막을 수 있었는데!"
+
+#: deathforth/events/moments/moment-example.df:130
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "Well, life goes on"
+msgstr "뭐, 삶은 계속되지"
+
+#: deathforth/events/moments/moment-example.df:135
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " explodes in a pulpy mess!"
+msgstr "은(는) 펑 터져 곤죽이 된다!"
+
+#: deathforth/events/moments/moment-example.df:138
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "Dang it"
+msgstr "젠장"
+
+#: deathforth/events/moments/moment-example.df:142
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " eats another 100 hot dogs!"
+msgstr "은(는) 핫도그 100개를 더 먹는다!"
+
+#: deathforth/events/moments/moment-example.df:144
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid ": Wooooo!"
+msgstr ": 우우우우!"
+
+#: deathforth/events/moments/moment-example.df:148
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " gets to 99 hot dogs and then literally, not figuratively, chokes."
+msgstr "은(는) 핫도그 99개째에서 비유가 아니라 진짜로 목이 막힌다."
+
+#: deathforth/events/moments/moment-example.df:150
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid ": Wait I can do this!"
+msgstr ": 잠깐 나 할 수 있어!"
+
+#: deathforth/events/moments/moment-example.df:154
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid "There's a hotdog eating competition! Yee-haw!"
+msgstr "핫도그 먹기 대회다! 이햐!"
+
+#: deathforth/events/moments/moment-example.df:155
+msgctxt "deathforth/events/moments/moment-example.df"
+msgid " eats 100 hot dogs"
+msgstr "이(가) 핫도그 100개 먹기"
+
+#: deathforth/events/OPPmode.df:74
+msgctxt "deathforth/events/OPPmode.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t이 사람 자리를 만들려면 누구를 뺄까: "

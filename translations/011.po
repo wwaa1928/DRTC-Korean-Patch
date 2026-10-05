@@ -1,0 +1,2844 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/common/common4.df:30
+msgctxt "deathforth/events/common/common4.df"
+msgid " is "
+msgstr "은(는)"
+
+#: deathforth/events/common/common4.df:30
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"\r\n"
+"\tV E R Y P R E T T Y"
+msgstr ""
+"\r\n"
+"\t아 주 예 뻐 요"
+
+#: deathforth/events/common/common4.df:32
+msgctxt "deathforth/events/common/common4.df"
+msgid "Nice! "
+msgstr "좋아! "
+
+#: deathforth/events/common/common4.df:32
+msgctxt "deathforth/events/common/common4.df"
+msgid " Doesn't feel cursed at all by this delightful Weegee."
+msgstr "은(는) 이 즐거운 위지 보드에 전혀 저주받은 기분이 안 든다."
+
+#: deathforth/events/common/common4.df:34
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"Somewhere in the distance, a goblin laughs, but in a nice way. As if to say "
+"'hey.... what's up. have a nice day.'"
+msgstr "저 멀리서 고블린이 웃는다. 하지만 기분 좋게. 마치 '헤이.... 안녕. 좋은 하루 보내.' 하는 것처럼."
+
+#: deathforth/events/common/common4.df:35
+msgctxt "deathforth/events/common/common4.df"
+msgid "nice"
+msgstr "기분 좋은"
+
+#: deathforth/events/common/common4.df:39
+msgctxt "deathforth/events/common/common4.df"
+msgid " spells out the location of a hidden stash of loot in the house!"
+msgstr "이(가) 집 안에 숨겨진 물자 위치를 짚어 준다!"
+
+#: deathforth/events/common/common4.df:46
+msgctxt "deathforth/events/common/common4.df"
+msgid "When asked who will betray the group, the "
+msgstr "누가 일행을 배신할지 묻자, "
+
+#: deathforth/events/common/common4.df:46
+msgctxt "deathforth/events/common/common4.df"
+msgid " spells out "
+msgstr "이(가) 짚는 것은 "
+
+#: deathforth/events/common/common4.df:48
+msgctxt "deathforth/events/common/common4.df"
+msgid "'s name!"
+msgstr "의 이름!"
+
+#: deathforth/events/common/common4.df:52
+msgctxt "deathforth/events/common/common4.df"
+msgid "Y O U R B U T T"
+msgstr "네 엉 덩 이"
+
+#: deathforth/events/common/common4.df:53
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"What could this mean? The group becomes uneasy, and doubt festers. Could "
+"this be the "
+msgstr "무슨 뜻일까? 일행은 불안해지고 의심이 곪아 간다. 이것이 "
+
+#: deathforth/events/common/common4.df:53
+msgctxt "deathforth/events/common/common4.df"
+msgid "Curse of Weegee?"
+msgstr "위지의 저주일까?"
+
+#: deathforth/events/common/common4.df:59
+msgctxt "deathforth/events/common/common4.df"
+msgid " points to the word "
+msgstr "이(가) 단어를 짚는다: "
+
+#: deathforth/events/common/common4.df:59
+msgctxt "deathforth/events/common/common4.df"
+msgid "NO"
+msgstr "아니"
+
+#: deathforth/events/common/common4.df:59
+msgctxt "deathforth/events/common/common4.df"
+msgid " with amazing speed. Then it points to "
+msgstr ". 엄청난 속도로. 그리고 다시 짚는다: "
+
+#: deathforth/events/common/common4.df:59
+msgctxt "deathforth/events/common/common4.df"
+msgid " again, while somehow catching on fire."
+msgstr ". 어째선지 불이 붙으면서."
+
+#: deathforth/events/common/common4.df:60
+msgctxt "deathforth/events/common/common4.df"
+msgid "Whatever! These things are always wrong, anyway! "
+msgstr "뭐 어때! 이런 건 원래 다 틀려! "
+
+#: deathforth/events/common/common4.df:60
+msgctxt "deathforth/events/common/common4.df"
+msgid " throws the flaming "
+msgstr "은(는) 불붙은 "
+
+#: deathforth/events/common/common4.df:60
+msgctxt "deathforth/events/common/common4.df"
+msgid " across the room. This makes "
+msgstr "을(를) 방 저편으로 던진다. 그 바람에 "
+
+#: deathforth/events/common/common4.df:60
+msgctxt "deathforth/events/common/common4.df"
+msgid " also catch on fire."
+msgstr "에게도 불이 붙는다."
+
+#: deathforth/events/common/common4.df:62
+msgctxt "deathforth/events/common/common4.df"
+msgid " loves being fireproof!"
+msgstr "은(는) 방화 체질이라 너무 좋다!"
+
+#: deathforth/events/common/common4.df:68
+msgctxt "deathforth/events/common/common4.df"
+msgid "It was good exercise, at least."
+msgstr "그래도 좋은 운동은 됐다."
+
+#: deathforth/events/common/common4.df:70
+msgctxt "deathforth/events/common/common4.df"
+msgid "Don't mess with the "
+msgstr "함부로 건드리지 마라: "
+
+#: deathforth/events/common/common4.df:76
+msgctxt "deathforth/events/common/common4.df"
+msgid "Weegee Board"
+msgstr "위지 보드"
+
+#: deathforth/events/common/common4.df:77
+msgctxt "deathforth/events/common/common4.df"
+msgid " is poking through an abandoned house and finds a "
+msgstr "은(는) 버려진 집을 뒤지다가 발견한다: "
+
+#: deathforth/events/common/common4.df:77
+msgctxt "deathforth/events/common/common4.df"
+msgid " on the kitchen table. It's a common game used to communicate with "
+msgstr ". 부엌 식탁 위에 있다. 이걸로 소통한다는 흔한 놀이다. 대상은 "
+
+#: deathforth/events/common/common4.df:77
+msgctxt "deathforth/events/common/common4.df"
+msgid "GHOSTS"
+msgstr "유령"
+
+#: deathforth/events/common/common4.df:78
+msgctxt "deathforth/events/common/common4.df"
+msgid "Leave this NONSENSE alone"
+msgstr "이런 헛소리는 건드리지 않는다"
+
+#: deathforth/events/common/common4.df:79
+msgctxt "deathforth/events/common/common4.df"
+msgid "These things are rumored to be "
+msgstr "이런 건 "
+
+#: deathforth/events/common/common4.df:79
+msgctxt "deathforth/events/common/common4.df"
+msgid "INCREDIBLY CURSED WITH BAD LUCK"
+msgstr "불운의 저주가 엄청나게 걸려 있다"
+
+#: deathforth/events/common/common4.df:79
+msgctxt "deathforth/events/common/common4.df"
+msgid ", so beware! Still, it may be worth asking it a question..."
+msgstr "는 소문이 있으니 조심하라! 그래도 질문 하나쯤은 해 볼 만할지도..."
+
+#: deathforth/events/common/common4.df:81
+msgctxt "deathforth/events/common/common4.df"
+msgid "AM I PRETTY?"
+msgstr "나 예뻐?"
+
+#: deathforth/events/common/common4.df:83
+msgctxt "deathforth/events/common/common4.df"
+msgid "WHO WILL BETRAY THE TEAM?"
+msgstr "누가 일행을 배신할까?"
+
+#: deathforth/events/common/common4.df:85
+msgctxt "deathforth/events/common/common4.df"
+msgid "WILL"
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/common4.df:85
+msgctxt "deathforth/events/common/common4.df"
+msgid "MAKE IT TO CANADA?"
+msgstr "캐나다에 갈 수 있을까?"
+
+#: deathforth/events/common/common4.df:86
+msgctxt "deathforth/events/common/common4.df"
+msgid "WHERE'S THE LOOT?"
+msgstr "물자는 어디 있어?"
+
+#: deathforth/events/common/common4.df:95
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" ignores the supply box and all the food inside of it.\r\n"
+"\t"
+msgstr ""
+"은(는) 보급 상자와 그 안의 식량을 전부 무시한다.\r\n"
+"\t"
+
+#: deathforth/events/common/common4.df:96
+#: deathforth/events/common/common4.df:177
+msgctxt "deathforth/events/common/common4.df"
+msgid " find"
+msgstr "은(는) "
+
+#: deathforth/events/common/common4.df:96
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" a couple cans of food while searching the rest of the house, but must "
+"wonder what "
+msgstr "집 나머지를 뒤져 통조림 몇 개를 찾지만, 놓친 게 뭘까 궁금해진다: "
+
+#: deathforth/events/common/common4.df:96
+msgctxt "deathforth/events/common/common4.df"
+msgid " missed."
+msgstr "이(가) 놓친 것."
+
+#: deathforth/events/common/common4.df:103
+msgctxt "deathforth/events/common/common4.df"
+msgid "The dog poop mysteriously disappears before "
+msgstr "개똥이 어째선지 사라진다. 그 전에 "
+
+#: deathforth/events/common/common4.df:103
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" nudges the box open!\r\n"
+"\t\t"
+msgstr ""
+"이(가) 코로 상자를 밀어 연다!\r\n"
+"\t\t"
+
+#: deathforth/events/common/common4.df:104
+msgctxt "deathforth/events/common/common4.df"
+msgid " looks really guilty."
+msgstr "은(는) 엄청 찔리는 표정이다."
+
+#: deathforth/events/common/common4.df:109
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" seems especially angry that it had to bat the dog poop out of the way to "
+"open the box. "
+msgstr "은(는) 상자를 열려고 개똥을 앞발로 쳐 내야 했던 게 유난히 화가 난다. "
+
+#: deathforth/events/common/common4.df:109
+msgctxt "deathforth/events/common/common4.df"
+msgid " really feels like mauling something, moreso than usual."
+msgstr "는 평소보다 더 뭔가를 물어뜯고 싶다."
+
+#: deathforth/events/common/common4.df:114
+msgctxt "deathforth/events/common/common4.df"
+msgid " kicks the supply box open. As an animal, "
+msgstr "은(는) 보급 상자를 걷어차 연다. 동물이라서 "
+
+#: deathforth/events/common/common4.df:114
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" really doesn't care either way for dog poo, so it wasn't much of an "
+"obstacle."
+msgstr "는 개똥에 별 관심이 없고, 그래서 장애물도 아니었다."
+
+#: deathforth/events/common/common4.df:118
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" loves dogs, and is no stranger to picking up dog poop and putting it in a plastic bag.\r\n"
+"\t\tIn fact, doing so reminds "
+msgstr ""
+"은(는) 개를 사랑해서, 개똥을 비닐봉지에 담는 데 익숙하다.\r\n"
+"\t\t사실 그 행동이 일깨워 준다. "
+
+#: deathforth/events/common/common4.df:119
+msgctxt "deathforth/events/common/common4.df"
+msgid " of civilization. Feeling that warmth in your hand, feeling alive!"
+msgstr "에게 문명을. 손안의 그 온기, 살아 있다는 느낌!"
+
+#: deathforth/events/common/common4.df:123
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" opens up the supply box. What was the big deal?\r\n"
+"\t\t"
+msgstr ""
+"은(는) 보급 상자를 연다. 뭐가 문제였지?\r\n"
+"\t\t"
+
+#: deathforth/events/common/common4.df:124
+msgctxt "deathforth/events/common/common4.df"
+msgid " never noticed the dog poo."
+msgstr "는 개똥을 전혀 못 봤다."
+
+#: deathforth/events/common/common4.df:128
+msgctxt "deathforth/events/common/common4.df"
+msgid " is grossed out!"
+msgstr "은(는) 역겨워한다!"
+
+#: deathforth/events/common/common4.df:131
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" tries to nudge the poo off the box with a piece of wood, but it goes "
+"HORRIBLY wrong. "
+msgstr "은(는) 나무 막대로 개똥을 상자에서 밀어내려 하지만, 끔찍하게 잘못된다. "
+
+#: deathforth/events/common/common4.df:131
+msgctxt "deathforth/events/common/common4.df"
+msgid " gets grossed out pretty bad!"
+msgstr "는 제대로 역겨운 꼴을 당한다!"
+
+#: deathforth/events/common/common4.df:134
+msgctxt "deathforth/events/common/common4.df"
+msgid " attempts to keep up a positive attitude. One day, "
+msgstr "는 긍정적인 태도를 유지하려 한다. 언젠가 "
+
+#: deathforth/events/common/common4.df:134
+msgctxt "deathforth/events/common/common4.df"
+msgid " will be able to look at this and laugh. But not today."
+msgstr "은(는) 이걸 보고 웃을 수 있을 것이다. 하지만 오늘은 아니다."
+
+#: deathforth/events/common/common4.df:136
+msgctxt "deathforth/events/common/common4.df"
+msgid "This is, by far, the worst thing to happen to "
+msgstr "이건 단연코 최악의 일이다. 좀비 종말을 통틀어 "
+
+#: deathforth/events/common/common4.df:136
+msgctxt "deathforth/events/common/common4.df"
+msgid " in the zombie apocalypse. "
+msgstr "에게 일어난. "
+
+#: deathforth/events/common/common4.df:136
+msgctxt "deathforth/events/common/common4.df"
+msgid " will never, ever be the same."
+msgstr "는 결코, 절대 예전으로 돌아가지 못할 것이다."
+
+#: deathforth/events/common/common4.df:137
+msgctxt "deathforth/events/common/common4.df"
+msgid " PERMANENT MORALE PENALTY!"
+msgstr " 영구 사기 감소!"
+
+#: deathforth/events/common/common4.df:144
+msgctxt "deathforth/events/common/common4.df"
+msgid "YOU WIN"
+msgstr "승리"
+
+#: deathforth/events/common/common4.df:145
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"Every child knows that the only surefire way to move a piece of dog poo is to use a stick from a tree branch. It's nature's perfect poop remover.\r\n"
+"\tYou channeled your sense of whimsy and child-like wonder to triumph over this dangerous situation."
+msgstr ""
+"모든 아이는 알고 있다. 개똥을 확실하게 치우는 유일한 방법은 나뭇가지를 쓰는 것이라는 걸. 자연이 준 완벽한 똥 치우개다.\r\n"
+"\t너는 동심과 천진한 경이로움을 발휘해 이 위험한 상황을 이겨 냈다."
+
+#: deathforth/events/common/common4.df:147
+msgctxt "deathforth/events/common/common4.df"
+msgid "Congratulations!"
+msgstr "축하합니다!"
+
+#: deathforth/events/common/common4.df:148
+msgctxt "deathforth/events/common/common4.df"
+msgid "YOU'VE FOUND THE TRUE ENDING TO DEATH ROAD TO CANADA!"
+msgstr "데스 로드 투 캐나다의 진엔딩을 찾았습니다!"
+
+#: deathforth/events/common/common4.df:149
+msgctxt "deathforth/events/common/common4.df"
+msgid "I did it!"
+msgstr "해냈다!"
+
+#: deathforth/events/common/common4.df:156
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should open the crate?"
+msgstr "누가 상자를 열까?"
+
+#: deathforth/events/common/common4.df:156
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"\r\n"
+"\t\tWARNING: THIS IS REALLY GROSS\r\n"
+"\t\tTHERE IS A DOG POO ON THE CRATE"
+msgstr ""
+"\r\n"
+"\t\t경고: 정말 역겨움\r\n"
+"\t\t상자 위에 개똥이 있음"
+
+#: deathforth/events/common/common4.df:158
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"\r\n"
+"\t\tTHIS COULD BE A BIG DEAL"
+msgstr ""
+"\r\n"
+"\t\t이건 큰일일 수도 있다"
+
+#: deathforth/events/common/common4.df:165
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" improvises a little catapult with a big twig and an elastic band. They fire"
+" stones at the handle to knock the poo off!"
+msgstr "은(는) 큰 나뭇가지와 고무줄로 작은 투석기를 즉석에서 만든다. 손잡이에 돌을 쏴서 똥을 떨어뜨린다!"
+
+#: deathforth/events/common/common4.df:166
+msgctxt "deathforth/events/common/common4.df"
+msgid "The plan works! The dog poo flies off the handle. "
+msgstr "계획이 통한다! 개똥이 손잡이에서 날아간다. "
+
+#: deathforth/events/common/common4.df:166
+msgctxt "deathforth/events/common/common4.df"
+msgid " opens the box, but is still grossed out by the stink."
+msgstr "은(는) 상자를 열지만 냄새 때문에 여전히 역겹다."
+
+#: deathforth/events/common/common4.df:169
+msgctxt "deathforth/events/common/common4.df"
+msgid "The catapult snaps before "
+msgstr "투석기가 부러진다. 그 전에 "
+
+#: deathforth/events/common/common4.df:169
+msgctxt "deathforth/events/common/common4.df"
+msgid " gets to use it as weapon. Drat!"
+msgstr "이(가) 무기로 써 보려 했는데. 쳇!"
+
+#: deathforth/events/common/common4.df:176
+msgctxt "deathforth/events/common/common4.df"
+msgid "TRUE DESPAIR"
+msgstr "진정한 절망"
+
+#: deathforth/events/common/common4.df:177
+msgctxt "deathforth/events/common/common4.df"
+msgid "As "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/common4.df:177
+msgctxt "deathforth/events/common/common4.df"
+msgid " searches an abandoned house, a miracle happens. "
+msgstr "이(가) 버려진 집을 뒤지는데, 기적이 일어난다. "
+
+#: deathforth/events/common/common4.df:177
+msgctxt "deathforth/events/common/common4.df"
+msgid " a government ration box, unopened."
+msgstr "정부 배급 상자를 발견한다. 뜯지도 않았다."
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid "To "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid " HORROR"
+msgstr " 경악스럽게도"
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid ", it turns out there is a "
+msgstr ", 위에 "
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid "dog poop"
+msgstr "개똥"
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid " sitting "
+msgstr "이 있다. 위치는 "
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid "RIGHT ON THE HANDLE"
+msgstr "손잡이 바로 위"
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid " of the supply box."
+msgstr ". 보급 상자의."
+
+#: deathforth/events/common/common4.df:178
+msgctxt "deathforth/events/common/common4.df"
+msgid " There is no way to open it without touching the poo."
+msgstr " 똥을 만지지 않고는 열 방법이 없다."
+
+#: deathforth/events/common/common4.df:180
+msgctxt "deathforth/events/common/common4.df"
+msgid "This could be the biggest challenge, yet!"
+msgstr "이건 지금까지 중 최대의 난관일지도 모른다!"
+
+#: deathforth/events/common/common4.df:182
+msgctxt "deathforth/events/common/common4.df"
+msgid "No Way, Gross, Ignore It"
+msgstr "싫어, 더러워, 무시해"
+
+#: deathforth/events/common/common4.df:184
+msgctxt "deathforth/events/common/common4.df"
+msgid " opens it"
+msgstr "이(가) 연다"
+
+#: deathforth/events/common/common4.df:186
+msgctxt "deathforth/events/common/common4.df"
+msgid "Have someone open it"
+msgstr "누군가에게 열게 한다"
+
+#: deathforth/events/common/common4.df:190
+msgctxt "deathforth/events/common/common4.df"
+msgid " makes a little catapult"
+msgstr "이(가) 작은 투석기를 만든다"
+
+#: deathforth/events/common/common4.df:194
+msgctxt "deathforth/events/common/common4.df"
+msgid "Use tree branch to open it"
+msgstr "나뭇가지로 연다"
+
+#: deathforth/events/common/common4.df:201
+msgctxt "deathforth/events/common/common4.df"
+msgid " can't sneeze on command. "
+msgstr "은(는) 마음대로 재채기를 할 수 없다. "
+
+#: deathforth/events/common/common4.df:201
+msgctxt "deathforth/events/common/common4.df"
+msgid " loses the sneeze! It's very annoying!"
+msgstr "는 재채기를 놓친다! 엄청 짜증 난다!"
+
+#: deathforth/events/common/common4.df:204
+msgctxt "deathforth/events/common/common4.df"
+msgid "This is the "
+msgstr "이건 "
+
+#: deathforth/events/common/common4.df:204
+msgctxt "deathforth/events/common/common4.df"
+msgid "worst thing to happen to ANYONE"
+msgstr "누구에게나 일어날 수 있는 최악의 일"
+
+#: deathforth/events/common/common4.df:204
+msgctxt "deathforth/events/common/common4.df"
+msgid " in the zombocaylpse!"
+msgstr "이다. 좀비 종말에서!"
+
+#: deathforth/events/common/common4.df:211
+#: deathforth/events/common/common4.df:439
+msgctxt "deathforth/events/common/common4.df"
+msgid " screams "
+msgstr "은(는) 외친다: "
+
+#: deathforth/events/common/common4.df:211
+#: deathforth/events/common/common4.df:439
+msgctxt "deathforth/events/common/common4.df"
+msgid "BERSERKEERRR!"
+msgstr "버서커어어어!"
+
+#: deathforth/events/common/common4.df:211
+msgctxt "deathforth/events/common/common4.df"
+msgid " and then punches "
+msgstr ". 그리고 주먹으로 친다: "
+
+#: deathforth/events/common/common4.df:211
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"self in the nose, as hard as possible. No self preservation instinct at all."
+msgstr "자신의 코를, 있는 힘껏. 자기 보존 본능 따윈 없다."
+
+#: deathforth/events/common/common4.df:214
+msgctxt "deathforth/events/common/common4.df"
+msgid " smashes "
+msgstr "은(는) 박는다: "
+
+#: deathforth/events/common/common4.df:214
+msgctxt "deathforth/events/common/common4.df"
+msgid " own nose on a wall."
+msgstr " 코를 벽에."
+
+#: deathforth/events/common/common4.df:216
+msgctxt "deathforth/events/common/common4.df"
+msgid "It's an old trick! The blinding pain makes "
+msgstr "옛날 수법이다! 눈앞이 하얘지는 고통 덕분에 "
+
+#: deathforth/events/common/common4.df:216
+msgctxt "deathforth/events/common/common4.df"
+msgid " forget about the lost sneeze."
+msgstr "은(는) 놓친 재채기를 잊는다."
+
+#: deathforth/events/common/common4.df:222
+msgctxt "deathforth/events/common/common4.df"
+msgid " really stuffs "
+msgstr "은(는) 들이민다: "
+
+#: deathforth/events/common/common4.df:222
+msgctxt "deathforth/events/common/common4.df"
+msgid " nose on "
+msgstr " 코를 "
+
+#: deathforth/events/common/common4.df:222
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" and snorts.\r\n"
+"\tThis coaxes out a good sneeze!"
+msgstr ""
+"에게. 그리고 킁킁댄다.\r\n"
+"\t그 덕분에 시원한 재채기가 나온다!"
+
+#: deathforth/events/common/common4.df:227
+msgctxt "deathforth/events/common/common4.df"
+msgid " opens up a bag of super spicy chips. "
+msgstr "은(는) 초매운 과자 봉지를 뜯는다. "
+
+#: deathforth/events/common/common4.df:227
+msgctxt "deathforth/events/common/common4.df"
+msgid " takes a big sniff."
+msgstr "는 크게 한 번 냄새를 맡는다."
+
+#: deathforth/events/common/common4.df:228
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" accidentally sneezes into the bag! \r\n"
+"\t"
+msgstr ""
+"은(는) 실수로 봉지 안에 재채기를 한다! \r\n"
+"\t"
+
+#: deathforth/events/common/common4.df:229
+msgctxt "deathforth/events/common/common4.df"
+msgid " may as well eat the entire bag of chips now."
+msgstr "는 이제 그 과자를 다 먹는 수밖에 없다."
+
+#: deathforth/events/common/common4.df:235
+msgctxt "deathforth/events/common/common4.df"
+msgid "THE LOST SNEEZE"
+msgstr "잃어버린 재채기"
+
+#: deathforth/events/common/common4.df:236
+msgctxt "deathforth/events/common/common4.df"
+msgid " really feels that "
+msgstr "은(는) 느낀다. "
+
+#: deathforth/events/common/common4.df:236
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" has to sneeze. This feeling drags on, but there's no sneeze.\r\n"
+"\tThis may turn into one of those times a sneeze is lost! Combined with the pressures of the zombocalypse, this could break "
+msgstr ""
+"가 재채기를 해야겠다고. 그 느낌은 계속되는데, 재채기가 안 나온다.\r\n"
+"\t재채기를 놓쳐 버리는 그런 때가 될지도 모른다! 좀비 종말의 압박과 합쳐지면, 이건 무너뜨릴 수 있다: "
+
+#: deathforth/events/common/common4.df:237
+#: deathforth/events/common/common4.df:498
+msgctxt "deathforth/events/common/common4.df"
+msgid "'s morale!"
+msgstr "의 사기를!"
+
+#: deathforth/events/common/common4.df:238
+msgctxt "deathforth/events/common/common4.df"
+msgid "Try to sneeze"
+msgstr "재채기를 시도한다"
+
+#: deathforth/events/common/common4.df:239
+msgctxt "deathforth/events/common/common4.df"
+msgid "Smash self on nose"
+msgstr "코를 박는다"
+
+#: deathforth/events/common/common4.df:240
+msgctxt "deathforth/events/common/common4.df"
+msgid "Snort animal dander"
+msgstr "동물 비듬을 들이마신다"
+
+#: deathforth/events/common/common4.df:241
+msgctxt "deathforth/events/common/common4.df"
+msgid "Snort spicy food - Costs 2 food"
+msgstr "매운 음식 냄새를 맡는다 - 식량 2"
+
+#: deathforth/events/common/common4.df:247
+msgctxt "deathforth/events/common/common4.df"
+msgid "This game is way too difficult! "
+msgstr "이 게임 너무 어려워! "
+
+#: deathforth/events/common/common4.df:247
+msgctxt "deathforth/events/common/common4.df"
+msgid "AAAAAAAAAARGH!"
+msgstr "으아아아아아아아악!"
+
+#: deathforth/events/common/common4.df:248
+msgctxt "deathforth/events/common/common4.df"
+msgid " throws the GameBronus hard, destroying it."
+msgstr "은(는) 게임브로너스를 세게 던져 박살 낸다."
+
+#: deathforth/events/common/common4.df:253
+#: deathforth/events/common/common4.df:292
+#: deathforth/events/common/common4.df:305
+msgctxt "deathforth/events/common/common4.df"
+msgid "Drobnus Squadron"
+msgstr "드롭너스 편대"
+
+#: deathforth/events/common/common4.df:253
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" is a game about Drobnus blasting aliens with a machinegun. Most deaths "
+"happen due to bad jumping controls mixed with instant-kill pits."
+msgstr "은(는) 드롭너스가 기관총으로 외계인을 쏘는 게임이다. 대부분의 죽음은 구린 점프 조작과 즉사 구덩이의 조합 때문이다."
+
+#: deathforth/events/common/common4.df:259
+#: deathforth/events/common/common4.df:274
+#: deathforth/events/common/common4.df:303
+msgctxt "deathforth/events/common/common4.df"
+msgid "Dr. Drobnus Deluxe"
+msgstr "닥터 드롭너스 디럭스"
+
+#: deathforth/events/common/common4.df:259
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" is an overly detailed surgery sim, rendered in 8 bit graphics. Most players"
+" lose by failing proper sterile surgical gloves procedure."
+msgstr "은(는) 지나치게 디테일한 8비트 수술 시뮬레이터다. 대부분의 플레이어는 멸균 수술 장갑 절차를 제대로 못 지켜서 진다."
+
+#: deathforth/events/common/common4.df:265
+#: deathforth/events/common/common4.df:283
+#: deathforth/events/common/common4.df:304
+msgctxt "deathforth/events/common/common4.df"
+msgid "Drobnus Kart"
+msgstr "드롭너스 카트"
+
+#: deathforth/events/common/common4.df:265
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" is a racing game starring the popular character Drobnus and all his pals. "
+"Even if you're in first place, you can get hit by a Homing Toilet and end up"
+" in last place."
+msgstr "은(는) 인기 캐릭터 드롭너스와 친구들이 나오는 레이싱 게임이다. 1등이어도 유도 변기에 맞으면 꼴등이 될 수 있다."
+
+#: deathforth/events/common/common4.df:274
+#: deathforth/events/common/common4.df:283
+#: deathforth/events/common/common4.df:292
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should get to play "
+msgstr "누가 플레이할까? "
+
+#: deathforth/events/common/common4.df:275
+#: deathforth/events/common/common4.df:284
+#: deathforth/events/common/common4.df:293
+msgctxt "deathforth/events/common/common4.df"
+msgid "WARNING: It's going to be rough on morale!"
+msgstr "경고: 사기에 꽤 타격이 있을 것이다!"
+
+#: deathforth/events/common/common4.df:298
+msgctxt "deathforth/events/common/common4.df"
+msgid "GameBronus Entertainment System"
+msgstr "게임브로너스 엔터테인먼트 시스템"
+
+#: deathforth/events/common/common4.df:299
+msgctxt "deathforth/events/common/common4.df"
+msgid " finds an old "
+msgstr "은(는) 오래된 이걸 찾는다: "
+
+#: deathforth/events/common/common4.df:299
+msgctxt "deathforth/events/common/common4.df"
+msgid "GameBronus [TM]"
+msgstr "게임브로너스 [TM]"
+
+#: deathforth/events/common/common4.df:299
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"\r\n"
+"\tIt's a handheld videogame system that survived this long because it's built like a brick.\r\n"
+"\tThere were a few games with it, all known for their "
+msgstr ""
+"\r\n"
+"\t벽돌처럼 튼튼하게 만들어져서 지금까지 살아남은 휴대용 게임기다.\r\n"
+"\t게임이 몇 개 있는데, 모두 이걸로 유명하다: "
+
+#: deathforth/events/common/common4.df:301
+msgctxt "deathforth/events/common/common4.df"
+msgid "extremely frustrating difficulty:"
+msgstr "극도로 짜증 나는 난이도"
+
+#: deathforth/events/common/common4.df:302
+msgctxt "deathforth/events/common/common4.df"
+msgid "Leave GameBronus behind"
+msgstr "게임브로너스를 두고 간다"
+
+#: deathforth/events/common/common4.df:312
+msgctxt "deathforth/events/common/common4.df"
+msgid "Garbage gets all over "
+msgstr "쓰레기를 뒤집어쓴다: "
+
+#: deathforth/events/common/common4.df:312
+msgctxt "deathforth/events/common/common4.df"
+msgid "! It was worth it! It was all for the beans!"
+msgstr "! 그럴 가치가 있었다! 다 콩을 위해서였다!"
+
+#: deathforth/events/common/common4.df:318
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" eats some of the garbage pile! This jostles the can of beans at the top "
+"loose, without the whole pile coming down on "
+msgstr "은(는) 쓰레기 더미를 좀 먹는다! 덕분에 꼭대기의 콩 통조림이 흔들려 떨어지고, 더미 전체가 무너져 내리지도 않는다: "
+
+#: deathforth/events/common/common4.df:318
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+".\r\n"
+"\tWhat a delicious solution!"
+msgstr ""
+"의 위로.\r\n"
+"\t아주 맛있는 해결책이다!"
+
+#: deathforth/events/common/common4.df:324
+msgctxt "deathforth/events/common/common4.df"
+msgid " smashes the garbage pile! It collapses right onto "
+msgstr "은(는) 쓰레기 더미를 부순다! 그대로 무너져 내린다: "
+
+#: deathforth/events/common/common4.df:333
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" uses their parkour skills to ascend the mountain of garbage with ease! "
+"Before it collapses, they swan dive into a dumpster. The trash bags cushion "
+"the landing!"
+msgstr "은(는) 파쿠르 실력으로 쓰레기 산을 가뿐히 오른다! 무너지기 전에 쓰레기통으로 다이빙한다. 쓰레기봉투가 착지를 받쳐 준다!"
+
+#: deathforth/events/common/common4.df:337
+msgctxt "deathforth/events/common/common4.df"
+msgid " climbs the garbage pile! It collapses with "
+msgstr "은(는) 쓰레기 더미를 오른다! 무너진다. "
+
+#: deathforth/events/common/common4.df:337
+msgctxt "deathforth/events/common/common4.df"
+msgid " on it."
+msgstr "를 태운 채로."
+
+#: deathforth/events/common/common4.df:345
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should fight the garbage pile?"
+msgstr "누가 쓰레기 더미와 싸울까?"
+
+#: deathforth/events/common/common4.df:353
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should climb the garbage pile?"
+msgstr "누가 쓰레기 더미를 오를까?"
+
+#: deathforth/events/common/common4.df:361
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should eat the garbage pile?"
+msgstr "누가 쓰레기 더미를 먹을까?"
+
+#: deathforth/events/common/common4.df:366
+msgctxt "deathforth/events/common/common4.df"
+msgid "The Battle of Garbage Mountain"
+msgstr "쓰레기 산의 전투"
+
+#: deathforth/events/common/common4.df:367
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" spots an extra tall pile of garbage near some buildings. It's maybe over 12 feet tall. Littering got pretty bad near the collapse of civilization.\r\n"
+"\tAn "
+msgstr ""
+"은(는) 건물들 근처에서 유난히 높은 쓰레기 더미를 발견한다. 4미터는 넘을 것 같다. 문명이 무너질 무렵 쓰레기 투기가 꽤 심했다.\r\n"
+"\t"
+
+#: deathforth/events/common/common4.df:368
+msgctxt "deathforth/events/common/common4.df"
+msgid "Extra Large Can O' Baked Beans"
+msgstr "특대 베이크드 빈스 통조림"
+
+#: deathforth/events/common/common4.df:368
+msgctxt "deathforth/events/common/common4.df"
+msgid " is stuck near the top of the pile. It shines like a beacon of hope."
+msgstr "이(가) 더미 꼭대기 근처에 끼어 있다. 희망의 등대처럼 빛난다."
+
+#: deathforth/events/common/common4.df:369
+#: deathforth/events/common/common4.df:560
+#: deathforth/events/common/common4.df:582
+msgctxt "deathforth/events/common/common4.df"
+msgid "Leave it alone"
+msgstr "그냥 둔다"
+
+#: deathforth/events/common/common4.df:370
+msgctxt "deathforth/events/common/common4.df"
+msgid "Smash garbage pile"
+msgstr "쓰레기 더미를 부순다"
+
+#: deathforth/events/common/common4.df:371
+msgctxt "deathforth/events/common/common4.df"
+msgid "Climb garbage pile"
+msgstr "쓰레기 더미를 오른다"
+
+#: deathforth/events/common/common4.df:372
+msgctxt "deathforth/events/common/common4.df"
+msgid "Eat garbage pile"
+msgstr "쓰레기 더미를 먹는다"
+
+#: deathforth/events/common/common4.df:379
+msgctxt "deathforth/events/common/common4.df"
+msgid "The TV shorts out after the movie, and is left behind."
+msgstr "영화가 끝나고 TV가 나가 버려서 두고 간다."
+
+#: deathforth/events/common/common4.df:385
+msgctxt "deathforth/events/common/common4.df"
+msgid " learns sumo, despite being a dog."
+msgstr "은(는) 개인데도 스모를 배운다."
+
+#: deathforth/events/common/common4.df:390
+msgctxt "deathforth/events/common/common4.df"
+msgid " learns superior sumo techniques!"
+msgstr "은(는) 더 뛰어난 스모 기술을 배운다!"
+
+#: deathforth/events/common/common4.df:396
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"Sumo Wrestling was in the top 5 sports in America before the zombocalypse. "
+"This lead to a lot of sumo movies, sumo TV dramas, sumo cartoons, so on and "
+"so forth."
+msgstr "스모는 좀비 종말 전 미국 5대 스포츠 중 하나였다. 그래서 스모 영화, 스모 드라마, 스모 만화 같은 게 잔뜩 나왔다."
+
+#: deathforth/events/common/common4.df:397
+msgctxt "deathforth/events/common/common4.df"
+msgid " picks up some sumo moves by watching the film!"
+msgstr "은(는) 영화를 보며 스모 기술 몇 가지를 익힌다!"
+
+#: deathforth/events/common/common4.df:402
+msgctxt "deathforth/events/common/common4.df"
+msgid "The videotape is a movie adaptation of the arcade game "
+msgstr "비디오테이프는 오락실 게임을 영화화한 것이다: "
+
+#: deathforth/events/common/common4.df:402
+msgctxt "deathforth/events/common/common4.df"
+msgid "DEATHSPLOSIONAL!"
+msgstr "데스플로저널!"
+
+#: deathforth/events/common/common4.df:402
+msgctxt "deathforth/events/common/common4.df"
+msgid " It's better than no movie at all."
+msgstr " 영화가 아예 없는 것보단 낫다."
+
+#: deathforth/events/common/common4.df:408
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" follows the the fitness instructor on the videotape. Everyone's wearing "
+"neon sweatbands."
+msgstr "은(는) 비디오테이프 속 피트니스 강사를 따라 한다. 다들 형광 땀받이 밴드를 차고 있다."
+
+#: deathforth/events/common/common4.df:414
+msgctxt "deathforth/events/common/common4.df"
+msgid "The comedy film turns out to be terrible by most standards, but "
+msgstr "코미디 영화는 대부분의 기준으로 보면 끔찍하지만, "
+
+#: deathforth/events/common/common4.df:414
+msgctxt "deathforth/events/common/common4.df"
+msgid " is completely absorbed by it. It's very rare to see a movie anymore."
+msgstr "은(는) 완전히 빠져든다. 이제 영화를 볼 일은 정말 드물다."
+
+#: deathforth/events/common/common4.df:415
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"The TV shorts out during the middle of the second viewing, and never comes "
+"back on."
+msgstr "두 번째로 보던 중에 TV가 나가 버리고, 다시는 안 켜진다."
+
+#: deathforth/events/common/common4.df:419
+msgctxt "deathforth/events/common/common4.df"
+msgid "Video Cassette Player"
+msgstr "비디오 플레이어"
+
+#: deathforth/events/common/common4.df:420
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" finds someone's abandoned hideout in a boarded up house.\r\n"
+"\tThere's not much left in here, except a small battery powered TV hooked up to an old VHS player.\r\n"
+"\tThere's only one movie in the videotape player:"
+msgstr ""
+"은(는) 판자로 막힌 집에서 누군가의 버려진 은신처를 발견한다.\r\n"
+"\t남은 건 별로 없고, 낡은 VHS 플레이어에 연결된 작은 배터리 TV가 있다.\r\n"
+"\t비디오 플레이어엔 영화가 하나뿐이다:"
+
+#: deathforth/events/common/common4.df:423
+msgctxt "deathforth/events/common/common4.df"
+msgid "Action Movie"
+msgstr "액션 영화"
+
+#: deathforth/events/common/common4.df:424
+msgctxt "deathforth/events/common/common4.df"
+msgid "Fitness Tape"
+msgstr "운동 비디오"
+
+#: deathforth/events/common/common4.df:425
+msgctxt "deathforth/events/common/common4.df"
+msgid "Comedy Film"
+msgstr "코미디 영화"
+
+#: deathforth/events/common/common4.df:426
+msgctxt "deathforth/events/common/common4.df"
+msgid "Sumo Movie"
+msgstr "스모 영화"
+
+#: deathforth/events/common/common4.df:432
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" runs out of that house!\r\n"
+"\tThe spider continues slowly walking on the walls in a creepy, disgusting manner."
+msgstr ""
+"은(는) 그 집을 뛰쳐나간다!\r\n"
+"\t거미는 계속 소름 끼치고 역겹게 벽을 천천히 기어 다닌다."
+
+#: deathforth/events/common/common4.df:439
+msgctxt "deathforth/events/common/common4.df"
+msgid " and then "
+msgstr ". 그리고 "
+
+#: deathforth/events/common/common4.df:439
+msgctxt "deathforth/events/common/common4.df"
+msgid "OBLITERATES"
+msgstr "말살한다"
+
+#: deathforth/events/common/common4.df:439
+msgctxt "deathforth/events/common/common4.df"
+msgid " the spider. Only a wisp of smoke remains of it."
+msgstr " 거미를. 연기 한 줄기만 남는다."
+
+#: deathforth/events/common/common4.df:442
+msgctxt "deathforth/events/common/common4.df"
+msgid " smooshes the spider. There's a particularly gross crunching noise."
+msgstr "은(는) 거미를 짓뭉갠다. 유난히 역겨운 바삭 소리가 난다."
+
+#: deathforth/events/common/common4.df:445
+msgctxt "deathforth/events/common/common4.df"
+msgid " searches the house and finds some food!"
+msgstr "은(는) 집을 뒤져 식량을 좀 찾는다!"
+
+#: deathforth/events/common/common4.df:452
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should have to smoosh the spider?"
+msgstr "누가 거미를 짓뭉갤까?"
+
+#: deathforth/events/common/common4.df:469
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" looks around to make sure no one is watching, then quickly eats the spider.\r\n"
+"\tIt's crunchy."
+msgstr ""
+"은(는) 아무도 안 보는지 확인하고 재빨리 거미를 먹는다.\r\n"
+"\t바삭하다."
+
+#: deathforth/events/common/common4.df:473
+msgctxt "deathforth/events/common/common4.df"
+msgid "I was hungry..."
+msgstr "배고팠어..."
+
+#: deathforth/events/common/common4.df:482
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should eat the spider?"
+msgstr "누가 거미를 먹을까?"
+
+#: deathforth/events/common/common4.df:488
+msgctxt "deathforth/events/common/common4.df"
+msgid " demands that his pet devour the spider."
+msgstr "은(는) 자기 펫에게 거미를 먹어 치우라고 명령한다."
+
+#: deathforth/events/common/common4.df:489
+msgctxt "deathforth/events/common/common4.df"
+msgid "Spidey"
+msgstr "스파이디"
+
+#: deathforth/events/common/common4.df:489
+msgctxt "deathforth/events/common/common4.df"
+msgid " leaps at the inferior spider and eats it, whole, in a single gulp."
+msgstr "이(가) 열등한 거미에게 달려들어 통째로 한입에 삼킨다."
+
+#: deathforth/events/common/common4.df:490
+msgctxt "deathforth/events/common/common4.df"
+msgid "CRUNCH CRUNCH CRUNCH CRUNCH"
+msgstr "와그작 와그작 와그작 와그작"
+
+#: deathforth/events/common/common4.df:491
+msgctxt "deathforth/events/common/common4.df"
+msgid " feels pride!"
+msgstr "은(는) 뿌듯하다!"
+
+#: deathforth/events/common/common4.df:496
+msgctxt "deathforth/events/common/common4.df"
+msgid "Giant Spider Attack"
+msgstr "거대 거미의 습격"
+
+#: deathforth/events/common/common4.df:497
+msgctxt "deathforth/events/common/common4.df"
+msgid " tries to rest in a house but is ambushed by a "
+msgstr "은(는) 집에서 쉬려다 기습당한다. 상대는 "
+
+#: deathforth/events/common/common4.df:497
+msgctxt "deathforth/events/common/common4.df"
+msgid "giant spider!"
+msgstr "거대 거미!"
+
+#: deathforth/events/common/common4.df:498
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"Well maybe it's a normal spider but it's gross looking. The spider is "
+"rapidly draining "
+msgstr "뭐, 평범한 거미일 수도 있지만 생긴 게 역겹다. 거미가 빠르게 갉아먹고 있다: "
+
+#: deathforth/events/common/common4.df:499
+msgctxt "deathforth/events/common/common4.df"
+msgid "Run in disgust"
+msgstr "역겨워서 도망친다"
+
+#: deathforth/events/common/common4.df:500
+msgctxt "deathforth/events/common/common4.df"
+msgid "Smoosh spider"
+msgstr "거미를 짓뭉갠다"
+
+#: deathforth/events/common/common4.df:501
+msgctxt "deathforth/events/common/common4.df"
+msgid "Eat Spider"
+msgstr "거미를 먹는다"
+
+#: deathforth/events/common/common4.df:504
+msgctxt "deathforth/events/common/common4.df"
+msgid ": Predator meet prey!"
+msgstr ": 포식자와 먹잇감의 만남!"
+
+#: deathforth/events/common/common4.df:515
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"It takes forever to feed in the dollar bills. The vending machine keeps "
+"spitting them out."
+msgstr "지폐를 넣는 데 한참 걸린다. 자판기가 자꾸 뱉어 낸다."
+
+#: deathforth/events/common/common4.df:519
+msgctxt "deathforth/events/common/common4.df"
+msgid "A fully loaded shotgun pops out of the vending machine!"
+msgstr "자판기에서 장전된 산탄총이 튀어나온다!"
+
+#: deathforth/events/common/common4.df:523
+msgctxt "deathforth/events/common/common4.df"
+msgid "A loaded cowboy rifle pops out of the vending machine!"
+msgstr "자판기에서 장전된 카우보이 소총이 튀어나온다!"
+
+#: deathforth/events/common/common4.df:527
+msgctxt "deathforth/events/common/common4.df"
+msgid "A loaded Dolt revolver pops out of the vending machine!"
+msgstr "자판기에서 장전된 돌트 리볼버가 튀어나온다!"
+
+#: deathforth/events/common/common4.df:531
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"A bag of chips drops out! Not the usual vending machine size, it's the "
+"enormous family size."
+msgstr "과자 봉지가 떨어진다! 자판기용 크기가 아니라 초대형 패밀리 사이즈다."
+
+#: deathforth/events/common/common4.df:534
+msgctxt "deathforth/events/common/common4.df"
+msgid "A jerrycan of gasoline plops out of the vending machine!"
+msgstr "자판기에서 휘발유 통이 툭 떨어진다!"
+
+#: deathforth/events/common/common4.df:537
+msgctxt "deathforth/events/common/common4.df"
+msgid "A large box of medicated bandages pops out of the vending machine!"
+msgstr "자판기에서 약 처리된 붕대 상자가 튀어나온다!"
+
+#: deathforth/events/common/common4.df:540
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"The vending machine's shape changes! It transforms into an electric car!\r\n"
+"\t\t\t"
+msgstr ""
+"자판기의 모양이 바뀐다! 전기차로 변신한다!\r\n"
+"\t\t\t"
+
+#: deathforth/events/common/common4.df:541
+msgctxt "deathforth/events/common/common4.df"
+msgid " gets in."
+msgstr "은(는) 올라탄다."
+
+#: deathforth/events/common/common4.df:544
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"A stick drops out of the vending machine! I'm not sure what you were "
+"expecting, it's a stick."
+msgstr "자판기에서 막대기가 떨어진다! 뭘 기대했는지 모르겠지만, 막대기다."
+
+#: deathforth/events/common/common4.df:548
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+"A hat pops out of the vending machine!\r\n"
+"\t\t"
+msgstr ""
+"자판기에서 모자가 튀어나온다!\r\n"
+"\t\t"
+
+#: deathforth/events/common/common4.df:549
+msgctxt "deathforth/events/common/common4.df"
+msgid " puts it on."
+msgstr "은(는) 그걸 쓴다."
+
+#: deathforth/events/common/common4.df:558
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" is going to have to feed the torn and wrinkled bills into the vending "
+"machine. This will be annoying."
+msgstr "은(는) 찢어지고 구겨진 지폐를 자판기에 넣어야 한다. 짜증 날 것이다."
+
+#: deathforth/events/common/common4.df:559
+msgctxt "deathforth/events/common/common4.df"
+msgid ": Feed bills in"
+msgstr ": 지폐를 넣는다"
+
+#: deathforth/events/common/common4.df:562
+msgctxt "deathforth/events/common/common4.df"
+msgid "Who should feed the mostly-rotted dollar bills into the machine?"
+msgstr "누가 거의 썩은 지폐를 자판기에 넣을까?"
+
+#: deathforth/events/common/common4.df:563
+msgctxt "deathforth/events/common/common4.df"
+msgid "WARNING: This will be a very annoying process"
+msgstr "경고: 아주 짜증 나는 과정임"
+
+#: deathforth/events/common/common4.df:565
+msgctxt "deathforth/events/common/common4.df"
+msgid "Leave it alone after all"
+msgstr "결국 그냥 둔다"
+
+#: deathforth/events/common/common4.df:579
+msgctxt "deathforth/events/common/common4.df"
+msgid "Strange Vending Machine"
+msgstr "이상한 자판기"
+
+#: deathforth/events/common/common4.df:580
+msgctxt "deathforth/events/common/common4.df"
+msgid ""
+" runs into a very out of place vending machine. It looks like someone made it from chunks of scrap iron. Its lights are still on.\r\n"
+"\tEverything in the machine costs $20, and "
+msgstr ""
+"은(는) 생뚱맞은 자판기를 만난다. 누가 고철 덩어리로 만든 것 같다. 불도 아직 켜져 있다.\r\n"
+"\t전부 $20이고, "
+
+#: deathforth/events/common/common4.df:581
+msgctxt "deathforth/events/common/common4.df"
+msgid " has about that much in wrinkled and frayed bills."
+msgstr "에게 딱 그 정도의 구겨지고 해진 지폐가 있다."
+
+#: deathforth/events/common/common4.df:585
+msgctxt "deathforth/events/common/common4.df"
+msgid "SHOTGUN FUN PACK"
+msgstr "산탄총 즐거움 팩"
+
+#: deathforth/events/common/common4.df:588
+msgctxt "deathforth/events/common/common4.df"
+msgid "ROOTEM TOOTEM RIFLE"
+msgstr "빵야빵야 소총"
+
+#: deathforth/events/common/common4.df:590
+msgctxt "deathforth/events/common/common4.df"
+msgid "REAL REVOLVER SET"
+msgstr "진짜 리볼버 세트"
+
+#: deathforth/events/common/common4.df:595
+msgctxt "deathforth/events/common/common4.df"
+msgid "BAG OF CHIPS"
+msgstr "과자 한 봉지"
+
+#: deathforth/events/common/common4.df:598
+msgctxt "deathforth/events/common/common4.df"
+msgid "GASOLINE CAN"
+msgstr "휘발유 통"
+
+#: deathforth/events/common/common4.df:600
+msgctxt "deathforth/events/common/common4.df"
+msgid "BOX O' BANDAGE"
+msgstr "붕대 상자"
+
+#: deathforth/events/common/common4.df:605
+msgctxt "deathforth/events/common/common4.df"
+msgid "A BRAND NEW CAR!"
+msgstr "신차!"
+
+#: deathforth/events/common/common4.df:608
+msgctxt "deathforth/events/common/common4.df"
+msgid "A STICK"
+msgstr "막대기"
+
+#: deathforth/events/common/common4.df:610
+msgctxt "deathforth/events/common/common4.df"
+msgid "A NEW HAT"
+msgstr "새 모자"
+
+#: deathforth/events/common/common5.df:8
+msgctxt "deathforth/events/common/common5.df"
+msgid "The future toilet emits a whirring noise and stops working."
+msgstr "미래형 변기가 윙윙 소리를 내더니 작동을 멈춘다."
+
+#: deathforth/events/common/common5.df:11
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The toilet sprays an enormous amount of water from a hidden bidet. This "
+"coats the room in water, but most of it hits "
+msgstr "변기 숨은 비데에서 엄청난 양의 물이 뿜어져 나온다. 방이 온통 젖지만, 대부분은 정통으로 맞는다: "
+
+#: deathforth/events/common/common5.df:11
+msgctxt "deathforth/events/common/common5.df"
+msgid " right in the eyes."
+msgstr "의 눈에."
+
+#: deathforth/events/common/common5.df:13
+msgctxt "deathforth/events/common/common5.df"
+msgid " delighted by this! "
+msgstr " 이걸 보고 즐거워한다! "
+
+#: deathforth/events/common/common5.df:14
+msgctxt "deathforth/events/common/common5.df"
+msgid "But wait! The bidet water was medicated and pleasantly scented! "
+msgstr "그런데 잠깐! 비데 물이 약용에 향까지 좋다! "
+
+#: deathforth/events/common/common5.df:14
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s vision sharpens!"
+msgstr "의 시력이 좋아진다!"
+
+#: deathforth/events/common/common5.df:15
+msgctxt "deathforth/events/common/common5.df"
+msgid " is fully healed by the medicated bidet water!"
+msgstr "은(는) 약용 비데 물로 완전히 회복된다!"
+
+#: deathforth/events/common/common5.df:20
+msgctxt "deathforth/events/common/common5.df"
+msgid "Song of the Toilet"
+msgstr "변기의 노래"
+
+#: deathforth/events/common/common5.df:21
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The toilet plays beautiful music. The music has no words, yet conveys a "
+"strong and haunting message of hope."
+msgstr "변기가 아름다운 음악을 연주한다. 가사는 없지만, 강렬하고 잊히지 않는 희망의 메시지를 전한다."
+
+#: deathforth/events/common/common5.df:26
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The toilet's lid opens and closes rapidly, with big WHOOMP sounds as the lid"
+" flings out gusts of air. The lid opens and closes about 30 times in a row, "
+"then stops."
+msgstr "변기 뚜껑이 빠르게 열렸다 닫혔다 하며 '훅' 소리와 함께 바람을 뿜는다. 30번쯤 반복하더니 멈춘다."
+
+#: deathforth/events/common/common5.df:27
+msgctxt "deathforth/events/common/common5.df"
+msgid " is confused by the purpose of this function."
+msgstr "은(는) 이 기능의 목적을 이해하지 못한다."
+
+#: deathforth/events/common/common5.df:32
+msgctxt "deathforth/events/common/common5.df"
+msgid "The toilet seat starts to hum and glow slightly."
+msgstr "변기 시트가 웅웅거리며 살짝 빛나기 시작한다."
+
+#: deathforth/events/common/common5.df:33
+msgctxt "deathforth/events/common/common5.df"
+msgid " sits down. The eletronic toilet seat gives "
+msgstr "은(는) 앉는다. 전자 변기 시트가 해 준다: "
+
+#: deathforth/events/common/common5.df:33
+msgctxt "deathforth/events/common/common5.df"
+msgid " a powerful gluteal"
+msgstr "에게 강력한 둔부"
+
+#: deathforth/events/common/common5.df:33
+msgctxt "deathforth/events/common/common5.df"
+msgid " massage, as the toilet repeatedly chants in different languages:"
+msgstr " 마사지를. 그러면서 변기가 여러 언어로 반복해서 읊조린다:"
+
+#: deathforth/events/common/common5.df:34
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"THE GLUTES ARE THE KEY TO FITNESS\r\n"
+"\tTHE GLUTES ARE THE KEY TO STRENGTH\r\n"
+"\tTHE GLUTES ARE THE KEY TO POWER\r\n"
+"\tTHE GLUTES ARE THE CENTER OF LIFE"
+msgstr ""
+"둔근이 체력의 열쇠다\r\n"
+"\t둔근이 근력의 열쇠다\r\n"
+"\t둔근이 힘의 열쇠다\r\n"
+"\t둔근이 생명의 중심이다"
+
+#: deathforth/events/common/common5.df:39
+msgctxt "deathforth/events/common/common5.df"
+msgid "*Vocabulary note: Gluteal means 'butt'"
+msgstr "*어휘 노트: 둔부는 '엉덩이'라는 뜻"
+
+#: deathforth/events/common/common5.df:43
+msgctxt "deathforth/events/common/common5.df"
+msgid "Toilet of the Past's Future"
+msgstr "과거의 미래 변기"
+
+#: deathforth/events/common/common5.df:44
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" discovers something incredible while exploring a house: An actual working toilet. Everyone has been doing their business in the woods.\r\n"
+"\tThe toilet has a futuristic control panel full of buttons. "
+msgstr ""
+"은(는) 집을 뒤지다 놀라운 걸 발견한다: 진짜로 작동하는 변기. 다들 숲에서 볼일을 봐 왔었다.\r\n"
+"\t변기엔 버튼이 가득한 미래형 제어판이 있다. "
+
+#: deathforth/events/common/common5.df:45
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" feels compelled to press one, and chooses the button labelled with a "
+"picture of:"
+msgstr "은(는) 하나 눌러 보고 싶어서, 이런 그림이 그려진 버튼을 고른다:"
+
+#: deathforth/events/common/common5.df:46
+msgctxt "deathforth/events/common/common5.df"
+msgid "Jets of Water?"
+msgstr "물줄기?"
+
+#: deathforth/events/common/common5.df:47
+msgctxt "deathforth/events/common/common5.df"
+msgid "Musical Notes"
+msgstr "음표"
+
+#: deathforth/events/common/common5.df:48
+msgctxt "deathforth/events/common/common5.df"
+msgid "Wings Flapping"
+msgstr "날개 퍼덕임"
+
+#: deathforth/events/common/common5.df:49
+msgctxt "deathforth/events/common/common5.df"
+msgid "A Butt?"
+msgstr "엉덩이?"
+
+#: deathforth/events/common/common5.df:54
+msgctxt "deathforth/events/common/common5.df"
+msgid "With the day wasted, "
+msgstr "하루를 날려서, "
+
+#: deathforth/events/common/common5.df:54
+msgctxt "deathforth/events/common/common5.df"
+msgid " has to set up camp."
+msgstr "은(는) 야영을 해야 한다."
+
+#: deathforth/events/common/common5.df:55
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The shop is a trendy upscale grocery store. Most of the fancier items have "
+"rotted to mush, but there's still some loot."
+msgstr "가게는 고급 유기농 식료품점이다. 비싼 물건은 대부분 썩어 곤죽이 됐지만, 쓸 만한 건 아직 좀 있다."
+
+#: deathforth/events/common/common5.df:61
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" scampers towards the line and then passes it completely.\r\n"
+"\t\tHours later, "
+msgstr ""
+"은(는) 줄 쪽으로 쪼르르 달려가더니 줄을 완전히 지나쳐 버린다.\r\n"
+"\t\t몇 시간 뒤, "
+
+#: deathforth/events/common/common5.df:62
+msgctxt "deathforth/events/common/common5.df"
+msgid " returns with a stick in "
+msgstr "은(는) 막대기를 물고 돌아온다: "
+
+#: deathforth/events/common/common5.df:62
+msgctxt "deathforth/events/common/common5.df"
+msgid " mouth."
+msgstr " 입에."
+
+#: deathforth/events/common/common5.df:69
+msgctxt "deathforth/events/common/common5.df"
+msgid " rushes into the shop, avoiding the line. "
+msgstr "은(는) 줄을 피해 가게 안으로 뛰어든다. "
+
+#: deathforth/events/common/common5.df:69
+msgctxt "deathforth/events/common/common5.df"
+msgid " emerges carrying a dead rodent, possibly a gerbil?"
+msgstr "는 죽은 설치류를 물고 나온다. 아마 저빌?"
+
+#: deathforth/events/common/common5.df:74
+msgctxt "deathforth/events/common/common5.df"
+msgid " lies down for a little break. As an animal, "
+msgstr "은(는) 잠깐 쉬려고 드러눕는다. 동물이라서 "
+
+#: deathforth/events/common/common5.df:74
+msgctxt "deathforth/events/common/common5.df"
+msgid " either doesn't understand the concept of a line, or pretends not to."
+msgstr "는 줄이라는 개념을 모르거나, 모르는 척한다."
+
+#: deathforth/events/common/common5.df:79
+msgctxt "deathforth/events/common/common5.df"
+msgid " skips the line completely. "
+msgstr "은(는) 줄을 완전히 건너뛴다. "
+
+#: deathforth/events/common/common5.df:79
+msgctxt "deathforth/events/common/common5.df"
+msgid " didn't notice there was a line at all, or zombies."
+msgstr "는 줄이 있는지도, 좀비가 있는지도 몰랐다."
+
+#: deathforth/events/common/common5.df:85
+msgctxt "deathforth/events/common/common5.df"
+msgid " just goes ahead and skips the line completely. "
+msgstr "은(는) 그냥 대놓고 줄을 건너뛴다. "
+
+#: deathforth/events/common/common5.df:85
+msgctxt "deathforth/events/common/common5.df"
+msgid " does NOT play by the rules!"
+msgstr "는 규칙 따윈 안 지킨다!"
+
+#: deathforth/events/common/common5.df:88
+msgctxt "deathforth/events/common/common5.df"
+msgid " lasts about a minute in the line before losing "
+msgstr "은(는) 줄에 1분쯤 서 있다가 잃는다: "
+
+#: deathforth/events/common/common5.df:88
+msgctxt "deathforth/events/common/common5.df"
+msgid " temper!"
+msgstr " 성질을!"
+
+#: deathforth/events/common/common5.df:90
+msgctxt "deathforth/events/common/common5.df"
+msgid "WAITING IN LINE IS FOR NERDS!"
+msgstr "줄 서는 건 찐따나 하는 거야!"
+
+#: deathforth/events/common/common5.df:91
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" starts speed-punching all the zombies in the line until they explode. "
+"There's too many to punch so "
+msgstr "는 줄 선 좀비들을 터질 때까지 연타하기 시작한다. 때릴 좀비가 너무 많아서 "
+
+#: deathforth/events/common/common5.df:91
+msgctxt "deathforth/events/common/common5.df"
+msgid " gets tired and stumbles away, sweating. What a workout!"
+msgstr "는 지쳐서 땀범벅으로 비틀거리며 물러난다. 운동 한번 제대로 했다!"
+
+#: deathforth/events/common/common5.df:94
+msgctxt "deathforth/events/common/common5.df"
+msgid " starts attacking the zombie in front of "
+msgstr "는 공격하기 시작한다. 앞에 선 좀비를: "
+
+#: deathforth/events/common/common5.df:94
+msgctxt "deathforth/events/common/common5.df"
+msgid ". The other zombies eventually notice and start attacking. "
+msgstr ". 다른 좀비들이 결국 눈치채고 공격하기 시작한다. "
+
+#: deathforth/events/common/common5.df:94
+msgctxt "deathforth/events/common/common5.df"
+msgid " is forced to run!"
+msgstr "은(는) 도망쳐야 한다!"
+
+#: deathforth/events/common/common5.df:99
+msgctxt "deathforth/events/common/common5.df"
+msgid " patiently waits in the long line. It moves forward very slowly, but "
+msgstr "은(는) 긴 줄에서 참을성 있게 기다린다. 아주 천천히 줄어들지만, "
+
+#: deathforth/events/common/common5.df:99
+msgctxt "deathforth/events/common/common5.df"
+msgid " calmly waits it out."
+msgstr "는 차분히 기다린다."
+
+#: deathforth/events/common/common5.df:104
+msgctxt "deathforth/events/common/common5.df"
+msgid " waits in line. It inches forward, to "
+msgstr "은(는) 줄을 선다. 조금씩 줄어드는데, 그게 짜증 난다: "
+
+#: deathforth/events/common/common5.df:104
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s great irritation."
+msgstr "에게 몹시."
+
+#: deathforth/events/common/common5.df:106
+msgctxt "deathforth/events/common/common5.df"
+msgid " tries to think about this positively. "
+msgstr "은(는) 긍정적으로 생각해 보려 한다. "
+
+#: deathforth/events/common/common5.df:106
+msgctxt "deathforth/events/common/common5.df"
+msgid " manages to endure and get inside the store!"
+msgstr "는 꾹 참고 가게 안까지 들어간다!"
+
+#: deathforth/events/common/common5.df:109
+msgctxt "deathforth/events/common/common5.df"
+msgid "After hours of this, the zombies turn on "
+msgstr "몇 시간 뒤, 좀비들이 등을 돌린다: "
+
+#: deathforth/events/common/common5.df:109
+msgctxt "deathforth/events/common/common5.df"
+msgid " due to "
+msgstr "에게. 이유는 "
+
+#: deathforth/events/common/common5.df:109
+msgctxt "deathforth/events/common/common5.df"
+msgid " constant whining. "
+msgstr " 끝없는 징징거림. "
+
+#: deathforth/events/common/common5.df:109
+msgctxt "deathforth/events/common/common5.df"
+msgid " is forced to flee!"
+msgstr "는 도망쳐야 한다!"
+
+#: deathforth/events/common/common5.df:115
+msgctxt "deathforth/events/common/common5.df"
+msgid "Choose who gets to wait in the zombie line:"
+msgstr "누가 좀비 줄에 서서 기다릴지 고르세요:"
+
+#: deathforth/events/common/common5.df:120
+msgctxt "deathforth/events/common/common5.df"
+msgid "Still Having to Wait in Line"
+msgstr "여전히 줄을 서야 한다"
+
+#: deathforth/events/common/common5.df:121
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" runs into a horde of zombies. They're completely docile, just waiting "
+"outside of a shop in a big single-file line. Every zombie is staring "
+"straight ahead."
+msgstr ""
+"은(는) 좀비 무리를 만난다. 완전히 얌전하고, 가게 밖에 한 줄로 길게 서서 기다리고 있다. 좀비들이 하나같이 정면만 바라본다."
+
+#: deathforth/events/common/common5.df:122
+msgctxt "deathforth/events/common/common5.df"
+msgid "Ignore this weirdness"
+msgstr "이 이상한 건 무시한다"
+
+#: deathforth/events/common/common5.df:124
+msgctxt "deathforth/events/common/common5.df"
+msgid "The shop's sign is faded out and can't be read."
+msgstr "가게 간판이 바래서 읽을 수 없다."
+
+#: deathforth/events/common/common5.df:125
+msgctxt "deathforth/events/common/common5.df"
+msgid ": Wait in line"
+msgstr ": 줄을 선다"
+
+#: deathforth/events/common/common5.df:127
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"You can send someone to join the line, to solve this mystery. It looks like "
+"it could be a long wait."
+msgstr "누군가를 줄에 세워서 수수께끼를 풀 수 있다. 오래 기다려야 할 것 같다."
+
+#: deathforth/events/common/common5.df:130
+#: deathforth/events/common/common5.df:398
+#: deathforth/events/common/common5.df:508
+#: deathforth/events/common/common5.df:632
+#: deathforth/events/common/common5.df:923
+msgctxt "deathforth/events/common/common5.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/events/common/common5.df:139
+msgctxt "deathforth/events/common/common5.df"
+msgid " is compelled to throw a rock at the hapless zombie."
+msgstr "은(는) 저 불쌍한 좀비에게 돌을 던지고 싶은 충동을 참을 수 없다."
+
+#: deathforth/events/common/common5.df:141
+msgctxt "deathforth/events/common/common5.df"
+msgid " keeps accidentally throwing the rock in ways that make it return to "
+msgstr "는 자꾸 실수로 돌을 던져서 되돌아오게 만든다: "
+
+#: deathforth/events/common/common5.df:141
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+". First it was straight up, then the next few times it hit the fence. This goes on for several hours.\r\n"
+"\t\t"
+msgstr ""
+"에게. 처음엔 위로 똑바로, 그다음 몇 번은 울타리에 맞았다. 이게 몇 시간이나 이어진다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/common5.df:142
+msgctxt "deathforth/events/common/common5.df"
+msgid " eventually throws the rock over the fence, just barely. "
+msgstr "은(는) 결국 간신히 울타리 너머로 돌을 던진다. "
+
+#: deathforth/events/common/common5.df:142
+msgctxt "deathforth/events/common/common5.df"
+msgid " is nearly dead from exhaustion by then."
+msgstr "는 그때쯤 지쳐서 거의 죽을 지경이다."
+
+#: deathforth/events/common/common5.df:147
+msgctxt "deathforth/events/common/common5.df"
+msgid " puts all "
+msgstr "는 쏟아붓는다: "
+
+#: deathforth/events/common/common5.df:147
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" might into a mighty downward throw. The rock misses the zombie, but "
+"obliterates a small garden gnome."
+msgstr " 온 힘을 내리꽂는 투구에. 돌은 좀비를 빗나가지만, 작은 정원 노움을 박살 낸다."
+
+#: deathforth/events/common/common5.df:149
+msgctxt "deathforth/events/common/common5.df"
+msgid " realizes that this is very offensive to "
+msgstr "은(는) 이게 매우 모욕적임을 깨닫는다: "
+
+#: deathforth/events/common/common5.df:152
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" performs a throw with perfect form. The rock sails gracefully through the "
+"air. It misses the zombie by far, but what a nice throw!"
+msgstr "는 완벽한 자세로 던진다. 돌이 우아하게 날아간다. 좀비는 한참 빗나갔지만, 멋진 투구다!"
+
+#: deathforth/events/common/common5.df:155
+msgctxt "deathforth/events/common/common5.df"
+msgid " not only misses, but performs a really embarassing throw. "
+msgstr "는 빗맞힐 뿐 아니라, 엄청 창피한 투구를 한다. "
+
+#: deathforth/events/common/common5.df:155
+msgctxt "deathforth/events/common/common5.df"
+msgid " stumbles and nearly falls over the fence and off the cliff."
+msgstr "는 비틀거리다 울타리 너머 절벽으로 떨어질 뻔한다."
+
+#: deathforth/events/common/common5.df:159
+msgctxt "deathforth/events/common/common5.df"
+msgid "The Perfect Rock"
+msgstr "완벽한 돌"
+
+#: deathforth/events/common/common5.df:160
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" finds a perfect throwing rock on the ground. It is next to a low fence "
+"guarding a big fall. At the bottom of this drop is a single zombie, standing"
+" there, staring at nothing in particular."
+msgstr ""
+"은(는) 땅에서 던지기 딱 좋은 돌을 찾는다. 높은 낭떠러지를 막은 낮은 울타리 옆이다. 그 아래엔 좀비 한 마리가 허공을 멍하니 "
+"바라보며 서 있다."
+
+#: deathforth/events/common/common5.df:162
+msgctxt "deathforth/events/common/common5.df"
+msgid " feels a burning desire to throw the rock at this zombie."
+msgstr "은(는) 이 좀비에게 돌을 던지고 싶은 불타는 욕망을 느낀다."
+
+#: deathforth/events/common/common5.df:163
+msgctxt "deathforth/events/common/common5.df"
+msgid "Leave zombie alone"
+msgstr "좀비를 내버려 둔다"
+
+#: deathforth/events/common/common5.df:164
+msgctxt "deathforth/events/common/common5.df"
+msgid ": Throw rock!"
+msgstr ": 돌을 던진다!"
+
+#: deathforth/events/common/common5.df:166
+msgctxt "deathforth/events/common/common5.df"
+msgid "It's too good to pass up. Someone MUST throw that rock at this zombie:"
+msgstr "이 기회를 놓칠 순 없다. 누군가 반드시 저 좀비에게 돌을 던져야 한다:"
+
+#: deathforth/events/common/common5.df:175
+msgctxt "deathforth/events/common/common5.df"
+msgid " doesn't have a car right now, so it's not a very close race."
+msgstr "은(는) 지금 차가 없어서, 별로 박빙의 승부가 아니다."
+
+#: deathforth/events/common/common5.df:176
+msgctxt "deathforth/events/common/common5.df"
+msgid "I WIN, NERDS!"
+msgstr "내가 이겼다, 찐따들아!"
+
+#: deathforth/events/common/common5.df:178
+msgctxt "deathforth/events/common/common5.df"
+msgid "The race begins! Both drivers "
+msgstr "경주가 시작된다! 두 운전자 모두 "
+
+#: deathforth/events/common/common5.df:178
+msgctxt "deathforth/events/common/common5.df"
+msgid "FLOOR IT!"
+msgstr "밟아!"
+
+#: deathforth/events/common/common5.df:180
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s slow car had no chance at all in this race."
+msgstr "의 느린 차는 이 경주에서 전혀 승산이 없었다."
+
+#: deathforth/events/common/common5.df:183
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s car is too slow, and is left far behind."
+msgstr "의 차는 너무 느려서 한참 뒤처진다."
+
+#: deathforth/events/common/common5.df:186
+msgctxt "deathforth/events/common/common5.df"
+msgid "Your car easily wins the race, leaving the other driver in the dust."
+msgstr "네 차가 여유 있게 이기며 상대를 먼지 속에 남겨 둔다."
+
+#: deathforth/events/common/common5.df:189
+msgctxt "deathforth/events/common/common5.df"
+msgid "Your car barely wins the race. The other driver gives a thumbs up."
+msgstr "네 차가 간발의 차로 이긴다. 상대 운전자가 엄지를 치켜든다."
+
+#: deathforth/events/common/common5.df:195
+msgctxt "deathforth/events/common/common5.df"
+msgid "YOU CAN'T DO THAT! YOU CAN'T IGNORE A DRAG RACE CHALLENGE!"
+msgstr "그럴 순 없지! 드래그 레이스 도전을 무시할 순 없어!"
+
+#: deathforth/events/common/common5.df:197
+#: deathforth/events/common/common5.df:200
+msgctxt "deathforth/events/common/common5.df"
+msgid "The driver bumps into "
+msgstr "운전자가 들이받는다: "
+
+#: deathforth/events/common/common5.df:197
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"'s car, but just bounces right off the armor.\r\n"
+"\t\t\tThe driver's car careens off the road and crashes into a ditch."
+msgstr ""
+"의 차를. 하지만 장갑에 튕겨 나간다.\r\n"
+"\t\t\t운전자의 차는 도로를 벗어나 도랑에 처박힌다."
+
+#: deathforth/events/common/common5.df:198
+msgctxt "deathforth/events/common/common5.df"
+msgid " is very amused by this."
+msgstr "은(는) 이게 몹시 재밌다."
+
+#: deathforth/events/common/common5.df:200
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s car, sending it into a spin."
+msgstr "의 차를. 차가 빙글 돈다."
+
+#: deathforth/events/common/common5.df:203
+msgctxt "deathforth/events/common/common5.df"
+msgid "The car takes minor damage, and "
+msgstr "차가 약간 손상되고, "
+
+#: deathforth/events/common/common5.df:203
+msgctxt "deathforth/events/common/common5.df"
+msgid " gets hurt."
+msgstr "은(는) 다친다."
+
+#: deathforth/events/common/common5.df:205
+msgctxt "deathforth/events/common/common5.df"
+msgid "The battered car couldn't take that stress. It stops running."
+msgstr "너덜너덜한 차가 그 충격을 못 버티고 멈춰 버린다."
+
+#: deathforth/events/common/common5.df:208
+msgctxt "deathforth/events/common/common5.df"
+msgid "FINE, BE THAT WAY! I'LL BE BACK WHEN YOU HAVE A CAR!"
+msgstr "좋아, 맘대로 해! 차 생기면 다시 온다!"
+
+#: deathforth/events/common/common5.df:209
+msgctxt "deathforth/events/common/common5.df"
+msgid "The driver "
+msgstr "운전자가 "
+
+#: deathforth/events/common/common5.df:209
+msgctxt "deathforth/events/common/common5.df"
+msgid "PEELS OUT!"
+msgstr "급출발해 사라진다!"
+
+#: deathforth/events/common/common5.df:215
+msgctxt "deathforth/events/common/common5.df"
+msgid "Before the drag race can start, "
+msgstr "드래그 레이스가 시작되기도 전에, "
+
+#: deathforth/events/common/common5.df:215
+msgctxt "deathforth/events/common/common5.df"
+msgid " plows "
+msgstr "은(는) 들이받는다: "
+
+#: deathforth/events/common/common5.df:215
+msgctxt "deathforth/events/common/common5.df"
+msgid " car into the opponent's car."
+msgstr " 차로 상대 차를."
+
+#: deathforth/events/common/common5.df:217
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"Your armored car obliterates the fast but flimsy vehicle, the armor doesn't "
+"even get scratched."
+msgstr "네 장갑차가 빠르지만 허약한 차를 박살 낸다. 장갑엔 흠집 하나 안 났다."
+
+#: deathforth/events/common/common5.df:221
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"Both cars take damage, but the opponent's vehicle takes a lot more. You win "
+"the race!"
+msgstr "두 차 모두 손상됐지만, 상대 차가 훨씬 심하다. 경주에서 이겼다!"
+
+#: deathforth/events/common/common5.df:223
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"Both cars are damaged enough to no longer drive. That makes the race a tie!"
+msgstr "두 차 모두 더는 달릴 수 없을 만큼 망가졌다. 경주는 무승부다!"
+
+#: deathforth/events/common/common5.df:226
+msgctxt "deathforth/events/common/common5.df"
+msgid "The annoying driver runs away, screaming "
+msgstr "짜증 나는 운전자가 소리치며 도망간다: "
+
+#: deathforth/events/common/common5.df:226
+msgctxt "deathforth/events/common/common5.df"
+msgid "CHEATER! "
+msgstr "반칙이야! "
+
+#: deathforth/events/common/common5.df:226
+msgctxt "deathforth/events/common/common5.df"
+msgid " siphons some gas from his wreckage."
+msgstr "은(는) 그의 잔해에서 기름을 좀 빼낸다."
+
+#: deathforth/events/common/common5.df:231
+msgctxt "deathforth/events/common/common5.df"
+msgid " isn't clear on the rules of drag racing."
+msgstr "은(는) 드래그 레이스 규칙을 잘 모른다."
+
+#: deathforth/events/common/common5.df:232
+msgctxt "deathforth/events/common/common5.df"
+msgid "THE ONLY RULE OF DRAG RACING... IS THAT THERE ARE NO RULES!"
+msgstr "드래그 레이스의 유일한 규칙... 그건 규칙이 없다는 거다!"
+
+#: deathforth/events/common/common5.df:233
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The driver then goes on to ramble on about a long list of drag racing rules."
+" "
+msgstr "운전자는 그러고는 드래그 레이스 규칙을 길게 늘어놓기 시작한다. "
+
+#: deathforth/events/common/common5.df:235
+msgctxt "deathforth/events/common/common5.df"
+msgid "During this, "
+msgstr "그러는 동안, "
+
+#: deathforth/events/common/common5.df:235
+msgctxt "deathforth/events/common/common5.df"
+msgid " goes ahead and siphons all the gas from the driver's car."
+msgstr "은(는) 운전자의 차에서 기름을 전부 빼 버린다."
+
+#: deathforth/events/common/common5.df:237
+msgctxt "deathforth/events/common/common5.df"
+msgid "At around rule 60, "
+msgstr "규칙 60번쯤에서, "
+
+#: deathforth/events/common/common5.df:237
+msgctxt "deathforth/events/common/common5.df"
+msgid " slowly drives away while the driver keeps talking."
+msgstr "은(는) 운전자가 계속 떠드는 사이 천천히 차를 몰고 떠난다."
+
+#: deathforth/events/common/common5.df:242
+msgctxt "deathforth/events/common/common5.df"
+msgid "FAAF 15: Gotta Go Fast"
+msgstr "분노의 질주 15: 빨리 가야 해"
+
+#: deathforth/events/common/common5.df:243
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"A fast and fancy car pulls up to you dramatically. The driver shouts from "
+"his window:"
+msgstr "빠르고 멋진 차가 극적으로 다가와 선다. 운전자가 창문 밖으로 외친다:"
+
+#: deathforth/events/common/common5.df:244
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"ON THE DEATH ROAD, THE ONLY WAY TO SURVIVE IS TO BE FAST. AND ALSO FURIOUS."
+msgstr "데스 로드에서 살아남는 유일한 길은 빨라지는 거다. 그리고 분노하는 거고."
+
+#: deathforth/events/common/common5.df:245
+msgctxt "deathforth/events/common/common5.df"
+msgid "He challenges you to a drag race."
+msgstr "그가 드래그 레이스를 신청한다."
+
+#: deathforth/events/common/common5.df:246
+msgctxt "deathforth/events/common/common5.df"
+msgid "Ignore lunatic"
+msgstr "미친놈은 무시한다"
+
+#: deathforth/events/common/common5.df:248
+msgctxt "deathforth/events/common/common5.df"
+msgid "Ram into his car"
+msgstr "그의 차를 들이받는다"
+
+#: deathforth/events/common/common5.df:250
+msgctxt "deathforth/events/common/common5.df"
+msgid "Accept challenge"
+msgstr "도전을 받아들인다"
+
+#: deathforth/events/common/common5.df:252
+msgctxt "deathforth/events/common/common5.df"
+msgid ": Ask for rules"
+msgstr ": 규칙을 묻는다"
+
+#: deathforth/events/common/common5.df:259
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" siphons the gas out of the generator. There wasn't much left, but every little bit helps.\r\n"
+"\tThe radio station's power shuts down."
+msgstr ""
+"은(는) 발전기에서 기름을 빼낸다. 별로 안 남았지만, 조금이라도 도움이 된다.\r\n"
+"\t라디오 방송국의 전원이 꺼진다."
+
+#: deathforth/events/common/common5.df:270
+msgctxt "deathforth/events/common/common5.df"
+msgid " says something along the lines of "
+msgstr "은(는) 대충 이렇게 말한다: "
+
+#: deathforth/events/common/common5.df:270
+msgctxt "deathforth/events/common/common5.df"
+msgid "BARK!"
+msgstr "멍!"
+
+#: deathforth/events/common/common5.df:270
+msgctxt "deathforth/events/common/common5.df"
+msgid " or maybe "
+msgstr " 아니면 "
+
+#: deathforth/events/common/common5.df:270
+msgctxt "deathforth/events/common/common5.df"
+msgid "BORK?"
+msgstr "왕?"
+
+#: deathforth/events/common/common5.df:270
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"\r\n"
+"\t\tHere's hoping that it confused a lot of people listening to their radios."
+msgstr ""
+"\r\n"
+"\t\t라디오 듣던 사람들이 많이 헷갈렸길 바란다."
+
+#: deathforth/events/common/common5.df:276
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" attacks the microphone!\r\n"
+"\t\tThe microphone is destroyed!\r\n"
+"\t\t"
+msgstr ""
+"은(는) 마이크를 공격한다!\r\n"
+"\t\t마이크가 박살 났다!\r\n"
+"\t\t"
+
+#: deathforth/events/common/common5.df:278
+msgctxt "deathforth/events/common/common5.df"
+msgid " is very pleased about getting rid of this threat."
+msgstr "은(는) 위협을 제거해서 아주 흡족하다."
+
+#: deathforth/events/common/common5.df:282
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" turns the microphone on by accident, then blurts out a lot of embarassing personal facts.\r\n"
+"\t\tThis includes some useful information to bandits, such as location and current amount of supplies."
+msgstr ""
+"은(는) 실수로 마이크를 켜고 창피한 개인사를 잔뜩 털어놓는다.\r\n"
+"\t\t여기엔 위치나 현재 물자량 같은, 약탈자에게 유용한 정보도 포함된다."
+
+#: deathforth/events/common/common5.df:288
+msgctxt "deathforth/events/common/common5.df"
+msgid " repeatedly shrieks "
+msgstr "은(는) 반복해서 외친다: "
+
+#: deathforth/events/common/common5.df:288
+msgctxt "deathforth/events/common/common5.df"
+msgid "COOL IT!"
+msgstr "진정해!"
+
+#: deathforth/events/common/common5.df:288
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" into the microphone.\r\n"
+"\t\tAfter eleven of these shrieks, the radio equipment shorts out and the generator lights on fire."
+msgstr ""
+" 마이크에 대고.\r\n"
+"\t\t열한 번 외치자, 방송 장비가 합선되고 발전기에 불이 붙는다."
+
+#: deathforth/events/common/common5.df:293
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" broadcasts a long, nearly breathless rant about how the zombie apocalypse was created by the government.\r\n"
+"\t\tThe project was codenamed "
+msgstr ""
+"은(는) 좀비 종말이 정부가 만든 거라는 거의 숨도 안 쉬는 긴 열변을 방송한다.\r\n"
+"\t\t프로젝트 코드명은 "
+
+#: deathforth/events/common/common5.df:294
+msgctxt "deathforth/events/common/common5.df"
+msgid "PROJECT: DINGUS"
+msgstr "프로젝트: 바보"
+
+#: deathforth/events/common/common5.df:294
+msgctxt "deathforth/events/common/common5.df"
+msgid " and the intended goal was to serve as a smokescreen for making jorts"
+msgstr "였고, 진짜 목적은 청반바지를 불법화하기 위한 연막이었다는 것이다"
+
+#: deathforth/events/common/common5.df:295
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" illegal.\r\n"
+"\t\tFINALLY, the truth has been revealed!"
+msgstr ""
+"\r\n"
+"\t\t드디어 진실이 밝혀졌다!"
+
+#: deathforth/events/common/common5.df:297
+msgctxt "deathforth/events/common/common5.df"
+msgid "* Note: Jorts mean 'jean shorts'."
+msgstr "* 참고: 청반바지 = 'jorts'."
+
+#: deathforth/events/common/common5.df:301
+msgctxt "deathforth/events/common/common5.df"
+msgid " broadcasts a helpful message:"
+msgstr "은(는) 유익한 메시지를 방송한다:"
+
+#: deathforth/events/common/common5.df:303
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"CIVILIZATION HAS ENDED!\r\n"
+"\t\t\tLIE, CHEAT, STEAL GAS FROM TOILETS!\r\n"
+"\t\t\tHOMEWORK SUCKS!!!"
+msgstr ""
+"문명은 끝났다!\r\n"
+"\t\t\t거짓말하고, 속이고, 변기에서 기름을 훔쳐라!\r\n"
+"\t\t\t숙제는 구려!!!"
+
+#: deathforth/events/common/common5.df:306
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The last line of this tirade is yelled so loud that the microphone emits "
+"feedback."
+msgstr "이 열변의 마지막 줄을 너무 크게 외쳐서 마이크에서 하울링이 난다."
+
+#: deathforth/events/common/common5.df:310
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"EVERYONE BUT ME\r\n"
+"\t\t\t... IS A NERD!"
+msgstr ""
+"나 빼고 다\r\n"
+"\t\t\t... 찐따야!"
+
+#: deathforth/events/common/common5.df:320
+msgctxt "deathforth/events/common/common5.df"
+msgid " knows that "
+msgstr "은(는) 알고 있다. "
+
+#: deathforth/events/common/common5.df:320
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" message can save lives, and desperately rattles off as much practical "
+"medical knowledge as "
+msgstr " 메시지가 생명을 구할 수 있다는 걸. 그래서 필사적으로 실용적인 의학 지식을 쏟아낸다. "
+
+#: deathforth/events/common/common5.df:320
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" can in a short time.\r\n"
+"\t\t\tMaybe this can help someone."
+msgstr ""
+"가 짧은 시간에 할 수 있는 만큼.\r\n"
+"\t\t\t누군가에게 도움이 되길."
+
+#: deathforth/events/common/common5.df:326
+msgctxt "deathforth/events/common/common5.df"
+msgid " proudly spouts as much medical knowledge as "
+msgstr "은(는) 자랑스럽게 의학 지식을 늘어놓는다. "
+
+#: deathforth/events/common/common5.df:326
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" can in a short time.\r\n"
+"\t\t\tIt's all really bad advice that makes anyone that hears it actually worse off."
+msgstr ""
+"가 짧은 시간에 할 수 있는 만큼.\r\n"
+"\t\t\t전부 끔찍한 조언이라 들은 사람은 오히려 상태가 나빠진다."
+
+#: deathforth/events/common/common5.df:335
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" broadcasts a short impromptu talk show that is a crash course in car repair. It's informative and entertaining.\r\n"
+"\t\t\tMaybe this can help someone."
+msgstr ""
+"은(는) 자동차 수리 속성 강좌 같은 즉석 토크쇼를 방송한다. 유익하고 재밌다.\r\n"
+"\t\t\t누군가에게 도움이 되길."
+
+#: deathforth/events/common/common5.df:341
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" rambles on about repairing sweet cars and 'crafting level 3 lighting-flame-chainsaws' until the power runs out.\r\n"
+"\t\t\tAnyone that hears this actually gets worse at repairing things."
+msgstr ""
+"은(는) 멋진 차 수리와 '레벨 3 번개 불꽃 전기톱 제작'에 대해 전원이 나갈 때까지 떠든다.\r\n"
+"\t\t\t이걸 들은 사람은 오히려 수리 실력이 떨어진다."
+
+#: deathforth/events/common/common5.df:350
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" creates an intense radio calisthenics show. Whoever is listening joins in with the exercises.\r\n"
+"\t\t\tThe total combined sweat from this could fill up a bathtub."
+msgstr ""
+"은(는) 강렬한 라디오 체조 방송을 한다. 듣는 사람은 다 따라 한다.\r\n"
+"\t\t\t이걸로 흘린 땀을 다 합치면 욕조를 채울 정도다."
+
+#: deathforth/events/common/common5.df:359
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" broadcasts some very effective tips and theories on zombie shooting.\r\n"
+"\t\t\tDuring the show, "
+msgstr ""
+"은(는) 아주 효과적인 좀비 사격 팁과 이론을 방송한다.\r\n"
+"\t\t\t방송 중에 "
+
+#: deathforth/events/common/common5.df:360
+msgctxt "deathforth/events/common/common5.df"
+msgid " even comes up with some new trick shots."
+msgstr "는 새로운 묘기 사격까지 고안해 낸다."
+
+#: deathforth/events/common/common5.df:368
+msgctxt "deathforth/events/common/common5.df"
+msgid " reads a poem that "
+msgstr "은(는) 시를 읽는다. "
+
+#: deathforth/events/common/common5.df:368
+msgctxt "deathforth/events/common/common5.df"
+msgid " wrote about how much "
+msgstr "가 쓴 시다. 내용은 "
+
+#: deathforth/events/common/common5.df:368
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" loves being strong.\r\n"
+"\t\t\tThe Four Spirits of Swoleness hear this sweet poem, and they confer their blessing!"
+msgstr ""
+"가 힘센 게 얼마나 좋은지.\r\n"
+"\t\t\t근육의 네 정령이 이 달콤한 시를 듣고 축복을 내린다!"
+
+#: deathforth/events/common/common5.df:376
+msgctxt "deathforth/events/common/common5.df"
+msgid " can't come up with anything else, so "
+msgstr "은(는) 아무것도 생각나지 않아서, "
+
+#: deathforth/events/common/common5.df:376
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" sings a song.\r\n"
+"\t\tIt's a great performance, sure to become a new post-zombocalpyic hit single!"
+msgstr ""
+"는 노래를 부른다.\r\n"
+"\t\t끝내주는 공연이다. 좀비 종말 이후의 히트곡이 될 게 분명하다!"
+
+#: deathforth/events/common/common5.df:380
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" can't think of anything to say, and stays silent even as the power runs "
+"out."
+msgstr "은(는) 할 말이 하나도 생각나지 않아서, 전원이 나갈 때까지 침묵한다."
+
+#: deathforth/events/common/common5.df:384
+msgctxt "deathforth/events/common/common5.df"
+msgid "Who gets to be the radio DJ?"
+msgstr "누가 라디오 DJ를 할까?"
+
+#: deathforth/events/common/common5.df:389
+msgctxt "deathforth/events/common/common5.df"
+msgid "Death Road Radio"
+msgstr "데스 로드 라디오"
+
+#: deathforth/events/common/common5.df:390
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" finds a radio station. The broadcasting equipment is hooked up to a gas "
+"generator with a small amount of fuel left. There's enough power to get out "
+"one message to anyone that may hear it. "
+msgstr ""
+"은(는) 라디오 방송국을 찾는다. 방송 장비가 연료가 조금 남은 휘발유 발전기에 연결되어 있다. 들을지도 모르는 누군가에게 메시지 하나를"
+" 보낼 만큼의 전력이 있다. "
+
+#: deathforth/events/common/common5.df:391
+msgctxt "deathforth/events/common/common5.df"
+msgid "Siphon generator"
+msgstr "발전기 기름을 뺀다"
+
+#: deathforth/events/common/common5.df:393
+msgctxt "deathforth/events/common/common5.df"
+msgid ": Send a message"
+msgstr ": 메시지를 보낸다"
+
+#: deathforth/events/common/common5.df:395
+msgctxt "deathforth/events/common/common5.df"
+msgid "Who should send out the message?"
+msgstr "누가 메시지를 보낼까?"
+
+#: deathforth/events/common/common5.df:407
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The message warns that the base has been abandoned, but they hid a stash of ammo to help other survivors.\r\n"
+"\tThe stash turns out to be nearby!"
+msgstr ""
+"메시지는 기지가 버려졌지만 다른 생존자를 돕기 위해 탄약을 숨겨 뒀다고 알린다.\r\n"
+"\t숨긴 곳이 근처다!"
+
+#: deathforth/events/common/common5.df:411
+msgctxt "deathforth/events/common/common5.df"
+msgid "The team decodes an additional ultra-secret message:"
+msgstr "일행은 추가 극비 메시지를 해독한다:"
+
+#: deathforth/events/common/common5.df:413
+msgctxt "deathforth/events/common/common5.df"
+msgid "We also ditched "
+msgstr "우리는 또 버리고 왔다: "
+
+#: deathforth/events/common/common5.df:413
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" was a real nerd.\r\n"
+"\t\t\tYou can recruit "
+msgstr ""
+". 진짜 찐따였다.\r\n"
+"\t\t\t급하면 영입해도 된다: "
+
+#: deathforth/events/common/common5.df:414
+msgctxt "deathforth/events/common/common5.df"
+msgid " if you are desperate."
+msgstr "."
+
+#: deathforth/events/common/common5.df:422
+msgctxt "deathforth/events/common/common5.df"
+msgid " tries to figure the code out by "
+msgstr "은(는) 혼자 암호를 풀어 보려 한다: "
+
+#: deathforth/events/common/common5.df:422
+msgctxt "deathforth/events/common/common5.df"
+msgid "self..."
+msgstr "자신이..."
+
+#: deathforth/events/common/common5.df:425
+msgctxt "deathforth/events/common/common5.df"
+msgid "The team puts their heads together to figure out the code..."
+msgstr "일행이 머리를 맞대고 암호를 풀어 본다..."
+
+#: deathforth/events/common/common5.df:428
+msgctxt "deathforth/events/common/common5.df"
+msgid "The message says something like "
+msgstr "메시지는 대충 이런 내용이다: "
+
+#: deathforth/events/common/common5.df:428
+msgctxt "deathforth/events/common/common5.df"
+msgid "DRINK MORE OVALTUMS"
+msgstr "오발텀을 더 마셔라"
+
+#: deathforth/events/common/common5.df:429
+msgctxt "deathforth/events/common/common5.df"
+msgid "It's just nonsense! What a waste of time!"
+msgstr "그냥 헛소리다! 시간 낭비였다!"
+
+#: deathforth/events/common/common5.df:433
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" attempts to drive to the signal by listening for the radio broadcast as it "
+"gets weaker or stronger. This takes quite a bit of time."
+msgstr "은(는) 라디오 방송이 약해지거나 강해지는 걸 들으며 신호를 따라가 본다. 시간이 꽤 걸린다."
+
+#: deathforth/events/common/common5.df:435
+msgctxt "deathforth/events/common/common5.df"
+msgid "Funny enough, this car takes no gas."
+msgstr "웃기게도, 이 차는 기름이 안 든다."
+
+#: deathforth/events/common/common5.df:444
+msgctxt "deathforth/events/common/common5.df"
+msgid " find"
+msgstr "은(는) "
+
+#: deathforth/events/common/common5.df:444
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" a prepper bunker that is still playing the message. Everyone left in a hurry, leaving behind a stash of supplies.\r\n"
+"\t"
+msgstr ""
+"아직 메시지를 송출 중인 생존주의자 벙커를 찾는다. 다들 서둘러 떠나서 물자가 남아 있다.\r\n"
+"\t"
+
+#: deathforth/events/common/common5.df:449
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"THIS IS AN OBVIOUS TRAP SET BY THE GOVERNMENT.\r\n"
+"\tTHE SECRET ZOMBIE GOVERNMENT!"
+msgstr ""
+"이건 정부가 놓은 뻔한 함정이다.\r\n"
+"\t비밀 좀비 정부가!"
+
+#: deathforth/events/common/common5.df:451
+msgctxt "deathforth/events/common/common5.df"
+msgid " wastes no time in "
+msgstr "은(는) 지체 없이 "
+
+#: deathforth/events/common/common5.df:451
+msgctxt "deathforth/events/common/common5.df"
+msgid "PEELING OUT"
+msgstr "급출발한다"
+
+#: deathforth/events/common/common5.df:451
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" of there!\r\n"
+"\t"
+msgstr ""
+". 그곳에서!\r\n"
+"\t"
+
+#: deathforth/events/common/common5.df:452
+msgctxt "deathforth/events/common/common5.df"
+msgid " is quite relieved to have escaped."
+msgstr "은(는) 탈출해서 꽤 안도한다."
+
+#: deathforth/events/common/common5.df:456
+msgctxt "deathforth/events/common/common5.df"
+msgid "Mysterious Radio Signal"
+msgstr "수수께끼의 라디오 신호"
+
+#: deathforth/events/common/common5.df:457
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" finds a strange repeating message on the radio. It's a series of short bursts of music, beeps, spoken numbers, and haunting slide whistle noises. There's also a kazoo in there.\r\n"
+"\tWhat could it all mean?"
+msgstr ""
+"은(는) 라디오에서 이상한 반복 메시지를 찾는다. 짧은 음악, 삐 소리, 숫자 읽는 목소리, 소름 끼치는 슬라이드 휘슬 소리. 카주 소리도 있다.\r\n"
+"\t대체 무슨 뜻일까?"
+
+#: deathforth/events/common/common5.df:459
+msgctxt "deathforth/events/common/common5.df"
+msgid "Ignore it"
+msgstr "무시한다"
+
+#: deathforth/events/common/common5.df:460
+msgctxt "deathforth/events/common/common5.df"
+msgid "Decipher message"
+msgstr "메시지를 해독한다"
+
+#: deathforth/events/common/common5.df:461
+msgctxt "deathforth/events/common/common5.df"
+msgid "Drive to signal"
+msgstr "신호를 따라간다"
+
+#: deathforth/events/common/common5.df:463
+msgctxt "deathforth/events/common/common5.df"
+msgid ": THIS IS A TRAP!"
+msgstr ": 이건 함정이야!"
+
+#: deathforth/events/common/common5.df:470
+msgctxt "deathforth/events/common/common5.df"
+msgid " spends a day trying to fix something in the junk pile... "
+msgstr "은(는) 고물 더미에서 뭔가를 고쳐 보려 하루를 보낸다... "
+
+#: deathforth/events/common/common5.df:472
+msgctxt "deathforth/events/common/common5.df"
+msgid " accidentally gets a lot of cuts, scrapes, and bruises. "
+msgstr "는 실수로 여기저기 베이고 긁히고 멍든다. "
+
+#: deathforth/events/common/common5.df:472
+msgctxt "deathforth/events/common/common5.df"
+msgid " learns about repair, the hard way."
+msgstr "는 수리를 혹독하게 배운다."
+
+#: deathforth/events/common/common5.df:473
+msgctxt "deathforth/events/common/common5.df"
+msgid " takes a broken tennis racket and turned it into a "
+msgstr "는 부러진 테니스 라켓을 이렇게 만들었다: "
+
+#: deathforth/events/common/common5.df:473
+msgctxt "deathforth/events/common/common5.df"
+msgid "Level 2 Ultra Ergonomic Tennis Racket of the Whale"
+msgstr "레벨 2 울트라 인체공학 고래의 테니스 라켓"
+
+#: deathforth/events/common/common5.df:473
+msgctxt "deathforth/events/common/common5.df"
+msgid ". This is exactly the same as a regular tennis racket."
+msgstr ". 일반 테니스 라켓이랑 똑같다."
+
+#: deathforth/events/common/common5.df:474
+msgctxt "deathforth/events/common/common5.df"
+msgid " turns a useless Rusted Machete into a useful or at least usable "
+msgstr "는 쓸모없는 녹슨 마체테를 쓸 만한, 아니 적어도 쓸 수는 있는 걸로 만든다: "
+
+#: deathforth/events/common/common5.df:474
+msgctxt "deathforth/events/common/common5.df"
+msgid ". It's a clear improvement."
+msgstr ". 확실히 나아졌다."
+
+#: deathforth/events/common/common5.df:475
+msgctxt "deathforth/events/common/common5.df"
+msgid " reinforced a splintered bat with nails and metal to make a "
+msgstr "는 쪼개진 방망이를 못과 쇠로 보강해 만든다: "
+
+#: deathforth/events/common/common5.df:475
+msgctxt "deathforth/events/common/common5.df"
+msgid "Spiked Bat"
+msgstr "가시 방망이"
+
+#: deathforth/events/common/common5.df:475
+msgctxt "deathforth/events/common/common5.df"
+msgid "! It's great until it breaks!"
+msgstr "! 부러지기 전까진 최고다!"
+
+#: deathforth/events/common/common5.df:476
+msgctxt "deathforth/events/common/common5.df"
+msgid " sharpens a dull "
+msgstr "는 무딘 걸 날카롭게 간다: "
+
+#: deathforth/events/common/common5.df:476
+msgctxt "deathforth/events/common/common5.df"
+msgid "Branch Trimmer"
+msgstr "가지치기 낫"
+
+#: deathforth/events/common/common5.df:476
+msgctxt "deathforth/events/common/common5.df"
+msgid "! It's a decent if slightly awkward weapon that won't break on you!"
+msgstr "! 좀 어색하지만 부러지지 않는 괜찮은 무기다!"
+
+#: deathforth/events/common/common5.df:477
+msgctxt "deathforth/events/common/common5.df"
+msgid " gets a broken "
+msgstr "는 고장 난 걸 다시 작동시킨다: "
+
+#: deathforth/events/common/common5.df:477
+msgctxt "deathforth/events/common/common5.df"
+msgid "Leaf Blower"
+msgstr "낙엽 송풍기"
+
+#: deathforth/events/common/common5.df:477
+msgctxt "deathforth/events/common/common5.df"
+msgid " working again! Send zombies flying like leaves!"
+msgstr "! 좀비를 낙엽처럼 날려 버려라!"
+
+#: deathforth/events/common/common5.df:478
+msgctxt "deathforth/events/common/common5.df"
+msgid " restores a faulty "
+msgstr "는 고장 난 걸 복구한다: "
+
+#: deathforth/events/common/common5.df:478
+msgctxt "deathforth/events/common/common5.df"
+msgid "Weed Whacker"
+msgstr "예초기"
+
+#: deathforth/events/common/common5.df:478
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"! It's like a slightly wimpy son to the chainsaw! To make up for the lack of"
+" power, it's much more gas efficient."
+msgstr "! 전기톱의 조금 약골 아들 같은 거다! 힘이 약한 대신 기름을 훨씬 덜 먹는다."
+
+#: deathforth/events/common/common5.df:484
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" works efficiently! By the end of their repair session, there's still plenty"
+" of time left in the day."
+msgstr "는 효율적으로 작업한다! 수리를 끝내고도 하루가 꽤 남았다."
+
+#: deathforth/events/common/common5.df:485
+msgctxt "deathforth/events/common/common5.df"
+msgid " decides to fix up an old pistol they found!"
+msgstr "은(는) 찾은 낡은 권총을 고치기로 한다!"
+
+#: deathforth/events/common/common5.df:487
+msgctxt "deathforth/events/common/common5.df"
+msgid "REVOLVER GET!"
+msgstr "리볼버 획득!"
+
+#: deathforth/events/common/common5.df:494
+msgctxt "deathforth/events/common/common5.df"
+msgid "Who should spend a day repairing junk?"
+msgstr "누가 하루 동안 고물을 수리할까?"
+
+#: deathforth/events/common/common5.df:500
+msgctxt "deathforth/events/common/common5.df"
+msgid "Repair Shop Repair"
+msgstr "수리점 수리"
+
+#: deathforth/events/common/common5.df:501
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" finds a repair shop. There's a tiny bit of gas, plus a lot of broken "
+"garbage. There could be something good here, if you know how to fix it."
+msgstr "은(는) 수리점을 찾는다. 기름이 조금 있고, 망가진 고물이 잔뜩이다. 고칠 줄만 안다면 좋은 게 있을지도."
+
+#: deathforth/events/common/common5.df:503
+msgctxt "deathforth/events/common/common5.df"
+msgid "Ignore junk"
+msgstr "고물은 무시한다"
+
+#: deathforth/events/common/common5.df:504
+msgctxt "deathforth/events/common/common5.df"
+msgid ": Repair junk"
+msgstr ": 고물을 수리한다"
+
+#: deathforth/events/common/common5.df:504
+msgctxt "deathforth/events/common/common5.df"
+msgid "You could spend a day repairing things in here."
+msgstr "여기서 하루 동안 이것저것 고칠 수 있다."
+
+#: deathforth/events/common/common5.df:505
+msgctxt "deathforth/events/common/common5.df"
+msgid "Pick someone to spend a day repairing junk:"
+msgstr "하루 동안 고물을 수리할 사람을 고르세요:"
+
+#: deathforth/events/common/common5.df:517
+msgctxt "deathforth/events/common/common5.df"
+msgid "thinks the food is fine."
+msgstr "은(는) 음식이 괜찮다고 생각한다."
+
+#: deathforth/events/common/common5.df:518
+msgctxt "deathforth/events/common/common5.df"
+msgid "doesn't mind the horrid food."
+msgstr "은(는) 끔찍한 음식도 개의치 않는다."
+
+#: deathforth/events/common/common5.df:519
+msgctxt "deathforth/events/common/common5.df"
+msgid "has a positive attitude about this slop!"
+msgstr "은(는) 이 꿀꿀이죽에 긍정적이다!"
+
+#: deathforth/events/common/common5.df:520
+msgctxt "deathforth/events/common/common5.df"
+msgid "is trying to keep an open mind."
+msgstr "은(는) 열린 마음을 가지려 애쓴다."
+
+#: deathforth/events/common/common5.df:521
+msgctxt "deathforth/events/common/common5.df"
+msgid "pretends that it's junk food instead."
+msgstr "은(는) 정크푸드라고 상상한다."
+
+#: deathforth/events/common/common5.df:522
+msgctxt "deathforth/events/common/common5.df"
+msgid "successfully ignores the food."
+msgstr "은(는) 음식을 무시하는 데 성공한다."
+
+#: deathforth/events/common/common5.df:523
+msgctxt "deathforth/events/common/common5.df"
+msgid "thinks about curry."
+msgstr "은(는) 카레를 생각한다."
+
+#: deathforth/events/common/common5.df:524
+msgctxt "deathforth/events/common/common5.df"
+msgid "focuses on the health benefits."
+msgstr "은(는) 건강상의 이점에 집중한다."
+
+#: deathforth/events/common/common5.df:525
+msgctxt "deathforth/events/common/common5.df"
+msgid "tries to block out the smell."
+msgstr "은(는) 냄새를 차단하려 한다."
+
+#: deathforth/events/common/common5.df:526
+msgctxt "deathforth/events/common/common5.df"
+msgid "has eaten worse food, possibly."
+msgstr "은(는) 아마 더 끔찍한 것도 먹어 봤을 거다."
+
+#: deathforth/events/common/common5.df:527
+msgctxt "deathforth/events/common/common5.df"
+msgid "mentally blocks out the disgust."
+msgstr "은(는) 정신적으로 역겨움을 차단한다."
+
+#: deathforth/events/common/common5.df:528
+msgctxt "deathforth/events/common/common5.df"
+msgid "resists feeling any emotion right now!"
+msgstr "은(는) 지금은 어떤 감정도 느끼지 않으려 한다!"
+
+#: deathforth/events/common/common5.df:550
+msgctxt "deathforth/events/common/common5.df"
+msgid " loots the gross health food, picking what "
+msgstr "은(는) 역겨운 건강식을 챙긴다. 고르는 건 "
+
+#: deathforth/events/common/common5.df:550
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" can live with.\r\n"
+"  This turns out to be not that much of the food in total."
+msgstr ""
+"이(가) 견딜 수 있는 것만.\r\n"
+"  결국 전체 중 얼마 안 된다."
+
+#: deathforth/events/common/common5.df:554
+msgctxt "deathforth/events/common/common5.df"
+msgid " feels healthier just looking at the gross food!"
+msgstr "은(는) 역겨운 음식을 보기만 해도 건강해지는 기분이다!"
+
+#: deathforth/events/common/common5.df:559
+msgctxt "deathforth/events/common/common5.df"
+msgid " hands most of the food to "
+msgstr "은(는) 음식 대부분을 넘겨준다: "
+
+#: deathforth/events/common/common5.df:559
+msgctxt "deathforth/events/common/common5.df"
+msgid " in preparation for their "
+msgstr "에게. 준비를 위해: "
+
+#: deathforth/events/common/common5.df:559
+msgctxt "deathforth/events/common/common5.df"
+msgid "ULTRA GIGA-MARATHON"
+msgstr "울트라 기가 마라톤"
+
+#: deathforth/events/common/common5.df:559
+msgctxt "deathforth/events/common/common5.df"
+msgid ", leaving a solitary granola bar."
+msgstr ". 남은 건 그래놀라 바 하나뿐."
+
+#: deathforth/events/common/common5.df:560
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" runs nearly one hundred laps around the store. When asked whether this is "
+"actually equivalent to marathon, they reply with "
+msgstr "은(는) 가게를 거의 백 바퀴 돈다. 그게 정말 마라톤이랑 같냐고 묻자, 대답은 "
+
+#: deathforth/events/common/common5.df:560
+msgctxt "deathforth/events/common/common5.df"
+msgid "''probably''"
+msgstr "''아마도''"
+
+#: deathforth/events/common/common5.df:562
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" has a brainwave: why not run a marathon with all this runner's food? They "
+"TOTALLY could! With nobody else around to stop them, they start CARB-"
+"LOADING."
+msgstr ""
+"은(는) 기발한 생각을 한다: 이 러너용 음식으로 마라톤을 하면 되잖아? 완전 할 수 있어! 말릴 사람도 없으니 탄수화물 로딩을 "
+"시작한다."
+
+#: deathforth/events/common/common5.df:563
+msgctxt "deathforth/events/common/common5.df"
+msgid "Without having a proper route, "
+msgstr "제대로 된 코스가 없어서, "
+
+#: deathforth/events/common/common5.df:563
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" decides to just run 100 laps around the store. That's the same thing, "
+"right?"
+msgstr "는 그냥 가게를 100바퀴 돌기로 한다. 똑같은 거 아냐?"
+
+#: deathforth/events/common/common5.df:567
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s legs are like jelly! "
+msgstr "의 다리가 젤리처럼 풀렸다! "
+
+#: deathforth/events/common/common5.df:567
+msgctxt "deathforth/events/common/common5.df"
+msgid " is exhausted."
+msgstr "는 녹초가 됐다."
+
+#: deathforth/events/common/common5.df:572
+msgctxt "deathforth/events/common/common5.df"
+msgid "Health Food Havoc"
+msgstr "건강식품 대소동"
+
+#: deathforth/events/common/common5.df:573
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+" finds a health food store. It seems like no one bothered to loot it because the food was disgusting.\r\n"
+"\tMost of the food seems to be rotting anyway. Or maybe it's not, it could be that the food is supposed to look and smell like this."
+msgstr ""
+"은(는) 건강식품점을 찾는다. 음식이 역겨워서 아무도 털지 않은 것 같다.\r\n"
+"\t음식 대부분이 썩어 가는 것 같다. 아니면 원래 그렇게 생기고 냄새나는 건지도."
+
+#: deathforth/events/common/common5.df:575
+msgctxt "deathforth/events/common/common5.df"
+msgid "Ignore for morale reasons"
+msgstr "사기를 위해 무시한다"
+
+#: deathforth/events/common/common5.df:576
+msgctxt "deathforth/events/common/common5.df"
+msgid "Loot the gross food"
+msgstr "역겨운 음식을 챙긴다"
+
+#: deathforth/events/common/common5.df:578
+msgctxt "deathforth/events/common/common5.df"
+msgid ": CARB-LOADING MARATHON"
+msgstr ": 탄수화물 로딩 마라톤"
+
+#: deathforth/events/common/common5.df:588
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"The machine starts its patented automated total-body bodybuilding "
+"regiment..."
+msgstr "기계가 특허받은 전신 자동 보디빌딩 프로그램을 시작한다..."
+
+#: deathforth/events/common/common5.df:589
+msgctxt "deathforth/events/common/common5.df"
+msgid "'s body makes audible snapping and crunching sounds! How horrifying!"
+msgstr "의 몸에서 뚝뚝, 우두둑 소리가 난다! 끔찍하다!"
+
+#: deathforth/events/common/common5.df:592
+msgctxt "deathforth/events/common/common5.df"
+msgid "The machine clamps "
+msgstr "기계가 고정한다: "
+
+#: deathforth/events/common/common5.df:592
+msgctxt "deathforth/events/common/common5.df"
+msgid " in place for its innovative gymnastics simulator..."
+msgstr "을(를). 혁신적인 체조 시뮬레이터를 위해..."
+
+#: deathforth/events/common/common5.df:593
+msgctxt "deathforth/events/common/common5.df"
+msgid ""
+"A high-tension cable snaps free and whips around! There's no time to react "
+"to it!"
+msgstr "고장력 케이블이 튕겨 나와 휘두른다! 피할 틈도 없다!"
+
+#: deathforth/events/common/common5.df:599
+msgctxt "deathforth/events/common/common5.df"
+msgid " finishes "
+msgstr "은(는) 마친다: "
+
+#: deathforth/events/common/common5.df:599
+msgctxt "deathforth/events/common/common5.df"
+msgid " workouts, no matter the cost!"
+msgstr " 운동을, 무슨 대가를 치르더라도!"
+
+#: deathforth/events/common/common5.df:602
+#: deathforth/events/common/common5.df:610
+msgctxt "deathforth/events/common/common5.df"
+msgid "A little speaker on the machine says "
+msgstr "기계의 작은 스피커가 말한다: "
+
+#: deathforth/events/common/common5.df:602
+msgctxt "deathforth/events/common/common5.df"
+msgid "NO PAIN NO GAIN!"
+msgstr "고통 없이는 성장도 없다!"
+
+#: deathforth/events/common/common5.df:607
+msgctxt "deathforth/events/common/common5.df"
+msgid " uses the innovative Swolo-O-Flex personal exercise system..."
+msgstr "은(는) 혁신적인 스월-오-플렉스 개인 운동 시스템을 사용한다..."
+
+#: deathforth/events/common/common5.df:610
+msgctxt "deathforth/events/common/common5.df"
+msgid "NO REFUNDS!"
+msgstr "환불 불가!"
+
+#: deathforth/events/common/common5.df:612
+msgctxt "deathforth/events/common/common5.df"
+msgid "Avoid further injury"
+msgstr "더 다치기 전에 그만둔다"
+
+#: deathforth/events/common/common5.df:613
+msgctxt "deathforth/events/common/common5.df"
+msgid "Finish workout!"
+msgstr "운동을 끝까지 한다!"
+
+#: deathforth/events/common/common5.df:617
+msgctxt "deathforth/events/common/common5.df"
+msgid "Who should get maimed or killed by the Swole-O-Flex?"
+msgstr "누가 스월-오-플렉스에 다치거나 죽을까?"
+
+#: deathforth/events/common/common5.df:622
+msgctxt "deathforth/events/common/common5.df"
+msgid "Swole-O-Flex"
+msgstr "스월-오-플렉스"
+
+#: deathforth/events/common/common5.df:624
+msgctxt "deathforth/events/common/common5.df"
+msgid " stumbles upon a "
+msgstr "은(는) 우연히 발견한다: "
+
+#: deathforth/events/common/common5.df:624
+msgctxt "deathforth/events/common/common5.df"
+msgid "Swole-O-Flex Home Strength and Fitness Machine [tm]"
+msgstr "스월-오-플렉스 홈 근력 & 체력 머신 [tm]"

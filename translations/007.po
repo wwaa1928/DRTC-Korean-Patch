@@ -1,0 +1,2630 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/bandit/bandit1.df:392
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid "Yer Money vs Yor Life"
+msgstr "돈이냐 목숨이냐"
+
+#: deathforth/events/bandit/bandit1.df:393
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid "Bandits catch "
+msgstr "약탈자들이 기습한다: "
+
+#: deathforth/events/bandit/bandit1.df:393
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid " by surprise, in a really terrible spot for "
+msgstr ". 장소가 최악이다. "
+
+#: deathforth/events/bandit/bandit1.df:393
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid ""
+" to fight in.\r\n"
+"\tThey demand that all food and "
+msgstr ""
+"이(가) 싸우기엔 너무 불리하다.\r\n"
+"\t놈들은 식량 전부와 "
+
+#: deathforth/events/bandit/bandit1.df:394
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid ""
+" supplies are handed over!\r\n"
+"\t"
+msgstr ""
+" 물자를 모두 내놓으라고 요구한다!\r\n"
+"\t"
+
+#: deathforth/events/bandit/bandit1.df:395
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid "YER MONEY OR YOR LIFE!"
+msgstr "돈이냐 목숨이냐!"
+
+#: deathforth/events/bandit/bandit1.df:399
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid "Give up supplies"
+msgstr "물자를 내준다"
+
+#: deathforth/events/bandit/bandit1.df:405
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid ": We can fight them!"
+msgstr ": 싸울 수 있어!"
+
+#: deathforth/events/bandit/bandit1.df:407
+msgctxt "deathforth/events/bandit/bandit1.df"
+msgid "Run for it!"
+msgstr "도망쳐!"
+
+#: deathforth/events/bandit/bandit2.df:5
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" decides to plow the car right through the bandit roadblock and Lord Humungoid.\r\n"
+"\t"
+msgstr ""
+"은(는) 약탈자의 바리케이드와 휴먼고이드 경을 차로 그대로 들이받기로 한다.\r\n"
+"\t"
+
+#: deathforth/events/bandit/bandit2.df:6
+#: deathforth/events/bandit/bandit2.df:257
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " take"
+msgstr "은(는) "
+
+#: deathforth/events/bandit/bandit2.df:6
+#: deathforth/events/bandit/bandit2.df:257
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " a lot of damage, but survive"
+msgstr "큰 피해를 입지만, 살아남는다"
+
+#: deathforth/events/bandit/bandit2.df:10
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " figured out a plan during the speech."
+msgstr "은(는) 연설하는 동안 계획을 세웠다."
+
+#: deathforth/events/bandit/bandit2.df:12
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" starts honking the horn. The bandits are amused by the sight of an animal "
+"doing this. They decide to let "
+msgstr "는 경적을 울리기 시작한다. 약탈자들은 동물이 이러는 모습이 재밌는지 보내 주기로 한다: "
+
+#: deathforth/events/bandit/bandit2.df:12
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " pass. All part of the plan!"
+msgstr "을(를). 다 계획대로다!"
+
+#: deathforth/events/bandit/bandit2.df:14
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" suddenly jams on the gas pedal and turns hard. The car shoots through a small gap in the roadblock, then keeps going. \r\n"
+"\t\tBy the time the bandits react, "
+msgstr ""
+"는 갑자기 액셀을 밟고 핸들을 확 꺾는다. 차가 바리케이드의 작은 틈으로 빠져나가 그대로 달린다. \r\n"
+"\t\t약탈자들이 반응했을 땐 이미 "
+
+#: deathforth/events/bandit/bandit2.df:15
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " already has too much of a head start to be worth chasing."
+msgstr "이(가) 너무 멀리 가 버려서 쫓을 가치도 없다."
+
+#: deathforth/events/bandit/bandit2.df:21
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "After a dramatic pause, "
+msgstr "극적인 정적 끝에, "
+
+#: deathforth/events/bandit/bandit2.df:21
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " farts. It echoes."
+msgstr "은(는) 방귀를 뀐다. 메아리친다."
+
+#: deathforth/events/bandit/bandit2.df:23
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " tells Lord Humungoid to"
+msgstr "은(는) 휴먼고이드 경에게 말한다:"
+
+#: deathforth/events/bandit/bandit2.df:23
+#: deathforth/events/bandit/bandit2.df:83
+#: deathforth/events/bandit/bandit2.df:155
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " COOL IT."
+msgstr " 진정해."
+
+#: deathforth/events/bandit/bandit2.df:27
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"Lord Humungoid has a huge change of heart.\r\n"
+"\t\t"
+msgstr ""
+"휴먼고이드 경의 마음이 크게 바뀐다.\r\n"
+"\t\t"
+
+#: deathforth/events/bandit/bandit2.df:28
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"THERE HAS BEEN TOO MUCH VIOLENCE... TOO MUCH PAIN. BUT I HAVE AN HONORABLE "
+"COMPROMISE!"
+msgstr "폭력이 너무 많았다... 고통도 너무 많았다. 하지만 나에게 명예로운 타협안이 있다!"
+
+#: deathforth/events/bandit/bandit2.df:28
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"\r\n"
+"\t\tHe offers a gift and safe passage!"
+msgstr ""
+"\r\n"
+"\t\t그는 선물과 안전한 통행을 약속한다!"
+
+#: deathforth/events/bandit/bandit2.df:32
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Lord Humungoid doesn't like this. The bandits take the car and all of "
+msgstr "휴먼고이드 경은 그게 마음에 안 든다. 약탈자들이 차를 빼앗고, 찾아낸 물자도 모두 가져간다: "
+
+#: deathforth/events/bandit/bandit2.df:32
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "'s supplies that they find."
+msgstr "의 물자를."
+
+#: deathforth/events/bandit/bandit2.df:38
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" gets out of the car and walks away unharmed. Lord Humungoid's last words "
+"before peeling out in "
+msgstr "은(는) 차에서 내려 무사히 걸어 나간다. 휴먼고이드 경이 "
+
+#: deathforth/events/bandit/bandit2.df:38
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "'s car are "
+msgstr "의 차를 몰고 사라지며 남긴 마지막 말: "
+
+#: deathforth/events/bandit/bandit2.df:38
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "SMELL YA LATER, NERDS!"
+msgstr "잘 가라, 찐따들아!"
+
+#: deathforth/events/bandit/bandit2.df:43
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Car Collecting Bandits"
+msgstr "차 수집 약탈자"
+
+#: deathforth/events/bandit/bandit2.df:44
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"Bandits have blocked the narrow road ahead with their cars. Their leader, "
+msgstr "약탈자들이 차로 앞쪽 좁은 길을 막았다. 두목인 "
+
+#: deathforth/events/bandit/bandit2.df:44
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Lord Humungoid"
+msgstr "휴먼고이드 경"
+
+#: deathforth/events/bandit/bandit2.df:44
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" speaks:\r\n"
+"\t"
+msgstr ""
+"이(가) 말한다:\r\n"
+"\t"
+
+#: deathforth/events/bandit/bandit2.df:45
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"JUST WALK AWAY! GIVE ME YOUR CAR! YOUR OIL! THE GASOLINE! AND I WILL SPARE YOUR LIVES.\r\n"
+"\tI AWAIT YOUR ANSWER."
+msgstr ""
+"그냥 걸어서 떠나라! 차를 내놔라! 오일도! 휘발유도! 그러면 목숨은 살려 주마.\r\n"
+"\t대답을 기다리겠다."
+
+#: deathforth/events/bandit/bandit2.df:47
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Give up the car and all gas"
+msgstr "차와 기름을 전부 내준다"
+
+#: deathforth/events/bandit/bandit2.df:50
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " already has a plan"
+msgstr "은(는) 이미 계획이 있다"
+
+#: deathforth/events/bandit/bandit2.df:53
+#: deathforth/events/bandit/bandit2.df:120
+#: deathforth/events/bandit/bandit2.df:226
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " tells Bandits to 'Cool It'"
+msgstr "이(가) 약탈자들에게 '진정해'라고 말한다"
+
+#: deathforth/events/bandit/bandit2.df:55
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Plow through them!"
+msgstr "뚫고 지나간다!"
+
+#: deathforth/events/bandit/bandit2.df:61
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " offers to heal the injured bandit with "
+msgstr "은(는) 다친 약탈자를 치료해 주겠다고 한다. "
+
+#: deathforth/events/bandit/bandit2.df:61
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " medical know-how. "
+msgstr " 의학 지식으로. "
+
+#: deathforth/events/bandit/bandit2.df:63
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " fixes things right up! The bandits let "
+msgstr "는 깔끔하게 고쳐 준다! 약탈자들이 보내 준다: "
+
+#: deathforth/events/bandit/bandit2.df:63
+#: deathforth/events/bandit/bandit2.df:75
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " go."
+msgstr "을(를)."
+
+#: deathforth/events/bandit/bandit2.df:65
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " ends up making things worse! The bandits aren't very happy."
+msgstr "는 오히려 상태를 악화시킨다! 약탈자들은 별로 기쁘지 않다."
+
+#: deathforth/events/bandit/bandit2.df:72
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " knew that something was very wrong the whole time. Due to "
+msgstr "은(는) 처음부터 뭔가 이상하다는 걸 알았다. "
+
+#: deathforth/events/bandit/bandit2.df:72
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "ing, "
+msgstr " 덕분에, "
+
+#: deathforth/events/bandit/bandit2.df:72
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " is warned early. "
+msgstr "은(는) 미리 경고를 받는다. "
+
+#: deathforth/events/bandit/bandit2.df:72
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " ready to fight before the bandits are, and escape unharmed."
+msgstr "약탈자들보다 먼저 싸울 준비를 마치고, 무사히 탈출한다."
+
+#: deathforth/events/bandit/bandit2.df:74
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Always suspicious, "
+msgstr "늘 의심이 많은 "
+
+#: deathforth/events/bandit/bandit2.df:74
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " hid the car and supplies before approaching the settlement. "
+msgstr "은(는) 정착지에 다가가기 전에 차와 물자를 숨겨 뒀다. "
+
+#: deathforth/events/bandit/bandit2.df:74
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" claims to have nothing of value.\r\n"
+"\t\tThe bandits doubt this, but can't find anything. They end up letting "
+msgstr ""
+"는 가진 게 없다고 주장한다.\r\n"
+"\t\t약탈자들은 의심하지만 아무것도 찾지 못한다. 결국 보내 준다: "
+
+#: deathforth/events/bandit/bandit2.df:81
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " farts in a pitch that sounds like a tiny violin."
+msgstr "은(는) 작은 바이올린 소리 같은 음정으로 방귀를 뀐다."
+
+#: deathforth/events/bandit/bandit2.df:83
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " tells the fake traders to "
+msgstr "은(는) 가짜 상인들에게 말한다:"
+
+#: deathforth/events/bandit/bandit2.df:87
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"The injured bandit looks really moved by this!\r\n"
+"\t\t"
+msgstr ""
+"다친 약탈자는 진심으로 감동한 것 같다!\r\n"
+"\t\t"
+
+#: deathforth/events/bandit/bandit2.df:88
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "WOW! I feel so much better now!"
+msgstr "와! 훨씬 나아졌어!"
+
+#: deathforth/events/bandit/bandit2.df:88
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"\r\n"
+"\t\tShe stands up, does a cartwheel, and orders that you be brought a gift!"
+msgstr ""
+"\r\n"
+"\t\t그녀는 일어나 옆구르기를 한 번 하고는 선물을 가져오라고 명령한다!"
+
+#: deathforth/events/bandit/bandit2.df:92
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "The bandits just stare at the "
+msgstr "약탈자들은 한참 동안 그냥 쳐다본다: "
+
+#: deathforth/events/bandit/bandit2.df:92
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" for awhile.\r\n"
+"\t\tThen they take most of "
+msgstr ""
+"을(를).\r\n"
+"\t\t그러고는 대부분 가져간다: "
+
+#: deathforth/events/bandit/bandit2.df:93
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " supplies."
+msgstr " 물자를."
+
+#: deathforth/events/bandit/bandit2.df:103
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Trader Trap"
+msgstr "상인 함정"
+
+#: deathforth/events/bandit/bandit2.df:104
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " checks out what appears to be a trader settlement. "
+msgstr "은(는) 상인 정착지처럼 보이는 곳을 살펴본다. "
+
+#: deathforth/events/bandit/bandit2.df:104
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" instead ambushed by bandits who have taken it over. One of them looks injured.\r\n"
+"\t"
+msgstr ""
+"오히려 그곳을 점거한 약탈자들에게 매복당한다. 한 명은 다친 것 같다.\r\n"
+"\t"
+
+#: deathforth/events/bandit/bandit2.df:105
+#: deathforth/events/bandit/bandit2.df:276
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "They demand "
+msgstr "요구하는 것: "
+
+#: deathforth/events/bandit/bandit2.df:108
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "... oh wait, it's just an animal. False alarm!"
+msgstr "... 아 잠깐, 그냥 동물이네. 잘못 봤다!"
+
+#: deathforth/events/bandit/bandit2.df:108
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"\r\n"
+"\t\t\tThe bandits let "
+msgstr ""
+"\r\n"
+"\t\t\t약탈자들이 보내 준다: "
+
+#: deathforth/events/bandit/bandit2.df:109
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " go!"
+msgstr "을(를)!"
+
+#: deathforth/events/bandit/bandit2.df:113
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "8 medical supplies!"
+msgstr "의약품 8개!"
+
+#: deathforth/events/bandit/bandit2.df:114
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Give them 8 medical supplies"
+msgstr "의약품 8개를 준다"
+
+#: deathforth/events/bandit/bandit2.df:118
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " offers to heal injury"
+msgstr "이(가) 치료를 제안한다"
+
+#: deathforth/events/bandit/bandit2.df:123
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " saw this coming"
+msgstr "은(는) 이럴 줄 알았다"
+
+#: deathforth/events/bandit/bandit2.df:132
+#: deathforth/events/bandit/bandit2.df:135
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " felt suspicious about the campsite, so "
+msgstr "은(는) 야영지가 수상하다고 느껴서, "
+
+#: deathforth/events/bandit/bandit2.df:132
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " left the car running. "
+msgstr "가 차 시동을 켜 둔 채로 두었다. "
+
+#: deathforth/events/bandit/bandit2.df:132
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" pretends to give in to their demands, but runs to the waiting car as soon "
+"as "
+msgstr "는 요구에 응하는 척하다가, 틈이 나자마자 "
+
+#: deathforth/events/bandit/bandit2.df:132
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" can.\r\n"
+"\t\tThe bandits' weapons are too crappy to do anything to the car once "
+msgstr ""
+"가 대기 중인 차로 달려간다.\r\n"
+"\t\t약탈자들의 무기는 너무 조잡해서 일단 차에 타면 "
+
+#: deathforth/events/bandit/bandit2.df:133
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "'s in, so "
+msgstr "에게 아무 피해도 못 준다. 그래서 "
+
+#: deathforth/events/bandit/bandit2.df:133
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " PEELS OUT."
+msgstr "는 급출발로 내뺀다."
+
+#: deathforth/events/bandit/bandit2.df:135
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" wanted to wait near the car.\r\n"
+"\t\tAs "
+msgstr ""
+"는 차 근처에서 기다리고 싶어 했다.\r\n"
+"\t\t"
+
+#: deathforth/events/bandit/bandit2.df:136
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" is being robbed, the car barrels through the campsite, plows over a tent, "
+"and then stops. The bandits are freaked out, so they flee!"
+msgstr "이(가) 털리는 동안, 차가 야영지를 뚫고 돌진해 텐트를 밟고 멈춘다. 약탈자들은 기겁해서 도망친다!"
+
+#: deathforth/events/bandit/bandit2.df:139
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " accidentally locked "
+msgstr "은(는) 실수로 "
+
+#: deathforth/events/bandit/bandit2.df:139
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "self in the car and barks to be let out."
+msgstr "자신을 차 안에 가둬 버리고 내보내 달라고 짖는다."
+
+#: deathforth/events/bandit/bandit2.df:141
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " is not sure if "
+msgstr "은(는) 확신이 없다. "
+
+#: deathforth/events/bandit/bandit2.df:141
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " did all this on purpose or not."
+msgstr "이(가) 이걸 일부러 한 건지 아닌지."
+
+#: deathforth/events/bandit/bandit2.df:145
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " is really surprised "
+msgstr "은(는) 정말 놀란다. "
+
+#: deathforth/events/bandit/bandit2.df:145
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " didn't try to steal the car. "
+msgstr "이(가) 차를 훔치려 하지 않았다는 사실에. "
+
+#: deathforth/events/bandit/bandit2.df:145
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " looks nervous for a moment."
+msgstr "는 잠깐 긴장한 표정을 짓는다."
+
+#: deathforth/events/bandit/bandit2.df:153
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " farts and makes a really big deal about it."
+msgstr "은(는) 방귀를 뀌고 그걸로 엄청 생색을 낸다."
+
+#: deathforth/events/bandit/bandit2.df:155
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " tells the bandits to"
+msgstr "은(는) 약탈자들에게 말한다:"
+
+#: deathforth/events/bandit/bandit2.df:159
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"The bandits really take this to heart.\r\n"
+"\t\t"
+msgstr ""
+"약탈자들은 이 말을 진심으로 받아들인다.\r\n"
+"\t\t"
+
+#: deathforth/events/bandit/bandit2.df:160
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Yeah! Who needs weapons when we got friendship?"
+msgstr "그래! 우정이 있는데 무기가 왜 필요해?"
+
+#: deathforth/events/bandit/bandit2.df:160
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"\r\n"
+"\t\tThey offer a gift!"
+msgstr ""
+"\r\n"
+"\t\t그들은 선물을 건넨다!"
+
+#: deathforth/events/bandit/bandit2.df:164
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "The bandits all start attacking "
+msgstr "약탈자들이 모두 공격하기 시작한다: "
+
+#: deathforth/events/bandit/bandit2.df:164
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ". They forget about the weapons."
+msgstr ". 무기 따위는 잊어버린다."
+
+#: deathforth/events/bandit/bandit2.df:170
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " fights the bandits with "
+msgstr "은(는) 약탈자들과 싸운다. "
+
+#: deathforth/events/bandit/bandit2.df:170
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " strength!"
+msgstr " 힘으로!"
+
+#: deathforth/events/bandit/bandit2.df:182
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" decides to take their chances in a fight.\r\n"
+"\t\tThe bandits' weapons are crude, but they're still dangerous."
+msgstr ""
+"은(는) 싸움에 운을 걸어 보기로 한다.\r\n"
+"\t\t약탈자들의 무기는 조잡하지만 그래도 위험하다."
+
+#: deathforth/events/bandit/bandit2.df:188
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " ends up giving all "
+msgstr "은(는) 결국 몽땅 넘긴다: "
+
+#: deathforth/events/bandit/bandit2.df:188
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" weapons to the bandits.\r\n"
+"\tThe bandits give "
+msgstr ""
+" 무기를 약탈자들에게.\r\n"
+"\t약탈자들은 "
+
+#: deathforth/events/bandit/bandit2.df:189
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " him some old weapons, maybe feeling some guilt."
+msgstr "에게 낡은 무기 몇 개를 준다. 양심에 좀 찔렸나 보다."
+
+#: deathforth/events/bandit/bandit2.df:195
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " aims "
+msgstr "은(는) 겨눈다: "
+
+#: deathforth/events/bandit/bandit2.df:195
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" weapon at lightning speeds and blasts all the bandits' flimsy weapons apart.\r\n"
+"\tThe bandits start running!"
+msgstr ""
+" 무기를 번개 같은 속도로. 약탈자들의 허술한 무기를 전부 날려 버린다.\r\n"
+"\t약탈자들이 도망치기 시작한다!"
+
+#: deathforth/events/bandit/bandit2.df:201
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " casually explains with the power of "
+msgstr "은(는) 태연하게 설명한다. "
+
+#: deathforth/events/bandit/bandit2.df:201
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "GUNGINEER SACRED TECH"
+msgstr "총기 기술자의 신성한 기술"
+
+#: deathforth/events/bandit/bandit2.df:201
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " that the bandit's weapons will jam."
+msgstr "의 힘으로 약탈자들의 무기가 걸릴 거라고."
+
+#: deathforth/events/bandit/bandit2.df:202
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"HEY DORKS! NICE GUNS...FOR A FIVE YEAR OLD! SHAME YOU PUT GUM IN THE "
+"CYLINDERS!"
+msgstr "야 바보들아! 총 좋네... 다섯 살짜리한테나! 탄창에 껌 넣은 건 유감이다!"
+
+#: deathforth/events/bandit/bandit2.df:203
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"The bandits turn to one another, embarrassed and overwhelmed. Maybe this was"
+" a horrible idea after all! In the ensuing moral panic, the group forces "
+"their surrender."
+msgstr ""
+"약탈자들은 서로를 쳐다보며 창피해하고 당황한다. 애초에 끔찍한 생각이었나 보다! 이어진 도덕적 공황 속에 일행은 그들의 항복을 받아 "
+"낸다."
+
+#: deathforth/events/bandit/bandit2.df:204
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"Ordinarily, this wouldn't work on an experienced bandit. But the tinker-"
+"gungineer type is always watching your craftsmanship. "
+msgstr "보통은 노련한 약탈자에게 이런 게 안 통한다. 하지만 땜장이 총기 기술자는 늘 너의 솜씨를 지켜보고 있다. "
+
+#: deathforth/events/bandit/bandit2.df:204
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " knows your sins. ALWAYS."
+msgstr "는 너의 죄를 안다. 언제나."
+
+#: deathforth/events/bandit/bandit2.df:212
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Weapon Stealing Bandits"
+msgstr "무기 도둑 약탈자"
+
+#: deathforth/events/bandit/bandit2.df:213
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "As "
+msgstr "<EMPTY>"
+
+#: deathforth/events/bandit/bandit2.df:213
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " explores a campsite, "
+msgstr "이(가) 야영지를 살펴보는데, "
+
+#: deathforth/events/bandit/bandit2.df:213
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" ambushed by bandits. They brandish makeshift weapons.\r\n"
+"\t"
+msgstr ""
+"약탈자들에게 매복당한다. 놈들은 조잡한 무기를 휘두른다.\r\n"
+"\t"
+
+#: deathforth/events/bandit/bandit2.df:214
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "They demand all of your weapons."
+msgstr "놈들은 무기를 전부 내놓으라고 한다."
+
+#: deathforth/events/bandit/bandit2.df:214
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+"\r\n"
+"\t\tThis is ludicrous. Not even bandits will usually do this, as it's a slow but sure death sentence."
+msgstr ""
+"\r\n"
+"\t\t터무니없다. 약탈자들도 보통 이런 짓은 안 한다. 서서히 확실하게 죽으라는 소리니까."
+
+#: deathforth/events/bandit/bandit2.df:217
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " quickdraws and fires"
+msgstr "이(가) 속사로 쏜다"
+
+#: deathforth/events/bandit/bandit2.df:219
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Fight the bandits!"
+msgstr "약탈자와 싸운다!"
+
+#: deathforth/events/bandit/bandit2.df:222
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " left the car running"
+msgstr "은(는) 차 시동을 켜 뒀다"
+
+#: deathforth/events/bandit/bandit2.df:223
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " comes to the rescue"
+msgstr "이(가) 구하러 온다"
+
+#: deathforth/events/bandit/bandit2.df:230
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " knows something they don't"
+msgstr "은(는) 놈들이 모르는 걸 안다"
+
+#: deathforth/events/bandit/bandit2.df:232
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Give up all of the weapons!"
+msgstr "무기를 전부 내준다!"
+
+#: deathforth/events/bandit/bandit2.df:237
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " is sent to distract the bandits so they leave their car checkpoint."
+msgstr "은(는) 약탈자들이 검문소를 비우도록 주의를 끄는 역할을 맡는다."
+
+#: deathforth/events/bandit/bandit2.df:239
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " instantly turns on "
+msgstr "은(는) 즉시 배신한다: "
+
+#: deathforth/events/bandit/bandit2.df:239
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " and joins the bandits, instead."
+msgstr ". 그리고 약탈자 편에 붙는다."
+
+#: deathforth/events/bandit/bandit2.df:241
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " is attacked! "
+msgstr "은(는) 공격받는다! "
+
+#: deathforth/events/bandit/bandit2.df:241
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " attempt"
+msgstr "은(는) "
+
+#: deathforth/events/bandit/bandit2.df:241
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " to escape..."
+msgstr "탈출을 시도한다..."
+
+#: deathforth/events/bandit/bandit2.df:244
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " doesn't sell "
+msgstr "은(는) 팔아넘기지 않는다: "
+
+#: deathforth/events/bandit/bandit2.df:244
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " out to the bandits! "
+msgstr "을(를) 약탈자들에게! "
+
+#: deathforth/events/bandit/bandit2.df:244
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" distracts them from afar and runs. They give chase, and the car is able to "
+"get past."
+msgstr "는 멀리서 놈들의 주의를 끌고 도망친다. 놈들이 쫓아가는 사이 차가 빠져나간다."
+
+#: deathforth/events/bandit/bandit2.df:246
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " panics while retreating. "
+msgstr "은(는) 후퇴하다가 당황한다. "
+
+#: deathforth/events/bandit/bandit2.df:246
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " ends up not following the plan right, and gets hurt!"
+msgstr "는 계획대로 하지 못하고 다친다!"
+
+#: deathforth/events/bandit/bandit2.df:250
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " sneaks around the checkpoint later, and rejoins "
+msgstr "은(는) 나중에 검문소를 몰래 돌아서 다시 합류한다: "
+
+#: deathforth/events/bandit/bandit2.df:256
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" decides to plow the car right through the checkpoint.\r\n"
+"\t"
+msgstr ""
+"은(는) 차로 검문소를 그대로 들이받기로 한다.\r\n"
+"\t"
+
+#: deathforth/events/bandit/bandit2.df:259
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Plow the car through!"
+msgstr "차로 들이받는다!"
+
+#: deathforth/events/bandit/bandit2.df:262
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " made a backup plan before being spotted."
+msgstr "은(는) 발각되기 전에 예비 계획을 세워 뒀다."
+
+#: deathforth/events/bandit/bandit2.df:263
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " retreats to a ruined building, where the bandits can't see "
+msgstr "는 폐건물로 물러난다. 약탈자들에게서 "
+
+#: deathforth/events/bandit/bandit2.df:263
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ". When they get closer, "
+msgstr "가 안 보이는 곳이다. 놈들이 가까이 오자, "
+
+#: deathforth/events/bandit/bandit2.df:263
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " jumps out through a back window, sneaks "
+msgstr "는 뒤쪽 창문으로 뛰어나가 몰래 "
+
+#: deathforth/events/bandit/bandit2.df:263
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " way to the car, and escapes through a now empty checkpoint!"
+msgstr " 차로 가서 텅 빈 검문소를 통과해 탈출한다!"
+
+#: deathforth/events/bandit/bandit2.df:268
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Who should be sent to distract the bandits?"
+msgstr "누구를 보내서 약탈자들의 주의를 끌까?"
+
+#: deathforth/events/bandit/bandit2.df:273
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Who can be trusted?"
+msgstr "누굴 믿을 수 있을까?"
+
+#: deathforth/events/bandit/bandit2.df:275
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " a group of bandits that have set up a checkpoint on the road. "
+msgstr "은(는) 도로에 검문소를 세운 약탈자 무리를 발견한다. "
+
+#: deathforth/events/bandit/bandit2.df:275
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" has no good way to distract them, and eventually gets spotted.\r\n"
+"\t\t"
+msgstr ""
+"는 주의를 끌 좋은 방법이 없고, 결국 발각된다.\r\n"
+"\t\t"
+
+#: deathforth/events/bandit/bandit2.df:279
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid " has a plan to trick them"
+msgstr "은(는) 놈들을 속일 계획이 있다"
+
+#: deathforth/events/bandit/bandit2.df:285
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid ""
+" spots a group of bandits that have set up a checkpoint on the road. Someone from the team could be sent to distract the bandits so the car can get through. \r\n"
+"\t\tIt would have to be someone calm and "
+msgstr ""
+"은(는) 도로에 검문소를 세운 약탈자 무리를 발견한다. 일행 중 하나를 보내 주의를 끌면 차가 지나갈 수 있다. \r\n"
+"\t\t침착하고 "
+
+#: deathforth/events/bandit/bandit2.df:286
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "trustworthy"
+msgstr "믿을 수 있는"
+
+#: deathforth/events/bandit/bandit2.df:289
+msgctxt "deathforth/events/bandit/bandit2.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/events/camp/camp1.df:6
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " decides that the spot looks TOO safe and "
+msgstr "은(는) 이 장소가 너무 안전해 보인다고 판단하고, "
+
+#: deathforth/events/camp/camp1.df:6
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" ends up PEELING OUT of there, fast, without eating or sleeping.\r\n"
+"\t\t"
+msgstr ""
+"는 먹지도 자지도 않고 재빨리 그곳을 떠난다.\r\n"
+"\t\t"
+
+#: deathforth/events/camp/camp1.df:7
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "'s feels smug in knowing "
+msgstr "은(는) 뿌듯하다. "
+
+#: deathforth/events/camp/camp1.df:7
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " avoided that threat."
+msgstr "가 그 위협을 피했다는 게."
+
+#: deathforth/events/camp/camp1.df:9
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " decides that there's DANGER AFOOT so "
+msgstr "은(는) 위험이 도사리고 있다고 판단하고, "
+
+#: deathforth/events/camp/camp1.df:9
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" starts barking at nothing and then never, ever stops until well into the "
+"next morning."
+msgstr "는 아무것도 없는 곳을 향해 짖기 시작해서 다음 날 아침까지 절대 멈추지 않는다."
+
+#: deathforth/events/camp/camp1.df:13
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" sets up camp in this boring but safe looking spot.\r\n"
+"\t"
+msgstr ""
+"은(는) 지루하지만 안전해 보이는 이곳에 야영을 한다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:17
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Boring Stop"
+msgstr "지루한 휴식"
+
+#: deathforth/events/camp/camp1.df:18
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" finds an empty spot along the road that looks as good for camping as any.\r\n"
+"\t"
+msgstr ""
+"은(는) 길가에서 야영하기에 무난한 빈 공터를 찾는다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:21
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "The weather is clear and there's no sign of danger in any direction."
+msgstr "날씨는 맑고 어느 방향에도 위험의 기미가 없다."
+
+#: deathforth/events/camp/camp1.df:22
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Eat and Rest"
+msgstr "먹고 쉰다"
+
+#: deathforth/events/camp/camp1.df:23
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ": Can't fool me!"
+msgstr ": 날 속일 순 없어!"
+
+#: deathforth/events/camp/camp1.df:31
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" swaps stories with pals and it's a very morale-boosting team-building experience despite everyone else being imaginary.\r\n"
+"\t"
+msgstr ""
+"은(는) 친구들과 이야기를 나눈다. 다른 사람들이 다 상상 속 인물이긴 하지만 사기가 크게 오르는 팀워크 경험이다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:32
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " forgets all about the marshmallows, and they get left behind!"
+msgstr "은(는) 마시멜로를 까맣게 잊어버리고 두고 간다!"
+
+#: deathforth/events/camp/camp1.df:33
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" swaps stories about themselves. They learn a lot about each other, but "
+"forget all about the marshmallows!"
+msgstr "은(는) 서로에 대한 이야기를 나눈다. 서로를 많이 알게 되지만, 마시멜로는 까맣게 잊어버린다!"
+
+#: deathforth/events/camp/camp1.df:36
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" sets up camp, then eats a huge bag of marshmallows instead of eating "
+"dinner. There's even some left over!"
+msgstr "은(는) 야영을 하고, 저녁 대신 마시멜로 한 봉지를 통째로 먹는다. 남기까지 했다!"
+
+#: deathforth/events/camp/camp1.df:39
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Old Campground"
+msgstr "오래된 야영장"
+
+#: deathforth/events/camp/camp1.df:41
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " finds an abandoned campground with a fire pit. "
+msgstr "은(는) 모닥불 자리가 있는 버려진 야영장을 찾는다. "
+
+#: deathforth/events/camp/camp1.df:41
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" even finds an old, somewhat stale extra-large pack of marshmallows!\r\n"
+"\t"
+msgstr ""
+"은(는) 오래돼서 좀 눅눅한 특대 마시멜로 한 봉지까지 찾아낸다!\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:43
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Eat Marshmallows"
+msgstr "마시멜로를 먹는다"
+
+#: deathforth/events/camp/camp1.df:44
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Tell Stories"
+msgstr "이야기를 나눈다"
+
+#: deathforth/events/camp/camp1.df:48
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Quick Stop"
+msgstr "짧은 휴식"
+
+#: deathforth/events/camp/camp1.df:49
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "After a long drive, "
+msgstr "긴 운전 끝에, "
+
+#: deathforth/events/camp/camp1.df:49
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" finds a safe place to camp. The night passes with no incidents.\r\n"
+"\t"
+msgstr ""
+"은(는) 안전한 야영지를 찾는다. 밤은 아무 일 없이 지나간다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:54
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Passing Out"
+msgstr "기절하듯 잠들다"
+
+#: deathforth/events/camp/camp1.df:55
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Exhausted after an extra long drive, "
+msgstr "유난히 긴 운전으로 지친 "
+
+#: deathforth/events/camp/camp1.df:55
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" scouts out a camping spot and falls asleep immediately after.\r\n"
+"\t"
+msgstr ""
+"은(는) 야영지를 찾자마자 바로 곯아떨어진다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:60
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Darn It"
+msgstr "젠장"
+
+#: deathforth/events/camp/camp1.df:61
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " Next morning, "
+msgstr " 다음 날 아침, "
+
+#: deathforth/events/camp/camp1.df:61
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" goes to siphon the cars, but notices a large horde of zombies approaching and the gas has to be abandoned.\r\n"
+"\t"
+msgstr ""
+"은(는) 차에서 기름을 빼러 가지만, 커다란 좀비 무리가 다가오는 걸 보고 기름을 포기한다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp1.df:65
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Gassy Night"
+msgstr "기름진 밤"
+
+#: deathforth/events/camp/camp1.df:67
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " tries to siphon some gas, but finds that "
+msgstr "은(는) 기름을 빼 보려 하지만, "
+
+#: deathforth/events/camp/camp1.df:67
+msgctxt "deathforth/events/camp/camp1.df"
+msgid " body structure is really poorly suited for it."
+msgstr " 몸 구조가 그 일에 전혀 맞지 않는다는 걸 깨닫는다."
+
+#: deathforth/events/camp/camp1.df:69
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" siphons the gas, but accidentally swallows a bit and gets really, really "
+"sick that night instead of sleeping."
+msgstr "은(는) 기름을 빼다가 실수로 조금 삼켜서, 그날 밤 잠 대신 지독하게 앓는다."
+
+#: deathforth/events/camp/camp1.df:76
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Who should siphon out the gas?"
+msgstr "누가 기름을 빼 올까?"
+
+#: deathforth/events/camp/camp1.df:82
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Night Siphon"
+msgstr "한밤의 기름 빼기"
+
+#: deathforth/events/camp/camp1.df:83
+msgctxt "deathforth/events/camp/camp1.df"
+msgid ""
+" sets up camp late. On the nearby highway is a bunch of abandoned cars. They're broken, but many should have a little bit of gas.\r\n"
+"\tWould you like to send someone to siphon out the gas?"
+msgstr ""
+"은(는) 늦게 야영을 한다. 근처 고속도로에 버려진 차가 잔뜩 있다. 다 고장 났지만, 기름은 조금씩 남아 있을 것이다.\r\n"
+"\t누구를 보내서 기름을 빼 올까?"
+
+#: deathforth/events/camp/camp1.df:87
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/events/camp/camp1.df:91
+msgctxt "deathforth/events/camp/camp1.df"
+msgid "Wait until morning"
+msgstr "아침까지 기다린다"
+
+#: deathforth/events/camp/camp2.df:5
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "The worst of the zombie siege is over. "
+msgstr "좀비 포위전의 최악은 지나갔다. "
+
+#: deathforth/events/camp/camp2.df:5
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" clears out any remaining zombies outside, then goes back in to splat any "
+"stragglers so "
+msgstr "은(는) 밖에 남은 좀비를 정리하고, 안에 남은 낙오자들도 박살 낸다. 그래야 "
+
+#: deathforth/events/camp/camp2.df:5
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " can set up camp."
+msgstr "이(가) 야영을 할 수 있다."
+
+#: deathforth/events/camp/camp2.df:16
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Mini Golf!"
+msgstr "미니 골프!"
+
+#: deathforth/events/camp/camp2.df:17
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" sets up camp at the safest place they could find around: an abandoned mini-"
+"golf park. "
+msgstr "은(는) 주변에서 찾을 수 있는 가장 안전한 곳에 야영을 한다: 버려진 미니 골프장. "
+
+#: deathforth/events/camp/camp2.df:19
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "In the morning, "
+msgstr "아침에, "
+
+#: deathforth/events/camp/camp2.df:19
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " find"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp2.df:19
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " a golf ball and putter while searching the area. "
+msgstr "주변을 뒤지다 골프공과 퍼터를 찾는다. "
+
+#: deathforth/events/camp/camp2.df:19
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " decides to play a quick game!"
+msgstr "은(는) 한 게임 하기로 한다!"
+
+#: deathforth/events/camp/camp2.df:22
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " runs around in excitement!"
+msgstr "은(는) 신나서 뛰어다닌다!"
+
+#: deathforth/events/camp/camp2.df:24
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " gets some needed exercise!"
+msgstr "은(는) 필요했던 운동을 좀 한다!"
+
+#: deathforth/events/camp/camp2.df:28
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " gets tired of the game and then loses the ball on purpose."
+msgstr "은(는) 게임에 질려서 일부러 공을 잃어버린다."
+
+#: deathforth/events/camp/camp2.df:32
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " accidentally bites through the ball."
+msgstr "은(는) 실수로 공을 물어 터뜨린다."
+
+#: deathforth/events/camp/camp2.df:35
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " accidentally destroys the putter."
+msgstr "은(는) 실수로 퍼터를 부숴 버린다."
+
+#: deathforth/events/camp/camp2.df:37
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " accidentally hits the ball so far that it gets lost."
+msgstr "은(는) 실수로 공을 너무 멀리 쳐서 잃어버린다."
+
+#: deathforth/events/camp/camp2.df:47
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " decides to flee the golf course. "
+msgstr "은(는) 골프장에서 도망치기로 한다. "
+
+#: deathforth/events/camp/camp2.df:47
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" end up not finding another good place to sleep, and drive for most of the "
+"night. "
+msgstr "은(는) 결국 잘 곳을 못 찾고 밤새 운전한다. "
+
+#: deathforth/events/camp/camp2.df:47
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " are very tired the next day."
+msgstr "은(는) 다음 날 몹시 피곤하다."
+
+#: deathforth/events/camp/camp2.df:53
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " attempts to play golf, but it's difficult to do this as a "
+msgstr "은(는) 골프를 쳐 보려 하지만 "
+
+#: deathforth/events/camp/camp2.df:53
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" maybe could have done it with a caddy.\r\n"
+"\t\t\t"
+msgstr ""
+"(이)라서 쉽지 않다. 캐디가 있었으면 몰라도.\r\n"
+"\t\t\t"
+
+#: deathforth/events/camp/camp2.df:54
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " is completely overwhelmed."
+msgstr "은(는) 완전히 압도당한다."
+
+#: deathforth/events/camp/camp2.df:56
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" clubs a bunch of golf balls into zombie heads. It's pretty good exercise, "
+"but soon "
+msgstr "은(는) 골프공을 좀비 머리에 연달아 날린다. 꽤 좋은 운동이지만 곧 "
+
+#: deathforth/events/camp/camp2.df:56
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" is overwhelmed by them.\r\n"
+"\t\t\t"
+msgstr ""
+"는 좀비들에게 압도당한다.\r\n"
+"\t\t\t"
+
+#: deathforth/events/camp/camp2.df:57
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " escapes, but spends the night hiding in a closet. "
+msgstr "는 탈출하지만 밤새 벽장에 숨어 지낸다. "
+
+#: deathforth/events/camp/camp2.df:57
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " is exhausted in the morning."
+msgstr "는 아침에 녹초가 된다."
+
+#: deathforth/events/camp/camp2.df:60
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" picks up a bunch of clubs and gets some buckets of golf balls. They start "
+"driving shots down the range as the zombies close in."
+msgstr "은(는) 골프채와 골프공 바구니를 챙긴다. 좀비가 다가오는 동안 연습장에서 공을 쳐 날린다."
+
+#: deathforth/events/camp/camp2.df:62
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "They send golf ball after golf ball into the incoming horde."
+msgstr "다가오는 무리를 향해 골프공을 계속 날린다."
+
+#: deathforth/events/camp/camp2.df:64
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"The team beans the zombies from across the range. They never even get close!"
+msgstr "일행은 연습장 너머에서 좀비들의 머리를 맞힌다. 좀비들은 근처에도 못 온다!"
+
+#: deathforth/events/camp/camp2.df:66
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"The zombies get pelted by golf balls, but they're not hit hard enough to get"
+" slowed down much. The team ends up fighting them normally."
+msgstr "좀비들이 골프공에 맞지만, 세게 맞지 않아서 별로 느려지지 않는다. 결국 평소처럼 싸우게 된다."
+
+#: deathforth/events/camp/camp2.df:71
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "It's hard work, and the team mostly just tires themselves out. "
+msgstr "힘든 일이라 일행은 대부분 지치기만 한다. "
+
+#: deathforth/events/camp/camp2.df:71
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " are overwhelmed by the zombies."
+msgstr "은(는) 좀비들에게 압도당한다."
+
+#: deathforth/events/camp/camp2.df:76
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" jumps into a golf ball collector and starts running over zombies.\r\n"
+"\tIt's surprisingly effective. By the time the collector breaks down, most of the zombies are taken care of."
+msgstr ""
+"은(는) 골프공 수거차에 뛰어올라 좀비들을 치기 시작한다.\r\n"
+"\t의외로 효과적이다. 수거차가 고장 날 무렵엔 좀비 대부분이 처리됐다."
+
+#: deathforth/events/camp/camp2.df:80
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"The zombies start hitting the door of the pro shop. There's not much time to"
+" prepare before the door breaks!"
+msgstr "좀비들이 프로숍 문을 두드리기 시작한다. 문이 부서지기 전까지 준비할 시간이 별로 없다!"
+
+#: deathforth/events/camp/camp2.df:83
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Try to Survive"
+msgstr "살아남아라"
+
+#: deathforth/events/camp/camp2.df:88
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Driving Range Last Stand"
+msgstr "골프 연습장 최후의 저항"
+
+#: deathforth/events/camp/camp2.df:90
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " camps out in a pro shop near a golf course. "
+msgstr "은(는) 골프장 근처 프로숍에서 야영한다. "
+
+#: deathforth/events/camp/camp2.df:90
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" looks out the window and sees a large group of zombies approaching from the driving range!\r\n"
+"\t"
+msgstr ""
+"은(는) 창밖을 보다가 연습장 쪽에서 큰 좀비 무리가 다가오는 걸 본다!\r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:93
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " hotwires a golf ball collector"
+msgstr "이(가) 골프공 수거차를 직결로 시동 건다"
+
+#: deathforth/events/camp/camp2.df:95
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Shoot golf balls at the zombies"
+msgstr "좀비에게 골프공을 쏜다"
+
+#: deathforth/events/camp/camp2.df:96
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Prepare for Siege!"
+msgstr "포위전 준비!"
+
+#: deathforth/events/camp/camp2.df:97
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Drive away with no sleep"
+msgstr "잠 안 자고 차로 떠난다"
+
+#: deathforth/events/camp/camp2.df:104
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " endures the "
+msgstr "은(는) 견딘다: "
+
+#: deathforth/events/camp/camp2.df:104 deathforth/events/camp/camp2.df:109
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "SMELL ZONE"
+msgstr "악취 구역"
+
+#: deathforth/events/camp/camp2.df:104
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " all night, until passing out. "
+msgstr "을(를) 밤새, 기절할 때까지. "
+
+#: deathforth/events/camp/camp2.df:104
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " not happy in the morning, but "
+msgstr "아침에 기분은 별로지만, "
+
+#: deathforth/events/camp/camp2.df:104
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " at least able to sleep."
+msgstr "그래도 잠은 잤다."
+
+#: deathforth/events/camp/camp2.df:109
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " gets out of the "
+msgstr "은(는) 벗어난다: "
+
+#: deathforth/events/camp/camp2.df:109 deathforth/events/camp/camp2.df:125
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " get"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp2.df:109
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " no sleep, yet feel"
+msgstr "잠은 못 잤지만, "
+
+#: deathforth/events/camp/camp2.df:109
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " like leaving was the right choice."
+msgstr "떠난 게 옳은 선택이었다고 느낀다."
+
+#: deathforth/events/camp/camp2.df:114
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Smelly Campsite"
+msgstr "악취 나는 야영지"
+
+#: deathforth/events/camp/camp2.df:115 deathforth/events/camp/camp2.df:124
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "The campground that "
+msgstr "<EMPTY>"
+
+#: deathforth/events/camp/camp2.df:115
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" sets up smells terrible! The source of the smell is a complete mystery."
+msgstr "이(가) 자리 잡은 야영지에서 지독한 냄새가 난다! 냄새의 근원은 완전히 미스터리다."
+
+#: deathforth/events/camp/camp2.df:116
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Endure the smell"
+msgstr "냄새를 견딘다"
+
+#: deathforth/events/camp/camp2.df:117 deathforth/events/camp/camp2.df:424
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Drive off with no sleep"
+msgstr "잠 안 자고 차로 떠난다"
+
+#: deathforth/events/camp/camp2.df:123
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Creepy Campsite"
+msgstr "으스스한 야영지"
+
+#: deathforth/events/camp/camp2.df:124
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" stumbles on is very eerie. It's hard to place why it's so unsettling.\r\n"
+"\t"
+msgstr ""
+"이(가) 우연히 들어선 야영지는 아주 으스스하다. 왜 이렇게 불안한지 딱 꼬집어 말하기 어렵다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:125
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " no sleep, and feel"
+msgstr "잠은 못 잤고, "
+
+#: deathforth/events/camp/camp2.df:125
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " off even after leaving."
+msgstr "떠난 뒤에도 기분이 찜찜하다."
+
+#: deathforth/events/camp/camp2.df:131
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" refuses to camp in a dangerous area, and spends a tense and sleepless night driving through the dark.\r\n"
+"\t"
+msgstr ""
+"은(는) 위험한 곳에서 야영하길 거부하고, 어둠 속을 달리며 긴장되고 잠 못 이루는 밤을 보낸다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:133
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "The car veers off the road and crashes into a tree."
+msgstr "차가 도로를 벗어나 나무에 처박힌다."
+
+#: deathforth/events/camp/camp2.df:136
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " stands guard for the night."
+msgstr "은(는) 밤새 보초를 선다."
+
+#: deathforth/events/camp/camp2.df:138
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" ignores the task and falls asleep almost instantly. The next morning, a "
+"bunch of supplies are missing."
+msgstr "는 맡은 일을 무시하고 거의 바로 잠든다. 다음 날 아침, 물자 여러 개가 사라졌다."
+
+#: deathforth/events/camp/camp2.df:140
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " manages to stay awake, but feels pretty bad in the morning."
+msgstr "는 깨어 있는 데 성공했지만, 아침에 몸 상태가 꽤 나쁘다."
+
+#: deathforth/events/camp/camp2.df:148 deathforth/events/camp/camp2.df:204
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Who should stay up on watch?"
+msgstr "누가 보초를 설까?"
+
+#: deathforth/events/camp/camp2.df:154
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Bandit Watch"
+msgstr "약탈자 경계"
+
+#: deathforth/events/camp/camp2.df:155
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"It's nearly time to camp, but there has been a lot of signs of bandits today. Someone needs to be awake in case of an attack.\r\n"
+"\tWho should stay up on watch?"
+msgstr ""
+"야영할 시간이 다 됐는데, 오늘 약탈자 흔적이 많았다. 습격에 대비해 누군가는 깨어 있어야 한다.\r\n"
+"\t누가 보초를 설까?"
+
+#: deathforth/events/camp/camp2.df:159 deathforth/events/camp/camp2.df:215
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/events/camp/camp2.df:163
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Keep driving"
+msgstr "계속 달린다"
+
+#: deathforth/events/camp/camp2.df:169
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " decides to go to sleep, betting that the zombies won't find "
+msgstr "은(는) 좀비들이 못 찾을 거라 믿고 그냥 자기로 한다: "
+
+#: deathforth/events/camp/camp2.df:171
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" wakes up in the middle of being eaten by a small group of zombies. With no "
+"one to help "
+msgstr "는 좀비 몇 마리에게 뜯어 먹히는 와중에 깬다. 도와줄 사람 하나 없이 "
+
+#: deathforth/events/camp/camp2.df:171
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ", it's hard to break free."
+msgstr " 혼자서는 빠져나오기 힘들다."
+
+#: deathforth/events/camp/camp2.df:173
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " sleeps through the night with no interruption."
+msgstr "는 한 번도 깨지 않고 푹 잔다."
+
+#: deathforth/events/camp/camp2.df:179
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " takes turns sleeping during the night."
+msgstr "은(는) 밤새 돌아가며 잔다."
+
+#: deathforth/events/camp/camp2.df:181
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " is very tired in the morning, and "
+msgstr "은(는) 아침에 몹시 피곤하고, "
+
+#: deathforth/events/camp/camp2.df:181
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " didn't sleep great either."
+msgstr "도 잠을 잘 못 잤다."
+
+#: deathforth/events/camp/camp2.df:183
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "With a full group, there's enough people to still get plenty of sleep!"
+msgstr "일행이 꽉 차 있으니 충분히 잘 수 있다!"
+
+#: deathforth/events/camp/camp2.df:187
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " stands watch for roving zombies."
+msgstr "은(는) 돌아다니는 좀비를 경계하며 보초를 선다."
+
+#: deathforth/events/camp/camp2.df:190
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" stops paying attention and wanders off in the middle of standing guard. "
+msgstr "는 보초를 서다 정신이 팔려 어디론가 가 버린다. "
+
+#: deathforth/events/camp/camp2.df:190
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " is ambushed by zombies, but manages to fight them off."
+msgstr "이(가) 좀비에게 기습당하지만, 겨우 물리친다."
+
+#: deathforth/events/camp/camp2.df:193
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " falls asleep almost instantly. "
+msgstr "는 거의 바로 잠든다. "
+
+#: deathforth/events/camp/camp2.df:193
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " wakes up in the middle of being eaten."
+msgstr "이(가) 뜯어 먹히는 와중에 깬다."
+
+#: deathforth/events/camp/camp2.df:196
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " manages to stay awake, but feels groggy in the morning."
+msgstr "는 깨어 있는 데 성공했지만, 아침에 비몽사몽이다."
+
+#: deathforth/events/camp/camp2.df:210
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Zombie Watch"
+msgstr "좀비 경계"
+
+#: deathforth/events/camp/camp2.df:211
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"It gets late, and there's no great place to camp. Solo zombies hobble around"
+" in the far distance, and one might sneak up on "
+msgstr ""
+"날이 저물었는데 마땅히 야영할 곳이 없다. 저 멀리 좀비들이 하나둘 절뚝거리며 돌아다니고, 그중 하나가 몰래 다가올지도 모른다: "
+
+#: deathforth/events/camp/camp2.df:211
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " while "
+msgstr "이(가) "
+
+#: deathforth/events/camp/camp2.df:211
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " sleep"
+msgstr "자는 동안"
+
+#: deathforth/events/camp/camp2.df:211
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+".\r\n"
+"\tWho should stay up on watch?"
+msgstr ""
+".\r\n"
+"\t누가 보초를 설까?"
+
+#: deathforth/events/camp/camp2.df:220
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Sleep anyway"
+msgstr "그냥 잔다"
+
+#: deathforth/events/camp/camp2.df:222
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Take shifts"
+msgstr "교대로 잔다"
+
+#: deathforth/events/camp/camp2.df:229
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" picks berries all night and puts them into whatever containers are handy."
+msgstr "은(는) 밤새 베리를 따서 손에 잡히는 그릇마다 담는다."
+
+#: deathforth/events/camp/camp2.df:234
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " really doesn't want to pick berries for 8 hours."
+msgstr "은(는) 8시간 동안 베리를 따고 싶지 않다."
+
+#: deathforth/events/camp/camp2.df:240
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Berry Picking in Zombie Games"
+msgstr "좀비 게임 속 베리 따기"
+
+#: deathforth/events/camp/camp2.df:241
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " sets up camp for the night after being sure there's no danger here."
+msgstr "은(는) 위험이 없다는 걸 확인한 뒤 야영을 한다."
+
+#: deathforth/events/camp/camp2.df:242
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " discover"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp2.df:242
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" edible berry bushes all around the campsite!\r\n"
+"\t\t\r\n"
+"\t\tThe berries wouldn't be a big amount of food for the work and the sleepless night, but every bit could help."
+msgstr ""
+"야영지 주변에 먹을 수 있는 베리 덤불이 가득하다는 걸 발견한다!\r\n"
+"\t\t\r\n"
+"\t\t고생하고 밤까지 새우는 것에 비하면 양은 많지 않겠지만, 조금이라도 도움이 될 것이다."
+
+#: deathforth/events/camp/camp2.df:245
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Pick berries all night"
+msgstr "밤새 베리를 딴다"
+
+#: deathforth/events/camp/camp2.df:246
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Go to sleep"
+msgstr "잔다"
+
+#: deathforth/events/camp/camp2.df:254
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "GOBLINS!!!!"
+msgstr "고블린!!!!"
+
+#: deathforth/events/camp/camp2.df:255
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "SKELETONS!!"
+msgstr "해골!!"
+
+#: deathforth/events/camp/camp2.df:256
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "BAD SMELLS!"
+msgstr "악취!"
+
+#: deathforth/events/camp/camp2.df:257
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "HUGE FARTS!"
+msgstr "엄청난 방귀!"
+
+#: deathforth/events/camp/camp2.df:258
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "DIARRHEA!!!"
+msgstr "설사!!!"
+
+#: deathforth/events/camp/camp2.df:259
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "TINY GHOSTS!"
+msgstr "꼬마 유령!"
+
+#: deathforth/events/camp/camp2.df:260
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "A TURTLE!!!"
+msgstr "거북이!!!"
+
+#: deathforth/events/camp/camp2.df:261
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "MEAN CATS!!"
+msgstr "사나운 고양이!!"
+
+#: deathforth/events/camp/camp2.df:262
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "CAR REPAIR!"
+msgstr "자동차 수리!"
+
+#: deathforth/events/camp/camp2.df:263
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "YAPPY DOGS!"
+msgstr "시끄러운 개!"
+
+#: deathforth/events/camp/camp2.df:264
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "EVIL GOBLINS!"
+msgstr "사악한 고블린!"
+
+#: deathforth/events/camp/camp2.df:265
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "DANCING SKELETONS!"
+msgstr "춤추는 해골!"
+
+#: deathforth/events/camp/camp2.df:266
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "PEANUT ALLERGIES!"
+msgstr "땅콩 알레르기!"
+
+#: deathforth/events/camp/camp2.df:267
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "LAUGHING GOBLINS!!!"
+msgstr "웃는 고블린!!!"
+
+#: deathforth/events/camp/camp2.df:268
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "GOBLINS!!"
+msgstr "고블린!!"
+
+#: deathforth/events/camp/camp2.df:269
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "MENACING GOBLINS!"
+msgstr "위협적인 고블린!"
+
+#: deathforth/events/camp/camp2.df:274
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " decides to tell scary stories!"
+msgstr "은(는) 무서운 이야기를 하기로 한다!"
+
+#: deathforth/events/camp/camp2.df:276
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "But it turns out that "
+msgstr "하지만 알고 보니 "
+
+#: deathforth/events/camp/camp2.df:276
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " was alone, "
+msgstr "은(는) 혼자였다. "
+
+#: deathforth/events/camp/camp2.df:276
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"TELLING THE SCARY STORIES TO GHOSTS!\r\n"
+"\t\tWHOOOOOAAAAAAA!"
+msgstr ""
+"유령들에게 무서운 이야기를 하고 있었던 거다!\r\n"
+"\t\t우오오오오오오!"
+
+#: deathforth/events/camp/camp2.df:281
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " mostly "
+msgstr "은(는) 주로 "
+
+#: deathforth/events/camp/camp2.df:281
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "s a lot but in a "
+msgstr " 소리를 잔뜩 내지만, "
+
+#: deathforth/events/camp/camp2.df:281
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "SCARY WAY!"
+msgstr "무서운 방식으로!"
+
+#: deathforth/events/camp/camp2.df:283
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " makes "
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp2.df:283
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " scary story about "
+msgstr " 무서운 이야기를 지어낸다. 주제: "
+
+#: deathforth/events/camp/camp2.df:287
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " has fun, but doesn't get enough sleep and is tired the next day."
+msgstr "은(는) 즐거웠지만, 잠이 부족해서 다음 날 피곤하다."
+
+#: deathforth/events/camp/camp2.df:292
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "No More Creepypastas"
+msgstr "이제 괴담은 그만"
+
+#: deathforth/events/camp/camp2.df:293
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " is sitting around a campfire, resting before a brutal day tomorrow."
+msgstr "은(는) 모닥불 주위에 앉아 혹독한 내일을 앞두고 쉬고 있다."
+
+#: deathforth/events/camp/camp2.df:295
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Tell Scary Stories"
+msgstr "무서운 이야기를 한다"
+
+#: deathforth/events/camp/camp2.df:296 deathforth/events/camp/camp2.df:349
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Just go to sleep"
+msgstr "그냥 잔다"
+
+#: deathforth/events/camp/camp2.df:303
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " thought the weather was nice!"
+msgstr "은(는) 날씨가 좋다고 생각했다!"
+
+#: deathforth/events/camp/camp2.df:307
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " didn't mind it much."
+msgstr "은(는) 별로 개의치 않았다."
+
+#: deathforth/events/camp/camp2.df:315
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Miserable Camping"
+msgstr "비참한 야영"
+
+#: deathforth/events/camp/camp2.df:316
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" couldn't find any safe shelters, but was able to cobble together a "
+"campsite. The weather is terrible all night!"
+msgstr "은(는) 안전한 피난처를 못 찾았지만, 어찌어찌 야영지를 꾸렸다. 밤새 날씨가 끔찍하다!"
+
+#: deathforth/events/camp/camp2.df:329
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" chops a bunch of wood and gets the woodstove going before passing out from exhaustion.\r\n"
+"\t"
+msgstr ""
+"은(는) 장작을 잔뜩 패서 장작 난로를 피운 뒤 지쳐 쓰러진다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:330
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " will be very tired tomorrow!"
+msgstr "는 내일 몹시 피곤할 것이다!"
+
+#: deathforth/events/camp/camp2.df:332
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "The fire feels great!"
+msgstr "불이 정말 따뜻하다!"
+
+#: deathforth/events/camp/camp2.df:340
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Who should go chop the wood? It's really hard work!"
+msgstr "누가 장작을 팰까? 정말 힘든 일이다!"
+
+#: deathforth/events/camp/camp2.df:346
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Cabin with Woodstove"
+msgstr "장작 난로가 있는 오두막"
+
+#: deathforth/events/camp/camp2.df:347
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" finds a cabin in the woods, with no zombies in sight. It has a woodstove in"
+" it, but no wood!"
+msgstr "은(는) 숲속에서 좀비 하나 없는 오두막을 찾는다. 장작 난로는 있는데 장작이 없다!"
+
+#: deathforth/events/camp/camp2.df:348
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Go out and chop wood"
+msgstr "나가서 장작을 팬다"
+
+#: deathforth/events/camp/camp2.df:356
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " refuses to eat it!"
+msgstr "은(는) 먹기를 거부한다!"
+
+#: deathforth/events/camp/camp2.df:363
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "The innkeeper serves up an amazing breakfast!"
+msgstr "여관 주인이 끝내주는 아침을 차려 준다!"
+
+#: deathforth/events/camp/camp2.df:368
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" pays to stay a night at the inn. It's comfortable.\r\n"
+"\t"
+msgstr ""
+"은(는) 돈을 내고 여관에서 하룻밤 묵는다. 편안하다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:369
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "No one wants zombies creepin while they're sleepin hhhHHHHHHeheh."
+msgstr "자는 동안 좀비가 기어 들어오면 안 되잖아 흐흐흐흐흐흐헤헤."
+
+#: deathforth/events/camp/camp2.df:374
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" gets a better deal for the night.\r\n"
+"\t"
+msgstr ""
+"은(는) 더 좋은 조건으로 하룻밤을 얻어 낸다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:375
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "You're a sly one hhhhhhhhhhHHHHHHeheh."
+msgstr "꽤 약았구먼 흐흐흐흐흐흐흐흐흐흐헤헤."
+
+#: deathforth/events/camp/camp2.df:380
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"...hhhhhhhhhhHHHHHHeheh you must be a big shot.\r\n"
+"\t\tI'll show you the presidential suite."
+msgstr ""
+"...흐흐흐흐흐흐흐흐흐흐헤헤 거물이신가 보네.\r\n"
+"\t\t대통령 스위트룸을 보여 드리지."
+
+#: deathforth/events/camp/camp2.df:387
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " makes a "
+msgstr "은(는) 낸다: "
+
+#: deathforth/events/camp/camp2.df:387
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "hhhHHHHHeh"
+msgstr "흐흐흐흐흐헤"
+
+#: deathforth/events/camp/camp2.df:387
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " sound."
+msgstr " 소리를."
+
+#: deathforth/events/camp/camp2.df:389
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " tells the woman to "
+msgstr "은(는) 여자에게 말한다: "
+
+#: deathforth/events/camp/camp2.df:389
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "SAY IT NOT SPRAY IT."
+msgstr "침 튀기지 말고 말해."
+
+#: deathforth/events/camp/camp2.df:393
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "She shows the Presidential Suite! It's got a spa!"
+msgstr "여자가 대통령 스위트룸을 보여 준다! 스파까지 있다!"
+
+#: deathforth/events/camp/camp2.df:395
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "She also shows off the Executive Gym!"
+msgstr "임원 전용 헬스장도 자랑한다!"
+
+#: deathforth/events/camp/camp2.df:401
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "She kicks "
+msgstr "여자가 쫓아낸다: "
+
+#: deathforth/events/camp/camp2.df:401
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " out. "
+msgstr "을(를). "
+
+#: deathforth/events/camp/camp2.df:401 deathforth/events/camp/camp2.df:406
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " eat"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp2.df:401 deathforth/events/camp/camp2.df:406
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " on the road, but never find"
+msgstr "길에서 밥을 먹지만, "
+
+#: deathforth/events/camp/camp2.df:401 deathforth/events/camp/camp2.df:406
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " a secure place to sleep."
+msgstr "안전하게 잘 곳은 끝내 찾지 못한다."
+
+#: deathforth/events/camp/camp2.df:406
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " peels out of there pretty fast. "
+msgstr "은(는) 그곳을 재빨리 빠져나간다. "
+
+#: deathforth/events/camp/camp2.df:411
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Bed & Breakfast"
+msgstr "베드 앤 브렉퍼스트"
+
+#: deathforth/events/camp/camp2.df:412
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" finds an inn, open for business! The owner wrings her hands: \r\n"
+"\t"
+msgstr ""
+"은(는) 영업 중인 여관을 찾는다! 주인이 손을 비비며 말한다: \r\n"
+"\t"
+
+#: deathforth/events/camp/camp2.df:413
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Give me 10 food, I'll watch over you while you sleep hhhHHHHHeh."
+msgstr "식량 10 주면, 자는 동안 지켜 줄게 흐흐흐흐흐헤."
+
+#: deathforth/events/camp/camp2.df:413
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+"\r\n"
+"\tShe is super creepy."
+msgstr ""
+"\r\n"
+"\t엄청 소름 끼치는 여자다."
+
+#: deathforth/events/camp/camp2.df:416
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Pay the 10 food"
+msgstr "식량 10을 낸다"
+
+#: deathforth/events/camp/camp2.df:419
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ": SAY IT DON'T SPRAY IT"
+msgstr ": 침 튀기지 말고 말해"
+
+#: deathforth/events/camp/camp2.df:422
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " haggles it to 5 food"
+msgstr "이(가) 식량 5로 깎는다"
+
+#: deathforth/events/camp/camp2.df:440
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ""
+" tries to keep spirits high by singing. Whether or not the singing was any "
+"good mostly depends on your attitude."
+msgstr "은(는) 노래로 사기를 북돋우려 한다. 노래가 좋았는지 아닌지는 듣는 사람 태도에 달렸다."
+
+#: deathforth/events/camp/camp2.df:446
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "It turns out that "
+msgstr "알고 보니 "
+
+#: deathforth/events/camp/camp2.df:446
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " really isn't that great at planning things at all."
+msgstr "은(는) 계획 세우는 데 영 소질이 없다."
+
+#: deathforth/events/camp/camp2.df:449
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " plans out the next day. It's a good use of time, and helps "
+msgstr "은(는) 내일 계획을 세운다. 시간을 잘 활용한 덕분에 "
+
+#: deathforth/events/camp/camp2.df:449
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " focus on the big picture."
+msgstr "이(가) 큰 그림에 집중할 수 있다."
+
+#: deathforth/events/camp/camp2.df:452
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " makes elaborate plans for the next day. It's not until morning that "
+msgstr "은(는) 내일을 위한 정교한 계획을 세운다. 아침이 돼서야 "
+
+#: deathforth/events/camp/camp2.df:452
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " realizes that the plans were completely goofy."
+msgstr "는 계획이 완전 엉터리였다는 걸 깨닫는다."
+
+#: deathforth/events/camp/camp2.df:458
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Death Road Sing-a-Long"
+msgstr "데스 로드 다 함께 노래를"
+
+#: deathforth/events/camp/camp2.df:459
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " is sitting around a campfire. Finding this campsite was rough, so "
+msgstr "은(는) 모닥불 주위에 앉아 있다. 이 야영지를 찾느라 고생해서, "
+
+#: deathforth/events/camp/camp2.df:459
+msgctxt "deathforth/events/camp/camp2.df"
+msgid " getting in a bad mood."
+msgstr "기분이 점점 나빠지고 있다."
+
+#: deathforth/events/camp/camp2.df:460
+msgctxt "deathforth/events/camp/camp2.df"
+msgid "Sing a song"
+msgstr "노래를 부른다"
+
+#: deathforth/events/camp/camp2.df:461
+msgctxt "deathforth/events/camp/camp2.df"
+msgid ": Plan out tomorrow"
+msgstr ": 내일 계획을 세운다"
+
+#: deathforth/events/camp/camp3.df:7
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " ALWAYS has a fire safety plan prepared. It doesn't matter where "
+msgstr "은(는) 언제나 화재 대피 계획을 세워 둔다. "
+
+#: deathforth/events/camp/camp3.df:7
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " is, "
+msgstr "가 어디에 있든, "
+
+#: deathforth/events/camp/camp3.df:7
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" constantly thinks up new fire safety plans.\r\n"
+"\tAll supplies were saved! "
+msgstr ""
+"은(는) 끊임없이 새로운 화재 대피 계획을 생각한다.\r\n"
+"\t물자를 전부 구했다! "
+
+#: deathforth/events/camp/camp3.df:8
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "No one was injured."
+msgstr "다친 사람은 없다."
+
+#: deathforth/events/camp/camp3.df:18
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" is completely fireproof.\r\n"
+"\t\t "
+msgstr ""
+"은(는) 완벽한 방화 체질이다.\r\n"
+"\t\t "
+
+#: deathforth/events/camp/camp3.df:19
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " saves the supplies at a leisurely pace. No hurry!"
+msgstr "는 여유롭게 물자를 구해 낸다. 서두를 것 없다!"
+
+#: deathforth/events/camp/camp3.df:20
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " escape"
+msgstr "은(는) 탈출한다"
+
+#: deathforth/events/camp/camp3.df:20
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ", no one is harmed."
+msgstr ". 아무도 다치지 않는다."
+
+#: deathforth/events/camp/camp3.df:24
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " tries to keep calm and observant."
+msgstr "은(는) 침착하게 상황을 살피려 한다."
+
+#: deathforth/events/camp/camp3.df:27
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " can't keep calm at all! "
+msgstr "는 전혀 침착하지 못하다! "
+
+#: deathforth/events/camp/camp3.df:27
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " panics!"
+msgstr "은(는) 공황에 빠진다!"
+
+#: deathforth/events/camp/camp3.df:30
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " keeps very calm!"
+msgstr "는 아주 침착하다!"
+
+#: deathforth/events/camp/camp3.df:32
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " panics, and this wastes precious time"
+msgstr "는 당황해서 귀한 시간을 허비한다"
+
+#: deathforth/events/camp/camp3.df:37
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " plans a fast way out. "
+msgstr "는 빠른 탈출로를 계획한다. "
+
+#: deathforth/events/camp/camp3.df:37
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " leave"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp3.df:37
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " unhurt!"
+msgstr "무사히 빠져나간다!"
+
+#: deathforth/events/camp/camp3.df:39
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " goes the wrong way. "
+msgstr "는 길을 잘못 든다. "
+
+#: deathforth/events/camp/camp3.df:39
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " gets burned!"
+msgstr "은(는) 화상을 입는다!"
+
+#: deathforth/events/camp/camp3.df:43
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " gets away! "
+msgstr "은(는) 빠져나간다! "
+
+#: deathforth/events/camp/camp3.df:52
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Who plans and leads the escape?"
+msgstr "누가 탈출 계획을 세우고 이끌까?"
+
+#: deathforth/events/camp/camp3.df:57
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" runs out of that situation. Unfortunately, a lot of supplies got left "
+"behind that weren't in the car."
+msgstr "은(는) 그 자리를 뛰쳐나온다. 안타깝게도 차에 싣지 않은 물자는 대부분 두고 왔다."
+
+#: deathforth/events/camp/camp3.df:62
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Fire!"
+msgstr "불이야!"
+
+#: deathforth/events/camp/camp3.df:63
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " goes against "
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp3.df:63
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" judgement and camps in a city apartment, because there's no zombies around."
+msgstr " 판단을 거스르고, 좀비가 없다는 이유로 도시 아파트에서 야영한다."
+
+#: deathforth/events/camp/camp3.df:64
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "When "
+msgstr "<EMPTY>"
+
+#: deathforth/events/camp/camp3.df:64
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " wake"
+msgstr "이(가) 깨어 보니"
+
+#: deathforth/events/camp/camp3.df:64
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " up, the building is on fire. "
+msgstr ", 건물이 불타고 있다. "
+
+#: deathforth/events/camp/camp3.df:66
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " is cool about fire safety"
+msgstr "은(는) 화재 안전에 빠삭하다"
+
+#: deathforth/events/camp/camp3.df:68
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Plan out escape"
+msgstr "탈출 계획을 세운다"
+
+#: deathforth/events/camp/camp3.df:70
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Run out NOW"
+msgstr "당장 뛰쳐나간다"
+
+#: deathforth/events/camp/camp3.df:76
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " stand"
+msgstr "은(는) 밖에서 약탈자들을 경계한다. "
+
+#: deathforth/events/camp/camp3.df:76
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " guard outside for the looters as "
+msgstr "그동안 "
+
+#: deathforth/events/camp/camp3.df:76
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " searches the grocery store."
+msgstr "이(가) 식료품점을 뒤진다."
+
+#: deathforth/events/camp/camp3.df:79
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" grabs the food in there and then sneaks away, never to return. What a "
+"weasel!"
+msgstr "은(는) 안에 있던 식량을 챙겨서 몰래 사라지고, 다시는 돌아오지 않는다. 비열한 놈!"
+
+#: deathforth/events/camp/camp3.df:82
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " says there wasn't any food in there."
+msgstr "은(는) 안에 식량이 없었다고 말한다."
+
+#: deathforth/events/camp/camp3.df:85
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " suspects that this is a lie! "
+msgstr "은(는) 거짓말이라고 의심한다! "
+
+#: deathforth/events/camp/camp3.df:85
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " starts keeping an eye on "
+msgstr "는 감시하기 시작한다: "
+
+#: deathforth/events/camp/camp3.df:90
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " brings back some food!"
+msgstr "은(는) 식량을 좀 가져온다!"
+
+#: deathforth/events/camp/camp3.df:96
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" grabs some cans of food that were on the shelves, avoiding a sparse amount of zombies. Another group of looters come in.\r\n"
+"\tThe looters start shooting! They really want those cans of food!\r\n"
+"\t"
+msgstr ""
+"은(는) 좀비 몇 마리를 피해 선반에 있던 통조림을 챙긴다. 그때 다른 약탈자 무리가 들어온다.\r\n"
+"\t약탈자들이 총을 쏘기 시작한다! 통조림이 정말 탐나나 보다!\r\n"
+"\t"
+
+#: deathforth/events/camp/camp3.df:98
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " runs back to the camp for a fight. They never follow, but "
+msgstr "은(는) 싸울 각오를 하고 야영지로 달려 돌아온다. 놈들은 따라오지 않았지만, "
+
+#: deathforth/events/camp/camp3.df:98
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " stays up the whole night."
+msgstr "은(는) 밤을 꼴딱 새운다."
+
+#: deathforth/events/camp/camp3.df:102
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" wisely chooses to not get into a big fight about some cans of food. There "
+"will be other grocery stores, with less humans to worry about."
+msgstr ""
+"은(는) 통조림 몇 개 때문에 큰 싸움을 벌이지 않기로 현명하게 결정한다. 다른 식료품점도 있을 테고, 사람도 더 적을 것이다."
+
+#: deathforth/events/camp/camp3.df:107
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Who should loot the grocery store?"
+msgstr "누가 식료품점을 털까?"
+
+#: deathforth/events/camp/camp3.df:113
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " sets up camp outside a grocery store. "
+msgstr "은(는) 식료품점 밖에 야영을 한다. "
+
+#: deathforth/events/camp/camp3.df:113
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " notice"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp3.df:113
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " another group has been following "
+msgstr "다른 무리가 따라오고 있었다는 걸 알아챈다: "
+
+#: deathforth/events/camp/camp3.df:113
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " and will probably attempt to loot the place."
+msgstr ". 놈들은 아마 이곳을 털려고 할 것이다."
+
+#: deathforth/events/camp/camp3.df:115
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Parking Lot Camping"
+msgstr "주차장 야영"
+
+#: deathforth/events/camp/camp3.df:116
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Try to loot the grocery store"
+msgstr "식료품점을 털어 본다"
+
+#: deathforth/events/camp/camp3.df:118
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Grocery Trust Exercise"
+msgstr "식료품점 신뢰 테스트"
+
+#: deathforth/events/camp/camp3.df:119
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Send one person in to loot?"
+msgstr "한 명만 들여보내서 털까?"
+
+#: deathforth/events/camp/camp3.df:123
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/events/camp/camp3.df:128
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Let them have it, avoid trouble"
+msgstr "놈들에게 양보하고, 말썽은 피한다"
+
+#: deathforth/events/camp/camp3.df:134
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " does not trust anyone in the camp. "
+msgstr "은(는) 야영지의 누구도 믿지 않는다. "
+
+#: deathforth/events/camp/camp3.df:134
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" stays up all night, watching for any signs of trouble. Nothing happens, and"
+" "
+msgstr "는 밤새 깨어서 문제의 조짐을 살핀다. 아무 일도 없었고, "
+
+#: deathforth/events/camp/camp3.df:134 deathforth/events/camp/camp3.df:294
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " is exhausted in the morning."
+msgstr "는 아침에 녹초가 된다."
+
+#: deathforth/events/camp/camp3.df:138
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " has an easy time robbing the peaceful camp. "
+msgstr "은(는) 평화로운 야영지를 손쉽게 턴다. "
+
+#: deathforth/events/camp/camp3.df:138
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " quickly steals food and then speeds off. "
+msgstr "은(는) 재빨리 식량을 훔쳐 달아난다. "
+
+#: deathforth/events/camp/camp3.df:138
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " drive"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp3.df:138
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " through the night and "
+msgstr "밤새 달려서 "
+
+#: deathforth/events/camp/camp3.df:138
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " tired the next day."
+msgstr "다음 날 피곤하다."
+
+#: deathforth/events/camp/camp3.df:147
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " goes to the middle of the crowded camp and starts "
+msgstr "은(는) 북적이는 야영지 한가운데로 가서 시작한다: "
+
+#: deathforth/events/camp/camp3.df:147
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "FARTING UP A STORM."
+msgstr "방귀 폭풍을."
+
+#: deathforth/events/camp/camp3.df:149
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " stands on a little box and tells the entire camp to "
+msgstr "은(는) 작은 상자 위에 올라가 야영지 전체에 말한다: "
+
+#: deathforth/events/camp/camp3.df:149
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "COOL IT."
+msgstr "진정해."
+
+#: deathforth/events/camp/camp3.df:152
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+"The other groups in the camp take this as a sign that they should RELAX and "
+"CUT LOOSE more and they hold a big feast!"
+msgstr "야영지의 다른 무리들은 이걸 '더 느긋하게 즐기라'는 신호로 받아들이고 큰 잔치를 연다!"
+
+#: deathforth/events/camp/camp3.df:155
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Everyone in the camp almost immediately turns on "
+msgstr "야영지의 모두가 거의 즉시 등을 돌린다: "
+
+#: deathforth/events/camp/camp3.df:155
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " ejected, and make"
+msgstr "쫓겨나서 "
+
+#: deathforth/events/camp/camp3.df:155
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " camp in a much less comfortable spot."
+msgstr "훨씬 불편한 곳에서 야영한다."
+
+#: deathforth/events/camp/camp3.df:161
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " takes a risk and goes to sleep in the crowded camp."
+msgstr "은(는) 위험을 감수하고 북적이는 야영지에서 잔다."
+
+#: deathforth/events/camp/camp3.df:162
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Nothing unusual happens."
+msgstr "별일 없이 지나간다."
+
+#: deathforth/events/camp/camp3.df:165
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+"One of the other groups learns about the trip to Canada. They give some "
+"supplies, because they say you'll need it more than they will."
+msgstr "다른 무리 하나가 캐나다로 간다는 얘기를 듣는다. 너희가 더 필요할 거라며 물자를 좀 나눠 준다."
+
+#: deathforth/events/camp/camp3.df:169
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+"Someone, and we'll never know who, did the hand in warm water prank to "
+msgstr "누군가, 누군지는 영원히 모르겠지만, 자는 사이 손을 따뜻한 물에 담그는 장난을 쳤다. 피해자: "
+
+#: deathforth/events/camp/camp3.df:171
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "In the morning, the other groups are gone and supplies are missing!"
+msgstr "아침이 되니 다른 무리들은 떠났고 물자가 사라졌다!"
+
+#: deathforth/events/camp/camp3.df:178
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " can't bring themselves to trust this many strangers. "
+msgstr "은(는) 이렇게 많은 낯선 사람을 도저히 믿을 수 없다. "
+
+#: deathforth/events/camp/camp3.df:178
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " decide"
+msgstr "은(는) "
+
+#: deathforth/events/camp/camp3.df:178
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " it's safer to drive away as soon as "
+msgstr "되도록 빨리 차를 몰고 떠나는 게 안전하다고 판단한다. "
+
+#: deathforth/events/camp/camp3.df:178
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " can."
+msgstr "떠날 수 있는 대로."
+
+#: deathforth/events/camp/camp3.df:183
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Crowded Campsite"
+msgstr "북적이는 야영지"
+
+#: deathforth/events/camp/camp3.df:184
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" finds a large campsite that is occupied by a few carloads of other survivors. Camping with strangers is risky, but there's nowhere else to go.\r\n"
+"\tNone are heading to Canada."
+msgstr ""
+"은(는) 차 몇 대 분량의 다른 생존자들이 차지한 큰 야영지를 찾는다. 낯선 사람과 야영하는 건 위험하지만, 갈 곳이 없다.\r\n"
+"\t캐나다로 가는 사람은 아무도 없다."
+
+#: deathforth/events/camp/camp3.df:186
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Camp with them"
+msgstr "함께 야영한다"
+
+#: deathforth/events/camp/camp3.df:188
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " doesn't trust them"
+msgstr "은(는) 그들을 믿지 않는다"
+
+#: deathforth/events/camp/camp3.df:191
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " robs them and runs"
+msgstr "이(가) 털고 도망간다"
+
+#: deathforth/events/camp/camp3.df:194
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " tells camp to 'COOL IT'"
+msgstr "이(가) 야영지에 '진정해'라고 말한다"
+
+#: deathforth/events/camp/camp3.df:196
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Drive off with no sleep"
+msgstr "잠 안 자고 차로 떠난다"
+
+#: deathforth/events/camp/camp3.df:202
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" spends all night taking stuff apart and putting them back together. It's very noisy.\r\n"
+"\t"
+msgstr ""
+"은(는) 밤새 물건을 분해했다 조립했다 한다. 엄청 시끄럽다.\r\n"
+"\t"
+
+#: deathforth/events/camp/camp3.df:203
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " will be very tired tomorrow!"
+msgstr "은(는) 내일 몹시 피곤할 것이다!"
+
+#: deathforth/events/camp/camp3.df:211
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Who should tinker with the broken machinery?"
+msgstr "누가 고장 난 기계를 만질까?"
+
+#: deathforth/events/camp/camp3.df:217
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Non-Useless Junk Shop"
+msgstr "쓸모 있는 고물상"
+
+#: deathforth/events/camp/camp3.df:218
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+" camps in a sturdy building. It seems to be an old repair shop, with busted machinery laying around.\r\n"
+"\tThis would be a great time to train with repairing things, but that would make a lot of noise."
+msgstr ""
+"은(는) 튼튼한 건물에서 야영한다. 오래된 수리점 같고, 고장 난 기계가 널려 있다.\r\n"
+"\t수리 연습을 하기에 딱 좋지만, 엄청 시끄러울 것이다."
+
+#: deathforth/events/camp/camp3.df:220
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Just go to sleep"
+msgstr "그냥 잔다"
+
+#: deathforth/events/camp/camp3.df:221
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Tinker all night"
+msgstr "밤새 기계를 만진다"
+
+#: deathforth/events/camp/camp3.df:228
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " doesn't care."
+msgstr "은(는) 신경 안 쓴다."
+
+#: deathforth/events/camp/camp3.df:237
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "The secret ritual has been completed!"
+msgstr "비밀 의식이 완료되었다!"
+
+#: deathforth/events/camp/camp3.df:238
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "Bort has been summoned..."
+msgstr "보트가 소환되었다..."
+
+#: deathforth/events/camp/camp3.df:241
+msgctxt "deathforth/events/camp/camp3.df"
+msgid "The group is full, but Bort has been summoned. Who gets to leave?"
+msgstr "일행이 꽉 찼지만 보트가 소환되었다. 누가 떠날까?"
+
+#: deathforth/events/camp/camp3.df:248
+msgctxt "deathforth/events/camp/camp3.df"
+msgid " gets some shooting practice by blasting the cans."
+msgstr "은(는) 깡통을 쏘며 사격 연습을 한다."
+
+#: deathforth/events/camp/camp3.df:250
+msgctxt "deathforth/events/camp/camp3.df"
+msgid ""
+"A man in red long johns runs onto the field with a pitchfork.\r\n"
+"\t\t"
+msgstr ""
+"빨간 내복을 입은 남자가 쇠스랑을 들고 들판으로 뛰어든다.\r\n"
+"\t\t"

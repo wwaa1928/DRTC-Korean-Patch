@@ -1,0 +1,2836 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/stomach/sycamore_events.df:462
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"YE BE IN NEED OF A VEHICKLE VESSEL? YARGH. I CAN OFFER YE ONE, IF YE HAVE "
+"THE FUNDS!"
+msgstr "탈것 선박이 필요한가? 야르. 하나 줄 수 있지, 돈만 있다면!"
+
+#: deathforth/events/stomach/sycamore_events.df:463
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The captain offers to take "
+msgstr "선장이 제안한다. 받는 건 "
+
+#: deathforth/events/stomach/sycamore_events.df:463
+#: deathforth/events/stomach/sycamore_events.df:475
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " food "
+msgstr " 식량. "
+
+#: deathforth/events/stomach/sycamore_events.df:463
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"in exchange for giving you a (random) vehicle. You will keep your weapons "
+"and loot."
+msgstr "그 대가로 (무작위) 차량 한 대를 준다. 무기와 물자는 그대로 유지된다."
+
+#: deathforth/events/stomach/sycamore_events.df:466
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The group can't spare the food!"
+msgstr "일행은 식량을 줄 여유가 없다!"
+
+#: deathforth/events/stomach/sycamore_events.df:469
+#: deathforth/events/stomach/sycamore_events.df:476
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Reject offer"
+msgstr "제안을 거절한다"
+
+#: deathforth/events/stomach/sycamore_events.df:471
+#: deathforth/events/stomach/sycamore_events.df:477
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Accept offer"
+msgstr "제안을 받아들인다"
+
+#: deathforth/events/stomach/sycamore_events.df:474
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"YARGH, WHY NOT. TIS A FINE LAND VESSEL YE POSSESS. I'LL TRADE YOU FOOD FOR "
+"IT."
+msgstr "야르, 안 될 거 없지. 훌륭한 육지 선박을 가졌구먼. 식량이랑 바꿔 주지."
+
+#: deathforth/events/stomach/sycamore_events.df:475
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The captain offers "
+msgstr "선장이 제안한다. 주는 건 "
+
+#: deathforth/events/stomach/sycamore_events.df:475
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "in exchange for your vehicle. You will keep your weapons and loot."
+msgstr "그 대가로 너희 차량을 받는다. 무기와 물자는 그대로 유지된다."
+
+#: deathforth/events/stomach/sycamore_events.df:484
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THE U.S.S RUSTOLEUM"
+msgstr "U.S.S 녹슨호"
+
+#: deathforth/events/stomach/sycamore_events.df:486
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" is exploring near the coast when they meet a skeleton captain of an old, "
+"withered submarine that sunk nearby! The apocalypse brought him out of his "
+"home."
+msgstr "은(는) 해안 근처를 탐색하다 근처에 가라앉은 낡고 시든 잠수함의 해골 선장을 만난다! 종말 덕분에 그가 집 밖으로 나왔다."
+
+#: deathforth/events/stomach/sycamore_events.df:487
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "HI THERE. I'M NOT EVIL. PINKIE PROMISE!"
+msgstr "안녕. 난 나쁜 놈 아니야. 새끼손가락 걸고 약속!"
+
+#: deathforth/events/stomach/sycamore_events.df:488
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "His boney pinkie then falls off."
+msgstr "그러자 그의 앙상한 새끼손가락이 떨어진다."
+
+#: deathforth/events/stomach/sycamore_events.df:489
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "What was the topic of their discussion?"
+msgstr "무슨 이야기를 나눴을까?"
+
+#: deathforth/events/stomach/sycamore_events.df:491
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Your loot, please!"
+msgstr ": 물건 좀 내놓으시지!"
+
+#: deathforth/events/stomach/sycamore_events.df:493
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": WANNA FIGHT?"
+msgstr ": 한판 붙을래?"
+
+#: deathforth/events/stomach/sycamore_events.df:496
+#: deathforth/events/stomach/sycamore_events.df:893
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": TELL HIM TO COOL IT"
+msgstr ": 진정하라고 한다"
+
+#: deathforth/events/stomach/sycamore_events.df:500
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Trade with him"
+msgstr "그와 거래한다"
+
+#: deathforth/events/stomach/sycamore_events.df:503
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": D*VY JONES LOCKER"
+msgstr ": D*VY 존스의 사물함"
+
+#: deathforth/events/stomach/sycamore_events.df:504
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": How'd you sink?"
+msgstr ": 어쩌다 가라앉았어?"
+
+#: deathforth/events/stomach/sycamore_events.df:509
+#: deathforth/events/stomach/sycamore_events.df:527
+#: deathforth/events/stomach/sycamore_events.df:550
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " plays "
+msgstr "은(는) 해 본다: "
+
+#: deathforth/events/stomach/sycamore_events.df:509
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THE STRONGMANN GAME! "
+msgstr "스트롱맨 게임! "
+
+#: deathforth/events/stomach/sycamore_events.df:509
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"It's one of those old games where you smash a button with a hammer to see "
+"how SWOLE you are."
+msgstr "망치로 버튼을 내리쳐서 얼마나 우람한지 재는 옛날 게임이다."
+
+#: deathforth/events/stomach/sycamore_events.df:512
+#: deathforth/events/stomach/sycamore_events.df:516
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "DING DING DING DING DING"
+msgstr "딩 딩 딩 딩 딩"
+
+#: deathforth/events/stomach/sycamore_events.df:513
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "YOU'RE A REAL SWOLE MOLE!"
+msgstr "넌 진짜 근육 두더지야!"
+
+#: deathforth/events/stomach/sycamore_events.df:517
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "FINAL VERDICT: MID-MUSCLE"
+msgstr "최종 판정: 중간 근육"
+
+#: deathforth/events/stomach/sycamore_events.df:520
+#: deathforth/events/stomach/sycamore_events.df:534
+#: deathforth/events/stomach/sycamore_events.df:557
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "These carnival games are really getting out of hand."
+msgstr "이 카니발 게임들 진짜 도가 지나치네."
+
+#: deathforth/events/stomach/sycamore_events.df:521
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Smashing that button repeatedly was great exercise! "
+msgstr "버튼을 계속 내리친 게 훌륭한 운동이 됐다! "
+
+#: deathforth/events/stomach/sycamore_events.df:521
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " feels so much stronger already!"
+msgstr "은(는) 벌써 훨씬 강해진 기분이다!"
+
+#: deathforth/events/stomach/sycamore_events.df:527
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THE CLAY BIRD SHOOTING GAME! "
+msgstr "클레이 사격 게임! "
+
+#: deathforth/events/stomach/sycamore_events.df:527
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "There's a clay disk launcher and an intact double-barrel shotgun."
+msgstr "클레이 원반 발사기와 멀쩡한 쌍열 산탄총이 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:528
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " finds some ammo and takes the shotgun for themselves."
+msgstr "은(는) 탄약을 좀 찾고 산탄총을 챙긴다."
+
+#: deathforth/events/stomach/sycamore_events.df:532
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "BANG BANG BANG!"
+msgstr "탕 탕 탕!"
+
+#: deathforth/events/stomach/sycamore_events.df:533
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "WOW, NICE SHOT, YA DINGUS!"
+msgstr "와, 잘 쐈다, 이 멍청아!"
+
+#: deathforth/events/stomach/sycamore_events.df:537
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" missed nearly every disk except the last! The launcher machine dispenses a "
+"singular can of beans."
+msgstr "은(는) 마지막 하나 빼고 원반을 거의 다 놓쳤다! 발사기가 콩 통조림 하나를 내놓는다."
+
+#: deathforth/events/stomach/sycamore_events.df:541
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" missed every single shot and almost fell over in the process! At least it "
+"was good shooting practice."
+msgstr "은(는) 한 발도 못 맞히고 넘어질 뻔했다! 그래도 사격 연습은 됐다."
+
+#: deathforth/events/stomach/sycamore_events.df:544
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "That was a tough challenge! "
+msgstr "어려운 도전이었다! "
+
+#: deathforth/events/stomach/sycamore_events.df:544
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is already a better shot as a result."
+msgstr "은(는) 덕분에 벌써 사격 실력이 늘었다."
+
+#: deathforth/events/stomach/sycamore_events.df:550
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THE DODGEMS SMASHING GAME! "
+msgstr "범퍼카 박치기 게임! "
+
+#: deathforth/events/stomach/sycamore_events.df:550
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "There's a series of dinky iittle dodgem cars left to rot."
+msgstr "썩어 가는 조그만 범퍼카들이 줄지어 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:551
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " finds some gas and a wrench in the backrooms of the dodgems circuit."
+msgstr "은(는) 범퍼카장 뒷방에서 기름과 렌치를 찾는다."
+
+#: deathforth/events/stomach/sycamore_events.df:555
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "BOUNCE BOUNCE BOUNCE BOUNCE CRAAASSSSSSH!"
+msgstr "쿵 쿵 쿵 쿵 쾅앙아아앙!"
+
+#: deathforth/events/stomach/sycamore_events.df:556
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "AMAZING! YOU DRIVE LIKE A DRUNKEN SQUIRREL!"
+msgstr "놀라워! 술 취한 다람쥐처럼 운전하네!"
+
+#: deathforth/events/stomach/sycamore_events.df:560
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" bashes around on the dodgems for a while. They even manage to avoid "
+"breaking any bones!"
+msgstr "은(는) 범퍼카로 한동안 이리저리 부딪친다. 뼈 하나 안 부러뜨리고 해냈다!"
+
+#: deathforth/events/stomach/sycamore_events.df:563
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" crashes into a wall at high speed halfway through! Something cracks in "
+"their back. Youch!"
+msgstr "은(는) 중간에 엄청난 속도로 벽에 부딪힌다! 허리에서 뭔가 우두둑한다. 아야!"
+
+#: deathforth/events/stomach/sycamore_events.df:566
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Driving around with some janky controls is difficult, but "
+msgstr "조작이 엉망인 차를 몰기는 어렵지만, "
+
+#: deathforth/events/stomach/sycamore_events.df:566
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " gains a slightly better understanding of machines as a result."
+msgstr "은(는) 덕분에 기계를 조금 더 이해하게 된다."
+
+#: deathforth/events/stomach/sycamore_events.df:572
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " jumps on "
+msgstr "은(는) 올라탄다: "
+
+#: deathforth/events/stomach/sycamore_events.df:572
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THE GIANT HAMPSTER WHEEL! "
+msgstr "거대 햄스터 쳇바퀴! "
+
+#: deathforth/events/stomach/sycamore_events.df:572
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "There's a bunch of wires attached that seem to lead everywhere."
+msgstr "사방으로 이어진 전선이 잔뜩 달려 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:573
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " finds a leather whip nearby. Whatever was this used for?"
+msgstr "은(는) 근처에서 가죽 채찍을 찾는다. 대체 어디에 쓰던 거지?"
+
+#: deathforth/events/stomach/sycamore_events.df:576
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "WHIRRRRR WHIRRRRR WHIRRRRRRRRRRR!"
+msgstr "위이이잉 위이이잉 위이이이이이잉!"
+
+#: deathforth/events/stomach/sycamore_events.df:577
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The rest of the carnival briefly illuminates! The wheel is a generator!"
+msgstr "카니발의 나머지가 잠깐 불이 들어온다! 쳇바퀴가 발전기였다!"
+
+#: deathforth/events/stomach/sycamore_events.df:578
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The lights look amazing!"
+msgstr "조명이 끝내준다!"
+
+#: deathforth/events/stomach/sycamore_events.df:582
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " runs like the wind! The wheel turns at blistering speeds!"
+msgstr "은(는) 바람처럼 달린다! 쳇바퀴가 맹렬한 속도로 돈다!"
+
+#: deathforth/events/stomach/sycamore_events.df:585
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" loses their balance and slips off the wheel. They pull something in their "
+"leg!"
+msgstr "은(는) 균형을 잃고 쳇바퀴에서 미끄러진다. 다리를 삐끗했다!"
+
+#: deathforth/events/stomach/sycamore_events.df:588
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "All that running was great exercise! "
+msgstr "그렇게 달린 게 훌륭한 운동이 됐다! "
+
+#: deathforth/events/stomach/sycamore_events.df:588
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " feels their glutes stregthen."
+msgstr "은(는) 엉덩이 근육이 단단해지는 걸 느낀다."
+
+#: deathforth/events/stomach/sycamore_events.df:595
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "DARK CARNIVAL"
+msgstr "어둠의 카니발"
+
+#: deathforth/events/stomach/sycamore_events.df:596
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" arrives at an old forgotten carnival grounds. Amidst many empty stalls, "
+"some barely functional games remain."
+msgstr "은(는) 오래 잊힌 카니발 부지에 도착한다. 텅 빈 가판대 사이에 겨우 돌아가는 게임 몇 개가 남아 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:597
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Although many of them were just well-disguised scams before the apocalypse, "
+"there's nobody to stop them having fun now."
+msgstr "종말 전엔 대부분 교묘한 사기였겠지만, 이제는 재미를 막을 사람이 아무도 없다."
+
+#: deathforth/events/stomach/sycamore_events.df:598
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "There's enough time to play a game. Which?"
+msgstr "게임 하나 할 시간은 있다. 뭘 할까?"
+
+#: deathforth/events/stomach/sycamore_events.df:600
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Strongman Hammer!"
+msgstr ": 스트롱맨 망치!"
+
+#: deathforth/events/stomach/sycamore_events.df:601
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Clay Shooting!"
+msgstr ": 클레이 사격!"
+
+#: deathforth/events/stomach/sycamore_events.df:602
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Dodgems!"
+msgstr ": 범퍼카!"
+
+#: deathforth/events/stomach/sycamore_events.df:603
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Hampster Wheel!"
+msgstr ": 햄스터 쳇바퀴!"
+
+#: deathforth/events/stomach/sycamore_events.df:608
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Alone, "
+msgstr "홀로, "
+
+#: deathforth/events/stomach/sycamore_events.df:608
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" faces down the alley, weapons drawn. They glance between each bandit; the "
+"bandits stare."
+msgstr "은(는) 무기를 뽑아 들고 골목을 마주한다. 약탈자들을 하나하나 훑어본다. 약탈자들도 노려본다."
+
+#: deathforth/events/stomach/sycamore_events.df:609
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits rush down the alleyway towards "
+msgstr "약탈자들이 골목을 따라 돌진한다. 향하는 곳은 "
+
+#: deathforth/events/stomach/sycamore_events.df:609
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " quickly aims at each!"
+msgstr "은(는) 재빨리 하나씩 조준한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:610
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " blasts the approaching bandits easily! The rest"
+msgstr "는 다가오는 약탈자들을 가볍게 쏴 날린다! 나머지는"
+
+#: deathforth/events/stomach/sycamore_events.df:610
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " flee in terror!"
+msgstr " 겁에 질려 도망친다!"
+
+#: deathforth/events/stomach/sycamore_events.df:611
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "ITS FLYYYYY MOON. No, wait that's not how it goes..."
+msgstr "이것이 플라이 문... 아니, 잠깐, 그게 아닌데..."
+
+#: deathforth/events/stomach/sycamore_events.df:612
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The group is able to get through unscathed!"
+msgstr "일행은 무사히 지나간다!"
+
+#: deathforth/events/stomach/sycamore_events.df:620
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The plan is simple: charge down the alleyway at full speed, and take the "
+"distracted bandits by surprise."
+msgstr "계획은 간단하다. 골목을 전속력으로 돌진해 방심한 약탈자들을 기습한다."
+
+#: deathforth/events/stomach/sycamore_events.df:621
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" rushes down the alleyway, weapons ready! Combat ensues, but the group has "
+"the upper hand!"
+msgstr "은(는) 무기를 들고 골목을 돌진한다! 전투가 벌어지지만, 일행이 우세하다!"
+
+#: deathforth/events/stomach/sycamore_events.df:624
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" takes some hits. The fighting is intense! Perhaps the plan would've worked "
+"better if they'd been more swole."
+msgstr "은(는) 몇 대 맞는다. 치열한 싸움이다! 좀 더 우람했다면 계획이 잘 먹혔을지도."
+
+#: deathforth/events/stomach/sycamore_events.df:627
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The bandits are beaten! They stood no chance against the team's strength!"
+msgstr "약탈자들을 물리쳤다! 일행의 힘 앞에 상대가 안 됐다!"
+
+#: deathforth/events/stomach/sycamore_events.df:631
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The rest of the bandits flee! Everybody makes it safely through the "
+"remainder of the alleyway."
+msgstr "나머지 약탈자들이 도망친다! 모두 골목의 나머지 구간을 무사히 통과한다."
+
+#: deathforth/events/stomach/sycamore_events.df:637
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Whilst most would fall victim to this bandit group, "
+msgstr "대부분은 이 약탈자 무리에게 당하겠지만, "
+
+#: deathforth/events/stomach/sycamore_events.df:637
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " understands this is one of the oldest tricks in the book."
+msgstr "은(는) 이게 가장 오래된 수법 중 하나라는 걸 안다."
+
+#: deathforth/events/stomach/sycamore_events.df:638
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" disguises themselves as a bandit, creating a hood with a nearby trash bag. "
+"Casually, "
+msgstr "은(는) 근처 쓰레기봉투로 두건을 만들어 약탈자로 변장한다. 태연하게, "
+
+#: deathforth/events/stomach/sycamore_events.df:638
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " approaches the cultists."
+msgstr "는 광신도들에게 다가간다."
+
+#: deathforth/events/stomach/sycamore_events.df:640
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "HEY FELLOW CULTISTS. COME WITH ME. I FOUND SOME LOSERS TO ROB!"
+msgstr "어이 동지들. 따라와. 털어먹을 루저들을 찾았어!"
+
+#: deathforth/events/stomach/sycamore_events.df:643
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits believe the shoddy disguise! "
+msgstr "약탈자들이 엉성한 변장에 속는다! "
+
+#: deathforth/events/stomach/sycamore_events.df:643
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " leads them right into their carefully planned trap!"
+msgstr "은(는) 그들을 공들여 준비한 함정으로 이끈다!"
+
+#: deathforth/events/stomach/sycamore_events.df:646
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Whilst the bandits are distracted, "
+msgstr "약탈자들이 정신 팔린 사이, "
+
+#: deathforth/events/stomach/sycamore_events.df:646
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " slips away!"
+msgstr "는 슬쩍 빠져나간다!"
+
+#: deathforth/events/stomach/sycamore_events.df:648
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The group robs the cultists instead! Free loot! Revenge!"
+msgstr "오히려 일행이 광신도들을 턴다! 공짜 물자! 복수다!"
+
+#: deathforth/events/stomach/sycamore_events.df:655
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The cultists are embarassed by their stupidity!"
+msgstr "광신도들은 자기들의 멍청함에 창피해한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:660
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits see through the disguise almost immediately."
+msgstr "약탈자들은 변장을 거의 즉시 꿰뚫어 본다."
+
+#: deathforth/events/stomach/sycamore_events.df:661
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "They beat up "
+msgstr "그들이 무기로 꽤 심하게 두들겨 팬다: "
+
+#: deathforth/events/stomach/sycamore_events.df:661
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " pretty bad with their weapons!"
+msgstr "을(를)!"
+
+#: deathforth/events/stomach/sycamore_events.df:667
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits finally disperse, allowing the group to traverse through."
+msgstr "약탈자들이 마침내 흩어지고, 일행은 지나갈 수 있게 된다."
+
+#: deathforth/events/stomach/sycamore_events.df:683
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " tries to reason with the bandits. Surely pure "
+msgstr "은(는) 약탈자들을 설득하려 한다. 분명 순수한 "
+
+#: deathforth/events/stomach/sycamore_events.df:683
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "LOGIC AND REASON"
+msgstr "논리와 이성"
+
+#: deathforth/events/stomach/sycamore_events.df:683
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " can dispel their bandit ways?"
+msgstr "(으)로 약탈자 근성을 몰아낼 수 있지 않을까?"
+
+#: deathforth/events/stomach/sycamore_events.df:686
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits laugh at this zany attempt to disparage their "
+msgstr "약탈자들이 이 엉뚱한 시도를 비웃는다. 감히 모욕하다니: "
+
+#: deathforth/events/stomach/sycamore_events.df:686
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "SACRED OBAMA, THE FORETOLD GREAT CREATOR!"
+msgstr "신성한 오바마, 예언된 위대한 창조주를!"
+
+#: deathforth/events/stomach/sycamore_events.df:687
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Then they rob the group for everything they're carrying."
+msgstr "그러고는 일행이 가진 걸 몽땅 털어 간다."
+
+#: deathforth/events/stomach/sycamore_events.df:688
+#: deathforth/events/stomach/sycamore_events.df:719
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "CHARACTER WEAPONS LOST!"
+msgstr "캐릭터 무기 분실!"
+
+#: deathforth/events/stomach/sycamore_events.df:692
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Having taken enough for themselves, the cultists let the group through."
+msgstr "충분히 챙긴 광신도들이 일행을 지나가게 해 준다."
+
+#: deathforth/events/stomach/sycamore_events.df:694
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"WE...WE WERE WRONG? ALL THIS TIME? THE GREAT CREATOR WAS NOT OBAMA AFTER "
+"ALL?"
+msgstr "우리가... 우리가 틀렸다고? 지금까지? 위대한 창조주가 오바마가 아니었다고?"
+
+#: deathforth/events/stomach/sycamore_events.df:695
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"YEAH HE'S JUST THE PRESIDENT OR SOMETHING. I DON'T KNOW, I DIDN'T PASS "
+"HISTORY."
+msgstr "그래, 그냥 대통령인가 뭐 그런 사람이야. 몰라, 역사 낙제했거든."
+
+#: deathforth/events/stomach/sycamore_events.df:696
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The bandits look at one another awkwardly. Obama...a mere president? They "
+"believed a lie, all this time?"
+msgstr "약탈자들이 어색하게 서로 쳐다본다. 오바마가... 그냥 대통령? 지금까지 거짓을 믿어 온 건가?"
+
+#: deathforth/events/stomach/sycamore_events.df:697
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The group of bandits go their separate ways, clearing the way for the group "
+"to pass through the alleyway. That was easy!"
+msgstr "약탈자 무리가 뿔뿔이 흩어지며 골목길이 뚫린다. 쉬웠다!"
+
+#: deathforth/events/stomach/sycamore_events.df:707
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" try to sneak around the cultists. This means going the whole long way "
+"around the edge of town, a lengthy and dangerous prospect."
+msgstr "은(는) 광신도들을 피해 몰래 돌아가려 한다. 그러려면 마을 가장자리를 빙 둘러 가야 해서, 오래 걸리고 위험하다."
+
+#: deathforth/events/stomach/sycamore_events.df:708
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Whilst trying to dodge the cultist patrols, they're forced to hide away in a"
+" dilapidated house."
+msgstr "광신도 순찰대를 피하다가, 일행은 다 쓰러져 가는 집에 숨어야 한다."
+
+#: deathforth/events/stomach/sycamore_events.df:712
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Everybody keeps calm! The bandits are successfully evaded. Nobody even so "
+"much as squealed!"
+msgstr "모두 침착하다! 약탈자들을 무사히 따돌렸다. 아무도 끽소리 하나 안 냈다!"
+
+#: deathforth/events/stomach/sycamore_events.df:713
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Still, knowing that imminent death might be around the corner is mildly "
+"terrifying!"
+msgstr "그래도 죽음이 바로 코앞에 있을지 모른다는 생각에 살짝 무섭다!"
+
+#: deathforth/events/stomach/sycamore_events.df:717
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is quickly discovered thanks to incessant "
+msgstr "은(는) 끊임없는 이것 때문에 금방 들킨다: "
+
+#: deathforth/events/stomach/sycamore_events.df:717
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "shrieking and screaming!"
+msgstr "비명과 고함!"
+
+#: deathforth/events/stomach/sycamore_events.df:718
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Then bandits rob them for everything they're carrying."
+msgstr "그러고는 약탈자들이 일행이 가진 걸 몽땅 털어 간다."
+
+#: deathforth/events/stomach/sycamore_events.df:724
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The team is eventually allowed to pass and escape."
+msgstr "결국 일행은 지나가서 도망치는 게 허락된다."
+
+#: deathforth/events/stomach/sycamore_events.df:729
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"In the alleyway there's little cover for the fight. The fighting is brutal "
+"on both sides."
+msgstr "골목엔 엄폐물이 거의 없다. 양쪽 다 처절하게 싸운다."
+
+#: deathforth/events/stomach/sycamore_events.df:730
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"After a protracted fight, the bandits flee down the alleyway. The path ahead is clear!\r\n"
+"\t"
+msgstr ""
+"한참 싸운 끝에, 약탈자들이 골목 아래로 도망친다. 길이 뚫렸다!\r\n"
+"\t"
+
+#: deathforth/events/stomach/sycamore_events.df:747
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "OOGA CHAKA OOGA CHAKA"
+msgstr "우가 차카 우가 차카"
+
+#: deathforth/events/stomach/sycamore_events.df:748
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Whilst adventuring through a town, "
+msgstr "마을을 모험하던 중, "
+
+#: deathforth/events/stomach/sycamore_events.df:748
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " gets lost. The only way back is through a single, dark alleyway."
+msgstr "은(는) 길을 잃는다. 돌아갈 유일한 길은 어둡고 좁은 골목 하나뿐이다."
+
+#: deathforth/events/stomach/sycamore_events.df:749
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Down the alleyway, a group of "
+msgstr "골목 아래쪽에서 한 무리의 "
+
+#: deathforth/events/stomach/sycamore_events.df:749
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "hooded cult-like individuals "
+msgstr "두건 쓴 광신도 같은 자들이 "
+
+#: deathforth/events/stomach/sycamore_events.df:749
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "gather round burning drums, chanting some kind of horrible mantra."
+msgstr "불타는 드럼통 주위에 모여 끔찍한 주문을 외고 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:750
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Cultists are unreasonable, and will take everything if you let them."
+msgstr "광신도들은 말이 안 통하고, 내버려 두면 전부 빼앗아 간다."
+
+#: deathforth/events/stomach/sycamore_events.df:751
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "There's no way out but through. Something MUST be done:"
+msgstr "뚫고 가는 수밖에 없다. 뭔가 해야 한다:"
+
+#: deathforth/events/stomach/sycamore_events.df:754
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": SHOWDOWN TIME"
+msgstr ": 결투 시간"
+
+#: deathforth/events/stomach/sycamore_events.df:758
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Catch them off-guard!"
+msgstr ": 방심한 틈을 노린다!"
+
+#: deathforth/events/stomach/sycamore_events.df:762
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": I know their tricks!"
+msgstr ": 놈들 수법은 다 알아!"
+
+#: deathforth/events/stomach/sycamore_events.df:765
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Fight the bandits"
+msgstr "약탈자들과 싸운다"
+
+#: deathforth/events/stomach/sycamore_events.df:767
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Reason with them"
+msgstr ": 설득한다"
+
+#: deathforth/events/stomach/sycamore_events.df:769
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Try to sneak around"
+msgstr "몰래 돌아간다"
+
+#: deathforth/events/stomach/sycamore_events.df:784
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " stands before the mech, gazing up at it to study it for weaknesses. "
+msgstr "은(는) 메카 앞에 서서 약점을 찾으려고 올려다본다. "
+
+#: deathforth/events/stomach/sycamore_events.df:786
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" quickly deduces that the 'mech' is actually just made of really compact "
+"cardboard."
+msgstr "은(는) 그 '메카'가 사실 아주 단단하게 뭉친 골판지라는 걸 금방 알아챈다."
+
+#: deathforth/events/stomach/sycamore_events.df:789
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"They kick the mech in the shins, where the glue and joints are weakest!"
+msgstr "그들은 접착제와 이음새가 가장 약한 메카의 정강이를 걷어찬다!"
+
+#: deathforth/events/stomach/sycamore_events.df:790
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The mech crumbles like a tower of blocks into rubble, followed by a loud "
+"CRASH. "
+msgstr "메카가 블록 탑처럼 무너져 잔해가 되고, 쾅 하는 소리가 뒤따른다. "
+
+#: deathforth/events/stomach/sycamore_events.df:791
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Under the watchful eye of the tinker-gungineer, NO sloppy works shall escape"
+" punishment."
+msgstr "땜장이 총기공의 감시 아래선 엉성한 작업은 절대 그냥 넘어가지 못한다."
+
+#: deathforth/events/stomach/sycamore_events.df:794
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" doesn't know what to do next! The robot picks them up and launches them "
+"into the ground. The group is forced to flee!"
+msgstr "은(는) 다음에 뭘 해야 할지 모른다! 로봇이 그들을 집어 땅에 내리꽂는다. 일행은 도망칠 수밖에 없다!"
+
+#: deathforth/events/stomach/sycamore_events.df:799
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " awkwardly tries for several minutes to deduce a weakness."
+msgstr "은(는) 몇 분 동안 어설프게 약점을 찾으려 한다."
+
+#: deathforth/events/stomach/sycamore_events.df:800
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The bandit mech becomes bored and kicks them at high velocity into a tree! "
+msgstr "약탈자 메카가 지루해져서 그들을 엄청난 속도로 나무에 걷어차 버린다! "
+
+#: deathforth/events/stomach/sycamore_events.df:800
+#: deathforth/events/stomach/sycamore_events.df:837
+#: deathforth/events/stomach/sycamore_events.df:1201
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is forced to flee!"
+msgstr "은(는) 도망칠 수밖에 없다!"
+
+#: deathforth/events/stomach/sycamore_events.df:808
+#: deathforth/events/stomach/sycamore_events.df:1180
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " yells "
+msgstr "은(는) 외친다: "
+
+#: deathforth/events/stomach/sycamore_events.df:808
+#: deathforth/events/stomach/sycamore_events.df:979
+#: deathforth/events/stomach/sycamore_events.df:1180
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "COOL IT!"
+msgstr "진정해!"
+
+#: deathforth/events/stomach/sycamore_events.df:810
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " farts at the mech. Somehow it understands."
+msgstr "은(는) 메카에게 방귀를 뀐다. 어째선지 메카가 알아듣는다."
+
+#: deathforth/events/stomach/sycamore_events.df:814
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"COOL...COOL IT? HMMM. MAYBE YOU'RE RIGHT. I DO NEED BETTER COOLING "
+"SYSTEMS...GREAT IDEA!"
+msgstr "진정...진정하라고? 흠. 네 말이 맞을지도. 냉각 시스템을 개선해야겠어...좋은 생각이야!"
+
+#: deathforth/events/stomach/sycamore_events.df:815
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The mech gives the group payment for their ingenious idea!"
+msgstr "메카가 기발한 아이디어의 대가로 일행에게 보수를 준다!"
+
+#: deathforth/events/stomach/sycamore_events.df:823
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" and the robot hold a stare for several seconds before the mech starts "
+"attacking everyone!"
+msgstr "와(과) 로봇은 몇 초간 서로 노려보다가, 메카가 모두를 공격하기 시작한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:839
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The group would flee...if there was anybody left."
+msgstr "일행은 도망쳤을 거다... 남은 사람이 있었다면."
+
+#: deathforth/events/stomach/sycamore_events.df:845
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" genuinely believed there was an enormous mech! You never know what's around"
+" the corner in the zombocalypse. They quickly form a plan!"
+msgstr "은(는) 정말로 거대한 메카가 있다고 믿었다! 좀비 종말엔 코앞에 뭐가 있을지 모르는 법. 재빨리 계획을 세운다!"
+
+#: deathforth/events/stomach/sycamore_events.df:846
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "EJECT! EJECT EJECT EJECT!"
+msgstr "탈출! 탈출 탈출 탈출!"
+
+#: deathforth/events/stomach/sycamore_events.df:847
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The robot makes a creaking, whirring noise. It can't tell the difference "
+"between the bandit's voice and "
+msgstr "로봇이 삐걱거리며 윙윙 소리를 낸다. 약탈자의 목소리와 구분하지 못한다: "
+
+#: deathforth/events/stomach/sycamore_events.df:847
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "! It ejects the bandit high into the atmosphere!"
+msgstr "의 목소리를! 로봇이 약탈자를 대기권 높이 사출한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:848
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "CURSEEEE YOUUUUUU EJECTTTT BUTTONNNNNNNNNNNnnnnnnnn......"
+msgstr "저주하리라아아아 탈출 버트으으으은......"
+
+#: deathforth/events/stomach/sycamore_events.df:856
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " draws their weapons and aims for the knees of the robot!"
+msgstr "은(는) 무기를 뽑아 로봇의 무릎을 조준한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:857
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "They destroy the knees of the robot in a hail of bullet fury!"
+msgstr "그들은 총알 세례로 로봇의 무릎을 박살 낸다!"
+
+#: deathforth/events/stomach/sycamore_events.df:858
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" is too quick for the mech bandit! It wobbles back and forth dramatically, "
+"before falling flat into a heap."
+msgstr "은(는) 메카 약탈자보다 너무 빠르다! 메카가 극적으로 휘청거리다 앞으로 고꾸라진다."
+
+#: deathforth/events/stomach/sycamore_events.df:875
+#: deathforth/events/stomach/sycamore_events.df:1031
+#: deathforth/events/stomach/sycamore_events.df:1209
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " decides to play it safe. "
+msgstr "은(는) 안전하게 가기로 한다. "
+
+#: deathforth/events/stomach/sycamore_events.df:875
+#: deathforth/events/stomach/sycamore_events.df:1031
+#: deathforth/events/stomach/sycamore_events.df:1209
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " give"
+msgstr "은(는)"
+
+#: deathforth/events/stomach/sycamore_events.df:875
+#: deathforth/events/stomach/sycamore_events.df:1031
+#: deathforth/events/stomach/sycamore_events.df:1209
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " into the bandits' demands."
+msgstr " 약탈자들의 요구에 굴복한다."
+
+#: deathforth/events/stomach/sycamore_events.df:883
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "BANDFORMERS...BANDITS IN DISGUISE"
+msgstr "밴드포머... 변장한 약탈자"
+
+#: deathforth/events/stomach/sycamore_events.df:885
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" is travelling steadily along a stretch of road when a bandit in some kind "
+"of mech steps out from behind an apartment. Through a dry text-to-speech "
+"voice, it speaks:"
+msgstr "은(는) 길을 꾸준히 달리던 중, 메카 같은 걸 탄 약탈자가 아파트 뒤에서 걸어 나온다. 건조한 음성 합성 목소리로 말한다:"
+
+#: deathforth/events/stomach/sycamore_events.df:886
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "ALL YOUR LOOT IS BELONG TO US."
+msgstr "너희의 물자는 모두 우리의 것이 되었다."
+
+#: deathforth/events/stomach/sycamore_events.df:887
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "This thing is so large it could probably crush your car with ease."
+msgstr "이 녀석은 너무 커서 차쯤은 가볍게 뭉갤 수 있을 것 같다."
+
+#: deathforth/events/stomach/sycamore_events.df:888
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The mech demands all of your gas and ammunition to pass."
+msgstr "메카는 지나가려면 기름과 탄약을 전부 내놓으라고 한다."
+
+#: deathforth/events/stomach/sycamore_events.df:890
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Dismantle it!"
+msgstr ": 분해해 버린다!"
+
+#: deathforth/events/stomach/sycamore_events.df:897
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " thought a giant mech might be nearby"
+msgstr "이(가) 거대 메카가 근처에 있을 줄 알았다"
+
+#: deathforth/events/stomach/sycamore_events.df:901
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " blasts the mech's knees"
+msgstr "이(가) 메카의 무릎을 날린다"
+
+#: deathforth/events/stomach/sycamore_events.df:904
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Pay the toll"
+msgstr "통행료를 낸다"
+
+#: deathforth/events/stomach/sycamore_events.df:924
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " has no fear of cops. They reach into the pocket."
+msgstr "은(는) 경찰 따위 무섭지 않다. 주머니에 손을 넣는다."
+
+#: deathforth/events/stomach/sycamore_events.df:927
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " pulls out a bomb and casually threatens the bandits with it!"
+msgstr "은(는) 폭탄을 꺼내 태연하게 약탈자들을 협박한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:928
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "TAKE A LOOK AT THIS! IT'S US OR YOU, NERDS! YOUR CHOICE!"
+msgstr "이거 봐라! 우리 아니면 너희다, 찐따들아! 골라!"
+
+#: deathforth/events/stomach/sycamore_events.df:929
+#: deathforth/events/stomach/sycamore_events.df:933
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits reluctantly agree to let "
+msgstr "약탈자들은 마지못해 지나가게 해 준다. 대상은 "
+
+#: deathforth/events/stomach/sycamore_events.df:929
+#: deathforth/events/stomach/sycamore_events.df:933
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " pass so they aren't blown to smithereens."
+msgstr ". 산산조각 나기는 싫으니까."
+
+#: deathforth/events/stomach/sycamore_events.df:931
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" doesn't actually own anything pocket-sized and explosive enough, so is "
+"forced to pretend."
+msgstr "은(는) 사실 주머니에 들어갈 만한 폭발물이 없어서, 있는 척할 수밖에 없다."
+
+#: deathforth/events/stomach/sycamore_events.df:932
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Luckily, "
+msgstr "다행히, "
+
+#: deathforth/events/stomach/sycamore_events.df:932
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is an amazing liar. "
+msgstr "은(는) 엄청난 거짓말쟁이다. "
+
+#: deathforth/events/stomach/sycamore_events.df:932
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " successfully fools the bandits with a bottle of juice!"
+msgstr "는 주스 한 병으로 약탈자들을 속이는 데 성공한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:938
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " sets fire to the police station anyway."
+msgstr "은(는) 어쨌든 경찰서에 불을 지른다."
+
+#: deathforth/events/stomach/sycamore_events.df:945
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " knew this would go awry and so prepared a plan in advance."
+msgstr "은(는) 일이 꼬일 줄 알고 미리 계획을 세워 뒀다."
+
+#: deathforth/events/stomach/sycamore_events.df:946
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" crashes through the walls of the police station with their car! Rubble "
+"flies everywhere! The car takes some damage."
+msgstr "은(는) 차로 경찰서 벽을 뚫고 들어간다! 잔해가 사방으로 날린다! 차가 좀 손상된다."
+
+#: deathforth/events/stomach/sycamore_events.df:948
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits are terrified and begin to flee! "
+msgstr "도적들은 겁에 질려 달아나기 시작한다! "
+
+#: deathforth/events/stomach/sycamore_events.df:948
+#: deathforth/events/stomach/sycamore_events.df:1144
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " gets to pass for free!"
+msgstr "은(는) 공짜로 지나간다!"
+
+#: deathforth/events/stomach/sycamore_events.df:953
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " insists that they were a cop too, just like they are!"
+msgstr "은(는) 자기도 저들처럼 경찰이었다고 우긴다!"
+
+#: deathforth/events/stomach/sycamore_events.df:954
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "OH YEAH? PROVE IT THEN."
+msgstr "오 그래? 그럼 증명해 봐."
+
+#: deathforth/events/stomach/sycamore_events.df:957
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" remembers reading a police training manual years ago. They shoot a couple "
+"of cans and accurately recite some of the manual!"
+msgstr "은(는) 몇 년 전에 읽은 경찰 훈련 교본을 떠올린다. 깡통 몇 개를 쏴 맞히고 교본 내용을 정확히 읊는다!"
+
+#: deathforth/events/stomach/sycamore_events.df:958
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "SO YOU'RE A REAL HOTSHOT COP EH? GOOD ENOUGH. YOU CAN GO."
+msgstr "진짜 날고 기는 경찰이시구만? 됐어. 가도 좋아."
+
+#: deathforth/events/stomach/sycamore_events.df:959
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " can't believe that actually worked!"
+msgstr "은(는) 그게 진짜 먹혔다는 게 믿기지 않는다!"
+
+#: deathforth/events/stomach/sycamore_events.df:960
+#: deathforth/events/stomach/sycamore_events.df:966
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits let the group go without fuss!"
+msgstr "도적들은 순순히 일행을 보내 준다!"
+
+#: deathforth/events/stomach/sycamore_events.df:963
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"They don't actually know much about policing, and instead parrot random "
+"things from old TV shows."
+msgstr "사실 치안에 대해 아는 게 별로 없어서, 옛날 TV 드라마 대사를 아무거나 따라 한다."
+
+#: deathforth/events/stomach/sycamore_events.df:964
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"YEAH SO IT'S REALLY IMPORTANT TO TURN THE SIRENS ON ALL THE TIME AND SAY "
+"'OVER' REPEATEDLY. OVER."
+msgstr "그러니까 사이렌은 항상 켜 두고 '오버'라고 계속 말하는 게 진짜 중요해. 오버."
+
+#: deathforth/events/stomach/sycamore_events.df:965
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The cops pause and look at one another for a moment. Close enough!"
+msgstr "경찰들은 잠시 멈추고 서로를 바라본다. 그럴듯하네!"
+
+#: deathforth/events/stomach/sycamore_events.df:968
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Splurts random lines from old cop films that sound cool to say."
+msgstr "옛날 형사 영화에서 멋있어 보이는 대사를 아무렇게나 내뱉는다."
+
+#: deathforth/events/stomach/sycamore_events.df:969
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "ARE YOU FEELING PLUCKY...DINK?"
+msgstr "오늘 운이 좋다고 생각하나...찐따?"
+
+#: deathforth/events/stomach/sycamore_events.df:970
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The cop bandits look confused at one another momentarily and then start "
+"blasting! The group is caught in a bad spot!"
+msgstr "경찰 도적들은 잠깐 어리둥절하게 서로를 보더니 총을 쏘기 시작한다! 일행은 곤란한 처지에 빠진다!"
+
+#: deathforth/events/stomach/sycamore_events.df:979
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " screams "
+msgstr "은(는) 외친다: "
+
+#: deathforth/events/stomach/sycamore_events.df:979
+#: deathforth/events/stomach/sycamore_events.df:1180
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " at the top of "
+msgstr " ("
+
+#: deathforth/events/stomach/sycamore_events.df:979
+#: deathforth/events/stomach/sycamore_events.df:1180
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " lungs."
+msgstr " 목청을 다해)"
+
+#: deathforth/events/stomach/sycamore_events.df:981
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" lets rip an enormous, almost nuclear fart in the cop's general direction."
+msgstr "은(는) 경찰 쪽을 향해 거의 핵폭탄급의 엄청난 방귀를 뀐다."
+
+#: deathforth/events/stomach/sycamore_events.df:984
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"OH, YOU MUST BE THE NEW CAPTAIN! WE DIDN'T RECOGNISE YOU. HERE, TAKE THIS!"
+msgstr "오, 새로 오신 서장님이시군요! 몰라봬서 죄송합니다. 여기, 이거 받으세요!"
+
+#: deathforth/events/stomach/sycamore_events.df:985
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits deem that "
+msgstr "도적들은 "
+
+#: deathforth/events/stomach/sycamore_events.df:985
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " will be their new captain! They hand over many weapons!"
+msgstr "을(를) 새 서장으로 모시기로 한다! 무기를 잔뜩 넘겨준다!"
+
+#: deathforth/events/stomach/sycamore_events.df:990
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "CHROME SHOTGUN GET! MACHINEPISTOL GET!"
+msgstr "크롬 샷건 획득! 기관권총 획득!"
+
+#: deathforth/events/stomach/sycamore_events.df:995
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The cops mistake this for some kind of super secret criminal dialect! This "
+"must be the most wanted criminal in history! They start blasting "
+msgstr "경찰들은 이걸 무슨 극비 범죄자 은어로 착각한다! 역사상 최악의 현상수배범이 분명하다! 그들은 곧바로 "
+
+#: deathforth/events/stomach/sycamore_events.df:995
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " straight away!"
+msgstr "에게 총을 쏘기 시작한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1002
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " draws "
+msgstr "은(는) 번개 같은 속도로 "
+
+#: deathforth/events/stomach/sycamore_events.df:1002
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " firearms at blistering speed, trapping everybody in..."
+msgstr " 총을 뽑아, 모두를 가둬 버린다..."
+
+#: deathforth/events/stomach/sycamore_events.df:1003
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THE GREAT (ONLY VAGUELY) MEXICAN SORT-OF-SITTING-ACTUALLY STANDOFF"
+msgstr "위대한 (어렴풋이) 멕시칸 거의-앉은-사실은-선 대치"
+
+#: deathforth/events/stomach/sycamore_events.df:1004
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "For several hours, "
+msgstr "몇 시간 동안, "
+
+#: deathforth/events/stomach/sycamore_events.df:1004
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " and the bandits point guns at one another awkwardly with some noises."
+msgstr "와(과) 도적들은 어색하게 소리를 내며 서로 총을 겨눈다."
+
+#: deathforth/events/stomach/sycamore_events.df:1008
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is so patient that the bandits become bored and retreat! "
+msgstr "은(는) 너무나 참을성이 강해서 도적들이 지루해져 물러난다! "
+
+#: deathforth/events/stomach/sycamore_events.df:1008
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " passes the cop bandits for free!"
+msgstr "은(는) 경찰 도적들을 공짜로 지나간다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1014
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " becomes bored and starts blasting! A fight ensues, but "
+msgstr "은(는) 지루해져서 총을 쏘기 시작한다! 싸움이 벌어지지만, "
+
+#: deathforth/events/stomach/sycamore_events.df:1014
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " has the advantage!"
+msgstr "이(가) 유리하다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1042
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "DIRTY HAROLD 8: SHOOTING MORE CRIMINALS AGAIN"
+msgstr "더티 해럴드 8: 범죄자를 또 쏴 버리다"
+
+#: deathforth/events/stomach/sycamore_events.df:1044
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" comes across what seems to be a police station. As soon as they enter, cop "
+"bandits encircle them!"
+msgstr "은(는) 경찰서처럼 보이는 곳을 발견한다. 들어서자마자 경찰 도적들이 둘러싼다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1045
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"They're all in shoddy stolen uniforms, positioned behind overturned tables "
+"with their revolvers ready."
+msgstr "모두 허름한 훔친 제복 차림으로, 뒤집힌 탁자 뒤에서 리볼버를 겨누고 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:1046
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandit cops demand all your spare weapons and ammunition."
+msgstr "경찰 도적들이 남는 무기와 탄약을 전부 내놓으라고 요구한다."
+
+#: deathforth/events/stomach/sycamore_events.df:1049
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " has a surprise..."
+msgstr "에게 비장의 수가 있다..."
+
+#: deathforth/events/stomach/sycamore_events.df:1053
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " knew there would be trouble!"
+msgstr "은(는) 문제가 생길 줄 알았다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1057
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " screams COOL IT"
+msgstr "이(가) 진정하라고 외친다"
+
+#: deathforth/events/stomach/sycamore_events.df:1061
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is DEFINITELY a cop!"
+msgstr "은(는) 확실히 경찰이다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1065
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": MEXICAN STANDOFF"
+msgstr ": 멕시칸 대치"
+
+#: deathforth/events/stomach/sycamore_events.df:1068
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Give up ammo and weapons"
+msgstr "탄약과 무기를 내놓는다"
+
+#: deathforth/events/stomach/sycamore_events.df:1109
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" is always prepared for a fire! They brought an improvised fire extinguisher"
+" with them the moment they saw burnt buildings."
+msgstr "은(는) 언제나 화재에 대비하고 있다! 불탄 건물들을 보자마자 급조한 소화기를 챙겨 왔다."
+
+#: deathforth/events/stomach/sycamore_events.df:1111
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits weapons are extinguished! "
+msgstr "도적들의 무기가 꺼졌다! "
+
+#: deathforth/events/stomach/sycamore_events.df:1111
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " looks pleased. Somebody could've gotten SERIOUSLY hurt."
+msgstr "은(는) 흡족해한다. 누군가 심하게 다칠 뻔했다."
+
+#: deathforth/events/stomach/sycamore_events.df:1113
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" extinguished their special campfire! The bandits attack, but at a "
+"disadvantage."
+msgstr "이(가) 그들의 특별한 모닥불을 꺼 버렸다! 도적들이 공격하지만, 불리한 상태다."
+
+#: deathforth/events/stomach/sycamore_events.df:1124
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " recognises the bandits as fellow pyromaniacs!"
+msgstr "은(는) 도적들이 같은 방화광이라는 걸 알아본다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1126
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " and the bandits get lost in a conversation about"
+msgstr "와(과) 도적들은 대화에 푹 빠진다. 주제는"
+
+#: deathforth/events/stomach/sycamore_events.df:1126
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " arson, fire safety, and the advantages of kerosene as fuel."
+msgstr " 방화, 화재 안전, 그리고 연료로서 등유의 장점."
+
+#: deathforth/events/stomach/sycamore_events.df:1128
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"In the midst of this conversation, the bandits completely forget about "
+"robbing! They give everyone an honorary molotov."
+msgstr "대화 도중 도적들은 강도질을 까맣게 잊는다! 모두에게 명예 화염병을 하나씩 준다."
+
+#: deathforth/events/stomach/sycamore_events.df:1130
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "MOLOTOV GET!"
+msgstr "화염병 획득!"
+
+#: deathforth/events/stomach/sycamore_events.df:1140
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Out of nowhere, "
+msgstr "난데없이, "
+
+#: deathforth/events/stomach/sycamore_events.df:1140
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " runs up to a bandit and hurls him away like a bowling ball!"
+msgstr "이(가) 도적 하나에게 달려가 볼링공처럼 집어던진다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1142
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Then, as the bandits are still in shock, "
+msgstr "도적들이 아직 충격에 빠진 사이, "
+
+#: deathforth/events/stomach/sycamore_events.df:1142
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " picks up another bandit and slams them down onto their back!"
+msgstr "는 다른 도적을 들어 올려 등부터 메다꽂는다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1144
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits are terrified! They back away slowly from the carnage. "
+msgstr "도적들은 겁에 질렸다! 참상에서 천천히 물러난다. "
+
+#: deathforth/events/stomach/sycamore_events.df:1166
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" produces something from their pocket, a vaguely shiny deep red pepper."
+msgstr "은(는) 주머니에서 뭔가를 꺼낸다. 은은하게 빛나는 짙은 빨간 고추다."
+
+#: deathforth/events/stomach/sycamore_events.df:1168
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "YOU WANNA SEE FIRE? CHECK THIS OUT."
+msgstr "불 보고 싶어? 이거 봐."
+
+#: deathforth/events/stomach/sycamore_events.df:1170
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " swallows the ENTIRE "
+msgstr "은(는) 통째로 삼킨다: "
+
+#: deathforth/events/stomach/sycamore_events.df:1170
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "GASTGANO DELUXE ULTRA CALIFORNIA REAPER!"
+msgstr "가스트가노 디럭스 울트라 캘리포니아 리퍼!"
+
+#: deathforth/events/stomach/sycamore_events.df:1170
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " They breathe fire in a rehearsed display!"
+msgstr " 연습한 듯 불을 뿜는다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1172
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits are extremely impressed! "
+msgstr "도적들은 엄청나게 감탄한다! "
+
+#: deathforth/events/stomach/sycamore_events.df:1172
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " however is upset to have used their special chilli."
+msgstr "은(는) 특별한 고추를 써 버려서 속상해한다."
+
+#: deathforth/events/stomach/sycamore_events.df:1182
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" makes a high pitched squeal, almost too high pitched to hear. The bandits "
+"process this."
+msgstr "은(는) 들릴락 말락 한 높은 소리로 끽 하고 소리친다. 도적들이 그 뜻을 곱씹는다."
+
+#: deathforth/events/stomach/sycamore_events.df:1186
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "COOL IT? I SUPPOSE YOU'RE RIGHT...WE'VE RUINED SO MUCH OF THIS TOWN."
+msgstr "진정하라고? 네 말이 맞는 것 같아...우리가 이 마을을 너무 많이 망쳤어."
+
+#: deathforth/events/stomach/sycamore_events.df:1187
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The bandits feel guilty for their trail of destruction! They resolve to make"
+" things right!"
+msgstr "도적들은 자신들이 남긴 파괴의 흔적에 죄책감을 느낀다! 잘못을 바로잡기로 다짐한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1197
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"This message is highly antithetical to the bandit's philosophy! They torch "
+msgstr "이 말은 도적들의 철학에 정면으로 반한다! 그들은 복수로 "
+
+#: deathforth/events/stomach/sycamore_events.df:1197
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " in revenge!"
+msgstr "에게 불을 지른다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1218
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "THROUGH THE FIRE AND FLAMES"
+msgstr "불길을 뚫고"
+
+#: deathforth/events/stomach/sycamore_events.df:1220
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "When exploring a burnt down town, "
+msgstr "불타 버린 마을을 탐색하던 중, "
+
+#: deathforth/events/stomach/sycamore_events.df:1220
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is ambushed by a group of bandits!"
+msgstr "은(는) 도적 무리에게 매복당한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1221
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"They're all wielding lit flamethrowers, torches, and tiny little cigarette "
+"lighters. One of them is quite literally just on fire."
+msgstr "모두 불붙은 화염방사기, 횃불, 조그만 라이터를 들고 있다. 그중 하나는 말 그대로 그냥 불타고 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:1222
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The bandits demand all your gas and spare weapons!"
+msgstr "도적들이 기름과 남는 무기를 전부 내놓으라고 요구한다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1230
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is always prepared for a fire!"
+msgstr "은(는) 언제나 화재에 대비하고 있다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1234
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Greet your fellow pyromaniacs"
+msgstr "동료 방화광들에게 인사한다"
+
+#: deathforth/events/stomach/sycamore_events.df:1238
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": SUPLEX!"
+msgstr ": 수플렉스!"
+
+#: deathforth/events/stomach/sycamore_events.df:1245
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": JALAPENO BONANZA"
+msgstr ": 할라피뇨 대박"
+
+#: deathforth/events/stomach/sycamore_events.df:1251
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": COOL IT"
+msgstr ": 진정해"
+
+#: deathforth/events/stomach/sycamore_events.df:1254
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Give up gas and weapons"
+msgstr "기름과 무기를 내놓는다"
+
+#: deathforth/events/stomach/sycamore_events.df:1284
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "METAL CHAINS"
+msgstr "쇠사슬"
+
+#: deathforth/events/stomach/sycamore_events.df:1285
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "LEATHER WHIP"
+msgstr "가죽 채찍"
+
+#: deathforth/events/stomach/sycamore_events.df:1286
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "CLEAVER"
+msgstr "식칼"
+
+#: deathforth/events/stomach/sycamore_events.df:1287
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "PISTOL"
+msgstr "권총"
+
+#: deathforth/events/stomach/sycamore_events.df:1288
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "REVOLVER"
+msgstr "리볼버"
+
+#: deathforth/events/stomach/sycamore_events.df:1289
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "SHOTGUN"
+msgstr "샷건"
+
+#: deathforth/events/stomach/sycamore_events.df:1290
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "CHROME SHOTGUN"
+msgstr "크롬 샷건"
+
+#: deathforth/events/stomach/sycamore_events.df:1291
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "HUNTING RIFLE"
+msgstr "사냥총"
+
+#: deathforth/events/stomach/sycamore_events.df:1292
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "MACHINEPISTOL"
+msgstr "기관권총"
+
+#: deathforth/events/stomach/sycamore_events.df:1293
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "SOME WOOD"
+msgstr "나무 조금"
+
+#: deathforth/events/stomach/sycamore_events.df:1294
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "EMPTY BRANDY BOTTLE"
+msgstr "빈 브랜디 병"
+
+#: deathforth/events/stomach/sycamore_events.df:1295
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "SOME REBAR"
+msgstr "철근 조금"
+
+#: deathforth/events/stomach/sycamore_events.df:1296
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "1 PIPEBOMB"
+msgstr "파이프 폭탄 1개"
+
+#: deathforth/events/stomach/sycamore_events.df:1297
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "LOO ROLL"
+msgstr "휴지"
+
+#: deathforth/events/stomach/sycamore_events.df:1298
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "METAL PIPE"
+msgstr "쇠파이프"
+
+#: deathforth/events/stomach/sycamore_events.df:1299
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "TIRE IRON"
+msgstr "타이어 렌치"
+
+#: deathforth/events/stomach/sycamore_events.df:1306
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " inserts "
+msgstr "은(는) 넣는다: "
+
+#: deathforth/events/stomach/sycamore_events.df:1306
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "8 food"
+msgstr "식량 8"
+
+#: deathforth/events/stomach/sycamore_events.df:1306
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " into the specially designed receptacle."
+msgstr "을(를) 특수 설계된 투입구에."
+
+#: deathforth/events/stomach/sycamore_events.df:1309
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The weapon makes a variety of loud churning noises, emits sparks everywhere "
+"and stops suddenly."
+msgstr "무기에서 온갖 시끄러운 덜컹 소리가 나고, 사방에 불꽃이 튀더니 갑자기 멈춘다."
+
+#: deathforth/events/stomach/sycamore_events.df:1310
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "A panel opens and a weapon flies out!"
+msgstr "패널이 열리고 무기가 튀어나온다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1316
+#: deathforth/events/stomach/sycamore_events.df:1332
+#: deathforth/events/stomach/sycamore_events.df:1345
+#: deathforth/events/stomach/sycamore_events.df:1371
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " GET!"
+msgstr " 획득!"
+
+#: deathforth/events/stomach/sycamore_events.df:1325
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " pokes around the food insertion hole with a stick for a little while."
+msgstr "은(는) 한동안 막대기로 식량 투입구를 쑤셔 본다."
+
+#: deathforth/events/stomach/sycamore_events.df:1326
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"The first rule of mystery box design: never leave open ports! The second "
+"rule is classified. Every engineer knows that!"
+msgstr "미스터리 박스 설계의 제1원칙: 포트를 절대 열어 두지 말 것! 제2원칙은 기밀이다. 엔지니어라면 다 안다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1327
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "After some fiddling, the box comes undone naturally!"
+msgstr "좀 만지작거리니, 상자가 자연스럽게 열린다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1334
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " even manages to force the food deposit reservoir open!"
+msgstr "은(는) 식량 저장고까지 억지로 열어 낸다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1341
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" doesn't know much about hacking, but manages to scrape together enough "
+"knowledge to try."
+msgstr "은(는) 해킹에 대해 잘 모르지만, 시도해 볼 만큼의 지식은 그럭저럭 긁어모은다."
+
+#: deathforth/events/stomach/sycamore_events.df:1342
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"They spend hours trying various methods. Poking the screen, shrieking, and "
+"bashing it with a wrench."
+msgstr "몇 시간 동안 갖은 방법을 시도한다. 화면 찌르기, 비명 지르기, 렌치로 두들기기."
+
+#: deathforth/events/stomach/sycamore_events.df:1343
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The "
+msgstr "<EMPTY>"
+
+#: deathforth/events/stomach/sycamore_events.df:1343
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "MEGA GIGA XL LOCKCORP DELUXESAFE MYSTERY BOX"
+msgstr "메가 기가 XL 락코프 디럭스세이프 미스터리 박스"
+
+#: deathforth/events/stomach/sycamore_events.df:1343
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is almost impervious, but "
+msgstr "은(는) 거의 난공불락이지만, "
+
+#: deathforth/events/stomach/sycamore_events.df:1343
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " eventually brute-forces the password."
+msgstr "이(가) 결국 비밀번호를 무차별 대입으로 뚫는다."
+
+#: deathforth/events/stomach/sycamore_events.df:1352
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+" doesn't stand a chance against the mystery box's numerous anti-tampering "
+"measures!"
+msgstr "은(는) 미스터리 박스의 수많은 변조 방지 장치를 당해낼 수 없다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1353
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "ALERT. TAMPER DETECTED. ALERT. TAMPER DETECTED."
+msgstr "경고. 변조 감지. 경고. 변조 감지."
+
+#: deathforth/events/stomach/sycamore_events.df:1354
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The box's alarms cause zombies to begin to approach the store! "
+msgstr "상자의 경보 때문에 좀비들이 가게로 몰려오기 시작한다! "
+
+#: deathforth/events/stomach/sycamore_events.df:1354
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " is forced to leave!"
+msgstr "은(는) 떠날 수밖에 없다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1355
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Now they'll never know what was in the box!"
+msgstr "이제 상자 안에 뭐가 있었는지 영영 알 수 없다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1363
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " has seen this plenty of times before. After a brief look around, "
+msgstr "은(는) 이런 걸 숱하게 봐 왔다. 잠깐 둘러보더니, "
+
+#: deathforth/events/stomach/sycamore_events.df:1363
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " finds the master override key in a manager's office!"
+msgstr "는 점장 사무실에서 마스터 해제 키를 찾아낸다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1365
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " inserts the key. A panel opens and a weapon flies out!"
+msgstr "이(가) 키를 꽂는다. 패널이 열리고 무기가 튀어나온다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1373
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The rapidly opening panels bash "
+msgstr "급하게 열린 패널이 때린다: "
+
+#: deathforth/events/stomach/sycamore_events.df:1373
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"'s knuckles! CLEARLY this was never made OSHA compliant. The apocalypse is "
+"no excuse to slack on safety!"
+msgstr "의 손가락 마디를! 이건 분명 산업안전 기준을 지켜 만든 물건이 아니다. 종말이 왔다고 안전을 소홀히 해도 되는 건 아니다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1382
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "...WONDER WHO IT'S FROM?"
+msgstr "...누가 보낸 걸까?"
+
+#: deathforth/events/stomach/sycamore_events.df:1388
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "In the middle of an abandoned store, "
+msgstr "버려진 가게 한가운데서, "
+
+#: deathforth/events/stomach/sycamore_events.df:1388
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " comes across a huge metal box."
+msgstr "은(는) 거대한 금속 상자를 발견한다."
+
+#: deathforth/events/stomach/sycamore_events.df:1389
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ""
+"Bolted down. Metal exterior. Official DINKSCO branding. Locks and switches "
+"galore, the full package. With any luck, this thing could probably survive "
+"an atomic bomb."
+msgstr ""
+"볼트로 고정됨. 금속 외장. 공식 딩크스코 로고. 자물쇠와 스위치가 잔뜩, 풀옵션이다. 운이 좋으면 원자폭탄도 버틸 것 같다."
+
+#: deathforth/events/stomach/sycamore_events.df:1390
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "It seems to have some kind of food insertion system."
+msgstr "무슨 식량 투입 장치 같은 게 달려 있다."
+
+#: deathforth/events/stomach/sycamore_events.df:1391
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "PRICE: 8 FOOD || WEAPON: PROBABLY"
+msgstr "가격: 식량 8 || 무기: 아마도"
+
+#: deathforth/events/stomach/sycamore_events.df:1394
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Deposit food - 8 food"
+msgstr "식량 투입 - 식량 8"
+
+#: deathforth/events/stomach/sycamore_events.df:1397
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Reverse engineer it open!"
+msgstr ": 역설계해서 연다!"
+
+#: deathforth/events/stomach/sycamore_events.df:1400
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid ": Mild theft"
+msgstr ": 가벼운 절도"
+
+#: deathforth/events/stomach/sycamore_events.df:1403
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Ignore it"
+msgstr "무시한다"
+
+#: deathforth/events/stomach/sycamore_events.df:1412
+#: deathforth/events/stomach/sycamore_events.df:1422
+#: deathforth/events/stomach/sycamore_events.df:1433
+#: deathforth/events/stomach/sycamore_events.df:1444
+#: deathforth/events/stomach/sycamore_events.df:1455
+#: deathforth/events/stomach/sycamore_events.df:1465
+#: deathforth/events/stomach/sycamore_events.df:1475
+#: deathforth/events/stomach/sycamore_events.df:1485
+#: deathforth/events/stomach/sycamore_events.df:1495
+#: deathforth/events/stomach/sycamore_events.df:1505
+#: deathforth/events/stomach/sycamore_events.df:1515
+#: deathforth/events/stomach/sycamore_events.df:1525
+#: deathforth/events/stomach/sycamore_events.df:1535
+#: deathforth/events/stomach/sycamore_events.df:1545
+#: deathforth/events/stomach/sycamore_events.df:1555
+#: deathforth/events/stomach/sycamore_events.df:1565
+#: deathforth/events/stomach/sycamore_events.df:1574
+#: deathforth/events/stomach/sycamore_events.df:1584
+#: deathforth/events/stomach/sycamore_events.df:1594
+#: deathforth/events/stomach/sycamore_events.df:1604
+#: deathforth/events/stomach/sycamore_events.df:1614
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "Rush Hour"
+msgstr "러시아워"
+
+#: deathforth/events/stomach/sycamore_events.df:1414
+#: deathforth/events/stomach/sycamore_events.df:1424
+#: deathforth/events/stomach/sycamore_events.df:1435
+#: deathforth/events/stomach/sycamore_events.df:1446
+#: deathforth/events/stomach/sycamore_events.df:1457
+#: deathforth/events/stomach/sycamore_events.df:1467
+#: deathforth/events/stomach/sycamore_events.df:1477
+#: deathforth/events/stomach/sycamore_events.df:1487
+#: deathforth/events/stomach/sycamore_events.df:1497
+#: deathforth/events/stomach/sycamore_events.df:1507
+#: deathforth/events/stomach/sycamore_events.df:1517
+#: deathforth/events/stomach/sycamore_events.df:1527
+#: deathforth/events/stomach/sycamore_events.df:1537
+#: deathforth/events/stomach/sycamore_events.df:1547
+#: deathforth/events/stomach/sycamore_events.df:1557
+#: deathforth/events/stomach/sycamore_events.df:1567
+#: deathforth/events/stomach/sycamore_events.df:1576
+#: deathforth/events/stomach/sycamore_events.df:1586
+#: deathforth/events/stomach/sycamore_events.df:1596
+#: deathforth/events/stomach/sycamore_events.df:1606
+#: deathforth/events/stomach/sycamore_events.df:1616
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid "The zombies in this city have stirred. They are already aggressive as "
+msgstr "이 도시의 좀비들이 깨어났다. 이미 공격적이다. "
+
+#: deathforth/events/stomach/sycamore_events.df:1414
+#: deathforth/events/stomach/sycamore_events.df:1424
+#: deathforth/events/stomach/sycamore_events.df:1435
+#: deathforth/events/stomach/sycamore_events.df:1446
+#: deathforth/events/stomach/sycamore_events.df:1457
+#: deathforth/events/stomach/sycamore_events.df:1467
+#: deathforth/events/stomach/sycamore_events.df:1477
+#: deathforth/events/stomach/sycamore_events.df:1487
+#: deathforth/events/stomach/sycamore_events.df:1497
+#: deathforth/events/stomach/sycamore_events.df:1507
+#: deathforth/events/stomach/sycamore_events.df:1517
+#: deathforth/events/stomach/sycamore_events.df:1527
+#: deathforth/events/stomach/sycamore_events.df:1537
+#: deathforth/events/stomach/sycamore_events.df:1547
+#: deathforth/events/stomach/sycamore_events.df:1557
+#: deathforth/events/stomach/sycamore_events.df:1567
+#: deathforth/events/stomach/sycamore_events.df:1576
+#: deathforth/events/stomach/sycamore_events.df:1586
+#: deathforth/events/stomach/sycamore_events.df:1596
+#: deathforth/events/stomach/sycamore_events.df:1606
+#: deathforth/events/stomach/sycamore_events.df:1616
+msgctxt "deathforth/events/stomach/sycamore_events.df"
+msgid " arrives."
+msgstr "이(가) 도착했을 때부터."
+
+#: deathforth/events/stomach/train.df:752
+msgctxt "deathforth/events/stomach/train.df"
+msgid "BUTTSVILLE"
+msgstr "엉덩이빌"
+
+#: deathforth/events/stomach/train.df:753
+msgctxt "deathforth/events/stomach/train.df"
+msgid "DINKSTOWN"
+msgstr "찐따타운"
+
+#: deathforth/events/stomach/train.df:754
+msgctxt "deathforth/events/stomach/train.df"
+msgid "TWO-BIT TONYSVILLE"
+msgstr "싸구려 토니빌"
+
+#: deathforth/events/stomach/train.df:755
+msgctxt "deathforth/events/stomach/train.df"
+msgid "UR MOMS HOUSE"
+msgstr "너네 엄마 집"
+
+#: deathforth/events/stomach/train.df:756
+msgctxt "deathforth/events/stomach/train.df"
+msgid "DINKS-ON-SEA"
+msgstr "바닷가 찐따"
+
+#: deathforth/events/stomach/train.df:757
+msgctxt "deathforth/events/stomach/train.df"
+msgid "BUTTOCKS STATION"
+msgstr "엉덩이역"
+
+#: deathforth/events/stomach/train.df:758
+msgctxt "deathforth/events/stomach/train.df"
+msgid "DINKS CENTRAL"
+msgstr "찐따 중앙역"
+
+#: deathforth/events/stomach/train.df:759
+msgctxt "deathforth/events/stomach/train.df"
+msgid "BUTTS-ON-SEA"
+msgstr "바닷가 엉덩이"
+
+#: deathforth/events/stomach/train.df:760
+msgctxt "deathforth/events/stomach/train.df"
+msgid "JERK FACTORY"
+msgstr "얼간이 공장"
+
+#: deathforth/events/stomach/train.df:761
+msgctxt "deathforth/events/stomach/train.df"
+msgid "JERKSVILLE"
+msgstr "얼간이빌"
+
+#: deathforth/events/stomach/train.df:762
+msgctxt "deathforth/events/stomach/train.df"
+msgid "JERKSTOWN"
+msgstr "얼간이타운"
+
+#: deathforth/events/stomach/train.df:763
+msgctxt "deathforth/events/stomach/train.df"
+msgid "JERK CITY"
+msgstr "얼간이 시티"
+
+#: deathforth/events/stomach/train.df:764
+msgctxt "deathforth/events/stomach/train.df"
+msgid "DINK CITY"
+msgstr "찐따 시티"
+
+#: deathforth/events/stomach/train.df:765
+msgctxt "deathforth/events/stomach/train.df"
+msgid "BUTT CITY"
+msgstr "엉덩이 시티"
+
+#: deathforth/events/stomach/train.df:766
+msgctxt "deathforth/events/stomach/train.df"
+msgid "FORTNITE"
+msgstr "포트나이트"
+
+#: deathforth/events/stomach/train.df:767
+msgctxt "deathforth/events/stomach/train.df"
+msgid "OFF-A-CLIFF"
+msgstr "절벽 너머"
+
+#: deathforth/events/stomach/train.df:768
+msgctxt "deathforth/events/stomach/train.df"
+msgid "RIGHT BEHIND US"
+msgstr "바로 우리 뒤"
+
+#: deathforth/events/stomach/train.df:769
+msgctxt "deathforth/events/stomach/train.df"
+msgid "DINKSICO"
+msgstr "찐따시코"
+
+#: deathforth/events/stomach/train.df:770
+msgctxt "deathforth/events/stomach/train.df"
+msgid "SNOOTY STATION"
+msgstr "거만역"
+
+#: deathforth/events/stomach/train.df:771
+msgctxt "deathforth/events/stomach/train.df"
+msgid "XERIA CITY"
+msgstr "제리아 시티"
+
+#: deathforth/events/stomach/train.df:772
+msgctxt "deathforth/events/stomach/train.df"
+msgid "LEGO CITY"
+msgstr "레고 시티"
+
+#: deathforth/events/stomach/train.df:773
+msgctxt "deathforth/events/stomach/train.df"
+msgid "DINK POWER STATION"
+msgstr "찐따 발전소"
+
+#: deathforth/events/stomach/train.df:774
+msgctxt "deathforth/events/stomach/train.df"
+msgid "JERKTOWN"
+msgstr "얼간이마을"
+
+#: deathforth/events/stomach/train.df:775
+msgctxt "deathforth/events/stomach/train.df"
+msgid "OVER A RAINBOW"
+msgstr "무지개 너머"
+
+#: deathforth/events/stomach/train.df:776
+msgctxt "deathforth/events/stomach/train.df"
+msgid "MILE END"
+msgstr "마일 엔드"
+
+#: deathforth/events/stomach/train.df:777
+msgctxt "deathforth/events/stomach/train.df"
+msgid "ALDERAAN"
+msgstr "알데란"
+
+#: deathforth/events/stomach/train.df:778
+msgctxt "deathforth/events/stomach/train.df"
+msgid "HELL ITSELF"
+msgstr "지옥 그 자체"
+
+#: deathforth/events/stomach/train.df:779
+msgctxt "deathforth/events/stomach/train.df"
+msgid "JERKINGTON"
+msgstr "얼간이턴"
+
+#: deathforth/events/stomach/train.df:780
+msgctxt "deathforth/events/stomach/train.df"
+msgid "BUTTSBIGTON"
+msgstr "엉덩이빅턴"
+
+#: deathforth/events/stomach/train.df:781
+msgctxt "deathforth/events/stomach/train.df"
+msgid "POOPSVILLE"
+msgstr "똥빌"
+
+#: deathforth/events/stomach/train.df:782
+msgctxt "deathforth/events/stomach/train.df"
+msgid "I DON'T KNOW..."
+msgstr "모르겠는데..."
+
+#: deathforth/events/stomach/train.df:783
+msgctxt "deathforth/events/stomach/train.df"
+msgid "COMING UP, I THINK"
+msgstr "곧 도착, 아마도"
+
+#: deathforth/events/stomach/train.df:784
+msgctxt "deathforth/events/stomach/train.df"
+msgid "SOMEWHERE?"
+msgstr "어딘가?"
+
+#: deathforth/events/stomach/train.df:799
+msgctxt "deathforth/events/stomach/train.df"
+msgid "THE NEXT STATION IS..."
+msgstr "다음 정거장은..."
+
+#: deathforth/events/stomach/train.df:865
+msgctxt "deathforth/events/stomach/train.df"
+msgid "RARE "
+msgstr "희귀 "
+
+#: deathforth/events/stomach/train.df:868
+msgctxt "deathforth/events/stomach/train.df"
+msgid "COMMON or "
+msgstr "일반 또는 "
+
+#: deathforth/events/stomach/train.df:868
+msgctxt "deathforth/events/stomach/train.df"
+msgid "UNCOMMON"
+msgstr "고급"
+
+#: deathforth/events/stomach/train.df:873
+msgctxt "deathforth/events/stomach/train.df"
+msgid ""
+"The train glides ungracefully to a halt, like some sort of mechanical "
+"screeching bat."
+msgstr "열차가 무슨 끼익대는 기계 박쥐처럼 볼품없이 미끄러지며 멈춘다."
+
+#: deathforth/events/stomach/train.df:874
+msgctxt "deathforth/events/stomach/train.df"
+msgid ""
+"Once the train stops, the survivors of the train assault have the "
+"opportunity to explore some new locations."
+msgstr "열차가 멈추면, 열차 습격의 생존자들은 새로운 장소들을 탐험할 기회를 얻는다."
+
+#: deathforth/events/stomach/train.df:880
+msgctxt "deathforth/events/stomach/train.df"
+msgid "Alligators On A Train"
+msgstr "열차 위의 악어들"
+
+#: deathforth/events/stomach/train.df:881
+msgctxt "deathforth/events/stomach/train.df"
+msgid ""
+"This train has been going for a while. Maybe if you pull the stop lever, "
+"you'll end up somewhere new."
+msgstr "이 열차는 한참을 달려왔다. 정지 레버를 당기면 어딘가 새로운 곳에 도착할지도 모른다."
+
+#: deathforth/events/stomach/train.df:882
+msgctxt "deathforth/events/stomach/train.df"
+msgid ""
+"The longer you wait, the better the locations you find will be. The "
+"locations are about 15m apart."
+msgstr "오래 기다릴수록 더 좋은 장소를 찾게 된다. 장소는 약 15분 간격이다."
+
+#: deathforth/events/stomach/train.df:883
+msgctxt "deathforth/events/stomach/train.df"
+msgid "You've held out for: "
+msgstr "버틴 시간: "
+
+#: deathforth/events/stomach/train.df:883
+msgctxt "deathforth/events/stomach/train.df"
+msgid "m"
+msgstr "분"
+
+#: deathforth/events/stomach/train.df:884
+msgctxt "deathforth/events/stomach/train.df"
+msgid "Found locations will be... "
+msgstr "찾을 장소: "
+
+#: deathforth/events/stomach/train.df:886
+msgctxt "deathforth/events/stomach/train.df"
+msgid "Keep fighting!"
+msgstr "계속 싸운다!"
+
+#: deathforth/events/stomach/train.df:887
+msgctxt "deathforth/events/stomach/train.df"
+msgid "Pull the STOP! lever"
+msgstr "정지! 레버를 당긴다"
+
+#: deathforth/events/stomach/train.df:1261
+msgctxt "deathforth/events/stomach/train.df"
+msgid "HOLDOUT!"
+msgstr "버텨라!"
+
+#: deathforth/events/testregion.df:17
+msgctxt "deathforth/events/testregion.df"
+msgid "I hope you enjoy the new character! Be sure to give us feedback."
+msgstr "새 캐릭터를 즐겨 주세요! 꼭 피드백 부탁드립니다."
+
+#: deathforth/events/testregion.df:22 deathforth/events/testregion.df:32
+#: deathforth/events/testregion.df:42 deathforth/events/testregion.df:52
+#: deathforth/events/testregion.df:62
+msgctxt "deathforth/events/testregion.df"
+msgid "NEWEST CHARS"
+msgstr "최신 캐릭터"
+
+#: deathforth/events/testregion.df:24 deathforth/events/testregion.df:34
+#: deathforth/events/testregion.df:44
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"Try out the new character for free! You can find them here, but in the new "
+"update, they'll be found in camps instead."
+msgstr "새 캐릭터를 무료로 써 보세요! 지금은 여기서 만날 수 있지만, 새 업데이트에서는 캠프에서 만나게 됩니다."
+
+#: deathforth/events/testregion.df:25
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"First Mate can leap with the SWAP button, 6s cooldown! Attack while midair "
+"for serious AoE damage! Also: anchor."
+msgstr "일등항해사는 교체 버튼으로 도약할 수 있습니다(쿨다운 6초)! 공중에서 공격하면 강력한 범위 피해! 그리고: 닻."
+
+#: deathforth/events/testregion.df:27 deathforth/events/testregion.df:37
+#: deathforth/events/testregion.df:47 deathforth/events/testregion.df:57
+#: deathforth/events/testregion.df:67
+msgctxt "deathforth/events/testregion.df"
+msgid "Leave them for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/testregion.df:28 deathforth/events/testregion.df:38
+#: deathforth/events/testregion.df:48 deathforth/events/testregion.df:58
+#: deathforth/events/testregion.df:68
+msgctxt "deathforth/events/testregion.df"
+msgid "Hire them"
+msgstr "고용한다"
+
+#: deathforth/events/testregion.df:35
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"This character can protect your teammates and has a strong knockdown-execute"
+" halberd combo. Thrust to knockdown, then slash to instakill."
+msgstr ""
+"이 캐릭터는 동료를 보호할 수 있고, 강력한 넘어뜨리기-처형 미늘창 콤보가 있습니다. 찌르기로 넘어뜨리고, 베기로 즉사시키세요."
+
+#: deathforth/events/testregion.df:45
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"This character is really good at modifying the car! Use less fuel AND travel"
+" faster!"
+msgstr "이 캐릭터는 차 개조에 아주 능합니다! 연료는 덜 쓰고 더 빨리 달립니다!"
+
+#: deathforth/events/testregion.df:54 deathforth/events/testregion.df:64
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"Try out the new character for free! You can find them here, but in the new "
+"update, they'll be on the road instead."
+msgstr "새 캐릭터를 무료로 써 보세요! 지금은 여기서 만날 수 있지만, 새 업데이트에서는 길에서 만나게 됩니다."
+
+#: deathforth/events/testregion.df:55
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"This character can multishot with any firearm! Their melee attacks also "
+"kneecap enemies. Steal food and people's knees!"
+msgstr "이 캐릭터는 어떤 총기로든 다중 사격이 가능합니다! 근접 공격은 적의 무릎도 박살 냅니다. 음식과 사람들의 무릎을 훔치세요!"
+
+#: deathforth/events/testregion.df:65
+msgctxt "deathforth/events/testregion.df"
+msgid ""
+"IDK if I'll keep this char. They're mainly a ragdoll physics experiment; "
+"they explode ragdoll-style when bitten."
+msgstr "이 캐릭터를 유지할지는 모르겠어요. 주로 래그돌 물리 실험용이라, 물리면 래그돌처럼 폭발합니다."
+
+#: deathforth/events/trade/camp-recruit.df:14
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" slams a smoke bomb into the ground!\r\n"
+"\tShe's gone!"
+msgstr ""
+"이(가) 연막탄을 땅에 내리꽂는다!\r\n"
+"\t사라졌다!"
+
+#: deathforth/events/trade/camp-recruit.df:21
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" takes the food and then slams a smoke bomb into the ground. She's gone!\r\n"
+"\tNo wait, she's following you now."
+msgstr ""
+"은(는) 식량을 받더니 연막탄을 땅에 내리꽂는다. 사라졌다!\r\n"
+"\t아니 잠깐, 이제 너희를 따라오고 있다."
+
+#: deathforth/events/trade/camp-recruit.df:28
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"She likes her personal space for sword swinging, so you'll have to boot "
+"someone."
+msgstr "칼을 휘두를 개인 공간이 필요하다니, 누군가를 내보내야 한다."
+
+#: deathforth/events/trade/camp-recruit.df:38
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Ninja Strike 3: Third Strike"
+msgstr "닌자 스트라이크 3: 서드 스트라이크"
+
+#: deathforth/events/trade/camp-recruit.df:41
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" finds someone dressed in a ninja costume, standing in camp with a dramatic "
+"crossing-arms pose. Her impractical-length headband waves in the wind."
+msgstr "은(는) 닌자 복장을 하고 캠프에서 극적으로 팔짱을 낀 채 서 있는 사람을 발견한다. 쓸데없이 긴 머리띠가 바람에 나부낀다."
+
+#: deathforth/events/trade/camp-recruit.df:42
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave her be"
+msgstr "내버려 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:43
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Approach her"
+msgstr "다가간다"
+
+#: deathforth/events/trade/camp-recruit.df:45
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Bribe her to join for 5 food"
+msgstr "식량 5로 매수해 합류시킨다"
+
+#: deathforth/events/trade/camp-recruit.df:54
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" notices that the team is already full.\r\n"
+"\t\tYou'll have to boot someone out of the team to make room. You should, since you already gave up the food."
+msgstr ""
+"은(는) 팀이 이미 꽉 찼다는 걸 알아챈다.\r\n"
+"\t\t자리를 만들려면 누군가를 내보내야 한다. 이미 식량을 줬으니 그러는 게 좋겠다."
+
+#: deathforth/events/trade/camp-recruit.df:57
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " joins the team! He outright refuses to let go of "
+msgstr "이(가) 팀에 합류한다! 그는 절대 놓지 않겠다고 한다: "
+
+#: deathforth/events/trade/camp-recruit.df:57
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "BERTHA"
+msgstr "버사"
+
+#: deathforth/events/trade/camp-recruit.df:57
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ", and says no one will ever be able to pry it from him."
+msgstr ". 누구도 자기한테서 떼어 낼 수 없다고 말한다."
+
+#: deathforth/events/trade/camp-recruit.df:62
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "RAMBEUX: FIRST BUTT"
+msgstr "램보: 퍼스트 엉덩이"
+
+#: deathforth/events/trade/camp-recruit.df:65
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" meets a serious looking guy. He's holding a gigantic knife and he's "
+"carrying a "
+msgstr "은(는) 진지해 보이는 남자를 만난다. 거대한 칼을 들고, 등에는 "
+
+#: deathforth/events/trade/camp-recruit.df:65
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "MINIGUN"
+msgstr "미니건"
+
+#: deathforth/events/trade/camp-recruit.df:65
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" across his back.\r\n"
+"\tHe mumbles that he is a mercenary for hire, paid up front."
+msgstr ""
+"을(를) 메고 있다.\r\n"
+"\t그는 선불로 고용되는 용병이라고 웅얼거린다."
+
+#: deathforth/events/trade/camp-recruit.df:68
+#: deathforth/events/trade/camp-recruit.df:440
+#: deathforth/events/trade/camp-recruit.df:460
+#: deathforth/events/trade/camp-recruit.df:552
+#: deathforth/events/trade/camp-recruit.df:578
+#: deathforth/events/trade/camp-recruit.df:602
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave him for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:69
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Pay up front - 10 food"
+msgstr "선불로 낸다 - 식량 10"
+
+#: deathforth/events/trade/camp-recruit.df:71
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "His price is 10 food, and you don't have enough."
+msgstr "그의 몸값은 식량 10인데, 식량이 부족하다."
+
+#: deathforth/events/trade/camp-recruit.df:72
+#: deathforth/events/trade/camp-recruit.df:109
+#: deathforth/events/trade/camp-recruit.df:142
+#: deathforth/events/trade/camp-recruit.df:324
+#: deathforth/events/trade/camp-recruit.df:368
+#: deathforth/events/trade/camp-recruit.df:400
+#: deathforth/events/trade/camp-recruit.df:422
+#: deathforth/events/trade/camp-recruit.df:444
+#: deathforth/events/trade/camp-recruit.df:464
+#: deathforth/events/trade/camp-recruit.df:487
+#: deathforth/events/trade/camp-recruit.df:510
+#: deathforth/events/trade/camp-recruit.df:533
+#: deathforth/events/trade/camp-recruit.df:556
+#: deathforth/events/trade/camp-recruit.df:582
+#: deathforth/events/trade/camp-recruit.df:606
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Can't spare the food"
+msgstr "식량을 내줄 여유가 없다"
+
+#: deathforth/events/trade/camp-recruit.df:78
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" seems disappointed by the amount of food you gave her, but only for the briefest moment.\r\n"
+"\t"
+msgstr ""
+"은(는) 받은 식량 양에 실망한 듯하지만, 그것도 아주 잠깐이다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:79
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Thanks for the cat food! Please pet the kitties! "
+msgstr "고양이 사료 고마워! 냥이들 쓰다듬어 줘! "
+
+#: deathforth/events/trade/camp-recruit.df:79
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"\r\n"
+"\tThe cats consider killing you, but don't this time. "
+msgstr ""
+"\r\n"
+"\t고양이들이 너를 죽일까 고민하지만, 이번엔 참는다. "
+
+#: deathforth/events/trade/camp-recruit.df:80
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "NICE!"
+msgstr "좋아!"
+
+#: deathforth/events/trade/camp-recruit.df:86
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" is delighted by the makeshift cat food!\r\n"
+"\tShe shows the group her special reserve of cats dressed in little clothes and the ones that are less likely to bite hard enough to draw blood."
+msgstr ""
+"은(는) 급조한 고양이 사료에 크게 기뻐한다!\r\n"
+"\t옷 입은 특별 고양이들과, 피가 날 만큼 세게 물 가능성이 적은 고양이들을 일행에게 보여 준다."
+
+#: deathforth/events/trade/camp-recruit.df:94
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Much like the cats she loves, "
+msgstr "자기가 사랑하는 고양이들처럼, "
+
+#: deathforth/events/trade/camp-recruit.df:94
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" now sees you as a source of food that she can then give directly to her "
+"cats. She starts following you around."
+msgstr "은(는) 이제 너희를 고양이들에게 바로 줄 수 있는 식량 공급원으로 본다. 너희를 따라다니기 시작한다."
+
+#: deathforth/events/trade/camp-recruit.df:97
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" insists that you get rid of someone that's scaring her precious cats! She "
+"points at:"
+msgstr "은(는) 소중한 고양이들을 겁주는 사람을 내보내라고 고집한다! 그녀가 가리킨 사람:"
+
+#: deathforth/events/trade/camp-recruit.df:104
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "The Last Cat Lady"
+msgstr "최후의 고양이 아줌마"
+
+#: deathforth/events/trade/camp-recruit.df:106
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "When entering the trading camp, "
+msgstr "거래 캠프에 들어서자, "
+
+#: deathforth/events/trade/camp-recruit.df:106
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " detected an "
+msgstr "은(는) 감지했다: "
+
+#: deathforth/events/trade/camp-recruit.df:106
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "overpowering stench"
+msgstr "압도적인 악취"
+
+#: deathforth/events/trade/camp-recruit.df:106
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+", different from the usual smell of death. The source is all these cats.\r\n"
+"\tA woman is among the cats, and she asks right away if "
+msgstr ""
+", 평소의 죽음 냄새와는 다른. 근원은 이 고양이들이다.\r\n"
+"\t고양이들 사이에 한 여자가 있는데, 곧바로 묻는다. "
+
+#: deathforth/events/trade/camp-recruit.df:107
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" has any spare cat food. \r\n"
+"\tShe will join you for 20 food!"
+msgstr ""
+"에게 남는 고양이 사료가 있냐고. \r\n"
+"\t식량 20을 주면 합류하겠단다!"
+
+#: deathforth/events/trade/camp-recruit.df:111
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Give her 5 food"
+msgstr "식량 5를 준다"
+
+#: deathforth/events/trade/camp-recruit.df:114
+#: deathforth/events/trade/camp-recruit.df:139
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Give her 10 food"
+msgstr "식량 10을 준다"
+
+#: deathforth/events/trade/camp-recruit.df:117
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Give her 20 food!"
+msgstr "식량 20을 준다!"
+
+#: deathforth/events/trade/camp-recruit.df:125
+#: deathforth/events/trade/camp-recruit.df:383
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" notices that the team is already full.\r\n"
+"\t\tYou'll have to boot someone out of the team to make room for her."
+msgstr ""
+"은(는) 팀이 이미 꽉 찼다는 걸 알아챈다.\r\n"
+"\t\t그녀의 자리를 만들려면 누군가를 내보내야 한다."
+
+#: deathforth/events/trade/camp-recruit.df:128
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" joins the team! She says she'd rather be heading towards Colombia, but at "
+"least Canada also starts with a "
+msgstr "이(가) 팀에 합류한다! 콜롬비아로 가고 싶었다지만, 적어도 캐나다도 같은 글자로 시작한다: "
+
+#: deathforth/events/trade/camp-recruit.df:128
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "'C'."
+msgstr "'C'."
+
+#: deathforth/events/trade/camp-recruit.df:133
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Zombie Harvest"
+msgstr "좀비 수확"
+
+#: deathforth/events/trade/camp-recruit.df:135
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" meets a sturdy woman wearing old fashioned clothes. She is wielding an especially heavy cast iron frying pan.\r\n"
+"\tShe says that she was visiting this country, but got stuck here after the zombies happened. She offers to join the team in exchange for 10 food, up front."
+msgstr ""
+"은(는) 옛날식 옷을 입은 다부진 여자를 만난다. 유난히 무거운 무쇠 프라이팬을 들고 있다.\r\n"
+"\t이 나라에 여행 왔다가 좀비 사태 이후 발이 묶였다고 한다. 선불로 식량 10을 주면 팀에 합류하겠다고 한다."
+
+#: deathforth/events/trade/camp-recruit.df:138
+#: deathforth/events/trade/camp-recruit.df:396
+#: deathforth/events/trade/camp-recruit.df:506
+#: deathforth/events/trade/camp-recruit.df:529
+#: deathforth/events/trade/camp-recruit.df:632
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave her for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:141
+#: deathforth/events/trade/camp-recruit.df:399
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Her price is 10 food, and you don't have enough."
+msgstr "그녀의 몸값은 식량 10인데, 식량이 부족하다."
+
+#: deathforth/events/trade/camp-recruit.df:150
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " starts following! It "
+msgstr "이(가) 따라오기 시작한다! 그리고 "
+
+#: deathforth/events/trade/camp-recruit.df:150
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "IMMEDIATELY"
+msgstr "즉시"
+
+#: deathforth/events/trade/camp-recruit.df:150
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " crams its horns into "
+msgstr " 뿔을 들이박는다: "
+
+#: deathforth/events/trade/camp-recruit.df:175
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"Did you know that goats produce the most milk out of any livestock animal? Roughly 300 times more than a cow!\r\n"
+"\t\tAlso the goat gores "
+msgstr ""
+"염소가 모든 가축 중에 젖을 가장 많이 낸다는 거 알아? 소보다 약 300배나 많아!\r\n"
+"\t\t그리고 염소가 들이받는다: "
+
+#: deathforth/events/trade/camp-recruit.df:176
+#: deathforth/events/trade/camp-recruit.df:179
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " pretty bad."
+msgstr "을(를) 꽤 세게."
+
+#: deathforth/events/trade/camp-recruit.df:178
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" attempts to milk the goat again.\r\n"
+"\t\tOnce again, the goat gores "
+msgstr ""
+"이(가) 다시 염소젖을 짜려 한다.\r\n"
+"\t\t또다시 염소가 들이받는다: "
+
+#: deathforth/events/trade/camp-recruit.df:185
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " manages to get some milk from the goat!"
+msgstr "은(는) 염소젖을 조금 짜낸다!"
+
+#: deathforth/events/trade/camp-recruit.df:187
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " gets some milk from the goat before dying. Nice!"
+msgstr "은(는) 죽기 전에 염소젖을 조금 짜낸다. 굿!"
+
+#: deathforth/events/trade/camp-recruit.df:190
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You can't get goat milk from a male goat!"
+msgstr "수컷 염소에게서는 젖을 짤 수 없다!"
+
+#: deathforth/events/trade/camp-recruit.df:193
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "The goat gores "
+msgstr "염소가 "
+
+#: deathforth/events/trade/camp-recruit.df:193
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " extra hard, so "
+msgstr "을(를) 유난히 세게 들이받아서, "
+
+#: deathforth/events/trade/camp-recruit.df:193
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " remembers this lesson."
+msgstr "는 이 교훈을 기억한다."
+
+#: deathforth/events/trade/camp-recruit.df:195
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " didn't manage to remember this lesson from last time."
+msgstr "은(는) 지난번 교훈을 기억하지 못했다."
+
+#: deathforth/events/trade/camp-recruit.df:199
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "The goat is disappointed that "
+msgstr "염소는 실망한다. "
+
+#: deathforth/events/trade/camp-recruit.df:199
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " died already, as he wanted to thunk "
+msgstr "이(가) 벌써 죽어 버렸기 때문이다. 염소는 "
+
+#: deathforth/events/trade/camp-recruit.df:199
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " twice."
+msgstr "를 두 번 들이받고 싶었다."
+
+#: deathforth/events/trade/camp-recruit.df:209
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Who should milk the goat? "
+msgstr "누가 염소젖을 짤까? "
+
+#: deathforth/events/trade/camp-recruit.df:209
+#: deathforth/events/trade/camp-recruit.df:218
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " seems "
+msgstr "는 "
+
+#: deathforth/events/trade/camp-recruit.df:209
+#: deathforth/events/trade/camp-recruit.df:218
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "ornery."
+msgstr "까칠해 보인다."
+
+#: deathforth/events/trade/camp-recruit.df:210
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Changed my mind!"
+msgstr "마음이 바뀌었다!"
+
+#: deathforth/events/trade/camp-recruit.df:218
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Who should recruit the goat? "
+msgstr "누가 염소를 영입할까? "
+
+#: deathforth/events/trade/camp-recruit.df:223
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Year of the Goat"
+msgstr "염소의 해"
+
+#: deathforth/events/trade/camp-recruit.df:225
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "It's a goat! "
+msgstr "염소다! "
+
+#: deathforth/events/trade/camp-recruit.df:225
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"'s just chilling near the camp. Doing goat things. No one seems to own "
+msgstr "는 캠프 근처에서 빈둥거리며 염소 짓을 하고 있다. 아무도 "
+
+#: deathforth/events/trade/camp-recruit.df:225
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "... the goat is just here."
+msgstr "의 주인은 아닌 것 같다... 그냥 여기 있는 염소다."
+
+#: deathforth/events/trade/camp-recruit.df:226
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave it for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:227
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Milk the goat!"
+msgstr "염소젖을 짠다!"
+
+#: deathforth/events/trade/camp-recruit.df:229
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "The goat is staring at "
+msgstr "염소가 "
+
+#: deathforth/events/trade/camp-recruit.df:229
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " with intensity. "
+msgstr "을(를) 뚫어지게 노려본다. "
+
+#: deathforth/events/trade/camp-recruit.df:229
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "'s up to something."
+msgstr "는 뭔가 꾸미고 있다."
+
+#: deathforth/events/trade/camp-recruit.df:230
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit the goat!"
+msgstr "염소를 영입한다!"
+
+#: deathforth/events/trade/camp-recruit.df:232
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"The goat is startled by your full group! If only you had a smaller team..."
+msgstr "염소는 꽉 찬 일행에 깜짝 놀란다! 팀이 좀 더 작았더라면..."
+
+#: deathforth/events/trade/camp-recruit.df:239
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You say that you also love sports. The "
+msgstr "너도 스포츠를 좋아한다고 말한다. "
+
+#: deathforth/events/trade/camp-recruit.df:239
+#: deathforth/events/trade/camp-recruit.df:249
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Ultimate Sports Fan"
+msgstr "궁극의 스포츠 팬"
+
+#: deathforth/events/trade/camp-recruit.df:239
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " bonds with you instantly due to shared interests."
+msgstr "은(는) 공통 관심사 덕에 금세 너와 친해진다."
+
+#: deathforth/events/trade/camp-recruit.df:241
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" notices that the team is already full. You'll have to boot someone out to "
+"make room for more sports."
+msgstr "은(는) 팀이 이미 꽉 찼다는 걸 알아챈다. 더 많은 스포츠를 위해 누군가를 내보내야 한다."
+
+#: deathforth/events/trade/camp-recruit.df:247
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "ULTIMATE SPORTS"
+msgstr "궁극의 스포츠"
+
+#: deathforth/events/trade/camp-recruit.df:249
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " meets the "
+msgstr "은(는) 만난다: "
+
+#: deathforth/events/trade/camp-recruit.df:249
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is holding a limited edition air horn and it looks like "
+msgstr "는 한정판 에어혼을 들고 있는데, 아무래도 "
+
+#: deathforth/events/trade/camp-recruit.df:249
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is about to "
+msgstr "는 지금 막 "
+
+#: deathforth/events/trade/camp-recruit.df:249
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "BLAST IT!"
+msgstr "불어 젖힐 기세다!"
+
+#: deathforth/events/trade/camp-recruit.df:250
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "I love sports. Even in the post-zombocalypse."
+msgstr "난 스포츠가 좋아. 좀비 종말 이후에도."
+
+#: deathforth/events/trade/camp-recruit.df:251
+#: deathforth/events/trade/camp-recruit.df:483
+#: deathforth/events/trade/camp-recruit.df:765
+#: deathforth/events/trade/camp-recruit.df:785
+#: deathforth/events/trade/camp-recruit.df:800
+#: deathforth/events/trade/camp-recruit.df:1038
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave "
+msgstr "일단 "
+
+#: deathforth/events/trade/camp-recruit.df:251
+#: deathforth/events/trade/camp-recruit.df:483
+#: deathforth/events/trade/camp-recruit.df:765
+#: deathforth/events/trade/camp-recruit.df:785
+#: deathforth/events/trade/camp-recruit.df:800
+#: deathforth/events/trade/camp-recruit.df:1038
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " for now"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/events/trade/camp-recruit.df:252
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit Sports"
+msgstr "스포츠를 영입한다"
+
+#: deathforth/events/trade/camp-recruit.df:259
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " needs more skeleton room! You have to get rid of someone:"
+msgstr "은(는) 해골 공간이 더 필요하다! 누군가를 내보내야 한다:"
+
+#: deathforth/events/trade/camp-recruit.df:267
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " waves her hand at "
+msgstr "이(가) 손을 흔든다. 대상은 "
+
+#: deathforth/events/trade/camp-recruit.df:267
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" cumbersome flesh falls off, revealing a wonderful skeleton underneath."
+msgstr " 거추장스러운 살점이 떨어져 나가고, 그 아래 멋진 해골이 드러난다."
+
+#: deathforth/events/trade/camp-recruit.df:268
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Much better! Big improvement! Well, let's go."
+msgstr "훨씬 낫네! 엄청 좋아졌어! 자, 가자."
+
+#: deathforth/events/trade/camp-recruit.df:273
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" looks a little disappointed. Maybe it's because she would have preferred to"
+" turn someone into a skeleton."
+msgstr "은(는) 조금 실망한 눈치다. 아마 누군가를 해골로 만드는 쪽이 더 좋았나 보다."
+
+#: deathforth/events/trade/camp-recruit.df:278
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Skeletons vs Zombies"
+msgstr "해골 대 좀비"
+
+#: deathforth/events/trade/camp-recruit.df:280
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "This woman offers to join "
+msgstr "이 여자는 합류하겠다고 한다: "
+
+#: deathforth/events/trade/camp-recruit.df:280
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ", along with her "
+msgstr "에, 자기 "
+
+#: deathforth/events/trade/camp-recruit.df:280
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "ARMY OF SKELETONS!"
+msgstr "해골 군대와 함께!"
+
+#: deathforth/events/trade/camp-recruit.df:281
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "She asks for either 10 food, or that she gets to turn "
+msgstr "대가로 식량 10을 달라거나, 아니면 "
+
+#: deathforth/events/trade/camp-recruit.df:281
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " into a skeletal minion."
+msgstr "을(를) 해골 하수인으로 만들게 해 달라고 한다."
+
+#: deathforth/events/trade/camp-recruit.df:282
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave her alone"
+msgstr "내버려 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:284
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit her for 10 food!"
+msgstr "식량 10에 영입한다!"
+
+#: deathforth/events/trade/camp-recruit.df:286
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Let her skeletonize "
+msgstr "해골로 만들게 한다: "
+
+#: deathforth/events/trade/camp-recruit.df:294
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" buys the Ded9! \r\n"
+"\tBig revolver power, little pistol speed.\r\n"
+"\t"
+msgstr ""
+"은(는) Ded9을 산다! \r\n"
+"\t리볼버의 위력, 권총의 속도.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:296
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "This gun has never let me down! It won't betray you!"
+msgstr "이 총은 날 실망시킨 적이 없어! 너를 배신하지 않을 거야!"
+
+#: deathforth/events/trade/camp-recruit.df:305
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "I'll protect you on the way to Canada! I promise I won't betray you."
+msgstr "캐나다까지 가는 길에 지켜 줄게! 절대 배신하지 않겠다고 약속하지."
+
+#: deathforth/events/trade/camp-recruit.df:305
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " He's said that at least twice now, so he must really mean it."
+msgstr " 이 말을 벌써 두 번은 했으니, 진심인 게 분명하다."
+
+#: deathforth/events/trade/camp-recruit.df:308
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" needs extra room for his unnecessarily large pistol. Who leaves the group?"
+msgstr "은(는) 쓸데없이 큰 권총 때문에 자리가 더 필요하다. 누가 일행을 떠날까?"
+
+#: deathforth/events/trade/camp-recruit.df:315
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "No Idea on the Acronym"
+msgstr "약자는 뭔지 모름"
+
+#: deathforth/events/trade/camp-recruit.df:317
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This guy looks ominous.\r\n"
+"\t"
+msgstr ""
+"이 남자는 불길해 보인다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:318
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"I'm a special agent on a special mission. It's a zombie warzone out there. I"
+" promise I won't betray you."
+msgstr "난 특수 임무를 맡은 특수 요원이다. 밖은 좀비 전쟁터지. 절대 배신하지 않겠다고 약속하지."
+
+#: deathforth/events/trade/camp-recruit.df:320
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "This all sounds good. He offers to sell "
+msgstr "좋은 이야기다. 그는 "
+
+#: deathforth/events/trade/camp-recruit.df:320
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " a powerful pistol for 10 food, or join "
+msgstr "에게 강력한 권총을 식량 10에 팔거나, 식량 20을 받고 "
+
+#: deathforth/events/trade/camp-recruit.df:320
+#: deathforth/events/trade/camp-recruit.df:364
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " for 20 food."
+msgstr "에 합류하겠다고 한다."
+
+#: deathforth/events/trade/camp-recruit.df:322
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" already bought the Ded9, so he's reduced the price of recruiting him to 10 "
+"food."
+msgstr "은(는) 이미 Ded9을 샀으니, 그는 영입 비용을 식량 10으로 낮춰 준다."
+
+#: deathforth/events/trade/camp-recruit.df:326
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Buy Ded9 Pistol - 10 food"
+msgstr "Ded9 권총 구매 - 식량 10"

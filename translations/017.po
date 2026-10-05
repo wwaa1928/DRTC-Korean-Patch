@@ -1,0 +1,2533 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/finale/epilogue-check.df:243
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Am I Kawaii?"
+msgstr "나 카와이해?"
+
+#: deathforth/events/finale/epilogue-check.df:244
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "DON'T LOOK AT MEEEEEEE!"
+msgstr "날 보지 마아아아아아!"
+
+#: deathforth/events/finale/epilogue-check.df:245
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "GNORT!"
+msgstr "그노트!"
+
+#: deathforth/events/finale/epilogue-check.df:246
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "nurrrrrp!"
+msgstr "누르르르릅!"
+
+#: deathforth/events/finale/epilogue-check.df:247
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "INTERFERE WITH THE WITCH'S FUN, GET SHOT BY THE WITCH'S GUN!"
+msgstr "마녀의 재미를 방해하면, 마녀의 총에 맞는다!"
+
+#: deathforth/events/finale/epilogue-check.df:248
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BLAUGH!"
+msgstr "블러억!"
+
+#: deathforth/events/finale/epilogue-check.df:249
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "blaugh"
+msgstr "블러억"
+
+#: deathforth/events/finale/epilogue-check.df:250
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I owe it all to the skeletons!"
+msgstr "이게 다 해골들 덕분이야!"
+
+#: deathforth/events/finale/epilogue-check.df:251
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I hear Toronto has a thriving LARPing scene!"
+msgstr "토론토엔 LARP 문화가 활발하다던데!"
+
+#: deathforth/events/finale/epilogue-check.df:252
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Wow! A new place to burn down."
+msgstr "와! 새로 불태울 곳이다."
+
+#: deathforth/events/finale/epilogue-check.df:253
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I'm still stuck in this costume! Help!"
+msgstr "아직도 이 코스튬에 갇혀 있어! 도와줘!"
+
+#: deathforth/events/finale/epilogue-check.df:254
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "DON'T HAVE COW MAN"
+msgstr "소란 떨지 마, 친구"
+
+#: deathforth/events/finale/epilogue-check.df:256
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "EET PANT!"
+msgstr "바지 먹어!"
+
+#: deathforth/events/finale/epilogue-check.df:257
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Mission objective in sight!"
+msgstr "임무 목표 확인!"
+
+#: deathforth/events/finale/epilogue-check.df:258
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Perfect! I can terrorize way more humans here!"
+msgstr "완벽해! 여기선 훨씬 더 많은 인간을 공포에 떨게 할 수 있겠어!"
+
+#: deathforth/events/finale/epilogue-check.df:259
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "GOOD WORK, BUB!"
+msgstr "잘했다, 친구!"
+
+#: deathforth/events/finale/epilogue-check.df:260
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "It's way too cold here for this outfit!"
+msgstr "이 옷 입고 있기엔 여기 너무 추워!"
+
+#: deathforth/events/finale/epilogue-check.df:261
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Uuurrrrgh ice everywhere."
+msgstr "으르르르 사방이 얼음이야."
+
+#: deathforth/events/finale/epilogue-check.df:262
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "AMERICA #1! WOO! WOOOOOOOOOO!"
+msgstr "미국 1등! 우! 우우우우우우우!"
+
+#: deathforth/events/finale/epilogue-check.df:263
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Another win for 100% American Can-Do-ism!"
+msgstr "100% 미국식 할 수 있다 정신의 또 한 번의 승리!"
+
+#: deathforth/events/finale/epilogue-check.df:264
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "My log says this is a good place to stay."
+msgstr "내 항해 일지에 따르면 여긴 머물기 좋은 곳이다."
+
+#: deathforth/events/finale/epilogue-check.df:265
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Yarrrr!"
+msgstr "야르르르!"
+
+#: deathforth/events/finale/epilogue-check.df:266
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Good Grief! TRANSLATOR'S NOTE: THIS LOOSELY MEANS 'YARE YARE DAZE'"
+msgstr "이런 이런! 역자 주: 대충 '야레야레다제'라는 뜻이다"
+
+#: deathforth/events/finale/epilogue-check.df:267
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I have a confession to make... I was actually a broom the entire time."
+msgstr "고백할 게 있어... 난 사실 처음부터 빗자루였어."
+
+#: deathforth/events/finale/epilogue-check.df:268
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I-GER UPPERCUT!"
+msgstr "아이-거 어퍼컷!"
+
+#: deathforth/events/finale/epilogue-check.df:269
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HADOOK! KADOOSHIN'!"
+msgstr "하두크! 카두신!"
+
+#: deathforth/events/finale/epilogue-check.df:270
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Heh... all thanks to Sweet Lady Propane."
+msgstr "헤... 다 사랑스러운 프로판 아가씨 덕분이지."
+
+#: deathforth/events/finale/epilogue-check.df:271
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I am victorious! Me! E*FUDD!"
+msgstr "내가 이겼다! 나! E*FUDD!"
+
+#: deathforth/events/finale/epilogue-check.df:272
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"Now that I'm here, it's time to check up on my friends... and some women."
+msgstr "이제 여기 왔으니 친구들 안부를 확인할 시간이군... 그리고 여자들도."
+
+#: deathforth/events/finale/epilogue-check.df:273
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "It's so exciting to be in the unknown!"
+msgstr "미지의 세계에 오다니 정말 신나!"
+
+#: deathforth/events/finale/epilogue-check.df:274
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Woah. Canada. Cool, I guess."
+msgstr "우와. 캐나다. 멋지네, 아마도."
+
+#: deathforth/events/finale/epilogue-check.df:277
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "IT'S HIGH NOoooo...nevermind. It's just after 4pm. Nice!"
+msgstr "하이 누우우우... 아니다. 오후 4시 조금 넘었네. 좋아!"
+
+#: deathforth/events/finale/epilogue-check.df:278
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Right on cue. It's okay, you can kill me now."
+msgstr "딱 맞춰 왔군. 괜찮아, 이제 날 죽여도 돼."
+
+#: deathforth/events/finale/epilogue-check.df:279
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "RELOADING, BOYS!"
+msgstr "재장전한다, 얘들아!"
+
+#: deathforth/events/finale/epilogue-check.df:281
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Hmm. I wonder if I can publish my PhD papers here..."
+msgstr "흠. 여기서 내 박사 논문을 출판할 수 있을까..."
+
+#: deathforth/events/finale/epilogue-check.df:282
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"THE HEAT DEATH OF THE UNIVERSE TRAILS OUR EVERY ACTION AND THOUGHT. HOORAY!"
+msgstr "우주의 열적 죽음이 우리의 모든 행동과 생각을 뒤따른다. 만세!"
+
+#: deathforth/events/finale/epilogue-check.df:283
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"I PRESENT TO YOU - HALF PRICE TICKETS! PAY LESS, PAY HALF, EVEN! THE WONDERS"
+" OF CAPITALISM!!!"
+msgstr "여러분께 드립니다 - 반값 티켓! 덜 내세요, 절반만 내세요! 자본주의의 경이로움이여!!!"
+
+#: deathforth/events/finale/epilogue-check.df:285
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"Fresh sea, fresh air, the sun beaming down on us...this is what I've always "
+"dreamt of."
+msgstr "신선한 바다, 신선한 공기, 우리를 비추는 햇살... 이게 내가 늘 꿈꾸던 거야."
+
+#: deathforth/events/finale/epilogue-check.df:286
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"You all suck at your jobs, you ca- o-oh. Oh. I forgot to cast time stop. "
+"Uhmm..."
+msgstr "너희 다 일 못하는구나, 이 멍- 어-어. 아. 시간 정지 거는 걸 깜빡했네. 어음..."
+
+#: deathforth/events/finale/epilogue-check.df:287
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "th-s plac3...it - is...h0me?"
+msgstr "이-곳...은...집...?"
+
+#: deathforth/events/finale/epilogue-check.df:289
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "As long as there's zombies, I'll keep on splattering them. Mwah!~"
+msgstr "좀비가 있는 한, 계속 터뜨려 줄게. 쪽!~"
+
+#: deathforth/events/finale/epilogue-check.df:290
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HAHAHAHA. CANADA IS MINE...BY RIGHT, AS WELL AS BY MIGHT."
+msgstr "하하하하. 캐나다는 내 것이다... 권리로도, 힘으로도."
+
+#: deathforth/events/finale/epilogue-check.df:291
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"Grand-Admiral Merenja Raven, locked, loaded and ready. FULLLLLLLL "
+"AHEAAAAAADDDD!"
+msgstr "대제독 메렌자 레이븐, 장전 완료, 준비 완료. 전소오오오옥 전지이이이인!"
+
+#: deathforth/events/finale/epilogue-check.df:292
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Such talent! Such sorceries! Such a pleasure!"
+msgstr "이런 재능! 이런 마법! 이런 즐거움!"
+
+#: deathforth/events/finale/epilogue-check.df:294
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Aww, thanks for picking me! Let me know that you've made it! ;3"
+msgstr "아잉, 골라 줘서 고마워! 도착하면 알려 줘! ;3"
+
+#: deathforth/events/finale/epilogue-check.df:295
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"AWH MAN, THIS IS JUST LIKE THAT TIME I WENT TO CANADA COZ ZOMBIES WERE "
+"EVERYWHERE."
+msgstr "아 이거 완전 좀비가 사방에 있어서 캐나다 갔던 그때랑 똑같네."
+
+#: deathforth/events/finale/epilogue-check.df:296
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "SO IS THIS PLACE A JOKE OR WHAT?"
+msgstr "그래서 여기 장난이야 뭐야?"
+
+#: deathforth/events/finale/epilogue-check.df:298
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Aaaand...cut to black."
+msgstr "그리고오... 화면 암전."
+
+#: deathforth/events/finale/epilogue-check.df:299
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "TONIGHT...ON BOTTOM GEAR."
+msgstr "오늘 밤... 바텀 기어에서."
+
+#: deathforth/events/finale/epilogue-check.df:300
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "So, I heard you're looking for guards with experience..."
+msgstr "그래서, 경험 많은 경비병을 찾는다고 들었는데..."
+
+#: deathforth/events/finale/epilogue-check.df:301
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"SAY, GOT ANY LEDGES I CAN THROW MYSELF FROM? KINDA NOSTALGIC FOR IT I GUESS."
+msgstr "저기, 몸 던질 만한 난간 같은 거 있어? 좀 그리운 것 같아서."
+
+#: deathforth/events/finale/epilogue-check.df:302
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "NEED AN ANCHOR ANYWHERE? HMM? OH, NO REASON WHY..."
+msgstr "어디 닻 필요한 데 없어? 응? 아, 그냥 물어본 거야..."
+
+#: deathforth/events/finale/epilogue-check.df:303
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Hmm...looks like Canada needs a construction company or two."
+msgstr "흠... 캐나다엔 건설 회사가 한두 개쯤 필요해 보이는군."
+
+#: deathforth/events/finale/epilogue-check.df:306
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"AUGH THEY'RE GONNA HAV' TO GLUE YOU BACK TOGETHER...in the nearest hospital."
+msgstr "으아 너 접착제로 다시 붙여야겠다... 가까운 병원에서."
+
+#: deathforth/events/finale/epilogue-check.df:307
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "The reward of Honour...is making it to Canada."
+msgstr "명예의 보상은... 캐나다에 도착하는 것이다."
+
+#: deathforth/events/finale/epilogue-check.df:308
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"Ever considered installing cannons at the walls? I have one in my bathroom."
+msgstr "성벽에 대포를 설치할 생각은 해 봤나? 난 욕실에도 하나 있다."
+
+#: deathforth/events/finale/epilogue-check.df:309
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "is momentarily possessed by some kind of omnipotent force.*"
+msgstr "은(는) 잠시 어떤 전능한 힘에 사로잡힌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:310
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Remember: tuck, duck, buck, wash your hands and roll."
+msgstr "기억해: 숙이고, 피하고, 버티고, 손 씻고, 굴러."
+
+#: deathforth/events/finale/epilogue-check.df:312
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "bork."
+msgstr "멍."
+
+#: deathforth/events/finale/epilogue-check.df:313
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "MEOW!"
+msgstr "야옹!"
+
+#: deathforth/events/finale/epilogue-check.df:314
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BAAAAA!"
+msgstr "메에에에!"
+
+#: deathforth/events/finale/epilogue-check.df:315
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "OINK!"
+msgstr "꿀꿀!"
+
+#: deathforth/events/finale/epilogue-check.df:316
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "HRONK!"
+msgstr "꽥!"
+
+#: deathforth/events/finale/epilogue-check.df:318
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "CAAARRRL!"
+msgstr "칼아아아알!"
+
+#: deathforth/events/finale/epilogue-check.df:319
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Oh hey, I made it. Thanks fer playing Death Road to Canada!"
+msgstr "아 안녕, 나 도착했어. 데스 로드 투 캐나다를 플레이해 줘서 고마워!"
+
+#: deathforth/events/finale/epilogue-check.df:321
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Way past cool!"
+msgstr "쿨함 그 이상!"
+
+#: deathforth/events/finale/epilogue-check.df:323
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I love you, Canada-chan."
+msgstr "사랑해, 캐나다쨩."
+
+#: deathforth/events/finale/epilogue-check.df:324
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "The Phoenix rises! ==flaps arms like they are wings=="
+msgstr "불사조가 날아오른다! ==날개처럼 팔을 퍼덕인다=="
+
+#: deathforth/events/finale/epilogue-check.df:325
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Am I finally too swole?"
+msgstr "나 드디어 너무 우람해진 건가?"
+
+#: deathforth/events/finale/epilogue-check.df:327
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Delicious!"
+msgstr "맛있다!"
+
+#: deathforth/events/finale/epilogue-check.df:330
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "BERSERKED!"
+msgstr "광폭화!"
+
+#: deathforth/events/finale/epilogue-check.df:338
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Yeah!"
+msgstr "예!"
+
+#: deathforth/events/finale/epilogue-check.df:341
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Feh."
+msgstr "흥."
+
+#: deathforth/events/finale/epilogue-check.df:347
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Whew."
+msgstr "휴."
+
+#: deathforth/events/finale/epilogue-check.df:350
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Argh!"
+msgstr "으악!"
+
+#: deathforth/events/finale/epilogue-check.df:356
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I knew it!"
+msgstr "그럴 줄 알았어!"
+
+#: deathforth/events/finale/epilogue-check.df:359
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Uh, what?"
+msgstr "어, 뭐?"
+
+#: deathforth/events/finale/epilogue-check.df:366
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became a stand up citizen of Canada.*"
+msgstr "은(는) 캐나다의 모범 시민이 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:369
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued being an enormous jerk.*"
+msgstr "은(는) 계속 엄청난 얼간이로 살았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:373
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Hooray!"
+msgstr "만세!"
+
+#: deathforth/events/finale/epilogue-check.df:382
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "got kicked out of Canada after refusing to give up guns.*"
+msgstr "은(는) 총을 포기하길 거부하다가 캐나다에서 쫓겨났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:383
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"channeled EHIS gun obsession into a productive hobby: pine cone collecting.*"
+msgstr "은(는) EHIS 총 집착을 생산적인 취미로 돌렸다: 솔방울 모으기.*"
+
+#: deathforth/events/finale/epilogue-check.df:384
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became a famous trick-shooting attraction at the Canadian Circus.*"
+msgstr "은(는) 캐나다 서커스의 유명한 묘기 사격 볼거리가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:385
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"accidentally shot EHIS own foot off, within 5 minutes of entering Canada.*"
+msgstr "은(는) 캐나다에 들어온 지 5분 만에 실수로 EHIS 발을 쏴 날렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:386
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "shot a penguin by accident, violating the Canadian Prime Directive.*"
+msgstr "은(는) 실수로 펭귄을 쏴서 캐나다 최우선 지령을 위반했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:391
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"gets arrested after finding EHIS medical practice is not licensed in "
+"Canada.*"
+msgstr "은(는) EHIS 의료 행위가 캐나다에서 무면허라는 게 드러나 체포되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:392
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "diagnoses every single one of EHIS patients with a farting problem.*"
+msgstr "은(는) EHIS 환자 한 명도 빠짐없이 방귀 질환 진단을 내렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:393
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"tries to cure the zombie infection, but just makes their hair a little "
+"nicer.*"
+msgstr "은(는) 좀비 감염을 치료하려 했지만, 환자들 머릿결만 살짝 좋아졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:394
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "develops a cure for flatulence, which is then named after EHIM .*"
+msgstr "은(는) 방귀 치료제를 개발했고, 그 약에는 EHIM의 이름이 붙었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:395
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"does a mad doctor head transplant with a moose. This becomes very popular!*"
+msgstr "은(는) 무스와 머리 이식 수술을 하는 미친 의사가 되었다. 이게 대유행했다!*"
+
+#: deathforth/events/finale/epilogue-check.df:400
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"makes incredible innovations to the Mecha Mounties. They now serve coffee.*"
+msgstr "은(는) 메카 기마경찰을 엄청나게 혁신했다. 이제 커피도 내준다.*"
+
+#: deathforth/events/finale/epilogue-check.df:401
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "designs a very popular line of goofy three wheeled cars.*"
+msgstr "은(는) 웃기게 생긴 바퀴 셋 달린 차 시리즈를 디자인해 큰 인기를 끌었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:402
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "is recognized as a hero after inventing a more overpowered chainsaw.*"
+msgstr "은(는) 더 사기적인 전기톱을 발명해 영웅으로 인정받았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:403
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"invents a new version of the chainsaw, one with colorful lights attached to "
+"it.*"
+msgstr "은(는) 알록달록한 조명이 달린 새 전기톱을 발명했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:404
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "becomes rich after inventing a car engine that runs off poutine.*"
+msgstr "은(는) 푸틴으로 굴러가는 자동차 엔진을 발명해 부자가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:405
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"invents a better mousetrap. It has carbon fiber on it and a USB drive.*"
+msgstr "은(는) 더 좋은 쥐덫을 발명했다. 탄소 섬유에 USB 드라이브까지 달렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:410
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"came up with a wildly popular fitness program based on EHIS zombie survival "
+"experience.*"
+msgstr "은(는) EHIS 좀비 생존 경험을 바탕으로 한 피트니스 프로그램을 만들어 대박을 쳤다.*"
+
+#: deathforth/events/finale/epilogue-check.df:411
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became an athlete in the post-zombocalypse Olympics, where Canada won every "
+"medal!*"
+msgstr "은(는) 좀비 사태 이후 올림픽에 선수로 나갔고, 캐나다가 메달을 전부 땄다!*"
+
+#: deathforth/events/finale/epilogue-check.df:412
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"lived a long, healthy life in Canada. At the age of 100, was bit by a moose "
+"and exploded.*"
+msgstr "은(는) 캐나다에서 길고 건강한 삶을 살았다. 100살에 무스에게 물려 폭발했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:413
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"took up hockey, excelling at it after all that practice knocking zombie "
+"teeth around.*"
+msgstr "은(는) 하키를 시작했고, 좀비 이빨을 날려 대던 연습 덕분에 두각을 나타냈다.*"
+
+#: deathforth/events/finale/epilogue-check.df:414
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"invented a new zombie-specific martial art, then taught it to many "
+"disciples.*"
+msgstr "은(는) 좀비 전용 무술을 새로 창시해 많은 제자에게 가르쳤다.*"
+
+#: deathforth/events/finale/epilogue-check.df:419
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"devoted EHIS entire life to helping restore bodybuilding to its former "
+"glory.*"
+msgstr "은(는) 보디빌딩의 옛 영광을 되찾는 데 EHIS 평생을 바쳤다.*"
+
+#: deathforth/events/finale/epilogue-check.df:421
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"started flexing continuously after crossing the border, and never stopped. "
+"No one minded.*"
+msgstr "은(는) 국경을 넘은 뒤로 쉬지 않고 근육에 힘을 줬고, 멈추지 않았다. 아무도 상관 안 했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:422
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became a legendary folk hero after suplexing a moose that EHE was arguing "
+"with.*"
+msgstr "은(는) EHE가 말다툼하던 무스를 수플렉스로 꽂아 전설적인 민중 영웅이 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:423
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"would often return to the border, just to throw heavy furniture at more "
+"zombies.*"
+msgstr "은(는) 좀비에게 무거운 가구를 던지러 종종 국경으로 돌아가곤 했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:424
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"later was elected President of All Lumberjacks due to EHIS mighty strength.*"
+msgstr "은(는) EHIS 막강한 힘 덕분에 나중에 전 나무꾼 연합 회장으로 선출되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:429
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"continued running down this road, until EHE disappeared past the horizon.*"
+msgstr "은(는) 이 길을 계속 달려, 결국 EHE는 지평선 너머로 사라졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:430
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was widely known for EHIS running speed, earning the nickname 'Sonic the "
+"Hedgehog'.*"
+msgstr "은(는) EHIS 달리기 속도로 널리 알려져 '고슴도치 소닉'이라는 별명을 얻었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:431
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "used EHIS super fast legs to become a famous dancer.*"
+msgstr "은(는) EHIS 엄청 빠른 다리로 유명한 댄서가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:432
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"helped provide power to new frontier cities after being put in a big hamster"
+" wheel.*"
+msgstr "은(는) 거대한 햄스터 쳇바퀴에 들어가 새 개척 도시에 전기를 공급했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:437
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"wanted to become a moose. After getting good grades in moose school EHE made"
+" this come true.*"
+msgstr "은(는) 무스가 되고 싶었다. 무스 학교에서 좋은 성적을 받은 끝에 EHE는 꿈을 이뤘다.*"
+
+#: deathforth/events/finale/epilogue-check.df:438
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became a bat-themed masked vigilante. Copyright lawyers were called in.*"
+msgstr "은(는) 박쥐 콘셉트의 복면 자경단원이 되었다. 저작권 변호사들이 불려 왔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:439
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"settled into a quiet life. It was kind of boring, without the zombies.*"
+msgstr "은(는) 조용한 삶에 정착했다. 좀비가 없으니 좀 지루했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:440
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"roamed the northern frontiers, having more adventures but with less "
+"zombies.*"
+msgstr "은(는) 북쪽 변방을 떠돌며 더 많은 모험을 했다. 좀비는 더 적었지만.*"
+
+#: deathforth/events/finale/epilogue-check.df:441
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"wrote a popular zombie survival guide that was just full of bad advice.*"
+msgstr "은(는) 나쁜 조언만 가득한 좀비 생존 가이드를 써서 베스트셀러가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:442
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"had difficulty adjusting to Canada, and eventually went back south for more "
+"adventure.*"
+msgstr "은(는) 캐나다에 적응하지 못하고, 결국 더 많은 모험을 찾아 다시 남쪽으로 갔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:443
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was eventually banned from driving cars after destroying one every week.*"
+msgstr "은(는) 매주 차를 한 대씩 부숴서 결국 운전 금지를 당했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:444
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "tried to become a Mountie, but didn't really have the skills for it.*"
+msgstr "은(는) 기마경찰이 되려 했지만, 실력이 영 모자랐다.*"
+
+#: deathforth/events/finale/epilogue-check.df:445
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"never got used to the food, too used to the junk food EHE scavenged on the "
+"Death Road.*"
+msgstr "은(는) 음식에 끝내 적응하지 못했다. EHE가 데스 로드에서 주워 먹던 정크 푸드에 너무 익숙해서였다.*"
+
+#: deathforth/events/finale/epilogue-check.df:446
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"didn't have any strong skills, and EHE had a peaceful but uneventful life in"
+" Canada.*"
+msgstr "은(는) 딱히 뛰어난 기술이 없었고, EHE는 캐나다에서 평화롭지만 밋밋한 삶을 살았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:451
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "later would take over parts of Canada with an army of trained dogs.*"
+msgstr "은(는) 나중에 훈련된 개 군단으로 캐나다 일부를 장악했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:452
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "had a long life with a lot of pet dogs.*"
+msgstr "은(는) 개를 잔뜩 키우며 오래 살았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:453
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"patrolled the border with EHIS ever-growing pack of zombie-hunting dogs.*"
+msgstr "은(는) EHIS 계속 불어나는 좀비 사냥개 무리와 함께 국경을 순찰했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:454
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"spent EHIS life trying to get one of EHIS dogs elected as Prime Minister.*"
+msgstr "은(는) EHIS 개 한 마리를 총리로 당선시키려고 EHIS 평생을 바쳤다.*"
+
+#: deathforth/events/finale/epilogue-check.df:459
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"made an anime based on EHIS adventures. It took some creative liberties in "
+"regards to cuteness.*"
+msgstr "은(는) EHIS 모험을 바탕으로 애니를 만들었다. 귀여움 쪽으로 각색이 좀 들어갔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:460
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "devoted the rest of EHIS life to the anime that saved EHIM .*"
+msgstr "은(는) EHIS 남은 인생을 EHIM 자신을 구해 준 애니에 바쳤다.*"
+
+#: deathforth/events/finale/epilogue-check.df:461
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "outgrew childish anime, and switched to manga.*"
+msgstr "은(는) 유치한 애니를 졸업하고 만화로 갈아탔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:462
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"wrote a manga that portrayed zombies as anime girls. The fans grew into a "
+"bizarre cult.*"
+msgstr "은(는) 좀비를 미소녀로 그린 만화를 그렸다. 팬들은 기괴한 컬트 집단이 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:467
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "spontaneously combusted. Exactly how EHE wanted to go!*"
+msgstr "은(는) 갑자기 저절로 불타 버렸다. EHE가 원하던 바로 그 방식으로!*"
+
+#: deathforth/events/finale/epilogue-check.df:468
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was bit by a beaver on the foot. Both exploded into chunks.*"
+msgstr "은(는) 비버에게 발을 물렸다. 둘 다 산산조각으로 폭발했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:469
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was obliterated when hit by a snowball. One health.*"
+msgstr "은(는) 눈뭉치에 맞아 소멸했다. 체력 1이었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:470
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was exiled after destroying a town in a friendly hockey game.*"
+msgstr "은(는) 친선 하키 경기 중에 마을 하나를 박살 내서 추방당했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:475
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became the most 'kawaii' anime girl in Canada. Translator's Note: Kawaii "
+"means cute.*"
+msgstr "은(는) 캐나다에서 가장 '카와이'한 애니 소녀가 되었다. 역자 주: 카와이는 귀엽다는 뜻이다.*"
+
+#: deathforth/events/finale/epilogue-check.df:476
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued fighting evil by blasting things with giant heart beams.*"
+msgstr "은(는) 거대한 하트 빔으로 이것저것 날려 버리며 계속 악과 싸웠다.*"
+
+#: deathforth/events/finale/epilogue-check.df:477
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"soon reached Super Saiyan form, which mostly gave her a bigger hair-do.*"
+msgstr "은(는) 곧 초사이어인 형태에 도달했다. 주로 머리 모양만 커졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:478
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "FINALLY confessed to sempai.*"
+msgstr "은(는) 드디어 선배에게 고백했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:483
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"integrated into Canadian society well, despite being a walking skeleton.*"
+msgstr "은(는) 걸어 다니는 해골인데도 캐나다 사회에 잘 녹아들었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:484
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "kept getting run out of town due to dancing in a spooky fashion.*"
+msgstr "은(는) 으스스하게 춤을 춰서 자꾸 마을에서 쫓겨났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:485
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"lived a normal and happy life, but with a lot of unnecessary clacking "
+"noises.*"
+msgstr "은(는) 평범하고 행복하게 살았다. 쓸데없이 딸깍거리는 소리가 많긴 했지만.*"
+
+#: deathforth/events/finale/epilogue-check.df:486
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "never, ever figured out exactly why or how EHE needed to eat food.*"
+msgstr "은(는) EHE가 왜, 어떻게 음식을 먹어야 했는지 끝내 알아내지 못했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:491
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became an expert chef, in huge demand for EHIS 'canned food cuisine'.*"
+msgstr "은(는) 전문 요리사가 되었다. EHIS '통조림 요리'를 찾는 사람이 줄을 섰다.*"
+
+#: deathforth/events/finale/epilogue-check.df:492
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "got a job as a food critic, which is maybe the best job there is.*"
+msgstr "은(는) 음식 평론가가 되었다. 아마 세상에서 제일 좋은 직업일 거다.*"
+
+#: deathforth/events/finale/epilogue-check.df:493
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "finally got to eat something that wasn't old junk food or canned.*"
+msgstr "은(는) 드디어 낡은 정크 푸드나 통조림이 아닌 음식을 먹었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:494
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"went on a new journey to sample all the fine cuisine that Canada has to "
+"offer.*"
+msgstr "은(는) 캐나다의 온갖 훌륭한 요리를 맛보는 새 여정을 떠났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:499
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was reponsible for a string of robberies in Canada, before getting exiled.*"
+msgstr "은(는) 캐나다에서 연쇄 강도 사건을 저지르다가 추방되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:500
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"established a feared crime syndicate. One where everyone wore fancy "
+"dresses.*"
+msgstr "은(는) 공포의 범죄 조직을 세웠다. 다들 화려한 드레스를 입는 조직이다.*"
+
+#: deathforth/events/finale/epilogue-check.df:501
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"suppressed EHIS urge to rob people in Canada. Instead, EHE was just an "
+"enormous jerk.*"
+msgstr "은(는) 캐나다에서 사람을 털고 싶은 EHIS 충동을 억눌렀다. 대신, EHE는 그냥 엄청난 얼간이였다.*"
+
+#: deathforth/events/finale/epilogue-check.df:502
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "lead a heist to steal the Prime Minister's Royal Jewels.*"
+msgstr "은(는) 총리의 왕실 보석을 훔치는 강도단을 이끌었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:507
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "mostly gnawed on whatever EHE could get EHIS mouth on, really.*"
+msgstr "은(는) 그냥 EHE가 EHIS 입에 넣을 수 있는 건 대부분 다 씹어 댔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:508
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "marked as much territory as possible.*"
+msgstr "은(는) 영역 표시를 최대한 많이 했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:509
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+", being too used to the freedom of the open road, never became housebroken.*"
+msgstr "은(는) 탁 트인 길의 자유에 너무 익숙해서, 끝내 배변 훈련이 안 됐다.*"
+
+#: deathforth/events/finale/epilogue-check.df:510
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"spent the rest of EHIS life barking incessantly at all the new wildlife.*"
+msgstr "은(는) EHIS 남은 평생 새로운 야생 동물들을 보고 쉴 새 없이 짖었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:511
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"found a good home and happily did dog stuff for the rest of EHIS life.*"
+msgstr "은(는) 좋은 집을 찾아 EHIS 남은 평생 행복하게 개다운 일을 했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:535
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "made a ton of friends and opened up a summer camp!*"
+msgstr "은(는) 친구를 잔뜩 사귀고 여름 캠프를 열었다!*"
+
+#: deathforth/events/finale/epilogue-check.df:536
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became a hermit in Canada. Instead of being a hermit in America.*"
+msgstr "은(는) 캐나다에서 은둔자가 되었다. 미국에서 은둔자로 사는 대신.*"
+
+#: deathforth/events/finale/epilogue-check.df:537
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was able to spread Christmas Cheer to all of Canada.*"
+msgstr "은(는) 캐나다 전역에 크리스마스의 기쁨을 퍼뜨렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:538
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"dumped enormous piles of coal out of his sleigh, onto everyone's houses.*"
+msgstr "은(는) 썰매에서 어마어마한 석탄 더미를 모든 집 위에 쏟아부었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:539
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued flailing around.*"
+msgstr "은(는) 계속 허우적거렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:540
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"reached the highest ranks in the beloved Canadian sport of Sumo Wrestling.*"
+msgstr "은(는) 캐나다인들이 사랑하는 스포츠, 스모에서 최고 등급에 올랐다.*"
+
+#: deathforth/events/finale/epilogue-check.df:541
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"returned back to Valhalla, but not before throwing her hammer at a lot of "
+"important monuments.*"
+msgstr "은(는) 발할라로 돌아갔다. 가기 전에 중요한 기념물 여러 개에 망치를 던지고 갔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:542
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was reunited with his wrestling rivals, and had many exciting battles.*"
+msgstr "은(는) 레슬링 라이벌들과 재회해 신나는 대결을 잔뜩 벌였다.*"
+
+#: deathforth/events/finale/epilogue-check.df:543
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"ran around punching things and muttering. People, animals, statues, you name"
+" it.*"
+msgstr "은(는) 중얼거리며 아무거나 주먹으로 치고 다녔다. 사람, 동물, 동상, 가리지 않았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:544
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"set up a very nice secret lab in Canada, then made an army of mutant "
+"beavers.*"
+msgstr "은(는) 캐나다에 아주 근사한 비밀 연구소를 차리고 돌연변이 비버 군단을 만들었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:545
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "made most of the Canadian wildlife extinct, due to her army of cats.*"
+msgstr "은(는) 고양이 군단 때문에 캐나다 야생 동물 대부분을 멸종시켰다.*"
+
+#: deathforth/events/finale/epilogue-check.df:546
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"finally found a civilized place to stay. She developed a popular fashion "
+"line.*"
+msgstr "은(는) 드디어 머물 만한 문명적인 곳을 찾았다. 그녀가 만든 패션 브랜드는 인기를 끌었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:547
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"pestered the group forever, making everyone regret that wish for "
+"friendship.*"
+msgstr "은(는) 일행을 영원히 귀찮게 해서, 다들 우정을 바랐던 걸 후회하게 만들었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:548
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "founded the Mountie Rollerskating Division, feared by all evil-doers.*"
+msgstr "은(는) 모든 악당이 두려워하는 기마경찰 롤러스케이트 부대를 창설했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:549
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"started a new journey to make it to Colombia. After that, other C "
+"countries.*"
+msgstr "은(는) 콜롬비아까지 가는 새 여정을 시작했다. 그다음엔 C로 시작하는 다른 나라들.*"
+
+#: deathforth/events/finale/epilogue-check.df:550
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was finally able to retire the bee suit, replacing it with a moose theme.*"
+msgstr "은(는) 드디어 벌 옷을 벗고 무스 콘셉트로 갈아탔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:551
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "swiftly got kicked out of the country for being an immense jerk.*"
+msgstr "은(는) 엄청난 얼간이라는 이유로 순식간에 나라에서 쫓겨났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:552
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"rose high in life. No one ever figured out he was three dogs stacked on each"
+" other.*"
+msgstr "은(는) 출세했다. 그가 개 세 마리가 겹쳐 서 있는 거라는 건 아무도 눈치채지 못했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:553
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"attracted many bodybuilder disciples. He was no longer The Last "
+"Bodybuilder.*"
+msgstr "은(는) 보디빌더 제자를 잔뜩 모았다. 그는 더 이상 마지막 보디빌더가 아니었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:554
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became famous for his very popular and insightful stand-up comedy.*"
+msgstr "은(는) 통찰력 넘치는 스탠드업 코미디로 큰 인기를 끌며 유명해졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:555
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "survived against all odds. Happy Thanksgiving!*"
+msgstr "은(는) 온갖 역경을 딛고 살아남았다. 해피 추수감사절!*"
+
+#: deathforth/events/finale/epilogue-check.df:556
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "inflicted all sorts of clown-related horrors on Canada.*"
+msgstr "은(는) 캐나다에 온갖 광대 관련 공포를 퍼뜨렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:557
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "wandered Canada searching for worthy fencing opponents.*"
+msgstr "은(는) 실력 있는 펜싱 상대를 찾아 캐나다를 떠돌았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:558
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued to hate Mondays.*"
+msgstr "은(는) 계속 월요일을 싫어했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:559
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"wished everyone goodbye. With tears in his eyes, he turned into a tree.*"
+msgstr "은(는) 모두에게 작별 인사를 했다. 그리고 눈물을 글썽이며 나무로 변했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:560
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"gathered a large following of people, all running around in identical "
+"masks.*"
+msgstr "은(는) 똑같은 가면을 쓰고 뛰어다니는 추종자들을 잔뜩 거느렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:561
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was put in a zoo after everyone realized she was a real panda.*"
+msgstr "은(는) 진짜 판다라는 게 밝혀져 동물원에 들어갔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:562
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became a famous singer, with his hit song: 'Death Road to Canada (Baby, "
+"Baby)'.*"
+msgstr "은(는) 유명 가수가 되었다. 히트곡: '데스 로드 투 캐나다 (베이비, 베이비)'.*"
+
+#: deathforth/events/finale/epilogue-check.df:563
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"got rich by selling a new type of mop that won't break when smashing "
+"zombies.*"
+msgstr "은(는) 좀비를 때려도 안 부러지는 신형 대걸레를 팔아 부자가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:564
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"managed to keep his minigun in Canada. No one really wanted to take it away "
+"from him.*"
+msgstr "은(는) 캐나다에서도 미니건을 지켜 냈다. 아무도 그에게서 그걸 뺏고 싶어 하지 않았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:565
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"went back to being a scientist. This mostly involves hitting stuff with a "
+"crowbar.*"
+msgstr "은(는) 다시 과학자로 돌아갔다. 대부분 쇠지렛대로 뭔가를 때리는 일이다.*"
+
+#: deathforth/events/finale/epilogue-check.df:566
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "released Half-Life 3.*"
+msgstr "은(는) 하프라이프 3를 출시했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:567
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "blundered around for the rest of his life, smashing pottery.*"
+msgstr "은(는) 남은 평생 허둥지둥 돌아다니며 도자기를 깨부쉈다.*"
+
+#: deathforth/events/finale/epilogue-check.df:568
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "finally found a bathroom he could safely poop in.*"
+msgstr "은(는) 드디어 안전하게 똥 쌀 수 있는 화장실을 찾았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:569
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"predicted that he'd safely make it to Canada, and look where he is now.*"
+msgstr "은(는) 자기가 캐나다에 무사히 도착할 거라고 예측했다. 그리고 지금 그가 어디 있는지 봐라.*"
+
+#: deathforth/events/finale/epilogue-check.df:570
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became True Anime!*"
+msgstr "은(는) 진정한 애니가 되었다!*"
+
+#: deathforth/events/finale/epilogue-check.df:571
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"lurked in the countryside as an abomination, sometimes scaring villagers. "
+"Nice!*"
+msgstr "은(는) 시골에 숨어 사는 괴물이 되어 가끔 마을 사람들을 놀라게 했다. 좋아!*"
+
+#: deathforth/events/finale/epilogue-check.df:572
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "is some kind of gerbil or something? I don't know.*"
+msgstr "은(는) 저빌 같은 건가? 모르겠다.*"
+
+#: deathforth/events/finale/epilogue-check.df:573
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "returned to its family in Canada, after a long time away.*"
+msgstr "은(는) 오랜 시간 끝에 캐나다에 있는 가족에게 돌아갔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:574
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "I love skeletoning!"
+msgstr "해골 짓 너무 좋아!"
+
+#: deathforth/events/finale/epilogue-check.df:575
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "built a really cool gingerbread house.*"
+msgstr "은(는) 정말 멋진 진저브레드 하우스를 지었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:576
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued to spend his un-life going BLUGH and turning into a bat.*"
+msgstr "은(는) 블러억 하고 외치며 박쥐로 변하는 언데드 생활을 계속했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:577
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "got stuck in bat-form, somehow.*"
+msgstr "은(는) 어째선지 박쥐 모습으로 굳어 버렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:578
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"grew an enormous skeleton army. They never did much, she just liked to "
+"collect them.*"
+msgstr "은(는) 거대한 해골 군단을 키웠다. 딱히 하는 일은 없었고, 그녀는 그냥 모으는 게 좋았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:579
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became a popular bard in the Royal Court of the King of Canada.*"
+msgstr "은(는) 캐나다 국왕의 궁정에서 인기 음유시인이 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:580
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"left Canada after finding out everything was harder to burn due to the ice.*"
+msgstr "은(는) 얼음 때문에 뭐든 불태우기가 더 어렵다는 걸 알고 캐나다를 떠났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:581
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "destroyed Toronto. Not the real city, just a small cardboard replica.*"
+msgstr "은(는) 토론토를 파괴했다. 진짜 도시 말고, 작은 골판지 모형을.*"
+
+#: deathforth/events/finale/epilogue-check.df:582
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "vanished back into the Bort Dimension, from whence he was summoned.*"
+msgstr "은(는) 자신이 소환됐던 보트 차원으로 사라졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:583
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"had a boss fight with Ascendant Bizarro-Krankor. They talked their issues "
+"out.*"
+msgstr "은(는) 초월한 비자로-크랭코어와 보스전을 벌였다. 둘은 대화로 문제를 풀었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:584
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued to inspire people due to his perfect resemblance to Bart.*"
+msgstr "은(는) 바트와 꼭 닮은 모습으로 사람들에게 계속 영감을 주었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:585
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"went on to complete his secret mission: stealing the Tim Hortons coffee "
+"recipe.*"
+msgstr "은(는) 비밀 임무를 완수했다: 팀 홀튼 커피 레시피 훔치기.*"
+
+#: deathforth/events/finale/epilogue-check.df:586
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"dug out a sweet monster-filled dungeon. It had orcs and goblins and traps. "
+"Nice!*"
+msgstr "은(는) 괴물이 가득한 근사한 던전을 팠다. 오크도 고블린도 함정도 있었다. 좋아!*"
+
+#: deathforth/events/finale/epilogue-check.df:587
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was mistaken for a rare subspecies of wolverine and got thrown into a zoo. "
+"He didn't mind.*"
+msgstr "은(는) 희귀한 울버린 아종으로 오인받아 동물원에 갇혔다. 그는 신경 쓰지 않았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:588
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"changed his cosplay to a character that wore thick winter clothes instead of"
+" tights.*"
+msgstr "은(는) 코스프레를 쫄쫄이 대신 두꺼운 겨울옷을 입는 캐릭터로 바꿨다.*"
+
+#: deathforth/events/finale/epilogue-check.df:589
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"took a nap that day and was immediately encased in ice. She woke up in the "
+"far far future.*"
+msgstr "은(는) 그날 낮잠을 잤다가 곧바로 얼음 속에 갇혔다. 그녀는 아주 먼 미래에 깨어났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:590
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "quietly and sheepishly applied for Canadian citizenship.*"
+msgstr "은(는) 조용히, 머쓱하게 캐나다 시민권을 신청했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:591
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"helped the mounties develop powerful log-based anti-zombie technology.*"
+msgstr "은(는) 기마경찰이 강력한 통나무 기반 대좀비 기술을 개발하는 걸 도왔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:592
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "built a pirate ship and became the terror of Lake Ontario.*"
+msgstr "은(는) 해적선을 만들어 온타리오 호수의 공포가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:593
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "finally, FINALLY gets to kick a football.*"
+msgstr "은(는) 드디어, 드디어 축구공을 찬다.*"
+
+#: deathforth/events/finale/epilogue-check.df:594
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "gets stuck in a broom closet, but in Canada this time.*"
+msgstr "은(는) 빗자루 벽장에 갇힌다. 이번엔 캐나다에서.*"
+
+#: deathforth/events/finale/epilogue-check.df:595
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"quits his job as a tournament fighter and starts selling a popular designer "
+"eyepatches.*"
+msgstr "은(는) 격투 대회 선수를 그만두고 인기 디자이너 안대를 팔기 시작한다.*"
+
+#: deathforth/events/finale/epilogue-check.df:596
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"starts a fighting tournament in Canada, where he mostly shoots fireballs at "
+"moose (meese?).*"
+msgstr "은(는) 캐나다에서 격투 대회를 연다. 주로 무스(무스들?)에게 파이어볼을 쏜다.*"
+
+#: deathforth/events/finale/epilogue-check.df:597
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"opens up a propane business in Canada. The twist: He also sells propane "
+"accessories.*"
+msgstr "은(는) 캐나다에서 프로판 사업을 시작한다. 반전: 프로판 액세서리도 판다.*"
+
+#: deathforth/events/finale/epilogue-check.df:598
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"forms a basketball team, just in case aliens challenge the earth to a game "
+"of hoops.*"
+msgstr "은(는) 외계인이 지구에 농구 시합을 걸어올 경우에 대비해 농구팀을 만든다.*"
+
+#: deathforth/events/finale/epilogue-check.df:599
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was later arrested for harassment after being unable to acclimate to the "
+"status quo.*"
+msgstr "은(는) 새로운 현실에 적응하지 못하고 결국 괴롭힘 혐의로 체포되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:600
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"mapped out the entirety of Canada, exploring every last nook and cranny.*"
+msgstr "은(는) 구석구석 탐험하며 캐나다 전체 지도를 완성했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:601
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "mostly did nothing, because he's just some guy. Really.*"
+msgstr "은(는) 거의 아무것도 안 했다. 그냥 평범한 녀석이니까. 진짜로.*"
+
+#: deathforth/events/finale/epilogue-check.df:602
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "found a new home in the local Pukeymon shelter.*"
+msgstr "은(는) 동네 푸키몬 보호소에서 새 보금자리를 찾았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:604
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was sued for damages after bursting into too many saloons.*"
+msgstr "은(는) 술집에 너무 자주 쳐들어가서 손해 배상 소송을 당했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:605
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was executed by Otherwordly Divine Power for that awful joke.*"
+msgstr "은(는) 그 끔찍한 농담 때문에 이계의 신성한 힘에 처형당했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:606
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "died after being jumpscared by a moose while shaving.*"
+msgstr "은(는) 면도하다가 무스에게 깜짝 놀라 죽었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:608
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"covered herself in purple goo. As any physicist may know, this allowed her "
+"to fly.*"
+msgstr "은(는) 보라색 끈적이를 온몸에 발랐다. 물리학자라면 알겠지만, 덕분에 그녀는 날 수 있었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:609
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"gets banned from Montreal after running around it to smash up power boxes.*"
+msgstr "은(는) 배전함을 부수러 돌아다니다가 몬트리올 출입 금지를 당한다.*"
+
+#: deathforth/events/finale/epilogue-check.df:610
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was Canada's 19th top showman, on a list of 18 written by himself. He CAN be"
+" humble!*"
+msgstr "은(는) 캐나다 최고의 쇼맨 19위였다. 본인이 직접 쓴 18명짜리 명단에서. 그도 겸손할 줄 안다!*"
+
+#: deathforth/events/finale/epilogue-check.df:612
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was herself smitten by a talking tree. Thus, the grand and beautiful cycle "
+"continues.*"
+msgstr "은(는) 그녀 자신이 말하는 나무에게 반해 버렸다. 이렇게 위대하고 아름다운 순환은 계속된다.*"
+
+#: deathforth/events/finale/epilogue-check.df:613
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"set his clock too far forward, causing him to wake up 100 years in the "
+"future.*"
+msgstr "은(는) 시계를 너무 앞으로 돌려서 100년 뒤 미래에 깨어났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:614
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "vanished into thin air, as if they'd never existed at all.*"
+msgstr "은(는) 처음부터 존재하지 않았던 것처럼 허공으로 사라졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:616
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"flew to the moon and played amongst the stars, or something. Idk, I've never"
+" been there.*"
+msgstr "은(는) 달로 날아가 별들 사이에서 놀았다, 뭐 그런 거. 몰라, 거기 가 본 적 없어.*"
+
+#: deathforth/events/finale/epilogue-check.df:617
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"accidentally whispered an incantation that wrecked Canada with storms for "
+"1000s of years.*"
+msgstr "은(는) 실수로 주문을 속삭이는 바람에 캐나다를 수천 년 동안 폭풍으로 망가뜨렸다.*"
+
+#: deathforth/events/finale/epilogue-check.df:618
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"spent most of her life attempting to de-thaw Canada's rivers with a "
+"hairdryer...with mild success.*"
+msgstr "은(는) 평생 헤어드라이어로 캐나다의 강을 녹이려 애썼다... 성과는 그럭저럭.*"
+
+#: deathforth/events/finale/epilogue-check.df:619
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"spent his life as a librarian, using telekenesis to pioneer the automatic "
+"sorting of books.*"
+msgstr "은(는) 사서로 일하며 염력으로 자동 도서 분류의 선구자가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:621
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"planted herself in the ground somewhere dark and quiet, and was basically "
+"never seen again.*"
+msgstr "은(는) 어둡고 조용한 어딘가의 땅에 자신을 심었고, 다시는 거의 눈에 띄지 않았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:622
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "inspired other people with his values: a real Family Guy.*"
+msgstr "은(는) 자신의 가치관으로 사람들에게 영감을 주었다: 진정한 패밀리 가이.*"
+
+#: deathforth/events/finale/epilogue-check.df:623
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"exploded after going 20 dollars into credit card debt. Another Canadian "
+"tragedy...*"
+msgstr "은(는) 신용카드 빚이 20달러 생기자 폭발했다. 또 하나의 캐나다 비극...*"
+
+#: deathforth/events/finale/epilogue-check.df:625
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"was ambushed by a group of snowmen. They were made, he didn't stand a "
+"chance.*"
+msgstr "은(는) 눈사람 무리에게 기습당했다. 놈들은 조직원이었다. 그는 상대가 안 됐다.*"
+
+#: deathforth/events/finale/epilogue-check.df:626
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became the star of the show 'Bottom Gear', a wholesome family show about car"
+" fumes.*"
+msgstr "은(는) 자동차 배기가스를 다루는 건전한 가족 프로그램 '바텀 기어'의 스타가 되었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:627
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"started a hot chocolate company, which was actually just a front for tax "
+"fraud.*"
+msgstr "은(는) 핫초코 회사를 차렸다. 사실은 탈세용 위장 회사였다.*"
+
+#: deathforth/events/finale/epilogue-check.df:628
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"missed crashing cars, so started jumping into ANY window they could see. The"
+" police were called.*"
+msgstr "은(는) 차 충돌이 그리워서 보이는 창문마다 뛰어들었다. 경찰이 출동했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:629
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"challenged the prime minister for his title in a fighting match. They both "
+"lost - to a freakish gerbil.*"
+msgstr "은(는) 총리에게 칭호를 걸고 결투를 신청했다. 둘 다 졌다 - 기괴한 저빌에게.*"
+
+#: deathforth/events/finale/epilogue-check.df:630
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "spent his life fortifying Canada's walls, to great effect.*"
+msgstr "은(는) 평생 캐나다의 성벽을 보강했고, 효과는 대단했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:632
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "spontaneously exploded. Some things we will never understand.*"
+msgstr "은(는) 갑자기 저절로 폭발했다. 세상엔 영영 이해 못 할 일도 있다.*"
+
+#: deathforth/events/finale/epilogue-check.df:633
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "perished, as many Shogun do, in a freak poetry accident.*"
+msgstr "은(는) 많은 쇼군이 그렇듯, 기괴한 시 낭송 사고로 세상을 떠났다.*"
+
+#: deathforth/events/finale/epilogue-check.df:634
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"created the play 'Pirates of Perchance', a touching story about an "
+"illiterate swashbuckler.*"
+msgstr "은(는) 글 모르는 검객의 감동적인 이야기, 연극 '퍼챈스의 해적'을 만들었다.*"
+
+#: deathforth/events/finale/epilogue-check.df:635
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"Congrats! You found the secret ending dialogue! You must have waited FOREVER"
+" for that..."
+msgstr "축하해! 비밀 엔딩 대사를 찾았구나! 이거 보려고 엄청 기다렸겠는데..."
+
+#: deathforth/events/finale/epilogue-check.df:636
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid ""
+"became a part-time firefighter, part-time arsonist. Work in post-Canada is "
+"scarce!*"
+msgstr "은(는) 시간제 소방관이자 시간제 방화범이 되었다. 캐나다 이후엔 일자리가 귀하다!*"
+
+#: deathforth/events/finale/epilogue-check.df:638
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "lived that dog life.*"
+msgstr "은(는) 개답게 살았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:639
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "started a campaign of mass murder on the local wildlife, as cats do.*"
+msgstr "은(는) 고양이들이 그렇듯, 동네 야생 동물을 상대로 대학살을 벌였다.*"
+
+#: deathforth/events/finale/epilogue-check.df:640
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became a Canadian goat. Which is just like a non-Canadian goat.*"
+msgstr "은(는) 캐나다 염소가 되었다. 캐나다 염소가 아닌 염소랑 똑같다.*"
+
+#: deathforth/events/finale/epilogue-check.df:641
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was widely recognized in Canada as being SOME PIG!*"
+msgstr "은(는) 캐나다에서 '대단한 돼지'로 널리 인정받았다!*"
+
+#: deathforth/events/finale/epilogue-check.df:642
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "was finally a free animal again, and vanished into the wilderness.*"
+msgstr "은(는) 드디어 다시 자유로운 동물이 되어 야생 속으로 사라졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:644
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARRRRRRRRRRRRRL!"
+msgstr "칼아아아아아아아아아아아아아아아아아아아아아아아아아아알!"
+
+#: deathforth/events/finale/epilogue-check.df:645
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "Secret Tip: Look for the Well of Wishes in the Crypt of Decay!"
+msgstr "비밀 팁: 부패의 지하실에서 소원의 우물을 찾아봐!"
+
+#: deathforth/events/finale/epilogue-check.df:647
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "went fast.*"
+msgstr "은(는) 빨리 갔다.*"
+
+#: deathforth/events/finale/epilogue-check.df:649
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "remained a true friend of dog.*"
+msgstr "은(는) 개의 진정한 친구로 남았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:650
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "stayed berserk!*"
+msgstr "은(는) 계속 광폭했다!*"
+
+#: deathforth/events/finale/epilogue-check.df:651
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "lived a long life of robbing and stealing.*"
+msgstr "은(는) 털고 훔치며 오래 살았다.*"
+
+#: deathforth/events/finale/epilogue-check.df:652
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued anime studies.*"
+msgstr "은(는) 애니 연구를 계속했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:653
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "wined and dined in Canada.*"
+msgstr "은(는) 캐나다에서 잘 먹고 잘 마셨다.*"
+
+#: deathforth/events/finale/epilogue-check.df:662
+#: deathforth/events/finale/epilogue-check.df:668
+#: deathforth/events/finale/epilogue-check.df:674
+#: deathforth/events/finale/epilogue-check.df:693
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "kept fit in EHIS retirement.*"
+msgstr "은(는) 은퇴 후에도 EHIS 몸매를 유지했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:681
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "became faster than Sonic.*"
+msgstr "은(는) 소닉보다 빨라졌다.*"
+
+#: deathforth/events/finale/epilogue-check.df:687
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "continued being swole in Canada.*"
+msgstr "은(는) 캐나다에서도 계속 우람했다.*"
+
+#: deathforth/events/finale/epilogue-check.df:700
+msgctxt "deathforth/events/finale/epilogue-check.df"
+msgid "began a new life in Canada, with less zombies.*"
+msgstr "은(는) 좀비가 적은 캐나다에서 새 삶을 시작했다.*"
+
+#: deathforth/events/industrial/indust.df:143
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "Factory Complex"
+msgstr "공장 단지"
+
+#: deathforth/events/industrial/indust.df:145
+msgctxt "deathforth/events/industrial/indust.df"
+msgid ""
+" gets overwhelmed by a horde, and flees for a nearby factory. There must be "
+"another way out inside."
+msgstr "은(는) 좀비 떼에 밀려 근처 공장으로 도망친다. 안에 다른 출구가 있을 거다."
+
+#: deathforth/events/industrial/indust.df:149
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "DIVE IN"
+msgstr "뛰어든다"
+
+#: deathforth/events/industrial/indust.df:154
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "Successful Factory"
+msgstr "잘나가던 공장"
+
+#: deathforth/events/industrial/indust.df:156
+msgctxt "deathforth/events/industrial/indust.df"
+msgid ""
+" sees a large factory that looked like it was busy, before the apocalypse. "
+"It's less run down than most other factories, at least on the outside."
+msgstr "은(는) 종말 전엔 바빴던 것 같은 큰 공장을 본다. 적어도 겉으로는 다른 공장들보다 덜 낡았다."
+
+#: deathforth/events/industrial/indust.df:159
+#: deathforth/events/industrial/indust.df:181
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "Explore Factory"
+msgstr "공장을 탐색한다"
+
+#: deathforth/events/industrial/indust.df:165
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "Factory Rescue"
+msgstr "공장 구출"
+
+#: deathforth/events/industrial/indust.df:167
+msgctxt "deathforth/events/industrial/indust.df"
+msgid ""
+" is driving through a quiet factory district. They run into a horde "
+"distracted with chasing someone down."
+msgstr "은(는) 조용한 공장 지대를 달리고 있다. 누군가를 쫓느라 정신이 팔린 좀비 떼와 마주친다."
+
+#: deathforth/events/industrial/indust.df:170
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "Attempt Rescue!"
+msgstr "구출을 시도한다!"
+
+#: deathforth/events/industrial/indust.df:176
+msgctxt "deathforth/events/industrial/indust.df"
+msgid "Quiet Factory"
+msgstr "조용한 공장"
+
+#: deathforth/events/industrial/indust.df:178
+msgctxt "deathforth/events/industrial/indust.df"
+msgid ""
+" finds a run down factory, like most factories one would see nowadays. "
+"Sometimes people try to set up a safe hideout in a factory side closet, but "
+"this usually doesn't end well."
+msgstr ""
+"은(는) 요즘 흔히 보는 공장들처럼 낡은 공장을 발견한다. 가끔 사람들이 공장 옆 창고에 안전한 은신처를 차리려 하지만, 대개 끝이 좋지"
+" 않다."
+
+#: deathforth/events/industrial/sewer.df:8
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "The Way Out"
+msgstr "탈출구"
+
+#: deathforth/events/industrial/sewer.df:9
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "You've found the ladder out of here!"
+msgstr "여기서 나가는 사다리를 찾았다!"
+
+#: deathforth/events/industrial/sewer.df:11
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "Climb out!"
+msgstr "올라간다!"
+
+#: deathforth/events/industrial/sewer.df:13
+#: deathforth/events/industrial/sewer.df:29
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "Stay for Now"
+msgstr "일단 남는다"
+
+#: deathforth/events/industrial/sewer.df:22
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "The Way Out of the Tutorial"
+msgstr "튜토리얼 탈출구"
+
+#: deathforth/events/industrial/sewer.df:23
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid ""
+"You've found the ladder out of here!\r\n"
+"\tThis will end the story for "
+msgstr ""
+"여기서 나가는 사다리를 찾았다!\r\n"
+"\t이걸로 이야기가 끝난다. 끝나는 건 "
+
+#: deathforth/events/industrial/sewer.df:24
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid ""
+", but your story is about to begin!\r\n"
+"\tYou will make your way to Canada, looting all the supplies you can on the way. You'll need to build up your skills and your team to survive!"
+msgstr ""
+"의 이야기지만, 너의 이야기는 이제 막 시작이다!\r\n"
+"\t캐나다를 향해 나아가며 가는 길에 물자를 최대한 챙겨라. 살아남으려면 기술과 일행을 키워야 한다!"
+
+#: deathforth/events/industrial/sewer.df:27
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "End Tutorial!"
+msgstr "튜토리얼 끝!"
+
+#: deathforth/events/industrial/sewer.df:94
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "River of Death"
+msgstr "죽음의 강"
+
+#: deathforth/events/industrial/sewer.df:96
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid " arrives in a huge city, conquered by undead, and sees that "
+msgstr "은(는) 언데드에게 점령당한 거대 도시에 도착해 깨닫는다. "
+
+#: deathforth/events/industrial/sewer.df:96
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid ""
+" only chance is braving the sewer system.\r\n"
+"\tWhen opening the manhole, a cacaphony of groans spill out. This is not a good sign."
+msgstr ""
+" 유일한 기회는 하수도를 뚫고 가는 것뿐이라는 걸.\r\n"
+"\t맨홀을 열자 신음 소리가 한꺼번에 쏟아져 나온다. 좋은 징조가 아니다."
+
+#: deathforth/events/industrial/sewer.df:101
+#: deathforth/events/industrial/sewer.df:112
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "DIVE IN"
+msgstr "뛰어든다"
+
+#: deathforth/events/industrial/sewer.df:106
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "River of Sludge"
+msgstr "오물의 강"
+
+#: deathforth/events/industrial/sewer.df:108
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid ""
+"This city is covered with hordes of undead and wreckage that has been "
+"touched by a previous fire. "
+msgstr "이 도시는 언데드 무리와 예전 화재에 그을린 잔해로 뒤덮여 있다. "
+
+#: deathforth/events/industrial/sewer.df:108
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid " gets surrounded, and "
+msgstr "은(는) 포위당하고, "
+
+#: deathforth/events/industrial/sewer.df:108
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid " only chance is "
+msgstr " 유일한 기회는 "
+
+#: deathforth/events/industrial/sewer.df:108
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "SPRINTING THROUGH"
+msgstr "전력 질주"
+
+#: deathforth/events/industrial/sewer.df:108
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid " the sewers."
+msgstr "(으)로 하수도를 통과하는 것뿐이다."
+
+#: deathforth/events/industrial/sewer.df:117
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "Smelly Rescue"
+msgstr "냄새나는 구출"
+
+#: deathforth/events/industrial/sewer.df:119
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid ""
+" spots a desperate survivor flee from a horde by jumping into the sewer. "
+"Helping would involve having to find a safer way out."
+msgstr "은(는) 필사적인 생존자가 좀비 떼를 피해 하수도로 뛰어드는 걸 본다. 도우려면 더 안전한 출구를 찾아야 한다."
+
+#: deathforth/events/industrial/sewer.df:123
+msgctxt "deathforth/events/industrial/sewer.df"
+msgid "Attempt rescue!"
+msgstr "구출을 시도한다!"
+
+#: deathforth/events/inner/arcadeloc.df:5
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid ""
+" starts taking the arcade machine apart to see how it runs.\r\n"
+"\tAfter some quick rooting around, "
+msgstr ""
+"은(는) 오락기가 어떻게 돌아가는지 보려고 분해하기 시작한다.\r\n"
+"\t잠깐 뒤져 보니, "
+
+#: deathforth/events/inner/arcadeloc.df:6
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid ""
+" figures out the reason.\r\n"
+"\tIt turns out all these old arcade machines are gas powered! "
+msgstr ""
+"는 이유를 알아낸다.\r\n"
+"\t알고 보니 이 옛날 오락기들은 전부 기름으로 돌아간다! "
+
+#: deathforth/events/inner/arcadeloc.df:7
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " carefully drains the gas out of its compartment."
+msgstr "은(는) 칸에서 기름을 조심스럽게 빼낸다."
+
+#: deathforth/events/inner/arcadeloc.df:13
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "DEATH ROAD TO CANADA"
+msgstr "데스 로드 투 캐나다"
+
+#: deathforth/events/inner/arcadeloc.df:14
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "DEATH SPLATTERS"
+msgstr "데스 스플래터"
+
+#: deathforth/events/inner/arcadeloc.df:15
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "TOUCH OF DEATH"
+msgstr "죽음의 손길"
+
+#: deathforth/events/inner/arcadeloc.df:16
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "POLYBIUS"
+msgstr "폴리비우스"
+
+#: deathforth/events/inner/arcadeloc.df:17
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "DEATHSPLOSIONAL"
+msgstr "데스플로전"
+
+#: deathforth/events/inner/arcadeloc.df:18
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "U*L*T*R*A*D*E*A*T*H"
+msgstr "U*L*T*R*A*D*E*A*T*H"
+
+#: deathforth/events/inner/arcadeloc.df:23
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " plays an old arcade game named "
+msgstr "은(는) 옛날 오락 게임을 한다. 제목은 "
+
+#: deathforth/events/inner/arcadeloc.df:23
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid ""
+" and really gets into it.\r\n"
+"\tLike all video games ever made, playing it increases your skills with guns. The critics were right.\r\n"
+"\tBefore "
+msgstr ""
+". 그리고 완전히 빠져든다.\r\n"
+"\t역대 모든 비디오 게임이 그렇듯, 이 게임을 하면 총 실력이 는다. 비평가들 말이 맞았다.\r\n"
+"\t"
+
+#: deathforth/events/inner/arcadeloc.df:25
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " knew it, 2 hours had passed."
+msgstr "이(가) 정신 차려 보니 2시간이 지나 있었다."
+
+#: deathforth/events/inner/arcadeloc.df:30
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "There was no one around to defend "
+msgstr "곁에서 지켜 줄 사람이 없었다. "
+
+#: deathforth/events/inner/arcadeloc.df:30
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " during this, so "
+msgstr "은(는) 이 와중에 혼자였고, 그래서 "
+
+#: deathforth/events/inner/arcadeloc.df:30
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " had to fend off zombies while playing. Watch out!"
+msgstr "는 게임하면서 좀비를 막아야 했다. 조심해!"
+
+#: deathforth/events/inner/arcadeloc.df:36
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "Arcade Break"
+msgstr "오락 휴식"
+
+#: deathforth/events/inner/arcadeloc.df:38
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid ""
+"This arcade machine seems to be working! It's not very clear how it can run "
+"without electricity."
+msgstr "이 오락기는 작동하는 것 같다! 전기도 없이 어떻게 돌아가는지는 잘 모르겠다."
+
+#: deathforth/events/inner/arcadeloc.df:40
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid ""
+" stares at the arcade machine in confusion. What seperates people from "
+"animals is mostly that animals don't play video games. At least, for the "
+"most part."
+msgstr ""
+"은(는) 혼란스러운 눈으로 오락기를 쳐다본다. 사람과 동물을 가르는 건 대체로 동물은 비디오 게임을 안 한다는 점이다. 적어도 대부분은."
+
+#: deathforth/events/inner/arcadeloc.df:43
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid ""
+"With no one trustworthy nearby to watch out for zombies, playing it could be"
+" dangerous."
+msgstr "좀비를 감시해 줄 믿을 만한 사람이 근처에 없어서, 게임을 하면 위험할 수 있다."
+
+#: deathforth/events/inner/arcadeloc.df:45
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " considers taking a videogame break while "
+msgstr "은(는) 잠깐 게임하며 쉴까 고민한다. 지켜 주는 동료가 있으니 "
+
+#: deathforth/events/inner/arcadeloc.df:45
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " is guarded."
+msgstr "도 안전하다."
+
+#: deathforth/events/inner/arcadeloc.df:47
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " plays the arcade game"
+msgstr "이(가) 오락을 한다"
+
+#: deathforth/events/inner/arcadeloc.df:49
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid " dismantles the arcade machine"
+msgstr "이(가) 오락기를 분해한다"
+
+#: deathforth/events/inner/arcadeloc.df:51
+msgctxt "deathforth/events/inner/arcadeloc.df"
+msgid "Leave it for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/inner/coffeeloc.df:7
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid " uses all "
+msgstr "은(는) "
+
+#: deathforth/events/inner/coffeeloc.df:7
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+" mechanical skills to figure out what the many, many buttons on the coffee brewer do.\r\n"
+"\t"
+msgstr ""
+" 기계 실력을 총동원해 커피 머신의 수많은, 정말 수많은 버튼이 뭘 하는지 알아낸다.\r\n"
+"\t"
+
+#: deathforth/events/inner/coffeeloc.df:8
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+" makes the perfect cup of coffee! It's delicious!\r\n"
+"\tThe coffee machine sparks, emits smoke, and dies."
+msgstr ""
+"는 완벽한 커피 한 잔을 내린다! 맛있다!\r\n"
+"\t커피 머신은 불꽃을 튀기고, 연기를 뿜더니, 죽는다."
+
+#: deathforth/events/inner/coffeeloc.df:16
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+" is feeling too sick to enjoy coffee that's been sitting in a machine for "
+"what might be years."
+msgstr "은(는) 몸이 너무 안 좋아서 어쩌면 몇 년째 기계 안에 있었을지 모를 커피를 즐길 수 없다."
+
+#: deathforth/events/inner/coffeeloc.df:19
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+" drinks EVEN MORE coffee and then feels pretty sick afterwards. \r\n"
+"\t\tIt's hard to say if it was the massive amount of caffeine, the filthy cups, or how the coffee has been rotting for an unknown amount of time."
+msgstr ""
+"은(는) 커피를 더 마시고 나서 속이 꽤 안 좋아진다. \r\n"
+"\t\t엄청난 카페인 때문인지, 더러운 컵 때문인지, 언제부터 썩고 있었는지 모를 커피 때문인지 알 수 없다."
+
+#: deathforth/events/inner/coffeeloc.df:22
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+" sprays some coffee into an old cup lying around and then drinks it.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 굴러다니던 낡은 컵에 커피를 받아 마신다.\r\n"
+"\t\t"
+
+#: deathforth/events/inner/coffeeloc.df:23
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid " feels all COFFEE'D UP."
+msgstr "는 완전 카페인 충전 완료다."
+
+#: deathforth/events/inner/coffeeloc.df:29
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid "Apocalyptic Coffee"
+msgstr "종말의 커피"
+
+#: deathforth/events/inner/coffeeloc.df:31
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+"This enormous and complex coffee machine was built to survive a few different kinds of end of the world scenarios. This was a big part of this coffee shop's marketing campaign.\r\n"
+"\tTruth in advertising, it still works!"
+msgstr ""
+"이 거대하고 복잡한 커피 머신은 여러 종류의 종말 시나리오에서도 살아남도록 만들어졌다. 이게 이 커피숍 마케팅의 핵심이었다.\r\n"
+"\t과장 광고가 아니었다. 아직 작동한다!"
+
+#: deathforth/events/inner/coffeeloc.df:34
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid ""
+" doesn't have the first idea as to how to operate this thing. And really, "
+msgstr "은(는) 이걸 어떻게 작동시키는지 전혀 모른다. 그리고 사실, "
+
+#: deathforth/events/inner/coffeeloc.df:34
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid "s shouldn't drink coffee anyway."
+msgstr "은(는) 원래 커피를 마시면 안 된다."
+
+#: deathforth/events/inner/coffeeloc.df:36
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid " gets some COFFEE"
+msgstr "이(가) 커피를 마신다"
+
+#: deathforth/events/inner/coffeeloc.df:38
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid " messes with the settings"
+msgstr "이(가) 설정을 만진다"
+
+#: deathforth/events/inner/coffeeloc.df:40
+msgctxt "deathforth/events/inner/coffeeloc.df"
+msgid "Leave it alone"
+msgstr "그냥 둔다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:9
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Swarmed Apartment"
+msgstr "좀비 떼 아파트"
+
+#: deathforth/events/inner/cyoa-k-inners.df:11
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" finds a town that's eerily quiet. At the edge of the smaller buildings, "
+"there's an apartment building that looks like it hasn't been looted yet."
+msgstr "은(는) 섬뜩할 만큼 조용한 마을을 발견한다. 작은 건물들 끝자락에, 아직 털리지 않은 것 같은 아파트 건물이 있다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:14
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Visit Apartment Building"
+msgstr "아파트 건물에 간다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:20
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Big House on the Hill"
+msgstr "언덕 위의 큰 집"
+
+#: deathforth/events/inner/cyoa-k-inners.df:22
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" drives to a town that's been burnt to the ground. There is a large house "
+"looming on a nearby hill. Even from far away, it looks completely swarmed "
+"with zombies."
+msgstr "은(는) 잿더미가 된 마을에 도착한다. 근처 언덕 위에 큰 집이 우뚝 서 있다. 멀리서 봐도 좀비로 완전히 뒤덮인 것 같다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:25
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Visit House"
+msgstr "집에 간다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:31
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Bullet-Ridden House"
+msgstr "총알 자국투성이 집"
+
+#: deathforth/events/inner/cyoa-k-inners.df:33
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees a house from a distance. On getting closer, it looks like a large "
+"gunfight happened here between humans. From the house, many groans of the "
+"undead can be heard. "
+msgstr ""
+"은(는) 멀리서 집 한 채를 본다. 가까이 가 보니, 사람들끼리 큰 총격전이 벌어졌던 것 같다. 집 안에서 언데드의 신음 소리가 잔뜩 "
+"들린다. "
+
+#: deathforth/events/inner/cyoa-k-inners.df:36
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore the House"
+msgstr "집을 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:42
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "House on the Road"
+msgstr "길가의 집"
+
+#: deathforth/events/inner/cyoa-k-inners.df:44
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spots a house on the road. It looks fairly quiet from the outside, but "
+"looking through the windows reveals shapes lurching around in the dark."
+msgstr "은(는) 길가의 집을 발견한다. 밖에서 보기엔 꽤 조용하지만, 창문으로 들여다보면 어둠 속에서 비틀거리는 형체들이 보인다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:47
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Enter House"
+msgstr "집에 들어간다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:52
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Busy Hotel"
+msgstr "붐비는 호텔"
+
+#: deathforth/events/inner/cyoa-k-inners.df:54
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spots a hotel while travelling through a ransacked town. It looks like a "
+"group of people tried to barricade it, but were interrupted. All that's left"
+" are the undead."
+msgstr "은(는) 약탈당한 마을을 지나다 호텔을 발견한다. 누군가 바리케이드를 치려다 중단된 것 같다. 남은 건 언데드뿐이다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:57
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Enter Hotel"
+msgstr "호텔에 들어간다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:62
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Hotel in Quiet Town"
+msgstr "조용한 마을의 호텔"
+
+#: deathforth/events/inner/cyoa-k-inners.df:64
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" goes through an empty town, with no supplies to be found and little zombie "
+"activity. One small hotel seems to have more undead roaming through it than "
+"the rest."
+msgstr "은(는) 물자도 없고 좀비도 별로 없는 텅 빈 마을을 지난다. 작은 호텔 하나에만 유독 언데드가 많이 돌아다니는 것 같다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:67
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Hotel"
+msgstr "호텔을 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:73
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Police Headquarters"
+msgstr "경찰 본부"
+
+#: deathforth/events/inner/cyoa-k-inners.df:75
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spots a local police department headquarters. The undead around it already "
+"seem pretty riled up, but there may be some good things in there."
+msgstr "은(는) 지역 경찰 본부를 발견한다. 주변 언데드는 이미 꽤 흥분한 것 같지만, 안에 좋은 게 있을지도."
+
+#: deathforth/events/inner/cyoa-k-inners.df:78
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Police HQ"
+msgstr "경찰 본부를 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:84
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Hospital Raid"
+msgstr "병원 습격"
+
+#: deathforth/events/inner/cyoa-k-inners.df:86
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees a hospital. Medical supplies can often still be found in places like "
+"this, due to the large amount of undead still wandering around."
+msgstr "은(는) 병원을 본다. 이런 곳엔 아직도 언데드가 잔뜩 돌아다니는 탓에 의약품이 남아 있는 경우가 많다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:89
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Hospital"
+msgstr "병원을 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:95
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Big Office Complex"
+msgstr "대형 오피스 단지"
+
+#: deathforth/events/inner/cyoa-k-inners.df:97
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees a large office building. The amount of zombies in it hints that people"
+" were still going to work like normal, even after the outbreak."
+msgstr "은(는) 큰 사무실 건물을 본다. 안의 좀비 수를 보면, 사태가 터진 뒤에도 사람들이 평소처럼 출근했던 것 같다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:100
+#: deathforth/events/inner/cyoa-k-inners.df:111
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Office"
+msgstr "사무실을 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:106
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Fancy Office"
+msgstr "고급 사무실"
+
+#: deathforth/events/inner/cyoa-k-inners.df:108
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees an office building that looks expensive from the outside. There must "
+"be something in there worth taking."
+msgstr "은(는) 겉보기에 비싸 보이는 사무실 건물을 본다. 안에 챙길 만한 게 있을 거다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:117
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Fancy House"
+msgstr "고급 주택"
+
+#: deathforth/events/inner/cyoa-k-inners.df:119
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spies a house that looks expensive from the outside. There must be "
+"something in there worth checking out."
+msgstr "은(는) 겉보기에 비싸 보이는 집을 발견한다. 안에 살펴볼 만한 게 있을 거다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:122
+#: deathforth/events/inner/cyoa-k-inners.df:133
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore House"
+msgstr "집을 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:128
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Riled Up House"
+msgstr "성난 좀비의 집"
+
+#: deathforth/events/inner/cyoa-k-inners.df:130
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid " drives up to a house and sees that the zombies were angry before "
+msgstr "은(는) 어느 집 앞에 차를 세운다. 좀비들은 이미 화가 나 있었다. "
+
+#: deathforth/events/inner/cyoa-k-inners.df:130
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid " got there. There are no signs of life, except unlife."
+msgstr "이(가) 도착하기도 전부터. 살아 있는 흔적은 없다. 죽지 않은 것들 빼고."
+
+#: deathforth/events/inner/cyoa-k-inners.df:139
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Riled Up Apartment"
+msgstr "성난 좀비의 아파트"
+
+#: deathforth/events/inner/cyoa-k-inners.df:141
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spots an apartment with agitated zombies shambling nearby. They may be "
+"angry for no reason, as there's no signs of anyone else there."
+msgstr ""
+"은(는) 근처에서 흥분한 좀비들이 비틀거리는 아파트를 발견한다. 아무도 없는 걸 보면 그냥 이유 없이 화가 난 걸지도 모른다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:144
+#: deathforth/events/inner/cyoa-k-inners.df:177
+#: deathforth/events/inner/cyoa-k-inners.df:210
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Apartments"
+msgstr "아파트를 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:150
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "House Rescue"
+msgstr "주택 구출"
+
+#: deathforth/events/inner/cyoa-k-inners.df:152
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees an agitated horde of zombies chasing someone. They flee into a nearby "
+"house."
+msgstr "은(는) 흥분한 좀비 떼가 누군가를 쫓는 걸 본다. 그 사람은 근처 집으로 도망친다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:155
+#: deathforth/events/inner/cyoa-k-inners.df:166
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Rescue them!"
+msgstr "구해 주자!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:161
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Apartment Rescue"
+msgstr "아파트 구출"
+
+#: deathforth/events/inner/cyoa-k-inners.df:163
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "From a distance, "
+msgstr "멀리서, "
+
+#: deathforth/events/inner/cyoa-k-inners.df:163
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spots someone fleeing from an angry horde. They disappear into an apartment"
+" building."
+msgstr "은(는) 성난 좀비 떼에게서 도망치는 사람을 발견한다. 그 사람은 아파트 건물 안으로 사라진다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:172
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Big Apartment"
+msgstr "큰 아파트"
+
+#: deathforth/events/inner/cyoa-k-inners.df:174
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" drives near a rather large apartment building. It may take awhile to "
+"explore this, but they might have an indoor pool!"
+msgstr "은(는) 꽤 큰 아파트 건물 근처를 지난다. 다 둘러보려면 시간이 좀 걸리겠지만, 실내 수영장이 있을지도!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:183
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Dead Arcade"
+msgstr "죽은 오락실"
+
+#: deathforth/events/inner/cyoa-k-inners.df:185
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" finds a pretty big arcade, full of now silent video games. Maybe if you "
+"check, one of them will be gas or battery powered. That could happen."
+msgstr ""
+"은(는) 이제는 조용해진 게임기로 가득한 꽤 큰 오락실을 발견한다. 잘 찾아보면 기름이나 배터리로 돌아가는 게 하나쯤 있을지도. 그럴 "
+"수도 있지."
+
+#: deathforth/events/inner/cyoa-k-inners.df:188
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Arcade"
+msgstr "오락실을 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:194
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Small Suburb"
+msgstr "작은 교외"
+
+#: deathforth/events/inner/cyoa-k-inners.df:196
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" drives through a ruined suburb. There's a few buildings that look like they"
+" haven't been completely trashed."
+msgstr "은(는) 폐허가 된 교외를 지난다. 완전히 망가지지 않은 듯한 건물이 몇 채 있다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:199
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Suburb"
+msgstr "교외를 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:205
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Abandoned Apartments"
+msgstr "버려진 아파트"
+
+#: deathforth/events/inner/cyoa-k-inners.df:207
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" drives through a city. A few apartment buildings stand out as being "
+"slightly less ruined than the surroundings."
+msgstr "은(는) 도시를 지난다. 아파트 건물 몇 채가 주변보다 조금 덜 망가져 눈에 띈다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:216
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Commercial Row"
+msgstr "상가 거리"
+
+#: deathforth/events/inner/cyoa-k-inners.df:218
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" drives near a city's commercial district. A short distance away, some shops"
+" are visible that seem worth checking out."
+msgstr "은(는) 도시 상업 지구 근처를 지난다. 조금 떨어진 곳에 살펴볼 만한 가게들이 보인다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:221
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Shops"
+msgstr "가게를 탐색한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:227
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Free Car!"
+msgstr "공짜 차!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:229
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" drives through a city. A car is parked on the streets, and it looks almost "
+"pristine. It's just waiting to be taken!"
+msgstr "은(는) 도시를 지난다. 거리에 거의 새것 같은 차가 서 있다. 가져가 달라고 기다리는 것 같다!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:232
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Check out car"
+msgstr "차를 살펴본다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:237
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Popular Arcade"
+msgstr "인기 오락실"
+
+#: deathforth/events/inner/cyoa-k-inners.df:238
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" spots an arcade. The dead completely swarm the inside of it. It's probably "
+"a bad idea to go in there. Or is it? At least bring someone to watch your "
+"back."
+msgstr ""
+"은(는) 오락실을 발견한다. 안이 시체들로 완전히 들끓는다. 들어가는 건 아마 나쁜 생각일 거다. 아닐 수도? 적어도 뒤를 봐줄 사람은 "
+"데려가라."
+
+#: deathforth/events/inner/cyoa-k-inners.df:241
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Video games!"
+msgstr "비디오 게임!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:246
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Gym Obsession"
+msgstr "헬스 중독"
+
+#: deathforth/events/inner/cyoa-k-inners.df:247
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees a gym with a massive amount of undead in it. It's a bad idea to go in "
+"here, but then again you don't want to mess up your workout schedule. You'll"
+" need a spotter for this."
+msgstr ""
+"은(는) 언데드가 엄청나게 많은 체육관을 본다. 들어가는 건 나쁜 생각이지만, 운동 스케줄을 망칠 순 없다. 보조해 줄 사람이 필요하다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:250
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Work out!"
+msgstr "운동하자!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:255
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Shopping Mall"
+msgstr "쇼핑몰"
+
+#: deathforth/events/inner/cyoa-k-inners.df:256
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees a mall. These places are death traps, but there's at least couple of "
+"stores inside that haven't been ransacked."
+msgstr "은(는) 쇼핑몰을 본다. 이런 곳은 죽음의 함정이지만, 안에 털리지 않은 가게가 적어도 두어 개는 있다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:259
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Shop till you drop"
+msgstr "쓰러질 때까지 쇼핑"
+
+#: deathforth/events/inner/cyoa-k-inners.df:264
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Shopping Emergency"
+msgstr "쇼핑 비상사태"
+
+#: deathforth/events/inner/cyoa-k-inners.df:265
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" sees another survivor flee from a big horde. They run right into a shopping"
+" mall. This is a terrible idea. Trying to save them would be a terrible "
+"idea."
+msgstr ""
+"은(는) 다른 생존자가 큰 좀비 떼를 피해 도망치는 걸 본다. 그 사람은 곧장 쇼핑몰로 뛰어든다. 끔찍한 생각이다. 그 사람을 구하려는 "
+"것도 끔찍한 생각이다."
+
+#: deathforth/events/inner/cyoa-k-inners.df:268
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Try to save them!"
+msgstr "구해 보자!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:273
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "House in Flames!"
+msgstr "불타는 집!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:274
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" is surprised as a house down the road mysteriously catches on fire. "
+"Curiousity overwhelms "
+msgstr "은(는) 길 아래쪽 집에 수상하게 불이 붙자 깜짝 놀란다. 호기심이 "
+
+#: deathforth/events/inner/cyoa-k-inners.df:274
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" basic survival instincts.\r\n"
+"\t"
+msgstr ""
+" 기본적인 생존 본능을 이겨 버린다.\r\n"
+"\t"
+
+#: deathforth/events/inner/cyoa-k-inners.df:275
+#: deathforth/events/inner/cyoa-k-inners.df:285
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "WARNING:"
+msgstr "경고:"
+
+#: deathforth/events/inner/cyoa-k-inners.df:275
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid " CONTENTS MAY BE HOT!"
+msgstr " 내용물이 뜨거울 수 있음!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:278
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Investigate fire"
+msgstr "불을 조사한다"
+
+#: deathforth/events/inner/cyoa-k-inners.df:283
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Dark Mansion"
+msgstr "어두운 저택"
+
+#: deathforth/events/inner/cyoa-k-inners.df:284
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid ""
+" runs into an enormous mansion. There can be a lot of loot in here, and a lot of zombiefied looters wandering around in the dark.\r\n"
+"\t"
+msgstr ""
+"은(는) 거대한 저택에 다다른다. 물자도 많겠지만, 어둠 속을 떠도는 좀비가 된 약탈자들도 많을 거다.\r\n"
+"\t"
+
+#: deathforth/events/inner/cyoa-k-inners.df:285
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid " FLASHLIGHT RECOMMENDED!"
+msgstr " 손전등 지참 권장!"
+
+#: deathforth/events/inner/cyoa-k-inners.df:289
+msgctxt "deathforth/events/inner/cyoa-k-inners.df"
+msgid "Explore Mansion"
+msgstr "저택을 탐색한다"
+
+#: deathforth/events/inner/gymloc.df:4
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "Ew gross"
+msgstr "으 더러워"
+
+#: deathforth/events/inner/gymloc.df:5
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"This gym equipment is all covered in sweat now!\r\n"
+"\tNo way is "
+msgstr ""
+"운동 기구가 이제 전부 땀범벅이다!\r\n"
+"\t"
+
+#: deathforth/events/inner/gymloc.df:6
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " touching it."
+msgstr "은(는) 절대 이걸 안 만진다."
+
+#: deathforth/events/inner/gymloc.df:11
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " dies from this weightlifting mishap."
+msgstr "은(는) 이 역도 사고로 죽는다."
+
+#: deathforth/events/inner/gymloc.df:13
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "An hour passed during that impromptu workout session."
+msgstr "즉흥 운동을 하는 사이 한 시간이 지났다."
+
+#: deathforth/events/inner/gymloc.df:16 deathforth/events/inner/gymloc.df:79
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "There was no one around to defend "
+msgstr "곁에서 지켜 줄 사람이 없었다. "
+
+#: deathforth/events/inner/gymloc.df:16 deathforth/events/inner/gymloc.df:79
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " during the workout, so "
+msgstr "은(는) 운동하는 동안 혼자였고, 그래서 "
+
+#: deathforth/events/inner/gymloc.df:16
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " had to fend off zombies between reps. Watch out!"
+msgstr "는 세트 사이사이 좀비를 막아야 했다. 조심해!"
+
+#: deathforth/events/inner/gymloc.df:21
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " takes off most of the weight from the barbell and then starts "
+msgstr "은(는) 바벨에서 무게를 거의 다 빼고 시작한다: "
+
+#: deathforth/events/inner/gymloc.df:21
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "PUMPING IRON"
+msgstr "쇠질"
+
+#: deathforth/events/inner/gymloc.df:21
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " with the mostly empty bar."
+msgstr ". 거의 빈 봉으로."
+
+#: deathforth/events/inner/gymloc.df:23
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "It's still a great workout for "
+msgstr "그래도 "
+
+#: deathforth/events/inner/gymloc.df:23
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ". And nothing is broken or ruptured in the process!"
+msgstr "에게는 훌륭한 운동이다. 그리고 그 과정에서 부러지거나 터진 데도 없다!"
+
+#: deathforth/events/inner/gymloc.df:26
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid ""
+"It just wasn't enough weight to really do anything. The zombies weren't "
+"impressed, either."
+msgstr "무게가 너무 가벼워서 별 효과가 없었다. 좀비들도 감명받지 않았다."
+
+#: deathforth/events/inner/gymloc.df:31
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " takes off some weight from the barbell, but not so much that "
+msgstr "은(는) 바벨에서 무게를 좀 빼지만, 너무 많이 빼진 않는다. 그래야 "
+
+#: deathforth/events/inner/gymloc.df:31
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid " can't "
+msgstr "가 이걸 할 수 있으니까: "
+
+#: deathforth/events/inner/gymloc.df:31
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "GET SUPER PUMPED"
+msgstr "제대로 펌핑하기"
+
+#: deathforth/events/inner/gymloc.df:33
+msgctxt "deathforth/events/inner/gymloc.df"
+msgid "That was too much weight! "
+msgstr "너무 무거웠다! "

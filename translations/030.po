@@ -1,0 +1,2686 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/unlock/trait1.df:129
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "Trait Unlocking"
+msgstr "특성 해금"
+
+#: deathforth/events/unlock/trait1.df:131
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid ""
+"I'm developing an amazing new product\r\n"
+"\tI call them... unlocks. Or 'uncks' for short\r\n"
+"\tWitness the magic of 'cheevos'!\r\n"
+"\tWait, I meant to say 'unlocks'."
+msgstr ""
+"놀라운 신제품을 개발 중이야.\r\n"
+"\t이름은... 해금. 줄여서 '해꾸'라고 하지.\r\n"
+"\t'업적'의 마법을 봐!\r\n"
+"\t잠깐, '해금'이라고 하려던 거야."
+
+#: deathforth/events/unlock/trait1.df:138
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid ""
+"I'm no longer allowed to call them 'Uncks'. The gnomes got very upset that I was stealing their bit.\r\n"
+"\t\tLet's call them Trait Unlocks. Or 'Trunlocks'."
+msgstr ""
+"이제 '해꾸'라고 부르면 안 돼. 노움들이 자기 개그를 훔쳤다고 엄청 화를 냈거든.\r\n"
+"\t\t특성 해금이라고 부르자. 줄여서 '특금'."
+
+#: deathforth/events/unlock/trait1.df:145
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid ""
+"Experiment with different traits and perks.\r\n"
+"\t\tYou might find a new favorite combination!"
+msgstr ""
+"특성과 특전을 다양하게 조합해 봐.\r\n"
+"\t\t새롭게 마음에 드는 조합을 찾을지도 몰라!"
+
+#: deathforth/events/unlock/trait1.df:152
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid ""
+"I'm out of Trunlocks!\r\n"
+"\t\tUse these precious gifts wisely.\r\n"
+"\t\tBelieve... in the Trunlocks."
+msgstr ""
+"특금이 다 떨어졌어!\r\n"
+"\t\t이 소중한 선물을 현명하게 써.\r\n"
+"\t\t믿어 봐... 특금을."
+
+#: deathforth/events/unlock/trait1.df:161
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/twitter.df:19
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "Follow us for news and for "
+msgstr "우리를 팔로우해 봐. 소식도 보고, "
+
+#: deathforth/events/unlock/twitter.df:19
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "ZOMBO POINTS"
+msgstr "좀보 포인트"
+
+#: deathforth/events/unlock/twitter.df:25
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "The blue chicken thing looked pleased!"
+msgstr "파란 닭 같은 것이 기뻐 보인다!"
+
+#: deathforth/events/unlock/twitter.df:26
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "5 ZOMBO POINTS earned!"
+msgstr "좀보 포인트 5 획득!"
+
+#: deathforth/events/unlock/twitter.df:29
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid ""
+"You are over the maximum for Zombo Points!\r\n"
+"\t\t\tSpend your excess ZP before starting a new game!"
+msgstr ""
+"좀보 포인트 최대치를 초과했다!\r\n"
+"\t\t\t새 게임을 시작하기 전에 남는 ZP를 쓰자!"
+
+#: deathforth/events/unlock/twitter.df:62
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "SOCIAL MEDIA CHICKEN"
+msgstr "소셜 미디어 닭"
+
+#: deathforth/events/unlock/twitter.df:64
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "It's some kind of blue bird. It squawks:"
+msgstr "파란 새 비슷한 것이다. 꽥꽥댄다:"
+
+#: deathforth/events/unlock/twitter.df:65
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid ""
+"Read updates from Rocketcat Games on Twitter or Facebook for Death Road news and upcoming games!\r\n"
+"\tRead Madgarden's Twitter for real Canadian Wisdom!"
+msgstr ""
+"로켓캣 게임즈의 트위터나 페이스북에서 데스 로드 소식과 신작 정보를 확인해 봐!\r\n"
+"\t진정한 캐나다의 지혜는 매드가든의 트위터에 있어!"
+
+#: deathforth/events/unlock/twitter.df:70
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/twitter.df:71
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "Rocketcat Twitter"
+msgstr "로켓캣 트위터"
+
+#: deathforth/events/unlock/twitter.df:72
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "Madgarden Twitter"
+msgstr "매드가든 트위터"
+
+#: deathforth/events/unlock/twitter.df:73
+msgctxt "deathforth/events/unlock/twitter.df"
+msgid "Rocketcat Facebook"
+msgstr "로켓캣 페이스북"
+
+#: deathforth/events/unlock/zombotown.df:236
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "MORE INFO"
+msgstr "추가 정보"
+
+#: deathforth/events/unlock/zombotown.df:240
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "PERKS & TRAITS"
+msgstr "특전과 특성"
+
+#: deathforth/events/unlock/zombotown.df:246
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "THE "
+msgstr "<EMPTY>"
+
+#: deathforth/events/unlock/zombotown.df:246
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "JERK "
+msgstr "얼간이 "
+
+#: deathforth/events/unlock/zombotown.df:246
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "STORE"
+msgstr "상점"
+
+#: deathforth/events/unlock/zombotown.df:256
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "THE INFOMATIC "
+msgstr "정보 만능 "
+
+#: deathforth/events/unlock/zombotown.df:256
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "LIBRARY "
+msgstr "도서관 "
+
+#: deathforth/events/unlock/zombotown.df:265
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "UNOME"
+msgstr "우노미"
+
+#: deathforth/events/unlock/zombotown.df:282
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "VACUUM ON/OFF"
+msgstr "흡수 켜기/끄기"
+
+#: deathforth/events/unlock/zombotown.df:284
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "Wits loot vacuum has been turned OFF."
+msgstr "재치로 물자를 흡수하는 기능이 꺼졌다."
+
+#: deathforth/events/unlock/zombotown.df:288
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "Wits loot vacuum has been turned ON."
+msgstr "재치로 물자를 흡수하는 기능이 켜졌다."
+
+#: deathforth/events/unlock/zombotown.df:295
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "VACUUM TYPE TOGGLE"
+msgstr "흡수 방식 전환"
+
+#: deathforth/events/unlock/zombotown.df:297
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "Loot vacuum has been turned to INSTANT."
+msgstr "물자 흡수가 즉시 획득 방식으로 바뀌었다."
+
+#: deathforth/events/unlock/zombotown.df:301
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "Loot vacuum has been turned to GRAVITY."
+msgstr "물자 흡수가 끌어당기기 방식으로 바뀌었다."
+
+#: deathforth/events/unlock/zombotown.df:308
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "ACCESSIBILITY OPTIONS"
+msgstr "접근성 설정"
+
+#: deathforth/events/unlock/zombotown.df:309
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "If you don't like certain features, you can turn them off."
+msgstr "마음에 들지 않는 기능은 꺼도 돼."
+
+#: deathforth/events/unlock/zombotown.df:310
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "It's cool, I won't mind!"
+msgstr "괜찮아, 신경 안 쓸게!"
+
+#: deathforth/events/unlock/zombotown.df:311
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid ""
+"The loot vacuum can either be instantaneous in collection or, have the loot "
+"gravitate towards you."
+msgstr "물자를 즉시 획득하거나, 물자가 네 쪽으로 끌려오게 할 수 있어."
+
+#: deathforth/events/unlock/zombotown.df:312
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "Toggle Loot Vacuum On/Off"
+msgstr "물자 흡수 켜기/끄기"
+
+#: deathforth/events/unlock/zombotown.df:313
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "Toggle Loot Vacuum Type"
+msgstr "물자 흡수 방식 전환"
+
+#: deathforth/events/unlock/zombotown.df:314
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "EXIT"
+msgstr "나가기"
+
+#: deathforth/events/unlock/zombotown.df:322
+msgctxt "deathforth/events/unlock/zombotown.df"
+msgid "ACCESSIBILITY"
+msgstr "접근성"
+
+#: deathforth/events/unlock/ztown-npc.df:5
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Hi, I'm the Info Dingus"
+msgstr "안녕, 난 정보 딩거스야"
+
+#: deathforth/events/unlock/ztown-npc.df:48
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES I"
+msgstr "모드 도전 I"
+
+#: deathforth/events/unlock/ztown-npc.df:50
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Beat 6 different game modes to "
+msgstr "서로 다른 모드 6개를 클리어하면 "
+
+#: deathforth/events/unlock/ztown-npc.df:50
+#: deathforth/events/unlock/ztown-npc.df:76
+#: deathforth/events/unlock/ztown-npc.df:104
+#: deathforth/events/unlock/ztown-npc.df:137
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "unlock"
+msgstr "해금된다:"
+
+#: deathforth/events/unlock/ztown-npc.df:50
+#: deathforth/events/unlock/ztown-npc.df:76
+#: deathforth/events/unlock/ztown-npc.df:104
+#: deathforth/events/unlock/ztown-npc.df:137
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " an assortment of "
+msgstr " 다양한 "
+
+#: deathforth/events/unlock/ztown-npc.df:50
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "9 NEW HATS"
+msgstr "새 모자 9개"
+
+#: deathforth/events/unlock/ztown-npc.df:50
+#: deathforth/events/unlock/ztown-npc.df:76
+#: deathforth/events/unlock/ztown-npc.df:104
+#: deathforth/events/unlock/ztown-npc.df:137
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " for the Custom Character Maker!"
+msgstr ". 커스텀 캐릭터 제작에서 쓸 수 있다!"
+
+#: deathforth/events/unlock/ztown-npc.df:51
+#: deathforth/events/unlock/ztown-npc.df:77
+#: deathforth/events/unlock/ztown-npc.df:105
+#: deathforth/events/unlock/ztown-npc.df:138
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Game Modes Beaten: "
+msgstr "클리어한 모드: "
+
+#: deathforth/events/unlock/ztown-npc.df:53
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"You've beaten 6 different game modes!\r\n"
+"\t\t\t"
+msgstr ""
+"서로 다른 모드 6개를 클리어했다!\r\n"
+"\t\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:54
+#: deathforth/events/unlock/ztown-npc.df:80
+#: deathforth/events/unlock/ztown-npc.df:108
+#: deathforth/events/unlock/ztown-npc.df:132
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE COMPLETE!"
+msgstr "도전 완료!"
+
+#: deathforth/events/unlock/ztown-npc.df:56
+#: deathforth/events/unlock/ztown-npc.df:110
+#: deathforth/events/unlock/ztown-npc.df:134
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"New hats are permanently unlocked. Check them out in the Custom Character "
+"Maker!"
+msgstr "새 모자가 영구 해금됐다. 커스텀 캐릭터 제작에서 확인해 보자!"
+
+#: deathforth/events/unlock/ztown-npc.df:60
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES I - COMPLETE!"
+msgstr "모드 도전 I - 완료!"
+
+#: deathforth/events/unlock/ztown-npc.df:61
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"After beating 6 different game modes, you have earned a batch of 9 new hats for the Custom Character Maker! This includes much sought after hats such as:\r\n"
+"\t\t"
+msgstr ""
+"서로 다른 모드 6개를 클리어해서 커스텀 캐릭터 제작에 쓸 새 모자 9개를 받았다! 모두 탐낼 만한 모자가 포함된다:\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:62
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"TOILET TANK WITH LID\r\n"
+"\t\tHORSE HEAD HOOD\r\n"
+"\t\tGOLDEN CROWN"
+msgstr ""
+"뚜껑 달린 변기 물탱크\r\n"
+"\t\t말 머리 후드\r\n"
+"\t\t황금 왕관"
+
+#: deathforth/events/unlock/ztown-npc.df:64
+#: deathforth/events/unlock/ztown-npc.df:92
+#: deathforth/events/unlock/ztown-npc.df:119
+#: deathforth/events/unlock/ztown-npc.df:147
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"\r\n"
+"\t\tAND MORE!\r\n"
+"\t\t"
+msgstr ""
+"\r\n"
+"\t\t그 외에도 다양하게!\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:69
+#: deathforth/events/unlock/ztown-npc.df:97
+#: deathforth/events/unlock/ztown-npc.df:124
+#: deathforth/events/unlock/ztown-npc.df:152
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "BACK"
+msgstr "뒤로"
+
+#: deathforth/events/unlock/ztown-npc.df:74
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES II"
+msgstr "모드 도전 II"
+
+#: deathforth/events/unlock/ztown-npc.df:76
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Beat 10 different game modes to "
+msgstr "서로 다른 모드 10개를 클리어하면 "
+
+#: deathforth/events/unlock/ztown-npc.df:76
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "6 NEW HATS"
+msgstr "새 모자 6개"
+
+#: deathforth/events/unlock/ztown-npc.df:76
+#: deathforth/events/unlock/ztown-npc.df:574
+#: deathforth/events/unlock/ztown-npc.df:797
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " and "
+msgstr " 및 "
+
+#: deathforth/events/unlock/ztown-npc.df:76
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "8 NEW SHADES"
+msgstr "새 선글라스 8개"
+
+#: deathforth/events/unlock/ztown-npc.df:79
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"You've beaten 10 different game modes!\r\n"
+"\t\t\t"
+msgstr ""
+"서로 다른 모드 10개를 클리어했다!\r\n"
+"\t\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:82
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"New hats and shades are permanently unlocked. Check them out in the Custom "
+"Character Maker!"
+msgstr "새 모자와 선글라스가 영구 해금됐다. 커스텀 캐릭터 제작에서 확인해 보자!"
+
+#: deathforth/events/unlock/ztown-npc.df:86
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES II - COMPLETE!"
+msgstr "모드 도전 II - 완료!"
+
+#: deathforth/events/unlock/ztown-npc.df:87
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"After beating 10 different game modes, you have earned a batch of 6 new hats and 8 new shades for the Custom Character Maker! This includes much sought after accessories such as:\r\n"
+"\t\t"
+msgstr ""
+"서로 다른 모드 10개를 클리어해서 커스텀 캐릭터 제작에 쓸 새 모자 6개와 선글라스 8개를 받았다! 모두 탐낼 만한 장신구가 포함된다:\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:88
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"PRINCESS HAT (unisex)\r\n"
+"\t\tDUNCE CAP\r\n"
+"\t\tDISGUSTING BIRD\r\n"
+"\t\tINCREDIBLE FACE DISGUISE\r\n"
+"\t\tHI-TECH SHADES"
+msgstr ""
+"공주 모자 (남녀 공용)\r\n"
+"\t\t바보 모자\r\n"
+"\t\t역겨운 새\r\n"
+"\t\t놀라운 얼굴 위장\r\n"
+"\t\t첨단 선글라스"
+
+#: deathforth/events/unlock/ztown-npc.df:102
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES III"
+msgstr "모드 도전 III"
+
+#: deathforth/events/unlock/ztown-npc.df:104
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Beat 14 different game modes to "
+msgstr "서로 다른 모드 14개를 클리어하면 "
+
+#: deathforth/events/unlock/ztown-npc.df:104
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "12 NEW HATS"
+msgstr "새 모자 12개"
+
+#: deathforth/events/unlock/ztown-npc.df:107
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"You've beaten 14 different game modes!\r\n"
+"\t\t\t"
+msgstr ""
+"서로 다른 모드 14개를 클리어했다!\r\n"
+"\t\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:114
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES III - COMPLETE!"
+msgstr "모드 도전 III - 완료!"
+
+#: deathforth/events/unlock/ztown-npc.df:115
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"After beating 14 different game modes, you have earned a batch of 12 new hats for the Custom Character Maker! This includes much sought after hats such as:\r\n"
+"\t\t"
+msgstr ""
+"서로 다른 모드 14개를 클리어해서 커스텀 캐릭터 제작에 쓸 새 모자 12개를 받았다! 모두 탐낼 만한 모자가 포함된다:\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:116
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"BIG FISH\r\n"
+"\t\tTAM O' SHANTER\r\n"
+"\t\tHEAD BOOT\r\n"
+"\t\tCHEF HAT"
+msgstr ""
+"큰 물고기\r\n"
+"\t\t스코틀랜드 베레모\r\n"
+"\t\t머리 위 장화\r\n"
+"\t\t요리사 모자"
+
+#: deathforth/events/unlock/ztown-npc.df:129
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES IV"
+msgstr "모드 도전 IV"
+
+#: deathforth/events/unlock/ztown-npc.df:131
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"You've streaked 5 different game modes!\r\n"
+"\t\t\t"
+msgstr ""
+"서로 다른 모드 5개에서 연승했다!\r\n"
+"\t\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:137
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"After beating the previous challenges, get a win streak of 5 different game "
+"modes to "
+msgstr "앞선 도전을 완료한 뒤 서로 다른 모드 5개를 연속으로 클리어하면 "
+
+#: deathforth/events/unlock/ztown-npc.df:137
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "18 NEW HATS"
+msgstr "새 모자 18개"
+
+#: deathforth/events/unlock/ztown-npc.df:139
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Best Streak of Different Game Modes: "
+msgstr "다른 모드 연속 클리어 최고 기록: "
+
+#: deathforth/events/unlock/ztown-npc.df:142
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHALLENGE OF MODES IV - COMPLETE!"
+msgstr "모드 도전 IV - 완료!"
+
+#: deathforth/events/unlock/ztown-npc.df:143
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"After streaking 5 different game modes, you have earned a batch of 18 new hats for the Custom Character Maker! This includes much sought after hats such as:\r\n"
+"\t\t"
+msgstr ""
+"서로 다른 모드 5개를 연속으로 클리어해서 커스텀 캐릭터 제작에 쓸 새 모자 18개를 받았다! 모두 탐낼 만한 모자가 포함된다:\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/ztown-npc.df:144
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"GNOMEY CAP\r\n"
+"\t\tTIN FOIL HAT\r\n"
+"\t\tCARDBOARD MASK\r\n"
+"\t\tWARLOCK HAT"
+msgstr ""
+"노움 모자\r\n"
+"\t\t은박지 모자\r\n"
+"\t\t골판지 가면\r\n"
+"\t\t흑마법사 모자"
+
+#: deathforth/events/unlock/ztown-npc.df:156
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The Jerk Store Called"
+msgstr "얼간이 상점에서 전화가 왔다"
+
+#: deathforth/events/unlock/ztown-npc.df:157
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"YOU'RE A JERK\r\n"
+"\tOK, THAT'LL BE FIVE DOLLARS!\r\n"
+"\t\r\n"
+"\tTHANKS FOR SHOPPING\r\n"
+"\tAT THE JERK STORE"
+msgstr ""
+"너는 얼간이야!!\r\n"
+"\t좋아, 5달러 되겠습니다!!\r\n"
+"\t\r\n"
+"\t이용해 주셔서 감사합니다!!\r\n"
+"\t얼간이 상점입니다!!"
+
+#: deathforth/events/unlock/ztown-npc.df:162
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THEY'RE ALL OUT OF YOU"
+msgstr "너 같은 건 품절이래!!"
+
+#: deathforth/events/unlock/ztown-npc.df:166
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The Roaming Rodent"
+msgstr "돌아다니는 설치류"
+
+#: deathforth/events/unlock/ztown-npc.df:167
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The rodent thing "
+msgstr "설치류 같은 것 "
+
+#: deathforth/events/unlock/ztown-npc.df:167
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "(Capybara? Very large gerbil?)"
+msgstr "(카피바라인가? 엄청 큰 저빌인가?)"
+
+#: deathforth/events/unlock/ztown-npc.df:167
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+" flees when you approach it.\r\n"
+"\tIt runs to the "
+msgstr ""
+"은(는) 다가가면 도망친다.\r\n"
+"\t달려가는 방향은 "
+
+#: deathforth/events/unlock/ztown-npc.df:168
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NORTH-EAST!"
+msgstr "북동쪽!"
+
+#: deathforth/events/unlock/ztown-npc.df:173
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "From the Desk of Unomey"
+msgstr "우노미의 책상에서"
+
+#: deathforth/events/unlock/ztown-npc.df:174
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The note reads as follows:"
+msgstr "쪽지에는 이렇게 적혀 있다:"
+
+#: deathforth/events/unlock/ztown-npc.df:175
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "GET OUT OF MY HOUSE, YOU NERD!"
+msgstr "내 집에서 나가, 이 찌질아!!"
+
+#: deathforth/events/unlock/ztown-npc.df:182
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Tutorial"
+msgstr "튜토리얼"
+
+#: deathforth/events/unlock/ztown-npc.df:184
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"You can repeat the tutorial here!\r\n"
+"\tThis is handy if you missed info on things like dropping weapons, or throwing furniture.\r\n"
+"\tThis option will put you back on the title screen, just hit START to go into the tutorial again."
+msgstr ""
+"여기서 튜토리얼을 다시 할 수 있다!\r\n"
+"\t무기 내려놓기나 가구 던지기 같은 설명을 놓쳤다면 유용하다.\r\n"
+"\t선택하면 타이틀 화면으로 돌아간다. 시작을 누르면 다시 튜토리얼에 들어간다."
+
+#: deathforth/events/unlock/ztown-npc.df:188
+#: deathforth/events/unlock/ztown-npc.df:227
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "EXIT"
+msgstr "나가기"
+
+#: deathforth/events/unlock/ztown-npc.df:189
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Repeat Tutorial"
+msgstr "튜토리얼 다시 하기"
+
+#: deathforth/events/unlock/ztown-npc.df:193
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "BELETED!"
+msgstr "삭쩨 완료!"
+
+#: deathforth/events/unlock/ztown-npc.df:193
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Dingus"
+msgstr "딩거스"
+
+#: deathforth/events/unlock/ztown-npc.df:201
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Are you sure you want to delete your stats, perks, and traits? This will "
+"also delete things such as game mode progress."
+msgstr "정말 통계, 특전, 특성을 삭제할까? 게임 모드 진행 상황 등도 삭제된다."
+
+#: deathforth/events/unlock/ztown-npc.df:202
+#: deathforth/events/unlock/ztown-npc.df:215
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTE: Selecting this option will quit to the title screen."
+msgstr "참고: 선택하면 타이틀 화면으로 돌아간다."
+
+#: deathforth/events/unlock/ztown-npc.df:203
+#: deathforth/events/unlock/ztown-npc.df:209
+#: deathforth/events/unlock/ztown-npc.df:216
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NO"
+msgstr "아니"
+
+#: deathforth/events/unlock/ztown-npc.df:204
+#: deathforth/events/unlock/ztown-npc.df:210
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "YES, DELETE THEM"
+msgstr "예, 삭제하기"
+
+#: deathforth/events/unlock/ztown-npc.df:208
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Are you sure you want to delete all your custom characters?"
+msgstr "정말 모든 커스텀 캐릭터를 삭제할까?"
+
+#: deathforth/events/unlock/ztown-npc.df:214
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Are you sure you want to delete stats, perks, traits, and your custom "
+"characters? This will also delete things such as game mode progress."
+msgstr "정말 통계, 특전, 특성과 커스텀 캐릭터를 삭제할까? 게임 모드 진행 상황 등도 삭제된다."
+
+#: deathforth/events/unlock/ztown-npc.df:217
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "YES, DELETE ALL"
+msgstr "예, 모두 삭제하기"
+
+#: deathforth/events/unlock/ztown-npc.df:222
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Data Clear"
+msgstr "데이터 삭제"
+
+#: deathforth/events/unlock/ztown-npc.df:223
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"I'M THE DATA DELETION DINGUS\r\n"
+"\tI WILL DELETE ALL OF YOUR DATA!"
+msgstr ""
+"난 데이터 삭제 딩거스다!!\r\n"
+"\t네 데이터를 전부 삭제해 주지!!"
+
+#: deathforth/events/unlock/ztown-npc.df:225
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"The skeleton makes rattling noises.\r\n"
+"\tYou can delete your game data here! Though, you probably shouldn't."
+msgstr ""
+"해골이 달그락거린다.\r\n"
+"\t여기서 게임 데이터를 삭제할 수 있다! 안 하는 게 좋겠지만."
+
+#: deathforth/events/unlock/ztown-npc.df:228
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Custom Characters"
+msgstr "커스텀 캐릭터"
+
+#: deathforth/events/unlock/ztown-npc.df:229
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Stats and Perks"
+msgstr "통계와 특전"
+
+#: deathforth/events/unlock/ztown-npc.df:230
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Clear Both"
+msgstr "둘 다 삭제"
+
+#: deathforth/events/unlock/ztown-npc.df:235
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "ZOMBO POINTS increased to 99!"
+msgstr "좀보 포인트가 99로 증가했다!"
+
+#: deathforth/events/unlock/ztown-npc.df:241
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Zombo Point Giveaway!"
+msgstr "좀보 포인트 나눔!"
+
+#: deathforth/events/unlock/ztown-npc.df:242
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"WELL IT'S THE TESTING BRANCH\r\n"
+"\tSO I CAN GIVE YOU SOME ZOMBO POINTS"
+msgstr ""
+"여긴 테스트 버전이니까!!\r\n"
+"\t좀보 포인트를 좀 줄 수 있지!!"
+
+#: deathforth/events/unlock/ztown-npc.df:245
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Give me those Zombo Points"
+msgstr "좀보 포인트 받기"
+
+#: deathforth/events/unlock/ztown-npc.df:247
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "COME BACK WHEN YOU HAVE LESS THAN 99 ZP!"
+msgstr "ZP가 99보다 적어지면 다시 와!!"
+
+#: deathforth/events/unlock/ztown-npc.df:249
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/ztown-npc.df:255
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Gamemodes unlocked!"
+msgstr "게임 모드가 해금됐다!"
+
+#: deathforth/events/unlock/ztown-npc.df:256
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "TELL THE OTHER SYCAMORE, IF I SEE HIM, I AM GOING TO VAPORISE HIM."
+msgstr "다른 시커모어한테 전해. 눈에 띄면 증발시켜 버린다고!!"
+
+#: deathforth/events/unlock/ztown-npc.df:257
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "You had no idea the tree wars ran so deep."
+msgstr "나무 전쟁이 이렇게 뿌리 깊은 줄은 몰랐다."
+
+#: deathforth/events/unlock/ztown-npc.df:271
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Perks and traits unlocked!"
+msgstr "특전과 특성이 해금됐다!"
+
+#: deathforth/events/unlock/ztown-npc.df:272
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "you don't seem so evil."
+msgstr "그렇게 사악해 보이진 않는데."
+
+#: deathforth/events/unlock/ztown-npc.df:273
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OH YOU HAVE NO IDEA. JUST THIS WEEK I LOBBED A GNOME OFF A CLIFF."
+msgstr "전혀 모르고 있군. 이번 주에만 노움 하나를 절벽에서 던져 버렸어!!"
+
+#: deathforth/events/unlock/ztown-npc.df:274
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Who could admit such a heinous crime?"
+msgstr "누가 이런 흉악한 범죄를 자백한단 말인가?"
+
+#: deathforth/events/unlock/ztown-npc.df:337
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "TESTBRANCH UNLOCKER"
+msgstr "테스트 버전 해금 담당"
+
+#: deathforth/events/unlock/ztown-npc.df:338
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"I'M THE BIGGER AND EVIL-ER OF THE TWO\r\n"
+"\tANYWAY, I HEARD YOU NEED SOME GAMEMODES UNLOCKING\r\n"
+"\tLET ME HACK THE MAINFRAME REAL QUICK"
+msgstr ""
+"둘 중에서 내가 더 크고 더 사악하지!!\r\n"
+"\t그건 그렇고, 게임 모드를 해금하고 싶다고 들었어!!\r\n"
+"\t메인프레임을 잠깐 해킹해 줄게!!"
+
+#: deathforth/events/unlock/ztown-npc.df:341
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Give me those new gamemodes"
+msgstr "새 게임 모드 해금하기"
+
+#: deathforth/events/unlock/ztown-npc.df:342
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Give me all the perks & traits"
+msgstr "특전과 특성 모두 해금하기"
+
+#: deathforth/events/unlock/ztown-npc.df:343
+#: deathforth/events/unlock/ztown-npc.df:635
+#: deathforth/events/unlock/ztown-npc.df:751
+#: deathforth/events/unlock/ztown-npc.df:801
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK NERD"
+msgstr "알았어, 찌질아"
+
+#: deathforth/events/unlock/ztown-npc.df:500
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "*GNORT*"
+msgstr "*그노트*"
+
+#: deathforth/events/unlock/ztown-npc.df:561
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Professor Sycamore"
+msgstr "시커모어 교수"
+
+#: deathforth/events/unlock/ztown-npc.df:562
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Don't say timber, it gives me bad memories."
+msgstr "'나무 쓰러진다'고 외치지 마. 안 좋은 기억이 떠오르거든."
+
+#: deathforth/events/unlock/ztown-npc.df:563
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"--- Professor Sycamore\r\n"
+"\tCreator of: Death Road to Sycamore"
+msgstr ""
+"--- 시커모어 교수\r\n"
+"\t제작: 데스 로드 투 시커모어"
+
+#: deathforth/events/unlock/ztown-npc.df:565
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Former modder, now DR2C's developer."
+msgstr "전 모드 제작자이자 현 DR2C 개발자."
+
+#: deathforth/events/unlock/ztown-npc.df:566
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Contributed the PANCREAS, MANDIBLE, QUADRICEPS, RETINA, STOMACH & TRACHEA "
+"updates."
+msgstr "PANCREAS, MANDIBLE, QUADRICEPS, RETINA, STOMACH와 TRACHEA 업데이트에 기여했다."
+
+#: deathforth/events/unlock/ztown-npc.df:567
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The hatchet mafia sent me a fish's head! Aren't they nice?"
+msgstr "손도끼 마피아가 물고기 머리를 보내 줬어! 참 친절하지?"
+
+#: deathforth/events/unlock/ztown-npc.df:568
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "SICK-ERMORE"
+msgstr "시커모어 말고 아파모어"
+
+#: deathforth/events/unlock/ztown-npc.df:572
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Hut Within a Hut"
+msgstr "오두막 안의 오두막"
+
+#: deathforth/events/unlock/ztown-npc.df:573
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"I am the guardian of the Contributor Hut!\r\n"
+"\tPast me are creators that have contributed new content to the Death Road! They are creators of Death Road to Canada mods, from our Discord! "
+msgstr ""
+"난 기여자 오두막의 수호자야!\r\n"
+"\t내 뒤에는 데스 로드에 새 콘텐츠를 추가한 제작자들이 있어! 디스코드에서 활동하는 데스 로드 투 캐나다 모드 제작자들이지! "
+
+#: deathforth/events/unlock/ztown-npc.df:576
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Come inside to read their words of inspiration, and learn what they have added in each update!\r\n"
+"\tIt is a hut within the larger Info Hut!"
+msgstr ""
+"들어와서 영감을 주는 이야기를 읽고, 각 업데이트에 무엇을 추가했는지 알아봐!\r\n"
+"\t큰 정보 오두막 안에 있는 오두막이야!"
+
+#: deathforth/events/unlock/ztown-npc.df:578
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Let's check out this hut"
+msgstr "오두막 살펴보기"
+
+#: deathforth/events/unlock/ztown-npc.df:583
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Arq"
+msgstr "아크"
+
+#: deathforth/events/unlock/ztown-npc.df:584
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "No really, I'm just some random guy."
+msgstr "아니, 정말 그냥 지나가던 사람이야."
+
+#: deathforth/events/unlock/ztown-npc.df:585
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"--- Arq\r\n"
+"\tCreator of: drtc+, 100%OJ DRTC crossover, and more"
+msgstr ""
+"--- 아크\r\n"
+"\t제작: drtc+, 100%OJ DRTC 크로스오버 등"
+
+#: deathforth/events/unlock/ztown-npc.df:587
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Contributions for OMENTUM Update: "
+msgstr "OMENTUM 업데이트 기여: "
+
+#: deathforth/events/unlock/ztown-npc.df:588
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"+ Special characters Br*ck, Carter, Johnny, and Arq\r\n"
+"\t+ Perks Fierce Hitter, Supporter, and Jack of All Trades\r\n"
+"\t+ Traits Unpredictable and BACK TO THE WALL"
+msgstr ""
+"+ 특수 캐릭터 브*크, 카터, 조니, 아크\r\n"
+"\t+ 특전 강타자, 서포터, 만능 재주꾼\r\n"
+"\t+ 특성 예측 불가, 배수진"
+
+#: deathforth/events/unlock/ztown-npc.df:591
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"+ The FIRE EXTINGUISHER\r\n"
+"\t+ AI Support for Grappler"
+msgstr ""
+"+ 소화기\r\n"
+"\t+ 그래플러의 AI 지원"
+
+#: deathforth/events/unlock/ztown-npc.df:593
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "+ Small bug fixes"
+msgstr "+ 작은 버그 수정"
+
+#: deathforth/events/unlock/ztown-npc.df:594
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Thanks bro"
+msgstr "고마워, 친구"
+
+#: deathforth/events/unlock/ztown-npc.df:600
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THE INFOMATIC LIBRARY"
+msgstr "정보 만능 도서관"
+
+#: deathforth/events/unlock/ztown-npc.df:601
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "hi there! welcome to the library."
+msgstr "안녕! 도서관에 잘 왔어."
+
+#: deathforth/events/unlock/ztown-npc.df:602
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Here you will find more detailed explanations of DRTC's stats and mechanics."
+msgstr "여기서는 DRTC의 능력치와 게임 시스템을 더 자세히 알아볼 수 있어."
+
+#: deathforth/events/unlock/ztown-npc.df:603
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"All the info is labelled and free! You can read by interacting with the "
+"objects here."
+msgstr "정보는 전부 표시돼 있고 공짜야! 여기 있는 물건을 조사하면 읽을 수 있어."
+
+#: deathforth/events/unlock/ztown-npc.df:604
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "You may be wondering: how am I both here AND in the INFO HUT?"
+msgstr "궁금하겠지. 내가 어떻게 여기랑 정보 오두막에 동시에 있냐고?"
+
+#: deathforth/events/unlock/ztown-npc.df:605
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "It's very simple - UR MOM. Oh, and breaking causality, that too."
+msgstr "아주 간단해. 네 엄마. 아, 인과율을 깨뜨리는 것도 있고."
+
+#: deathforth/events/unlock/ztown-npc.df:606
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK JERK"
+msgstr "알았어, 얼간아"
+
+#: deathforth/events/unlock/ztown-npc.df:610
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON COMBAT: 2"
+msgstr "전투 설명: 2"
+
+#: deathforth/events/unlock/ztown-npc.df:611
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Knocking down zombies is sometimes just as good as killing them."
+msgstr "좀비를 쓰러뜨리는 것은 때로 죽이는 것만큼 효과적이다."
+
+#: deathforth/events/unlock/ztown-npc.df:612
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Knocked down zombies always take at least 1 damage. Even a punch can kill "
+"zombies this way!"
+msgstr "쓰러진 좀비는 항상 피해를 최소 1 받는다. 이 상태라면 주먹으로도 좀비를 죽일 수 있다!"
+
+#: deathforth/events/unlock/ztown-npc.df:613
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "In addition, zombies in this state take 2x the damage from weapons."
+msgstr "또한 이 상태의 좀비는 무기에 2배 피해를 받는다."
+
+#: deathforth/events/unlock/ztown-npc.df:614
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Zombies on the floor are harder to move compared to upright ones."
+msgstr "바닥에 누운 좀비는 서 있는 좀비보다 밀어내기 어렵다."
+
+#: deathforth/events/unlock/ztown-npc.df:615
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THANKS FOR THE INFODUMP"
+msgstr "설명 폭격 고마워"
+
+#: deathforth/events/unlock/ztown-npc.df:619
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON COMBAT: 1"
+msgstr "전투 설명: 1"
+
+#: deathforth/events/unlock/ztown-npc.df:620
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Nearly all melee and ranged hits inflict stun to a zombie."
+msgstr "거의 모든 근접 및 원거리 공격은 맞은 좀비를 기절시킨다."
+
+#: deathforth/events/unlock/ztown-npc.df:621
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Whip class weapons are special, as they inflict stun for extra time compared"
+" to normal."
+msgstr "채찍 계열 무기는 특별해서 보통보다 더 오래 기절시킨다."
+
+#: deathforth/events/unlock/ztown-npc.df:622
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Stunned zombies cannot do anything. This includes grappling and biting "
+"characters."
+msgstr "기절한 좀비는 아무것도 못 한다. 캐릭터를 붙잡거나 무는 것도 불가능하다."
+
+#: deathforth/events/unlock/ztown-npc.df:623
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "You can also achieve this effect by knocking zombies down."
+msgstr "좀비를 쓰러뜨려도 같은 효과를 얻을 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:624
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THANKS NERD"
+msgstr "고마워, 찌질아"
+
+#: deathforth/events/unlock/ztown-npc.df:625
+#: deathforth/events/unlock/ztown-npc.df:636
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Study combat further"
+msgstr "전투 더 알아보기"
+
+#: deathforth/events/unlock/ztown-npc.df:629
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON COMBAT: 0"
+msgstr "전투 설명: 0"
+
+#: deathforth/events/unlock/ztown-npc.df:630
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"All damage dealt to zombies, whether melee, explosion or bullet, is "
+"randomised."
+msgstr "근접 공격, 폭발, 총알 등 좀비에게 주는 모든 피해는 무작위다."
+
+#: deathforth/events/unlock/ztown-npc.df:631
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Damage is a random number from 1 to 5, multiplied by weapon power, rounded "
+"down."
+msgstr "1에서 5 사이의 무작위 수에 무기 위력을 곱하고 소수점 아래를 버린다."
+
+#: deathforth/events/unlock/ztown-npc.df:632
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"For example, a hatchet has a power of 1.25. If a hatchet swing hits a zombie"
+" and rolls a 3, it would deal..."
+msgstr "예를 들어 손도끼의 위력은 1.25다. 손도끼로 좀비를 때렸을 때 무작위 수가 3이라면..."
+
+#: deathforth/events/unlock/ztown-npc.df:633
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "1.25 * 3 = 3.75, rounded down -> 3 damage to the zombie."
+msgstr "1.25 * 3 = 3.75, 소수점을 버리면 -> 좀비에게 피해 3."
+
+#: deathforth/events/unlock/ztown-npc.df:634
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "On every mode except MUTATION EXTREME, zombies have 5 HP."
+msgstr "극한 돌연변이를 제외한 모든 모드에서 좀비의 HP는 5다."
+
+#: deathforth/events/unlock/ztown-npc.df:686
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON CHARACTERS: 2"
+msgstr "캐릭터 설명: 2"
+
+#: deathforth/events/unlock/ztown-npc.df:687
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "A good team is made up of a mix of support and combat characters."
+msgstr "좋은 일행에는 지원과 전투 담당 캐릭터가 함께 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:688
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "GOOD MELEE CHAR COMBOS: "
+msgstr "추천 근접 캐릭터 조합: "
+
+#: deathforth/events/unlock/ztown-npc.df:688
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Megabuff + Warrior, Martial Artist + Warrior, Fighter + Warrior, Fighter + "
+"Craftsman, Kensai + Berserk"
+msgstr "근육 괴물 + 전사, 무술가 + 전사, 싸움꾼 + 전사, 싸움꾼 + 장인, 검성 + 광전사"
+
+#: deathforth/events/unlock/ztown-npc.df:689
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "GOOD RANGED CHAR COMBOS: "
+msgstr "추천 원거리 캐릭터 조합: "
+
+#: deathforth/events/unlock/ztown-npc.df:689
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Natural Shot + Calm Under Fire, Ranger + Hyperfixated, Gun Collector + Calm "
+"Under Fire, Gun Collector + Hyperfixated"
+msgstr "타고난 사수 + 포화 속 침착, 레인저 + 과몰입, 총기 수집가 + 포화 속 침착, 총기 수집가 + 과몰입"
+
+#: deathforth/events/unlock/ztown-npc.df:690
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "GOOD SUPPORT CHAR COMBOS: "
+msgstr "추천 지원 캐릭터 조합: "
+
+#: deathforth/events/unlock/ztown-npc.df:690
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Health Care + Nurturing, Surgeon + Civilized, Car Nut + Paranoid, Car Nut + "
+"Craftsman"
+msgstr "간호 + 보살핌, 외과의 + 교양인, 자동차광 + 편집증, 자동차광 + 장인"
+
+#: deathforth/events/unlock/ztown-npc.df:691
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "GOOD UTILITY OR HYBRID COMBOS: "
+msgstr "추천 보조/혼합 캐릭터 조합: "
+
+#: deathforth/events/unlock/ztown-npc.df:691
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Explorer + City Seeker, Explorer + Gourmand, Pathfinder + Paranoid, "
+"Gungineer + Civilized"
+msgstr "탐험가 + 도시파, 탐험가 + 대식가, 길잡이 + 편집증, 총기 기술자 + 교양인"
+
+#: deathforth/events/unlock/ztown-npc.df:692
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Experiment for yourself!"
+msgstr "직접 실험해 보자!"
+
+#: deathforth/events/unlock/ztown-npc.df:693
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHARACTER SCHMARACTER"
+msgstr "캐릭터니 뭐니"
+
+#: deathforth/events/unlock/ztown-npc.df:697
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON CHARACTERS: 1"
+msgstr "캐릭터 설명: 1"
+
+#: deathforth/events/unlock/ztown-npc.df:698
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Angry-Strong"
+msgstr "분노의 근육"
+
+#: deathforth/events/unlock/ztown-npc.df:698
+#: deathforth/events/unlock/ztown-npc.df:699
+#: deathforth/events/unlock/ztown-npc.df:703
+#: deathforth/events/unlock/ztown-npc.df:704
+#: deathforth/events/unlock/ztown-npc.df:706
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " ... at most "
+msgstr " ... 최대 "
+
+#: deathforth/events/unlock/ztown-npc.df:698
+#: deathforth/events/unlock/ztown-npc.df:700
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " composure, at least "
+msgstr " 침착함, 최소 "
+
+#: deathforth/events/unlock/ztown-npc.df:698
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " strength."
+msgstr " 근력."
+
+#: deathforth/events/unlock/ztown-npc.df:699
+#: deathforth/events/unlock/ztown-npc.df:701
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " attitude, at least "
+msgstr " 태도, 최소 "
+
+#: deathforth/events/unlock/ztown-npc.df:699
+#: deathforth/events/unlock/ztown-npc.df:706
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " wits."
+msgstr " 재치."
+
+#: deathforth/events/unlock/ztown-npc.df:700
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Calmshot"
+msgstr "침착한 사격"
+
+#: deathforth/events/unlock/ztown-npc.df:700
+#: deathforth/events/unlock/ztown-npc.df:701
+#: deathforth/events/unlock/ztown-npc.df:702
+#: deathforth/events/unlock/ztown-npc.df:705
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " ... at least "
+msgstr " ... 최소 "
+
+#: deathforth/events/unlock/ztown-npc.df:700
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " shooting."
+msgstr " 사격."
+
+#: deathforth/events/unlock/ztown-npc.df:701
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Agile"
+msgstr "날쌤"
+
+#: deathforth/events/unlock/ztown-npc.df:701
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " fitness."
+msgstr " 체력."
+
+#: deathforth/events/unlock/ztown-npc.df:702
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Tinker"
+msgstr "땜장이"
+
+#: deathforth/events/unlock/ztown-npc.df:702
+#: deathforth/events/unlock/ztown-npc.df:703
+#: deathforth/events/unlock/ztown-npc.df:705
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " wits, at least "
+msgstr " 재치, 최소 "
+
+#: deathforth/events/unlock/ztown-npc.df:702
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " mechanical."
+msgstr " 기계."
+
+#: deathforth/events/unlock/ztown-npc.df:703
+#: deathforth/events/unlock/ztown-npc.df:705
+#: deathforth/events/unlock/ztown-npc.df:716
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " attitude."
+msgstr " 태도."
+
+#: deathforth/events/unlock/ztown-npc.df:704
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " composure, at most "
+msgstr " 침착함, 최대 "
+
+#: deathforth/events/unlock/ztown-npc.df:704
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " loyalty."
+msgstr " 충성심."
+
+#: deathforth/events/unlock/ztown-npc.df:706
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " attitude, at most "
+msgstr " 태도, 최대 "
+
+#: deathforth/events/unlock/ztown-npc.df:707
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THANKS FREAK"
+msgstr "고마워, 괴짜"
+
+#: deathforth/events/unlock/ztown-npc.df:708
+#: deathforth/events/unlock/ztown-npc.df:719
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Study chars further"
+msgstr "캐릭터 더 알아보기"
+
+#: deathforth/events/unlock/ztown-npc.df:712
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON CHARACTERS: 0"
+msgstr "캐릭터 설명: 0"
+
+#: deathforth/events/unlock/ztown-npc.df:713
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Character perks generally affect action and combat. Traits generally affect "
+"personality."
+msgstr "특전은 대체로 행동과 전투에, 특성은 대체로 성격에 영향을 준다."
+
+#: deathforth/events/unlock/ztown-npc.df:714
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Traits may give certain stat combos. These combos present useful options in "
+"road events."
+msgstr "특성에 따라 특정 능력치 조합을 얻을 수 있다. 이런 조합은 도로 이벤트에서 유용한 선택지를 제공한다."
+
+#: deathforth/events/unlock/ztown-npc.df:715
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Stats are measured "
+msgstr "능력치 범위는 "
+
+#: deathforth/events/unlock/ztown-npc.df:715
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " to "
+msgstr " ~ "
+
+#: deathforth/events/unlock/ztown-npc.df:715
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+", or 0 to 6 in numbers. MAX BONUSES move the range. A +1 bonus to a stat "
+"means the range is "
+msgstr "이며 숫자로는 0~6이다. 최대치 보너스는 이 범위를 바꾼다. 능력치에 +1 보너스를 받으면 범위는 "
+
+#: deathforth/events/unlock/ztown-npc.df:715
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ", or 1 to 7 in numbers."
+msgstr "이며 숫자로는 1~7이다."
+
+#: deathforth/events/unlock/ztown-npc.df:716
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "For example, the Paranoid stat combo is granted by at least "
+msgstr "예를 들어 편집증 능력치 조합의 조건은 최소 "
+
+#: deathforth/events/unlock/ztown-npc.df:716
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " Wits and at most "
+msgstr " 재치와 최대 "
+
+#: deathforth/events/unlock/ztown-npc.df:717
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Further stat combinations will be listed on the next page."
+msgstr "다음 쪽에는 다른 능력치 조합이 나와 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:718
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK DORK"
+msgstr "알았어, 바보야"
+
+#: deathforth/events/unlock/ztown-npc.df:723
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON MELEE STATS: DEXTERITY"
+msgstr "근접 능력치 설명: 민첩"
+
+#: deathforth/events/unlock/ztown-npc.df:724
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Dexterity is powerful, but the rarest stat to train."
+msgstr "민첩은 강력하지만 올리기 가장 어려운 능력치다."
+
+#: deathforth/events/unlock/ztown-npc.df:725
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Dexterity increases movement speed, allowing you to juke or escape easier."
+msgstr "민첩은 이동 속도를 높여 적을 피하거나 달아나기 쉽게 해 준다."
+
+#: deathforth/events/unlock/ztown-npc.df:726
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Sources of dexterity are difficult to come by. Under the most ideal "
+"conditions, you might reach 3 dexterity, if you're lucky and use the right "
+"trait."
+msgstr "민첩을 얻을 방법은 드물다. 조건이 아주 좋고, 운도 따르고, 알맞은 특성까지 쓰면 민첩 3에 도달할 수도 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:727
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"High dexterity can make it significantly more difficult to get bitten. In "
+"Extreme Weather Mode, high dexterity can be a hinderance due to ice."
+msgstr "민첩이 높으면 물릴 위험이 크게 줄어든다. 극한 날씨 모드에서는 얼음 때문에 높은 민첩이 오히려 방해가 될 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:728
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"If you have high morale before the City of Crushed Hopes siege, your "
+"characters may gain dexterity. The easiest way to ensure this occurs is to "
+"have spare food supplies."
+msgstr ""
+"무너진 희망의 도시 포위전 전에 사기가 높으면 민첩을 얻을 수 있다. 가장 확실한 준비 방법은 여분의 식량을 확보하는 것이다."
+
+#: deathforth/events/unlock/ztown-npc.df:729
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THANKS GIGANERD"
+msgstr "고마워, 초거대 찌질아"
+
+#: deathforth/events/unlock/ztown-npc.df:734
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON MELEE STATS: FITNESS"
+msgstr "근접 능력치 설명: 체력"
+
+#: deathforth/events/unlock/ztown-npc.df:735
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Fitness is also important, but harder to train."
+msgstr "체력도 중요하지만 훈련하기 더 어렵다."
+
+#: deathforth/events/unlock/ztown-npc.df:736
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"6 points in fitness increase stamina regen by 1x, additively. An additional "
+"1x is added for every 5 levels of fitness afterwards."
+msgstr "체력이 6이면 지구력 회복 속도에 기본 속도 1배분이 더해진다. 이후 체력 5마다 기본 속도 1배분이 더 추가된다."
+
+#: deathforth/events/unlock/ztown-npc.df:737
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"For example, a char at 6 fitness recovers stamina at 2x as fast. At 11 "
+"fitness, 3x as fast."
+msgstr "예를 들어 체력 6인 캐릭터는 지구력을 2배로 회복한다. 체력이 11이면 3배로 회복한다."
+
+#: deathforth/events/unlock/ztown-npc.df:738
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Intermittent levels of fitness (like 4, 5, 8 or 9) do "
+msgstr "중간 단계의 체력(4, 5, 8, 9 등)은 회복 속도에 "
+
+#: deathforth/events/unlock/ztown-npc.df:738
+#: deathforth/events/unlock/ztown-npc.df:750
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOT"
+msgstr "전혀"
+
+#: deathforth/events/unlock/ztown-npc.df:738
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " provide regen benefits."
+msgstr " 추가 효과를 주지 않는다."
+
+#: deathforth/events/unlock/ztown-npc.df:739
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Every 2 cumulative points in STR and FIT decrease melee weapon cooldown by "
+"10%, up to 0.65s cooldown."
+msgstr "근력과 체력의 합이 2 늘 때마다 근접 무기 재공격 시간이 10% 줄어든다. 최소 재공격 시간은 0.65초다."
+
+#: deathforth/events/unlock/ztown-npc.df:740
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "THANKS MEGANERD"
+msgstr "고마워, 거대 찌질아"
+
+#: deathforth/events/unlock/ztown-npc.df:741
+#: deathforth/events/unlock/ztown-npc.df:752
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Study melee further"
+msgstr "근접 능력치 더 알아보기"
+
+#: deathforth/events/unlock/ztown-npc.df:745
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON MELEE STATS: STRENGTH"
+msgstr "근접 능력치 설명: 근력"
+
+#: deathforth/events/unlock/ztown-npc.df:746
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Strength is an important melee stat. It is one of the easiest to train."
+msgstr "근력은 중요한 근접 능력치다. 훈련하기 가장 쉬운 능력치 중 하나다."
+
+#: deathforth/events/unlock/ztown-npc.df:747
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Every point of strength (and fitness, too) reduces weapon swing stamina "
+"cost. Strength also allows you to throw heavier objects."
+msgstr ""
+"근력(체력도 마찬가지)이 1 늘 때마다 무기를 휘두를 때 쓰는 지구력이 줄어든다. 근력이 높으면 더 무거운 물건도 던질 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:748
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Chairs can be thrown with 0 strength. Most furniture requires at least 2. "
+"Most bathroom or kitchen pieces require 7 or more."
+msgstr "의자는 근력 0으로도 던질 수 있다. 대부분의 가구는 최소 2가 필요하다. 욕실이나 주방 설비 대부분은 7 이상이 필요하다."
+
+#: deathforth/events/unlock/ztown-npc.df:749
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Heavier objects tend to be more resilient and deal more damage on impact."
+msgstr "무거운 물건일수록 대체로 더 튼튼하고 부딪혔을 때 더 큰 피해를 준다."
+
+#: deathforth/events/unlock/ztown-npc.df:750
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "IMPORTANT NOTE: STRENGTH DOES "
+msgstr "중요: 근력은 근접 피해에 "
+
+#: deathforth/events/unlock/ztown-npc.df:750
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " AFFECT MELEE DAMAGE."
+msgstr " 영향을 주지 않는다."
+
+#: deathforth/events/unlock/ztown-npc.df:756
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON RANGED STATS: RIFLE STATS"
+msgstr "원거리 능력치 설명: 소총 수치"
+
+#: deathforth/events/unlock/ztown-npc.df:757
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Cowboy Rifle"
+msgstr "카우보이 소총"
+
+#: deathforth/events/unlock/ztown-npc.df:757
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " - scales slowly. Penetrates 0-2 targets. Works best at 6 shooting."
+msgstr " - 성장 속도 낮음. 0~2개 표적 관통. 사격 6에서 최적 성능."
+
+#: deathforth/events/unlock/ztown-npc.df:758
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Hunting Rifle"
+msgstr "사냥용 소총"
+
+#: deathforth/events/unlock/ztown-npc.df:758
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " - scales normally. Penetrates 1-6 targets. Works best at 8 shooting."
+msgstr " - 성장 속도 보통. 1~6개 표적 관통. 사격 8에서 최적 성능."
+
+#: deathforth/events/unlock/ztown-npc.df:759
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Sniper Rifle"
+msgstr "저격 소총"
+
+#: deathforth/events/unlock/ztown-npc.df:759
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+" - scales normally. Penetrates 1-5 targets. Quiet. Works best at 8 shooting."
+msgstr " - 성장 속도 보통. 1~5개 표적 관통. 조용함. 사격 8에서 최적 성능."
+
+#: deathforth/events/unlock/ztown-npc.df:760
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " - scales normally. Penetrates 2-8 targets. Works best at 9 shooting."
+msgstr " - 성장 속도 보통. 2~8개 표적 관통. 사격 9에서 최적 성능."
+
+#: deathforth/events/unlock/ztown-npc.df:761
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " - scales quickly. Penetrates 3-11 targets. Max at 7 shooting."
+msgstr " - 성장 속도 높음. 3~11개 표적 관통. 사격 7에서 최대 성능."
+
+#: deathforth/events/unlock/ztown-npc.df:762
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " - scales normally. Penetrates 1-4 targets. Max at 6 shooting."
+msgstr " - 성장 속도 보통. 1~4개 표적 관통. 사격 6에서 최대 성능."
+
+#: deathforth/events/unlock/ztown-npc.df:763
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Don't forget firearms. Save your ammo. Auto-weapons are powerful too!"
+msgstr "총기도 잊지 말자. 탄약을 아끼자. 자동 화기도 강력하다!"
+
+#: deathforth/events/unlock/ztown-npc.df:764
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK SNIPER"
+msgstr "알았어, 저격수"
+
+#: deathforth/events/unlock/ztown-npc.df:769
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "RANGED STATS: LINEAR PENETRATION"
+msgstr "원거리 능력치: 선형 관통"
+
+#: deathforth/events/unlock/ztown-npc.df:770
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Linear penetration is exclusive to select weapons."
+msgstr "선형 관통은 특정 무기만 가진 특성이다."
+
+#: deathforth/events/unlock/ztown-npc.df:771
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"This type is found on slow-firing rifles, including but not limited to..."
+msgstr "이 관통은 발사 속도가 느린 소총에 있다. 예를 들면..."
+
+#: deathforth/events/unlock/ztown-npc.df:772
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Cowboy Rifle, Hunting Rifle, Sniper Rifle, M.O.A.R, Slug Shotgun, Mamba"
+msgstr "카우보이 소총, 사냥 소총, 저격 소총, M.O.A.R, 슬러그 산탄총, 맘바"
+
+#: deathforth/events/unlock/ztown-npc.df:773
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Linear penetration is consistent; every shot from these weapons will "
+"penetrate. The number of targets hit from these weapons scales LINEARLY with"
+" shooting."
+msgstr "선형 관통은 일정하다. 이 무기들의 모든 탄환은 관통한다. 맞힐 수 있는 표적 수는 사격에 비례해 일정하게 늘어난다."
+
+#: deathforth/events/unlock/ztown-npc.df:774
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Under the right circumstances these weapons can penetrate objects and "
+"shelves."
+msgstr "조건이 맞으면 물건이나 선반도 관통할 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:775
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Every target penetrated incurs a multiplicative damage/knockback loss of 18%"
+" for the bullet."
+msgstr "표적을 하나 관통할 때마다 탄환의 피해와 밀어내기가 18%씩 감소한다. 이 감소는 곱연산으로 적용된다."
+
+#: deathforth/events/unlock/ztown-npc.df:776
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The next page outlines some common rifle stats."
+msgstr "다음 쪽에는 주요 소총의 수치가 나와 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:777
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK MARKSMAN"
+msgstr "알았어, 명사수"
+
+#: deathforth/events/unlock/ztown-npc.df:778
+#: deathforth/events/unlock/ztown-npc.df:790
+#: deathforth/events/unlock/ztown-npc.df:802
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Study ranged further"
+msgstr "원거리 능력치 더 알아보기"
+
+#: deathforth/events/unlock/ztown-npc.df:782
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "RANGED STATS: NORMAL PENETRATION"
+msgstr "원거리 능력치: 일반 관통"
+
+#: deathforth/events/unlock/ztown-npc.df:783
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Normal penetration is the most common type."
+msgstr "일반 관통은 가장 흔한 관통 방식이다."
+
+#: deathforth/events/unlock/ztown-npc.df:784
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"This type is found on many automatic weapons, and particularly in revolvers."
+msgstr "많은 자동 화기에 있으며 특히 리볼버에 많다."
+
+#: deathforth/events/unlock/ztown-npc.df:785
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Normal penetration is RNG based. In order for a shot to penetrate in this "
+"way, it must kill the initial target."
+msgstr "일반 관통은 확률에 따라 결정된다. 이 방식으로 관통하려면 첫 번째 표적을 죽여야 한다."
+
+#: deathforth/events/unlock/ztown-npc.df:786
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"In most cases, this type of penetration may occasionally give an additional "
+"hit or two."
+msgstr "대부분의 경우 이 관통은 가끔 한두 표적을 더 맞힌다."
+
+#: deathforth/events/unlock/ztown-npc.df:787
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Furthermore, these bullets are blocked by objects."
+msgstr "또한 이 탄환들은 물건에 막힌다."
+
+#: deathforth/events/unlock/ztown-npc.df:788
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The next page outlines linear penetration."
+msgstr "다음 쪽에는 선형 관통이 설명돼 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:789
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK HOTSHOT"
+msgstr "알았어, 총잡이"
+
+#: deathforth/events/unlock/ztown-npc.df:794
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON RANGED STATS: SHOOTING"
+msgstr "원거리 능력치 설명: 사격"
+
+#: deathforth/events/unlock/ztown-npc.df:795
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Shooting is helpful for all firearms and essential for some. Firing in "
+"bursts helps with recoil."
+msgstr "사격은 모든 총기에 도움이 되며 일부 총기에는 필수다. 짧게 끊어 쏘면 반동을 줄일 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:796
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Every point of shooting reduces post-shot recoil and improves bullet "
+"piercing."
+msgstr "사격이 1 늘 때마다 발사 후 반동이 줄고 탄환 관통이 좋아진다."
+
+#: deathforth/events/unlock/ztown-npc.df:797
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Firearms have two types of penetration:"
+msgstr "총기 관통에는 두 종류가 있다:"
+
+#: deathforth/events/unlock/ztown-npc.df:797
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " normal"
+msgstr " 일반 관통과 "
+
+#: deathforth/events/unlock/ztown-npc.df:797
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "linear."
+msgstr "선형 관통."
+
+#: deathforth/events/unlock/ztown-npc.df:798
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Normal penetration is for nearly all non-rifle weapons. It scales with "
+"shooting and is RNG-based."
+msgstr "일반 관통은 소총 외의 거의 모든 무기에 적용된다. 사격에 따라 좋아지며 확률에 영향을 받는다."
+
+#: deathforth/events/unlock/ztown-npc.df:799
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Linear penetration is more powerful, more versatile and consistent."
+msgstr "선형 관통은 더 강력하고, 다양하게 활용할 수 있고, 일정하다."
+
+#: deathforth/events/unlock/ztown-npc.df:800
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The next page outlines their differences."
+msgstr "다음 쪽에는 두 방식의 차이가 나와 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:807
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON SUPPORT STATS: MECHANICAL"
+msgstr "지원 능력치 설명: 기계"
+
+#: deathforth/events/unlock/ztown-npc.df:808
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"The mechanical stat affects your ability to restore your car as it takes "
+"damage. It also accelerates gas siphoning."
+msgstr "기계는 손상된 차를 수리하는 능력에 영향을 준다. 기름을 빼내는 속도도 빨라진다."
+
+#: deathforth/events/unlock/ztown-npc.df:809
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Characters with a very low mechanical stat cannot repair the car. Different "
+"cars require different mechanical skill to repair."
+msgstr "기계가 너무 낮은 캐릭터는 차를 수리할 수 없다. 수리에 필요한 기계 기술은 차마다 다르다."
+
+#: deathforth/events/unlock/ztown-npc.df:810
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Every repair made to a car increases the difficulty of the next. For "
+"example, if a car takes 2 mechanical skill to repair, next time it'll take "
+"3."
+msgstr "차를 수리할 때마다 다음 수리의 난이도가 높아진다. 예를 들어 수리에 기계 2가 필요했다면 다음에는 3이 필요하다."
+
+#: deathforth/events/unlock/ztown-npc.df:811
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The normal starting car requires "
+msgstr "기본 시작 차량의 첫 수리에 필요한 기계 기술은 "
+
+#: deathforth/events/unlock/ztown-npc.df:811
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+" (4) mechanical skill to repair the first time. Car Nuts may roll for "
+"slightly easier-to-repair cars."
+msgstr " (4)이다. 자동차광은 조금 더 수리하기 쉬운 차로 시작할 수도 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:812
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Keeping your car intact makes the journey safer by preventing nasty events "
+"and allowing time (i.e day) progression."
+msgstr "차를 온전하게 유지하면 위험한 이벤트를 피하고 시간(즉, 날짜)을 진행할 수 있어 여행이 안전해진다."
+
+#: deathforth/events/unlock/ztown-npc.df:813
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK GREASEBALL"
+msgstr "알았어, 기름쟁이"
+
+#: deathforth/events/unlock/ztown-npc.df:818
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON SUPPORT STATS: MEDICAL"
+msgstr "지원 능력치 설명: 의술"
+
+#: deathforth/events/unlock/ztown-npc.df:819
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"The medical stat affects how efficiently your party can heal. Healing events"
+" occur inbetween every road event."
+msgstr "의술은 일행의 치료 효율에 영향을 준다. 치료 이벤트는 도로 이벤트 사이마다 발생한다."
+
+#: deathforth/events/unlock/ztown-npc.df:820
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Characters with very a low medical stat may improve slightly when healing. "
+"When improving in this way, they may not improve beyond "
+msgstr "의술이 아주 낮은 캐릭터는 치료하면서 조금 성장할 수 있다. 이 방식으로 성장할 수 있는 한도는 "
+
+#: deathforth/events/unlock/ztown-npc.df:820
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " (3) skill."
+msgstr " (3)이다."
+
+#: deathforth/events/unlock/ztown-npc.df:821
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"Characters with a spectacularly high medical stat do not even require "
+"medical supplies ("
+msgstr "의술이 굉장히 높은 캐릭터는 치료할 때 의약품("
+
+#: deathforth/events/unlock/ztown-npc.df:821
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ") to heal."
+msgstr ")조차 필요 없다."
+
+#: deathforth/events/unlock/ztown-npc.df:822
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "At 0 medical, you may heal once per heal event for 4 "
+msgstr "의술 0이면 치료 이벤트마다 한 번 치료할 수 있고, 필요한 의약품은 4 "
+
+#: deathforth/events/unlock/ztown-npc.df:822
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ". At 2 medical, you can heal 1x per heal event for 2 "
+msgstr ". 의술 2이면 한 번 치료하며 2 "
+
+#: deathforth/events/unlock/ztown-npc.df:822
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " per time. At 5 medical, twice per time, for 1 "
+msgstr "가 필요하다. 의술 5이면 두 번 치료하며 매번 1 "
+
+#: deathforth/events/unlock/ztown-npc.df:822
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid " per time. At 8 medical or higher, you can fortify (overheal.)"
+msgstr "가 필요하다. 의술 8 이상이면 체력을 최대치 너머로 보강할 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:823
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "High medical also presents an easy counter for certain road events."
+msgstr "의술이 높으면 특정 도로 이벤트에도 쉽게 대처할 수 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:824
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "The next page outlines the mechanical stat."
+msgstr "다음 쪽에는 기계 능력치가 설명돼 있다."
+
+#: deathforth/events/unlock/ztown-npc.df:825
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK DOC"
+msgstr "알았어, 의사"
+
+#: deathforth/events/unlock/ztown-npc.df:826
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Study support further"
+msgstr "지원 능력치 더 알아보기"
+
+#: deathforth/events/unlock/ztown-npc.df:833
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "NOTES ON PERSONALITY STATS: ALL"
+msgstr "성격 능력치 설명: 전체"
+
+#: deathforth/events/unlock/ztown-npc.df:834
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Wits "
+msgstr "재치: "
+
+#: deathforth/events/unlock/ztown-npc.df:834
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"represents a character's aptitude and knowledge. It increases loose loot "
+"collection radius."
+msgstr "캐릭터의 이해력과 지식을 나타낸다. 바닥에 흩어진 물자를 모으는 반경이 늘어난다."
+
+#: deathforth/events/unlock/ztown-npc.df:835
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Attitude "
+msgstr "태도: "
+
+#: deathforth/events/unlock/ztown-npc.df:835
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"represents a character's optimism and outlook. It has no in-mission effect "
+"yet - suggestions welcome!"
+msgstr "캐릭터의 낙천성과 관점을 나타낸다. 아직 임무 안에서의 효과는 없다. 의견 환영!"
+
+#: deathforth/events/unlock/ztown-npc.df:836
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Composure "
+msgstr "침착함: "
+
+#: deathforth/events/unlock/ztown-npc.df:836
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"represents a character's calmness. Low composure characters will attack and "
+"panic more in combat."
+msgstr "캐릭터의 평정심을 나타낸다. 침착함이 낮으면 전투에서 더 많이 공격하고 더 쉽게 겁먹는다."
+
+#: deathforth/events/unlock/ztown-npc.df:837
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "Loyalty "
+msgstr "충성심: "
+
+#: deathforth/events/unlock/ztown-npc.df:837
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"represents a character's affinity to the party. High loyalty characters "
+"remain closer, making them more effective bodyguards and trustyworthy "
+"friends in dangerous events."
+msgstr ""
+"캐릭터가 일행에 느끼는 애착을 나타낸다. 충성심이 높으면 가까이 붙어 다녀서 경호를 잘하고, 위험한 이벤트에서도 믿을 만한 친구가 된다."
+
+#: deathforth/events/unlock/ztown-npc.df:838
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid ""
+"There is no ideal setup for these stats. For each stat, both extrema offer "
+"potential benefits. Experiment!"
+msgstr "이 능력치들에는 정답이 없다. 각 능력치는 아주 낮거나 아주 높을 때 모두 장점이 있다. 실험해 보자!"
+
+#: deathforth/events/unlock/ztown-npc.df:839
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "OK FREUD"
+msgstr "알았어, 프로이트"
+
+#: deathforth/events/unlock/ztown-npc.df:869
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "COMBAT"
+msgstr "전투"
+
+#: deathforth/events/unlock/ztown-npc.df:886
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "CHARACTERS"
+msgstr "캐릭터"
+
+#: deathforth/events/unlock/ztown-npc.df:903
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "MELEE STATS"
+msgstr "근접 능력치"
+
+#: deathforth/events/unlock/ztown-npc.df:920
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "RANGED STATS"
+msgstr "원거리 능력치"
+
+#: deathforth/events/unlock/ztown-npc.df:937
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "SUPPORT STATS"
+msgstr "지원 능력치"
+
+#: deathforth/events/unlock/ztown-npc.df:955
+msgctxt "deathforth/events/unlock/ztown-npc.df"
+msgid "PEOPLE STATS"
+msgstr "성격 능력치"
+
+#: deathforth/game-info.df:2
+msgctxt "deathforth/game-info.df"
+msgid "Death Road "
+msgstr "데스 로드 "
+
+#: deathforth/game-info.df:3
+msgctxt "deathforth/game-info.df"
+msgid " (test branch)"
+msgstr " (테스트 버전)"
+
+#: deathforth/game-info.df:4
+msgctxt "deathforth/game-info.df"
+msgid " (debug build)"
+msgstr " (디버그 빌드)"
+
+#: deathforth/game-info.df:9 deathforth/game-info.df:16
+#: deathforth/game-info.df:23 deathforth/game-info.df:43
+msgctxt "deathforth/game-info.df"
+msgid "Special Thanks"
+msgstr "특별히 감사한 분들"
+
+#: deathforth/game-info.df:10 deathforth/game-info.df:17
+msgctxt "deathforth/game-info.df"
+msgid "Special Thanks: "
+msgstr "특별히 감사한 분들: "
+
+#: deathforth/game-info.df:11
+msgctxt "deathforth/game-info.df"
+msgid "THANKS EVERYONE!"
+msgstr "모두 고마워요!"
+
+#: deathforth/game-info.df:18 deathforth/game-info.df:28
+msgctxt "deathforth/game-info.df"
+msgid "MORE... "
+msgstr "더 보기... "
+
+#: deathforth/game-info.df:24
+msgctxt "deathforth/game-info.df"
+msgid ""
+"Death Road to Canada wouldn't have happened without all of our Kickstarter backers!\r\n"
+"\tSpecial Thanks: "
+msgstr ""
+"모든 킥스타터 후원자가 없었다면 데스 로드 투 캐나다는 탄생하지 못했을 거예요!\r\n"
+"\t특별히 감사한 분들: "
+
+#: deathforth/game-info.df:25
+msgctxt "deathforth/game-info.df"
+msgid " and "
+msgstr " 그리고 "
+
+#: deathforth/game-info.df:34
+msgctxt "deathforth/game-info.df"
+msgid "Credits!"
+msgstr "제작진!"
+
+#: deathforth/game-info.df:35
+msgctxt "deathforth/game-info.df"
+msgid "Developer: "
+msgstr "개발: "
+
+#: deathforth/game-info.df:35
+msgctxt "deathforth/game-info.df"
+msgid ""
+"\r\n"
+"\tDesign: "
+msgstr ""
+"\r\n"
+"\t기획: "
+
+#: deathforth/game-info.df:36
+msgctxt "deathforth/game-info.df"
+msgid ""
+"\r\n"
+"\tArtists: "
+msgstr ""
+"\r\n"
+"\t아트: "
+
+#: deathforth/game-info.df:37
+msgctxt "deathforth/game-info.df"
+msgid ""
+"\r\n"
+"\tAdditional Art: "
+msgstr ""
+"\r\n"
+"\t추가 아트: "
+
+#: deathforth/game-info.df:38
+msgctxt "deathforth/game-info.df"
+msgid ""
+"\r\n"
+"\tMusician: "
+msgstr ""
+"\r\n"
+"\t음악: "
+
+#: deathforth/game-info.df:39
+msgctxt "deathforth/game-info.df"
+msgid ""
+" \r\n"
+"\tAdditional Support: "
+msgstr ""
+" \r\n"
+"\t추가 지원: "
+
+#: deathforth/game-info.df:58 deathforth/game-info.df:151
+msgctxt "deathforth/game-info.df"
+msgid "BACK"
+msgstr "뒤로"
+
+#: deathforth/game-info.df:63
+msgctxt "deathforth/game-info.df"
+msgid "*** WIN STREAK STATS ***"
+msgstr "*** 연승 통계 ***"
+
+#: deathforth/game-info.df:64
+msgctxt "deathforth/game-info.df"
+msgid "Win Streaks Total: "
+msgstr "전체 연승: "
+
+#: deathforth/game-info.df:66
+msgctxt "deathforth/game-info.df"
+msgid "Normal Mode: "
+msgstr "일반 모드: "
+
+#: deathforth/game-info.df:67
+msgctxt "deathforth/game-info.df"
+msgid "   Deadlier Road: "
+msgstr "   더 치명적인 길: "
+
+#: deathforth/game-info.df:69
+msgctxt "deathforth/game-info.df"
+msgid "Rare Chars: "
+msgstr "희귀 캐릭터: "
+
+#: deathforth/game-info.df:70
+msgctxt "deathforth/game-info.df"
+msgid "   Rare Chars EX: "
+msgstr "   희귀 캐릭터 EX: "
+
+#: deathforth/game-info.df:72
+msgctxt "deathforth/game-info.df"
+msgid "Familiar Chars: "
+msgstr "친숙한 캐릭터: "
+
+#: deathforth/game-info.df:73
+msgctxt "deathforth/game-info.df"
+msgid "   Familiar EX: "
+msgstr "   친숙한 캐릭터 EX: "
+
+#: deathforth/game-info.df:75
+msgctxt "deathforth/game-info.df"
+msgid "Long Winding: "
+msgstr "길고 구불구불한 길: "
+
+#: deathforth/game-info.df:76
+msgctxt "deathforth/game-info.df"
+msgid "   Marathon Mode: "
+msgstr "   마라톤 모드: "
+
+#: deathforth/game-info.df:78
+msgctxt "deathforth/game-info.df"
+msgid "Short Trip: "
+msgstr "지옥행 짧은 여행: "
+
+#: deathforth/game-info.df:79
+msgctxt "deathforth/game-info.df"
+msgid "   K*E*P*A Mode: "
+msgstr "   K*E*P*A 모드: "
+
+#: deathforth/game-info.df:81
+msgctxt "deathforth/game-info.df"
+msgid "Quick Death: "
+msgstr "빠른 죽음: "
+
+#: deathforth/game-info.df:82
+msgctxt "deathforth/game-info.df"
+msgid "   OverPowered: "
+msgstr "   사기 일행: "
+
+#: deathforth/game-info.df:84
+msgctxt "deathforth/game-info.df"
+msgid "Four Jerks: "
+msgstr "얼간이 넷: "
+
+#: deathforth/game-info.df:85
+msgctxt "deathforth/game-info.df"
+msgid "   Four Jerks EX: "
+msgstr "   얼간이 넷 EX: "
+
+#: deathforth/game-info.df:87
+msgctxt "deathforth/game-info.df"
+msgid "RPG: "
+msgstr "RPG: "
+
+#: deathforth/game-info.df:88
+msgctxt "deathforth/game-info.df"
+msgid "   Weather: "
+msgstr "   날씨: "
+
+#: deathforth/game-info.df:90
+msgctxt "deathforth/game-info.df"
+msgid "Infection: "
+msgstr "감염: "
+
+#: deathforth/game-info.df:91
+msgctxt "deathforth/game-info.df"
+msgid "   Scepter: "
+msgstr "   홀: "
+
+#: deathforth/game-info.df:93
+msgctxt "deathforth/game-info.df"
+msgid "Endless? Yeah Right: "
+msgstr "무한? 그럴 리가: "
+
+#: deathforth/game-info.df:103
+msgctxt "deathforth/game-info.df"
+msgid "DEATH ROAD STATS"
+msgstr "데스 로드 통계"
+
+#: deathforth/game-info.df:104
+msgctxt "deathforth/game-info.df"
+msgid "Toilets opened: "
+msgstr "열어 본 변기: "
+
+#: deathforth/game-info.df:105
+msgctxt "deathforth/game-info.df"
+msgid "   Zombies splatted: "
+msgstr "   박살 낸 좀비: "
+
+#: deathforth/game-info.df:107
+msgctxt "deathforth/game-info.df"
+msgid "Strength trained: "
+msgstr "근력 훈련: "
+
+#: deathforth/game-info.df:108
+msgctxt "deathforth/game-info.df"
+msgid "   Fitness trained: "
+msgstr "   체력 훈련: "
+
+#: deathforth/game-info.df:110
+msgctxt "deathforth/game-info.df"
+msgid "Shooting trained: "
+msgstr "사격 훈련: "
+
+#: deathforth/game-info.df:111
+msgctxt "deathforth/game-info.df"
+msgid "   Mechanical trained: "
+msgstr "   기계 훈련: "
+
+#: deathforth/game-info.df:113
+msgctxt "deathforth/game-info.df"
+msgid "Medical trained: "
+msgstr "의술 훈련: "
+
+#: deathforth/game-info.df:114
+msgctxt "deathforth/game-info.df"
+msgid "   Teammates healed: "
+msgstr "   치료한 동료: "
+
+#: deathforth/game-info.df:116
+msgctxt "deathforth/game-info.df"
+msgid "Ally deaths: "
+msgstr "동료 사망: "
+
+#: deathforth/game-info.df:119
+msgctxt "deathforth/game-info.df"
+msgid "Total Wins: "
+msgstr "총 승리: "
+
+#: deathforth/game-info.df:120
+msgctxt "deathforth/game-info.df"
+msgid "   Total Losses: "
+msgstr "   총 패배: "
+
+#: deathforth/game-info.df:121
+msgctxt "deathforth/game-info.df"
+msgid "Consecutive Wins: "
+msgstr "연속 승리: "
+
+#: deathforth/game-info.df:127
+msgctxt "deathforth/game-info.df"
+msgid "STREAK STATS"
+msgstr "연승 통계"
+
+#: deathforth/game-info.df:144
+msgctxt "deathforth/game-info.df"
+msgid "Zombo Town Directions"
+msgstr "좀보 마을 안내"
+
+#: deathforth/game-info.df:145
+msgctxt "deathforth/game-info.df"
+msgid "Things to do in Zombo Town:"
+msgstr "좀보 마을에서 할 일:"
+
+#: deathforth/game-info.df:146
+msgctxt "deathforth/game-info.df"
+msgid ""
+"The building to the right lets you view your stats and other information.\r\n"
+"The center building lets you upgrade and unlock Perks and Traits. You can then use these to make powerful Starting or Custom Characters!"
+msgstr ""
+"오른쪽 건물에서는 통계와 다른 정보를 확인할 수 있다.\r\n"
+"가운데 건물에서는 특전과 특성을 강화하고 해금할 수 있다. 강력한 시작 캐릭터나 커스텀 캐릭터를 만드는 데 활용하자!"
+
+#: deathforth/game-info.df:148
+msgctxt "deathforth/game-info.df"
+msgid "Beware the Unlock Gnome!"
+msgstr "해금 노움을 조심하자!"
+
+#: deathforth/game-info.df:150
+msgctxt "deathforth/game-info.df"
+msgid "EXIT"
+msgstr "나가기"
+
+#: deathforth/game-info.df:160
+msgctxt "deathforth/game-info.df"
+msgid "Death Road Information"
+msgstr "데스 로드 정보"
+
+#: deathforth/game-info.df:161
+msgctxt "deathforth/game-info.df"
+msgid "Welcome to the Death Road to Canada!"
+msgstr "데스 로드 투 캐나다에 온 것을 환영한다!"
+
+#: deathforth/game-info.df:163
+msgctxt "deathforth/game-info.df"
+msgid ""
+"For discussion check out the Steam Announcement page: http://steamcommunity.com/app/252610\r\n"
+"\tConstant news: www.twitter.com/rocketcatgames/"
+msgstr ""
+"의견을 나누려면 Steam 공지 페이지를 확인해 보자: http://steamcommunity.com/app/252610\r\n"
+"\t계속 올라오는 소식: www.twitter.com/rocketcatgames/"
+
+#: deathforth/game-info.df:166
+msgctxt "deathforth/game-info.df"
+msgid ""
+"http://www.deathroadtocanada.com\r\n"
+"\tLeave an App Store review if you enjoy this game!\r\n"
+"\tConstant news: www.twitter.com/rocketcatgames/"
+msgstr ""
+"http://www.deathroadtocanada.com\r\n"
+"\t게임이 즐거웠다면 앱 스토어에 리뷰를 남겨 주세요!\r\n"
+"\t계속 올라오는 소식: www.twitter.com/rocketcatgames/"
+
+#: deathforth/game-info.df:174
+msgctxt "deathforth/game-info.df"
+msgid "TOWN DIRECTIONS"
+msgstr "마을 안내"
+
+#: deathforth/game-info.df:175
+msgctxt "deathforth/game-info.df"
+msgid "CREDITS"
+msgstr "제작진"
+
+#: deathforth/game-save.df:26
+msgctxt "deathforth/game-save.df"
+msgid " with "
+msgstr " 및 동료 "
+
+#: deathforth/game-save.df:26
+msgctxt "deathforth/game-save.df"
+msgid " others"
+msgstr "명"
+
+#: deathforth/game-save.df:26
+msgctxt "deathforth/game-save.df"
+msgid ", DAY "
+msgstr ", 날짜 "
+
+#: deathforth/game-select.df:19
+msgctxt "deathforth/game-select.df"
+msgid "NEW SAVE"
+msgstr "새 저장"
+
+#: deathforth/game-select.df:38 deathforth/game-select.df:103
+msgctxt "deathforth/game-select.df"
+msgid "- CONTINUE GAME -"
+msgstr "- 이어하기 -"
+
+#: deathforth/game-select.df:39
+msgctxt "deathforth/game-select.df"
+msgid "THE HORROR CONTINUES..."
+msgstr "공포는 계속된다..."
+
+#: deathforth/game-select.df:40
+msgctxt "deathforth/game-select.df"
+msgid "YIKES"
+msgstr "으악"
+
+#: deathforth/game-select.df:47
+msgctxt "deathforth/game-select.df"
+msgid "DELETED"
+msgstr "삭제 완료"
+
+#: deathforth/game-select.df:57
+msgctxt "deathforth/game-select.df"
+msgid "- DELETE GAME -"
+msgstr "- 게임 삭제 -"
+
+#: deathforth/game-select.df:58
+msgctxt "deathforth/game-select.df"
+msgid "DELETE old saved game '"
+msgstr "기존 저장 게임 삭제: '"
+
+#: deathforth/game-select.df:59
+msgctxt "deathforth/game-select.df"
+msgid "NO"
+msgstr "아니"
+
+#: deathforth/game-select.df:60
+msgctxt "deathforth/game-select.df"
+msgid "YES"
+msgstr "예"
+
+#: deathforth/game-select.df:94
+msgctxt "deathforth/game-select.df"
+msgid "- NEW GAME -"
+msgstr "- 새 게임 -"
+
+#: deathforth/game-select.df:95 deathforth/game-select.df:104
+msgctxt "deathforth/game-select.df"
+msgid "Choose game slot:"
+msgstr "저장 슬롯 선택:"
+
+#: deathforth/game-select.df:97 deathforth/game-select.df:106
+#: deathforth/game-select.df:135
+msgctxt "deathforth/game-select.df"
+msgid "BACK"
+msgstr "뒤로"
+
+#: deathforth/game-select.df:124
+msgctxt "deathforth/game-select.df"
+msgid "- SELECT -"
+msgstr "- 선택 -"
+
+#: deathforth/game-select.df:125
+msgctxt "deathforth/game-select.df"
+msgid "Choose game option:"
+msgstr "게임 항목 선택:"
+
+#: deathforth/game-select.df:127
+msgctxt "deathforth/game-select.df"
+msgid "Continue Game"
+msgstr "이어하기"
+
+#: deathforth/game-select.df:129
+msgctxt "deathforth/game-select.df"
+msgid "New Game"
+msgstr "새 게임"
+
+#: deathforth/game-select.df:132
+msgctxt "deathforth/game-select.df"
+msgid "Custom Characters"
+msgstr "커스텀 캐릭터"
+
+#: deathforth/game-start.df:81
+msgctxt "deathforth/game-start.df"
+msgid "NO MORE PEOPLE!"
+msgstr "더 이상 사람이 없다!"
+
+#: deathforth/game-start.df:83
+msgctxt "deathforth/game-start.df"
+msgid "WHOA IT'S "
+msgstr "우와, 바로 "
+
+#: deathforth/gamemodes.df:79
+msgctxt "deathforth/gamemodes.df"
+msgid "promises you a "
+msgstr "은(는) 캐나다에 데려가 주면 "
+
+#: deathforth/gamemodes.df:127
+msgctxt "deathforth/gamemodes.df"
+msgid "UNLOCK: "
+msgstr "해금: "
+
+#: deathforth/gamemodes.df:129 deathforth/gamemodes.df:131
+#: deathforth/gamemodes.df:132 deathforth/gamemodes.df:133
+#: deathforth/gamemodes.df:134 deathforth/gamemodes.df:135
+#: deathforth/gamemodes.df:136 deathforth/gamemodes.df:137
+#: deathforth/gamemodes.df:138 deathforth/gamemodes.df:139
+#: deathforth/gamemodes.df:148 deathforth/gamemodes.df:154
+#: deathforth/gamemodes.df:155 deathforth/gamemodes.df:159
+#: deathforth/gamemodes.df:160 deathforth/gamemodes.df:164
+#: deathforth/gamemodes.df:165 deathforth/gamemodes.df:166
+#: deathforth/gamemodes.df:167 deathforth/gamemodes.df:168
+#: deathforth/gamemodes.df:169 deathforth/gamemodes.df:170
+#: deathforth/gamemodes.df:171
+msgctxt "deathforth/gamemodes.df"
+msgid " WINS: "
+msgstr " 승리: "
+
+#: deathforth/gamemodes.df:144
+msgctxt "deathforth/gamemodes.df"
+msgid " DAYS: "
+msgstr " 날짜: "
+
+#: deathforth/gamemodes.df:150
+msgctxt "deathforth/gamemodes.df"
+msgid " BEST: "
+msgstr " 최고: "
+
+#: deathforth/gamemodes.df:232
+msgctxt "deathforth/gamemodes.df"
+msgid "Death Road Normal Mode"
+msgstr "데스 로드 일반 모드"
+
+#: deathforth/gamemodes.df:233
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"The normal, default game mode.\r\n"
+"\t\tGet your skis, pack a toque... we're going to CANADA!\r\n"
+"\t\tMost road recruits you find will be random, but sometimes you'll be more lucky."
+msgstr ""
+"기본이 되는 일반 게임 모드다.\r\n"
+"\t\t스키를 챙기고 털모자도 넣자... 캐나다로 간다!\r\n"
+"\t\t길에서 만나는 동료는 대부분 무작위지만, 가끔 운이 따르기도 한다."
+
+#: deathforth/gamemodes.df:239
+msgctxt "deathforth/gamemodes.df"
+msgid "Familiar Characters Mode"
+msgstr "친숙한 캐릭터 모드"
+
+#: deathforth/gamemodes.df:240
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Most road recruits you meet are now familiar characters, instead of random!\r\n"
+"\t\tThese are characters that you've created and saved. Make your friends and family, and they'll show up in the game!"
+msgstr ""
+"길에서 만나는 동료 대부분이 무작위 대신 친숙한 캐릭터가 된다!\r\n"
+"\t\t직접 만들어 저장한 캐릭터들이다. 친구와 가족을 만들면 게임에 등장한다!"
+
+#: deathforth/gamemodes.df:246
+msgctxt "deathforth/gamemodes.df"
+msgid "Rare Characters Mode"
+msgstr "희귀 캐릭터 모드"
+
+#: deathforth/gamemodes.df:247
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Most road recruits you meet are now special characters with unique abilities!\r\n"
+"\t\tThis usually can make things a little easier.\r\n"
+"\t\tBut not always."
+msgstr ""
+"길에서 만나는 동료 대부분이 독특한 능력을 가진 특수 캐릭터가 된다!\r\n"
+"\t\t보통은 조금 더 쉬워진다.\r\n"
+"\t\t언제나 그렇진 않지만."
+
+#: deathforth/gamemodes.df:253
+msgctxt "deathforth/gamemodes.df"
+msgid "Short Trip to Heck Mode"
+msgstr "지옥행 짧은 여행 모드"
+
+#: deathforth/gamemodes.df:254
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"For impatient people that want a risky shortcut!\r\n"
+"\t\tIt takes 9 driving days to get to Canada, rather than the default 15 days.\r\n"
+"\t\tBe careful, this means less days to prepare for the end!"
+msgstr ""
+"위험한 지름길을 원하는 성급한 사람을 위한 모드다!\r\n"
+"\t\t캐나다까지 기본 15일 대신 9일을 운전한다.\r\n"
+"\t\t마지막에 대비할 시간이 짧아지니 조심하자!"
+
+#: deathforth/gamemodes.df:260
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A quick 9 driving day mode.\r\n"
+"\t\tUnlock by beating any of the normal difficulties. Death Road Normal Mode, Familiar Characters Mode, or Rare Characters Mode."
+msgstr ""
+"빠른 9일 운전 모드다.\r\n"
+"\t\t일반 난이도 중 하나를 클리어하면 해금된다. 데스 로드 일반, 친숙한 캐릭터, 희귀 캐릭터 모드가 해당한다."
+
+#: deathforth/gamemodes.df:264
+msgctxt "deathforth/gamemodes.df"
+msgid "Long Winding Road Mode"
+msgstr "길고 구불구불한 길 모드"
+
+#: deathforth/gamemodes.df:265
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"For people that like to chill and take it easy.\r\n"
+"\t\tIt takes 25 driving days to get to Canada, rather than the usual 15 days.\r\n"
+"\t\tDifficulty progression starts the same, but gets higher! At least you get more time to prepare."
+msgstr ""
+"느긋하게 즐기고 싶은 사람을 위한 모드다.\r\n"
+"\t\t캐나다까지 보통 15일 대신 25일을 운전한다.\r\n"
+"\t\t시작 난이도는 같지만 나중에는 더 높아진다! 그래도 준비할 시간은 많다."
+
+#: deathforth/gamemodes.df:271
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A longer 25 driving day mode.\r\n"
+"\t\tUnlock by beating any of the normal difficulties. Death Road Normal Mode, Familiar Characters Mode, or Rare Characters Mode."
+msgstr ""
+"더 긴 25일 운전 모드다.\r\n"
+"\t\t일반 난이도 중 하나를 클리어하면 해금된다. 데스 로드 일반, 친숙한 캐릭터, 희귀 캐릭터 모드가 해당한다."
+
+#: deathforth/gamemodes.df:275
+msgctxt "deathforth/gamemodes.df"
+msgid "Four Jerks Mode"
+msgstr "네 얼간이 모드"
+
+#: deathforth/gamemodes.df:276
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Start with up to 4 people, if you made Custom Characters!\r\n"
+"\t\tMade for 4 player co-op, or if you just want a full car at start.\r\n"
+"\t\tIn exchange, about 15% more zombies will spawn."
+msgstr ""
+"커스텀 캐릭터를 만들었다면 최대 4명으로 시작한다!\r\n"
+"\t\t4인 협동용, 또는 처음부터 차를 꽉 채우고 싶은 사람을 위한 모드다.\r\n"
+"\t\t대신 좀비가 약 15% 더 나타난다."
+
+#: deathforth/gamemodes.df:282
+msgctxt "deathforth/gamemodes.df"
+msgid "Deadlier Road Mode"
+msgstr "더 치명적인 길 모드"
+
+#: deathforth/gamemodes.df:283
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"30% more danger! 30% more excitement!\r\n"
+"\t\tAbout 30% more zombies.\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"위험 30% 증가! 재미 30% 증가!\r\n"
+"\t\t좀비가 약 30% 더 나타난다.\r\n"
+"\t\t약탈자가 더 잔혹하다."
+
+#: deathforth/gamemodes.df:289
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A tougher challenge! Gateway to harder modes!\r\n"
+"\t\tUnlock by beating any of the normal difficulties. Death Road Normal Mode, Familiar Characters Mode, or Rare Characters Mode."
+msgstr ""
+"더 힘든 도전! 더 어려운 모드로 가는 관문이다!\r\n"
+"\t\t일반 난이도 중 하나를 클리어하면 해금된다. 데스 로드 일반, 친숙한 캐릭터, 희귀 캐릭터 모드가 해당한다."
+
+#: deathforth/gamemodes.df:293
+msgctxt "deathforth/gamemodes.df"
+msgid "Familiar "
+msgstr "친숙한 캐릭터 "
+
+#: deathforth/gamemodes.df:293 deathforth/gamemodes.df:304
+#: deathforth/gamemodes.df:339
+msgctxt "deathforth/gamemodes.df"
+msgid "EXTREME"
+msgstr "극한"
+
+#: deathforth/gamemodes.df:294
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Most recruits you meet are familiar characters!\r\n"
+"\t\tMake sure your custom characters are strong and work together well, because they will be facing 60% more the usual amount of zombies.\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"만나는 동료 대부분이 친숙한 캐릭터다!\r\n"
+"\t\t평소보다 60% 많은 좀비와 싸워야 하니 커스텀 캐릭터를 강하게 만들고 호흡도 잘 맞추자.\r\n"
+"\t\t약탈자가 더 잔혹하다."
+
+#: deathforth/gamemodes.df:300
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Very difficult challenge with custom characters!\r\n"
+"\t\tUnlock by beating both Deadlier Road Mode and Familiar Characters Mode."
+msgstr ""
+"커스텀 캐릭터와 함께하는 매우 어려운 도전이다!\r\n"
+"\t\t더 치명적인 길과 친숙한 캐릭터 모드를 모두 클리어하면 해금된다."
+
+#: deathforth/gamemodes.df:304
+msgctxt "deathforth/gamemodes.df"
+msgid "Rare "
+msgstr "희귀 캐릭터 "
+
+#: deathforth/gamemodes.df:305
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Most recruits you meet are special characters!\r\n"
+"\t\tThis is combined with the amount of zombies set to 60% more than usual. Can the unique characters you find survive gigantic walls of undead?\r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"만나는 동료 대부분이 특수 캐릭터다!\r\n"
+"\t\t좀비도 평소보다 60% 더 나타난다. 독특한 캐릭터들이 거대한 언데드 장벽에서 살아남을 수 있을까?\r\n"
+"\t\t약탈자가 더 잔혹하다."
+
+#: deathforth/gamemodes.df:311
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Very difficult challenge with special characters!\r\n"
+"\t\tUnlock by beating both Deadlier Road Mode and Rare Characters Mode."
+msgstr ""
+"특수 캐릭터와 함께하는 매우 어려운 도전이다!\r\n"
+"\t\t더 치명적인 길과 희귀 캐릭터 모드를 모두 클리어하면 해금된다."
+
+#: deathforth/gamemodes.df:315
+msgctxt "deathforth/gamemodes.df"
+msgid "Marathon"
+msgstr "마라톤"
+
+#: deathforth/gamemodes.df:315
+msgctxt "deathforth/gamemodes.df"
+msgid " Mode"
+msgstr " 모드"
+
+#: deathforth/gamemodes.df:316
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"A grueling challenge.\r\n"
+"\t\tIt takes 30 driving days to get to Canada, rather than the usual 15 days. About a month of pain!\r\n"
+"\t\tZombie amount starts off 50% higher than normal, and eventually goes to double. \r\n"
+"\t\tBandits are more cruel."
+msgstr ""
+"고된 도전이다.\r\n"
+"\t\t캐나다까지 보통 15일 대신 30일을 운전한다. 약 한 달의 고통!\r\n"
+"\t\t좀비 수는 처음부터 일반보다 50% 많고 결국 두 배가 된다. \r\n"
+"\t\t약탈자가 더 잔혹하다."
+
+#: deathforth/gamemodes.df:323
+msgctxt "deathforth/gamemodes.df"
+msgid ""
+"Extremely difficult challenge, with 30 driving days!\r\n"
+"\t\tUnlock by beating both Deadlier Road Mode and Long Winding Road Mode."
+msgstr ""
+"30일을 운전하는 극도로 어려운 도전이다!\r\n"
+"\t\t더 치명적인 길과 길고 구불구불한 길 모드를 모두 클리어하면 해금된다."
+
+#: deathforth/gamemodes.df:327
+msgctxt "deathforth/gamemodes.df"
+msgid "K*E*P*A "
+msgstr "K*E*P*A "
+
+#: deathforth/gamemodes.df:327 deathforth/gamemodes.df:350
+#: deathforth/gamemodes.df:362 deathforth/gamemodes.df:373
+#: deathforth/gamemodes.df:389 deathforth/gamemodes.df:445
+#: deathforth/gamemodes.df:459 deathforth/gamemodes.df:471
+msgctxt "deathforth/gamemodes.df"
+msgid "MODE"
+msgstr "모드"

@@ -1,0 +1,1846 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch native UI\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "Mods"
+msgid "Mods"
+msgstr "모드"
+
+msgctxt "Install Mod From File"
+msgid "Install Mod From File"
+msgstr "파일에서 모드 설치"
+
+msgctxt "Language"
+msgid "Language"
+msgstr "언어"
+
+msgctxt "Contributors List"
+msgid "Contributors List"
+msgstr "기여자 명단"
+
+msgctxt "Change Language"
+msgid "Change Language"
+msgstr "언어 변경"
+
+msgctxt "Change Language to "
+msgid "Change Language to "
+msgstr "언어 변경: "
+
+msgctxt "en.Language.Name"
+msgid "English"
+msgstr "English"
+
+msgctxt "jp.Language.Name"
+msgid "Japanese"
+msgstr "일본어"
+
+msgctxt "zh.Language.Name"
+msgid "Chinese"
+msgstr "중국어"
+
+msgctxt "morale"
+msgid "morale"
+msgstr "사기"
+
+msgctxt "composure"
+msgid "composure"
+msgstr "침착함"
+
+msgctxt "charm"
+msgid "charm"
+msgstr "매력"
+
+msgctxt "wits"
+msgid "wits"
+msgstr "재치"
+
+msgctxt "attitude"
+msgid "attitude"
+msgstr "태도"
+
+msgctxt "loyalty"
+msgid "loyalty"
+msgstr "충성심"
+
+msgctxt "strength"
+msgid "strength"
+msgstr "근력"
+
+msgctxt "fitness"
+msgid "fitness"
+msgstr "체력"
+
+msgctxt "dexterity"
+msgid "dexterity"
+msgstr "민첩"
+
+msgctxt "medical"
+msgid "medical"
+msgstr "의술"
+
+msgctxt "mechanical"
+msgid "mechanical"
+msgstr "기계"
+
+msgctxt "shooting"
+msgid "shooting"
+msgstr "사격"
+
+msgctxt "vitality"
+msgid "vitality"
+msgstr "생명력"
+
+msgctxt "HEAD"
+msgid "HEAD"
+msgstr "머리"
+
+msgctxt "BODY"
+msgid "BODY"
+msgstr "몸"
+
+msgctxt "NAME"
+msgid "NAME"
+msgstr "이름"
+
+msgctxt "BODY SETTINGS"
+msgid "BODY SETTINGS"
+msgstr "몸 설정"
+
+msgctxt " GENDER %d "
+msgid " GENDER %d "
+msgstr " 성별 %d "
+
+msgctxt " TOP %d "
+msgid " TOP %d "
+msgstr " 상의 %d "
+
+msgctxt " SIZE %d "
+msgid " SIZE %d "
+msgstr " 체격 %d "
+
+msgctxt " BOTTOMS %d "
+msgid " BOTTOMS %d "
+msgstr " 하의 %d "
+
+msgctxt "HEAD SETTINGS"
+msgid "HEAD SETTINGS"
+msgstr "머리 설정"
+
+msgctxt " FACE %d "
+msgid " FACE %d "
+msgstr " 얼굴 %d "
+
+msgctxt " SKIN CLR %d "
+msgid " SKIN CLR %d "
+msgstr " 피부색 %d "
+
+msgctxt " HAIR %d "
+msgid " HAIR %d "
+msgstr " 머리 %d "
+
+msgctxt " HAIR CLR %d "
+msgid " HAIR CLR %d "
+msgstr " 머리색 %d "
+
+msgctxt " HAT %d "
+msgid " HAT %d "
+msgstr " 모자 %d "
+
+msgctxt " SHADES %d "
+msgid " SHADES %d "
+msgstr " 안경 %d "
+
+msgctxt " EXTRA %d "
+msgid " EXTRA %d "
+msgstr " 기타 %d "
+
+msgctxt "Random"
+msgid "Random"
+msgstr "랜덤"
+
+msgctxt "Save"
+msgid "Save"
+msgstr "저장"
+
+msgctxt "Load"
+msgid "Load"
+msgstr "불러오기"
+
+msgctxt "SETTINGS"
+msgid "SETTINGS"
+msgstr "설정"
+
+msgctxt "QUIT"
+msgid "QUIT"
+msgstr "종료"
+
+msgctxt "Controls"
+msgid "Controls"
+msgstr "조작"
+
+msgctxt "P1 Controls"
+msgid "P1 Controls"
+msgstr "P1 조작"
+
+msgctxt "P2 Controls"
+msgid "P2 Controls"
+msgstr "P2 조작"
+
+msgctxt "P3 Controls"
+msgid "P3 Controls"
+msgstr "P3 조작"
+
+msgctxt "P4 Controls"
+msgid "P4 Controls"
+msgstr "P4 조작"
+
+msgctxt "Sound"
+msgid "Sound"
+msgstr "사운드"
+
+msgctxt "Scratch"
+msgid "Scratch"
+msgstr "스크래치"
+
+msgctxt "Grain"
+msgid "Grain"
+msgstr "노이즈"
+
+msgctxt "Glitch"
+msgid "Glitch"
+msgstr "글리치"
+
+msgctxt "Fast Text"
+msgid "Fast Text"
+msgstr "빠른 텍스트"
+
+msgctxt "Go windowed"
+msgid "Go windowed"
+msgstr "창 모드로"
+
+msgctxt "VSYNC"
+msgid "VSYNC"
+msgstr "수직동기화"
+
+msgctxt "Fullscreen SOFT"
+msgid "Fullscreen SOFT"
+msgstr "전체화면 SOFT"
+
+msgctxt "Fullscreen HARD"
+msgid "Fullscreen HARD"
+msgstr "전체화면 HARD"
+
+msgctxt "Window size"
+msgid "Window size"
+msgstr "창 크기"
+
+msgctxt "PLAYER 1 INPUT"
+msgid "PLAYER 1 INPUT"
+msgstr "플레이어 1 입력"
+
+msgctxt "PLAYER 2 INPUT"
+msgid "PLAYER 2 INPUT"
+msgstr "플레이어 2 입력"
+
+msgctxt "PLAYER 3 INPUT"
+msgid "PLAYER 3 INPUT"
+msgstr "플레이어 3 입력"
+
+msgctxt "PLAYER 4 INPUT"
+msgid "PLAYER 4 INPUT"
+msgstr "플레이어 4 입력"
+
+msgctxt "Up"
+msgid "Up"
+msgstr "위"
+
+msgctxt "Left"
+msgid "Left"
+msgstr "왼쪽"
+
+msgctxt "Down"
+msgid "Down"
+msgstr "아래"
+
+msgctxt "Right"
+msgid "Right"
+msgstr "오른쪽"
+
+msgctxt "Prev"
+msgid "Prev"
+msgstr "이전"
+
+msgctxt "Attack"
+msgid "Attack"
+msgstr "공격"
+
+msgctxt "Use"
+msgid "Use"
+msgstr "사용"
+
+msgctxt "Swap"
+msgid "Swap"
+msgstr "교체"
+
+msgctxt "/"
+msgid "/"
+msgstr "/"
+
+msgctxt "Next"
+msgid "Next"
+msgstr "다음"
+
+msgctxt "Deadzone"
+msgid "Deadzone"
+msgstr "데드존"
+
+msgctxt "L-stick"
+msgid "L-stick"
+msgstr "L스틱"
+
+msgctxt "R-stick"
+msgid "R-stick"
+msgstr "R스틱"
+
+msgctxt "D-pad"
+msgid "D-pad"
+msgstr "십자키"
+
+msgctxt "JOY1"
+msgid "JOY1"
+msgstr "JOY1"
+
+msgctxt "RESET"
+msgid "RESET"
+msgstr "초기화"
+
+msgctxt "START"
+msgid "START"
+msgstr "시작"
+
+msgctxt "SELECT PERK"
+msgid "SELECT PERK"
+msgstr "특전 선택"
+
+msgctxt "SELECT TRAIT"
+msgid "SELECT TRAIT"
+msgstr "특성 선택"
+
+msgctxt "Vehicle"
+msgid "Vehicle"
+msgstr "차량"
+
+msgctxt "Custom Character"
+msgid "Custom Character"
+msgstr "커스텀 캐릭터"
+
+msgctxt "NO JOY"
+msgid "NO JOY"
+msgstr "패드 없음"
+
+msgctxt "Status"
+msgid "Status"
+msgstr "상태"
+
+msgctxt "Equip"
+msgid "Equip"
+msgstr "장비"
+
+msgctxt "Swap Meet"
+msgid "Swap Meet"
+msgstr "물물교환"
+
+msgctxt "Team"
+msgid "Team"
+msgstr "일행"
+
+msgctxt "Game Music"
+msgid "Game Music"
+msgstr "게임 음악"
+
+msgctxt "Maybe later"
+msgid "Maybe later"
+msgstr "나중에"
+
+msgctxt "NAH"
+msgid "NAH"
+msgstr "됐어"
+
+msgctxt "OK"
+msgid "OK"
+msgstr "확인"
+
+msgctxt "Gotcha"
+msgid "Gotcha"
+msgstr "알았어"
+
+msgctxt "Start"
+msgid "Start"
+msgstr "시작"
+
+msgctxt "Load Random"
+msgid "Load Random"
+msgstr "랜덤 불러오기"
+
+msgctxt "Leader"
+msgid "Leader"
+msgstr "리더"
+
+msgctxt "Buddy"
+msgid "Buddy"
+msgstr "동료"
+
+msgctxt "With buddy"
+msgid "With buddy"
+msgstr "동료와 함께"
+
+msgctxt "No buddy"
+msgid "No buddy"
+msgstr "동료 없이"
+
+msgctxt "Game Mode"
+msgid "Game Mode"
+msgstr "게임 모드"
+
+msgctxt "RUNNIN!"
+msgid "RUNNIN!"
+msgstr "달려!"
+
+msgctxt "COMBAT >>> "
+msgid "COMBAT >>> "
+msgstr "전투 >>> "
+
+msgctxt "TACTIC >>> "
+msgid "TACTIC >>> "
+msgstr "전술 >>> "
+
+msgctxt "decreases"
+msgid "decreases"
+msgstr "감소"
+
+msgctxt "LOSE"
+msgid "LOSE"
+msgstr "잃음"
+
+msgctxt "food"
+msgid "food"
+msgstr "식량"
+
+msgctxt "%s's %s revealed  %c"
+msgid "%s's %s revealed  %c"
+msgstr "%s의 %s 공개  %c"
+
+msgctxt "%c%s's %s %s %s"
+msgid "%c%s's %s %s %s"
+msgstr "%c%s의 %s %s %s"
+
+msgctxt "%c%s %s  %c %c%+d"
+msgid "%c%s %s  %c %c%+d"
+msgstr "%c%s %s  %c %c%+d"
+
+msgctxt "%c%s %s %c %c%c %c%+d%c"
+msgid "%c%s %s %c %c%c %c%+d%c"
+msgstr "%c%s %s %c %c%c %c%+d%c"
+
+msgctxt "%s: \"%s\""
+msgid "%s: \"%s\""
+msgstr "%s: \"%s\""
+
+msgctxt "gas"
+msgid "gas"
+msgstr "기름"
+
+msgctxt "GET"
+msgid "GET"
+msgstr "획득"
+
+msgctxt "shotgun ammo"
+msgid "shotgun ammo"
+msgstr "산탄총 탄약"
+
+msgctxt "rifle ammo"
+msgid "rifle ammo"
+msgstr "소총 탄약"
+
+msgctxt "pistol ammo"
+msgid "pistol ammo"
+msgstr "권총 탄약"
+
+msgctxt "increases"
+msgid "increases"
+msgstr "증가"
+
+msgctxt "Role"
+msgid "Role"
+msgstr "역할"
+
+msgctxt "DEFEND"
+msgid "DEFEND"
+msgstr "방어"
+
+msgctxt "FIGHTIN!"
+msgid "FIGHTIN!"
+msgstr "싸워!"
+
+msgctxt "SMASHIN!"
+msgid "SMASHIN!"
+msgstr "부숴!"
+
+msgctxt "EITHER"
+msgid "EITHER"
+msgstr "아무거나"
+
+msgctxt "SHOOTIN!"
+msgid "SHOOTIN!"
+msgstr "쏴!"
+
+msgctxt "LEAD"
+msgid "LEAD"
+msgstr "선두"
+
+msgctxt "FOLLOW"
+msgid "FOLLOW"
+msgstr "따라가기"
+
+msgctxt "REST"
+msgid "REST"
+msgstr "휴식"
+
+msgctxt "Wield"
+msgid "Wield"
+msgstr "장착"
+
+msgctxt "Carry"
+msgid "Carry"
+msgstr "소지"
+
+msgctxt "DANG IT"
+msgid "DANG IT"
+msgstr "젠장"
+
+msgctxt "Loot"
+msgid "Loot"
+msgstr "물자"
+
+msgctxt "Gear"
+msgid "Gear"
+msgstr "장비"
+
+msgctxt "Trunk"
+msgid "Trunk"
+msgstr "트렁크"
+
+msgctxt "UNLOCKS"
+msgid "UNLOCKS"
+msgstr "해금"
+
+msgctxt "Official Discord"
+msgid "Official Discord"
+msgstr "공식 디스코드"
+
+msgctxt "News Options"
+msgid "News Options"
+msgstr "뉴스 설정"
+
+msgctxt "Keep"
+msgid "Keep"
+msgstr "유지"
+
+msgctxt "DELETE"
+msgid "DELETE"
+msgstr "삭제"
+
+msgctxt "MORE..."
+msgid "MORE..."
+msgstr "더 보기..."
+
+msgctxt "  START  "
+msgid "  START  "
+msgstr "  시작  "
+
+msgctxt "NOPE"
+msgid "NOPE"
+msgstr "싫어"
+
+msgctxt "empty"
+msgid "empty"
+msgstr "비어 있음"
+
+msgctxt "SAVE"
+msgid "SAVE"
+msgstr "저장"
+
+msgctxt "USED"
+msgid "USED"
+msgstr "사용함"
+
+msgctxt "PAGE"
+msgid "PAGE"
+msgstr "페이지"
+
+msgctxt "fuel"
+msgid "fuel"
+msgstr "연료"
+
+msgctxt "speed"
+msgid "speed"
+msgstr "속도"
+
+msgctxt ""
+"ROLE:\n"
+"\n"
+"Follow and assist the lead member."
+msgid ""
+"ROLE:\n"
+"\n"
+"Follow and assist the lead member."
+msgstr ""
+"역할:\n"
+"\n"
+"선두 멤버를 따라가며 돕는다."
+
+msgctxt ""
+"ROLE:\n"
+"\n"
+"Lead the mission through the scavenging site.\n"
+"\n"
+"Controlled by PLAYER."
+msgid ""
+"ROLE:\n"
+"\n"
+"Lead the mission through the scavenging site.\n"
+"\n"
+"Controlled by PLAYER."
+msgstr ""
+"역할:\n"
+"\n"
+"수색 장소에서 임무를 이끈다.\n"
+"\n"
+"플레이어가 조작."
+
+msgctxt ""
+"ROLE:\n"
+"\n"
+"Rest and recover from afar while guarding team supplies."
+msgid ""
+"ROLE:\n"
+"\n"
+"Rest and recover from afar while guarding team supplies."
+msgstr ""
+"역할:\n"
+"\n"
+"멀리서 일행의 물자를 지키며 쉬고 회복한다."
+
+msgctxt "%c + %d, total %s %d  %d\n"
+msgid "%c + %d, total %s %d  %d\n"
+msgstr "%c + %d, 총 %s %d  %d\n"
+
+msgctxt "Choose UR Fate"
+msgid "Choose UR Fate"
+msgstr "운명을 골라"
+
+msgctxt "DELETE CUSTOM CHARACTER"
+msgid "DELETE CUSTOM CHARACTER"
+msgstr "커스텀 캐릭터 삭제"
+
+msgctxt "uese"
+msgid "uese"
+msgstr "uese"
+
+msgctxt "Nope"
+msgid "Nope"
+msgstr "싫어"
+
+msgctxt "Good"
+msgid "Good"
+msgstr "좋아"
+
+msgctxt "YOU HAVE DIED"
+msgid "YOU HAVE DIED"
+msgstr "당신은 죽었다"
+
+msgctxt "on the"
+msgid "on the"
+msgstr "on the"
+
+msgctxt "LOADING"
+msgid "LOADING"
+msgstr "로딩 중"
+
+msgctxt "NONE"
+msgid "NONE"
+msgstr "없음"
+
+msgctxt "%s %s"
+msgid "%s %s"
+msgstr "%s %s"
+
+msgctxt "PERK"
+msgid "PERK"
+msgstr "특전"
+
+msgctxt "Mechanic"
+msgid "Mechanic"
+msgstr "정비공"
+
+msgctxt "Athlete"
+msgid "Athlete"
+msgstr "운동선수"
+
+msgctxt "Fighter"
+msgid "Fighter"
+msgstr "싸움꾼"
+
+msgctxt "Surgeon"
+msgid "Surgeon"
+msgstr "외과의"
+
+msgctxt "Gungineer"
+msgid "Gungineer"
+msgstr "총기 기술자"
+
+msgctxt "Martial Artist"
+msgid "Martial Artist"
+msgstr "무술가"
+
+msgctxt "Big Bruiser"
+msgid "Big Bruiser"
+msgstr "덩치 깡패"
+
+msgctxt "Gun Collector"
+msgid "Gun Collector"
+msgstr "총기 수집가"
+
+msgctxt "Health Care"
+msgid "Health Care"
+msgstr "간호"
+
+msgctxt "Car Nut"
+msgid "Car Nut"
+msgstr "자동차광"
+
+msgctxt "Megabuff"
+msgid "Megabuff"
+msgstr "근육 괴물"
+
+msgctxt "Ultrafit"
+msgid "Ultrafit"
+msgstr "초건강"
+
+msgctxt "Friend of Dog"
+msgid "Friend of Dog"
+msgstr "개의 친구"
+
+msgctxt "Explorer"
+msgid "Explorer"
+msgstr "탐험가"
+
+msgctxt "Ex-Wrestler"
+msgid "Ex-Wrestler"
+msgstr "전직 레슬러"
+
+msgctxt "Hidden Potential"
+msgid "Hidden Potential"
+msgstr "숨은 잠재력"
+
+msgctxt "Top Seller"
+msgid "Top Seller"
+msgstr "판매왕"
+
+msgctxt "Pathfinder"
+msgid "Pathfinder"
+msgstr "길잡이"
+
+msgctxt "Trademark Weapon"
+msgid "Trademark Weapon"
+msgstr "시그니처 무기"
+
+msgctxt "Natural Shot"
+msgid "Natural Shot"
+msgstr "타고난 사수"
+
+msgctxt "T*S*T*C"
+msgid "T*S*T*C"
+msgstr "T*S*T*C"
+
+msgctxt "Shield of Hope"
+msgid "Shield of Hope"
+msgstr "희망의 방패"
+
+msgctxt "Bow and Arrows"
+msgid "Bow and Arrows"
+msgstr "활과 화살"
+
+msgctxt "Pyromaniac"
+msgid "Pyromaniac"
+msgstr "방화광"
+
+msgctxt "Fierce Hitter"
+msgid "Fierce Hitter"
+msgstr "강타자"
+
+msgctxt "Supporter"
+msgid "Supporter"
+msgstr "서포터"
+
+msgctxt "Jack of All Trades"
+msgid "Jack of All Trades"
+msgstr "만능 재주꾼"
+
+msgctxt "Ranger"
+msgid "Ranger"
+msgstr "레인저"
+
+msgctxt "Chairmaster"
+msgid "Chairmaster"
+msgstr "의자의 달인"
+
+msgctxt "Kensai"
+msgid "Kensai"
+msgstr "검성"
+
+msgctxt "Duelist"
+msgid "Duelist"
+msgstr "결투가"
+
+msgctxt "The Big Shot"
+msgid "The Big Shot"
+msgstr "거물"
+
+msgctxt "Paranoid"
+msgid "Paranoid"
+msgstr "편집증"
+
+msgctxt "TRAIT"
+msgid "TRAIT"
+msgstr "특성"
+
+msgctxt "Oblivious"
+msgid "Oblivious"
+msgstr "눈치 없음"
+
+msgctxt "Charming"
+msgid "Charming"
+msgstr "매력적"
+
+msgctxt "Irritating"
+msgid "Irritating"
+msgstr "짜증 유발"
+
+msgctxt "Bandit"
+msgid "Bandit"
+msgstr "약탈자"
+
+msgctxt "Mysterious Past"
+msgid "Mysterious Past"
+msgstr "수상한 과거"
+
+msgctxt "Practical"
+msgid "Practical"
+msgstr "현실적"
+
+msgctxt "Warrior"
+msgid "Warrior"
+msgstr "전사"
+
+msgctxt "Fierce Tempered"
+msgid "Fierce Tempered"
+msgstr "다혈질"
+
+msgctxt "Calm Under Fire"
+msgid "Calm Under Fire"
+msgstr "포화 속 침착"
+
+msgctxt "Nurturing"
+msgid "Nurturing"
+msgstr "보살핌"
+
+msgctxt "Inventive"
+msgid "Inventive"
+msgstr "창의적"
+
+msgctxt "Frantic Whiner"
+msgid "Frantic Whiner"
+msgstr "징징이"
+
+msgctxt "Resilient Type"
+msgid "Resilient Type"
+msgstr "회복형"
+
+msgctxt "BERSERK!"
+msgid "BERSERK!"
+msgstr "광전사!"
+
+msgctxt "Civilized"
+msgid "Civilized"
+msgstr "교양인"
+
+msgctxt "Hyperfixated"
+msgid "Hyperfixated"
+msgstr "과몰입"
+
+msgctxt "D.I.N.K"
+msgid "D.I.N.K"
+msgstr "딩크족"
+
+msgctxt "Craftsman"
+msgid "Craftsman"
+msgstr "장인"
+
+msgctxt "Sound Sleeper"
+msgid "Sound Sleeper"
+msgstr "꿀잠러"
+
+msgctxt "Gourmand"
+msgid "Gourmand"
+msgstr "대식가"
+
+msgctxt "City Seeker"
+msgid "City Seeker"
+msgstr "도시파"
+
+msgctxt "Travel Light"
+msgid "Travel Light"
+msgstr "짐 가볍게"
+
+msgctxt "Hero Type"
+msgid "Hero Type"
+msgstr "영웅형"
+
+msgctxt "Tiny Eater"
+msgid "Tiny Eater"
+msgstr "소식가"
+
+msgctxt "Anime Fan"
+msgid "Anime Fan"
+msgstr "애니 팬"
+
+msgctxt "Specialist"
+msgid "Specialist"
+msgstr "전문가"
+
+msgctxt "Grappler"
+msgid "Grappler"
+msgstr "그래플러"
+
+msgctxt "Phoenix"
+msgid "Phoenix"
+msgstr "불사조"
+
+msgctxt "Dingus Savant"
+msgid "Dingus Savant"
+msgstr "바보 천재"
+
+msgctxt "Fast Learner"
+msgid "Fast Learner"
+msgstr "빠른 학습자"
+
+msgctxt "Unpredictable"
+msgid "Unpredictable"
+msgstr "예측불가"
+
+msgctxt "BACK TO THE WALL"
+msgid "BACK TO THE WALL"
+msgstr "배수진"
+
+msgctxt "%s uses %c %d of %d"
+msgid "%s uses %c %d of %d"
+msgstr "%s 사용: %c %d / %d"
+
+msgctxt "HEALTH CARE"
+msgid "HEALTH CARE"
+msgstr "간호"
+
+msgctxt "MECHANIC"
+msgid "MECHANIC"
+msgstr "정비공"
+
+msgctxt "%d %ss"
+msgid "%d %ss"
+msgstr "%d %s"
+
+msgctxt "Fire Extinguisher"
+msgid "Fire Extinguisher"
+msgstr "소화기"
+
+msgctxt "Blowtorch"
+msgid "Blowtorch"
+msgstr "토치"
+
+msgctxt "antlers"
+msgid "antlers"
+msgstr "뿔"
+
+msgctxt "2x4"
+msgid "2x4"
+msgstr "각목"
+
+msgctxt "Flashlight"
+msgid "Flashlight"
+msgstr "손전등"
+
+msgctxt "Pokin'"
+msgid "Pokin'"
+msgstr "찌르기"
+
+msgctxt "ehzerbeam"
+msgid "ehzerbeam"
+msgstr "레이저빔"
+
+msgctxt "Claw"
+msgid "Claw"
+msgstr "발톱"
+
+msgctxt "Karate"
+msgid "Karate"
+msgstr "가라테"
+
+msgctxt "Boxing"
+msgid "Boxing"
+msgstr "복싱"
+
+msgctxt "Kung Fu"
+msgid "Kung Fu"
+msgstr "쿵후"
+
+msgctxt "Sumo"
+msgid "Sumo"
+msgstr "스모"
+
+msgctxt "Chainsaw"
+msgid "Chainsaw"
+msgstr "전기톱"
+
+msgctxt "Baseball bat"
+msgid "Baseball bat"
+msgstr "야구 방망이"
+
+msgctxt "Nail board"
+msgid "Nail board"
+msgstr "못 박힌 판자"
+
+msgctxt "Wrench"
+msgid "Wrench"
+msgstr "렌치"
+
+msgctxt "Sledgehammer"
+msgid "Sledgehammer"
+msgstr "큰 망치"
+
+msgctxt "Kitchen knife"
+msgid "Kitchen knife"
+msgstr "식칼"
+
+msgctxt "Meat cleaver"
+msgid "Meat cleaver"
+msgstr "고기 칼"
+
+msgctxt "Spatula"
+msgid "Spatula"
+msgstr "뒤집개"
+
+msgctxt "Hatchet"
+msgid "Hatchet"
+msgstr "손도끼"
+
+msgctxt "Cowboy rifle"
+msgid "Cowboy rifle"
+msgstr "카우보이 소총"
+
+msgctxt "Hunting rifle"
+msgid "Hunting rifle"
+msgstr "사냥용 소총"
+
+msgctxt "Shotgun"
+msgid "Shotgun"
+msgstr "산탄총"
+
+msgctxt "Autoshotgun"
+msgid "Autoshotgun"
+msgstr "자동 산탄총"
+
+msgctxt "Slug Shotgun"
+msgid "Slug Shotgun"
+msgstr "슬러그 산탄총"
+
+msgctxt "BIG DAWG"
+msgid "BIG DAWG"
+msgstr "빅 도그"
+
+msgctxt "Dolt 45"
+msgid "Dolt 45"
+msgstr "돌트 45"
+
+msgctxt "Pistol"
+msgid "Pistol"
+msgstr "권총"
+
+msgctxt "Snubnose"
+msgid "Snubnose"
+msgstr "단총신 리볼버"
+
+msgctxt "Uzi"
+msgid "Uzi"
+msgstr "우지"
+
+msgctxt "AK47"
+msgid "AK47"
+msgstr "AK47"
+
+msgctxt "Cane"
+msgid "Cane"
+msgstr "지팡이"
+
+msgctxt "Frying Pan"
+msgid "Frying Pan"
+msgstr "프라이팬"
+
+msgctxt "Otaku katana"
+msgid "Otaku katana"
+msgstr "오타쿠 카타나"
+
+msgctxt "Piece of wood"
+msgid "Piece of wood"
+msgstr "나무 조각"
+
+msgctxt "Crowbar"
+msgid "Crowbar"
+msgstr "쇠지렛대"
+
+msgctxt "Nightstick"
+msgid "Nightstick"
+msgstr "경찰봉"
+
+msgctxt "Cricket bat"
+msgid "Cricket bat"
+msgstr "크리켓 배트"
+
+msgctxt "Aluminum bat"
+msgid "Aluminum bat"
+msgstr "알루미늄 배트"
+
+msgctxt "Femur"
+msgid "Femur"
+msgstr "대퇴골"
+
+msgctxt "Golf Club"
+msgid "Golf Club"
+msgstr "골프채"
+
+msgctxt "Medieval Axe"
+msgid "Medieval Axe"
+msgstr "중세 도끼"
+
+msgctxt "Strong Katana"
+msgid "Strong Katana"
+msgstr "튼튼한 카타나"
+
+msgctxt "Knight Sword"
+msgid "Knight Sword"
+msgstr "기사의 검"
+
+msgctxt "Claymore"
+msgid "Claymore"
+msgstr "클레이모어"
+
+msgctxt "Zweihander"
+msgid "Zweihander"
+msgstr "츠바이핸더"
+
+msgctxt "Fire Axe"
+msgid "Fire Axe"
+msgstr "소방 도끼"
+
+msgctxt "Umbrella"
+msgid "Umbrella"
+msgstr "우산"
+
+msgctxt "Beach Umbrella"
+msgid "Beach Umbrella"
+msgstr "파라솔"
+
+msgctxt "Hockey Stick"
+msgid "Hockey Stick"
+msgstr "하키 스틱"
+
+msgctxt "Xtreme Hockey Stick"
+msgid "Xtreme Hockey Stick"
+msgstr "익스트림 하키 스틱"
+
+msgctxt "Mountie Hockey Stick"
+msgid "Mountie Hockey Stick"
+msgstr "기마경찰 하키 스틱"
+
+msgctxt "Cardboard Tube"
+msgid "Cardboard Tube"
+msgstr "종이 튜브"
+
+msgctxt "Pitchfork"
+msgid "Pitchfork"
+msgstr "쇠스랑"
+
+msgctxt "Shovel"
+msgid "Shovel"
+msgstr "삽"
+
+msgctxt "Tree Branch"
+msgid "Tree Branch"
+msgstr "나뭇가지"
+
+msgctxt "Metal Pipe"
+msgid "Metal Pipe"
+msgstr "쇠파이프"
+
+msgctxt "Rusty Machete"
+msgid "Rusty Machete"
+msgstr "녹슨 마체테"
+
+msgctxt "Sturdy Machete"
+msgid "Sturdy Machete"
+msgstr "튼튼한 마체테"
+
+msgctxt "Parking Meter"
+msgid "Parking Meter"
+msgstr "주차 미터기"
+
+msgctxt "Lovely Wand"
+msgid "Lovely Wand"
+msgstr "러블리 지팡이"
+
+msgctxt "Rapier"
+msgid "Rapier"
+msgstr "레이피어"
+
+msgctxt "Toy Hammer"
+msgid "Toy Hammer"
+msgstr "뿅망치"
+
+msgctxt "Gauntlet"
+msgid "Gauntlet"
+msgstr "건틀릿"
+
+msgctxt "Boxing Glove"
+msgid "Boxing Glove"
+msgstr "권투 글러브"
+
+msgctxt "Uppercut"
+msgid "Uppercut"
+msgstr "어퍼컷"
+
+msgctxt "Morning Star"
+msgid "Morning Star"
+msgstr "모닝스타"
+
+msgctxt "Pool Noodle"
+msgid "Pool Noodle"
+msgstr "수영 누들"
+
+msgctxt "Pool Noodle "
+msgid "Pool Noodle "
+msgstr "수영 누들 "
+
+msgctxt "Debutante Umbrella"
+msgid "Debutante Umbrella"
+msgstr "숙녀의 양산"
+
+msgctxt "Mason's Machete"
+msgid "Mason's Machete"
+msgstr "메이슨의 마체테"
+
+msgctxt "Rambeux Knife"
+msgid "Rambeux Knife"
+msgstr "람보 나이프"
+
+msgctxt "Minigun"
+msgid "Minigun"
+msgstr "미니건"
+
+msgctxt "Ridiculous Pistol"
+msgid "Ridiculous Pistol"
+msgstr "말도 안 되는 권총"
+
+msgctxt "Vlambeer Shotgun"
+msgid "Vlambeer Shotgun"
+msgstr "블람비어 산탄총"
+
+msgctxt "Ninja katana"
+msgid "Ninja katana"
+msgstr "닌자 카타나"
+
+msgctxt "Take This"
+msgid "Take This"
+msgstr "이거 받아"
+
+msgctxt "White Sword"
+msgid "White Sword"
+msgstr "하얀 검"
+
+msgctxt "M#ster Sword"
+msgid "M#ster Sword"
+msgstr "마#터 소드"
+
+msgctxt "Grenade"
+msgid "Grenade"
+msgstr "수류탄"
+
+msgctxt "Pipe bomb"
+msgid "Pipe bomb"
+msgstr "파이프 폭탄"
+
+msgctxt "Lnk Bomb"
+msgid "Lnk Bomb"
+msgstr "링크 폭탄"
+
+msgctxt "Bottle"
+msgid "Bottle"
+msgstr "병"
+
+msgctxt "Kunai"
+msgid "Kunai"
+msgstr "쿠나이"
+
+msgctxt "Shuriken"
+msgid "Shuriken"
+msgstr "수리검"
+
+msgctxt "Smoke Bomb"
+msgid "Smoke Bomb"
+msgstr "연막탄"
+
+msgctxt "Wooden Boomerang"
+msgid "Wooden Boomerang"
+msgstr "나무 부메랑"
+
+msgctxt "Metal Boomerang"
+msgid "Metal Boomerang"
+msgstr "금속 부메랑"
+
+msgctxt "Wind Shuriken"
+msgid "Wind Shuriken"
+msgstr "풍마 수리검"
+
+msgctxt "Mjollin'er"
+msgid "Mjollin'er"
+msgstr "묠니르"
+
+msgctxt "Flamethrower"
+msgid "Flamethrower"
+msgstr "화염방사기"
+
+msgctxt "Molotov"
+msgid "Molotov"
+msgstr "화염병"
+
+msgctxt "Zombie Leg"
+msgid "Zombie Leg"
+msgstr "좀비 다리"
+
+msgctxt "Spine"
+msgid "Spine"
+msgstr "척추"
+
+msgctxt "Spine w/ Skull Accessory"
+msgid "Spine w/ Skull Accessory"
+msgstr "해골 장식 척추"
+
+msgctxt "Re-bar"
+msgid "Re-bar"
+msgstr "철근"
+
+msgctxt "Broom"
+msgid "Broom"
+msgstr "빗자루"
+
+msgctxt "Mop"
+msgid "Mop"
+msgstr "대걸레"
+
+msgctxt "UltraMop"
+msgid "UltraMop"
+msgstr "울트라 대걸레"
+
+msgctxt "Fishing Pole"
+msgid "Fishing Pole"
+msgstr "낚싯대"
+
+msgctxt "Ridiculous Fishing Pole"
+msgid "Ridiculous Fishing Pole"
+msgstr "말도 안 되는 낚싯대"
+
+msgctxt "Electric Guitar"
+msgid "Electric Guitar"
+msgstr "일렉 기타"
+
+msgctxt "Moose Antlers"
+msgid "Moose Antlers"
+msgstr "무스 뿔"
+
+msgctxt "Ray Gun"
+msgid "Ray Gun"
+msgstr "광선총"
+
+msgctxt "Fierce Claws"
+msgid "Fierce Claws"
+msgstr "사나운 발톱"
+
+msgctxt "Mason's Chainsaw"
+msgid "Mason's Chainsaw"
+msgstr "메이슨의 전기톱"
+
+msgctxt "Kill Fu"
+msgid "Kill Fu"
+msgstr "킬 푸"
+
+msgctxt "Hammer"
+msgid "Hammer"
+msgstr "망치"
+
+msgctxt "Ballpein hammer"
+msgid "Ballpein hammer"
+msgstr "볼핀 해머"
+
+msgctxt "Rubber mallet"
+msgid "Rubber mallet"
+msgstr "고무 망치"
+
+msgctxt "Screwdriver"
+msgid "Screwdriver"
+msgstr "드라이버"
+
+msgctxt "Ice pick"
+msgid "Ice pick"
+msgstr "얼음송곳"
+
+msgctxt "Shiv"
+msgid "Shiv"
+msgstr "사제 칼"
+
+msgctxt "Purse"
+msgid "Purse"
+msgstr "핸드백"
+
+msgctxt "Tire iron"
+msgid "Tire iron"
+msgstr "타이어 렌치"
+
+msgctxt "Wizzle stick"
+msgid "Wizzle stick"
+msgstr "위즐 스틱"
+
+msgctxt "Foam Hand"
+msgid "Foam Hand"
+msgstr "응원용 손"
+
+msgctxt "Pukeyball"
+msgid "Pukeyball"
+msgstr "토사물볼"
+
+msgctxt "Blue Robot"
+msgid "Blue Robot"
+msgstr "파란 로봇"
+
+msgctxt "Red Robot"
+msgid "Red Robot"
+msgstr "빨간 로봇"
+
+msgctxt "ThrowingBoot"
+msgid "ThrowingBoot"
+msgstr "던지는 장화"
+
+msgctxt "GIGA GUSTER"
+msgid "GIGA GUSTER"
+msgstr "기가 거스터"
+
+msgctxt "Red Turret"
+msgid "Red Turret"
+msgstr "빨간 포탑"
+
+msgctxt "Green Turret"
+msgid "Green Turret"
+msgstr "초록 포탑"
+
+msgctxt "Pirate Cannon"
+msgid "Pirate Cannon"
+msgstr "해적 대포"
+
+msgctxt "Sciency Doodad"
+msgid "Sciency Doodad"
+msgstr "과학 장치"
+
+msgctxt "Weed whacker"
+msgid "Weed whacker"
+msgstr "예초기"
+
+msgctxt "Leaf blower"
+msgid "Leaf blower"
+msgstr "낙엽 송풍기"
+
+msgctxt "Bow"
+msgid "Bow"
+msgstr "활"
+
+msgctxt "Electric Chainsaw"
+msgid "Electric Chainsaw"
+msgstr "전동 전기톱"
+
+msgctxt "Bazooka"
+msgid "Bazooka"
+msgstr "바주카"
+
+msgctxt "Grenade Launcher"
+msgid "Grenade Launcher"
+msgstr "유탄 발사기"
+
+msgctxt "Landmine"
+msgid "Landmine"
+msgstr "지뢰"
+
+msgctxt "Karatay"
+msgid "Karatay"
+msgstr "가라테이"
+
+msgctxt "Roundhouse"
+msgid "Roundhouse"
+msgstr "돌려차기"
+
+msgctxt "Punchball"
+msgid "Punchball"
+msgstr "펀치볼"
+
+msgctxt "E-whacker"
+msgid "E-whacker"
+msgstr "전동 예초기"
+
+msgctxt "E-blower"
+msgid "E-blower"
+msgstr "전동 송풍기"
+
+msgctxt "Blacksmith hammer"
+msgid "Blacksmith hammer"
+msgstr "대장장이 망치"
+
+msgctxt "Napalm thrower"
+msgid "Napalm thrower"
+msgstr "네이팜 방사기"
+
+msgctxt "Rake"
+msgid "Rake"
+msgstr "갈퀴"
+
+msgctxt "Egg"
+msgid "Egg"
+msgstr "달걀"
+
+msgctxt "Lever-Action"
+msgid "Lever-Action"
+msgstr "레버액션"
+
+msgctxt "Dolt Big Iron"
+msgid "Dolt Big Iron"
+msgstr "돌트 빅 아이언"
+
+msgctxt "Duckhunter"
+msgid "Duckhunter"
+msgstr "오리 사냥총"
+
+msgctxt "Medical Satchel"
+msgid "Medical Satchel"
+msgstr "의료 가방"
+
+msgctxt "Hawke's Homebrew"
+msgid "Hawke's Homebrew"
+msgstr "호크의 밀주"
+
+msgctxt "Sledgeslammer"
+msgid "Sledgeslammer"
+msgstr "슬레지슬래머"
+
+msgctxt "REFUEL"
+msgid "REFUEL"
+msgstr "급유"
+
+msgctxt "DNK-16"
+msgid "DNK-16"
+msgstr "DNK-16"
+
+msgctxt "Ringleader"
+msgid "Ringleader"
+msgstr "주동자"
+
+msgctxt "Maul"
+msgid "Maul"
+msgstr "대형 망치"
+
+msgctxt "Mamba"
+msgid "Mamba"
+msgstr "맘바"
+
+msgctxt "Autorevolver"
+msgid "Autorevolver"
+msgstr "자동 리볼버"
+
+msgctxt "Flechette Shotgun"
+msgid "Flechette Shotgun"
+msgstr "플레셰트 산탄총"
+
+msgctxt "Diesel"
+msgid "Diesel"
+msgstr "디젤"
+
+msgctxt "Arcane Flame"
+msgid "Arcane Flame"
+msgstr "비전의 불꽃"
+
+msgctxt "Silver Longsword"
+msgid "Silver Longsword"
+msgstr "은빛 장검"
+
+msgctxt "TIME STOP"
+msgid "TIME STOP"
+msgstr "시간 정지"
+
+msgctxt "Leather Whip"
+msgid "Leather Whip"
+msgstr "가죽 채찍"
+
+msgctxt "Steel Chains"
+msgid "Steel Chains"
+msgstr "강철 사슬"
+
+msgctxt "Infernal Whip"
+msgid "Infernal Whip"
+msgstr "지옥의 채찍"
+
+msgctxt "Wooden Foil"
+msgid "Wooden Foil"
+msgstr "나무 펜싱검"
+
+msgctxt "Kukri"
+msgid "Kukri"
+msgstr "쿠크리"
+
+msgctxt "M.O.A.R"
+msgid "M.O.A.R"
+msgstr "M.O.A.R"
+
+msgctxt "SPICY SWIG"
+msgid "SPICY SWIG"
+msgstr "매운 한 모금"
+
+msgctxt "20mm Autobasilisk"
+msgid "20mm Autobasilisk"
+msgstr "20mm 오토바실리스크"
+
+msgctxt "Battle Rifle"
+msgid "Battle Rifle"
+msgstr "전투 소총"
+
+msgctxt "Dolt ACP"
+msgid "Dolt ACP"
+msgstr "돌트 ACP"
+
+msgctxt "Target Rifle"
+msgid "Target Rifle"
+msgstr "표적 소총"
+
+msgctxt "Phaseblade"
+msgid "Phaseblade"
+msgstr "위상검"
+
+msgctxt "Megaphone"
+msgid "Megaphone"
+msgstr "확성기"
+
+msgctxt "Stillson Wrench"
+msgid "Stillson Wrench"
+msgstr "파이프 렌치"
+
+msgctxt "Dingus-cutter"
+msgid "Dingus-cutter"
+msgstr "바보 절단기"
+
+msgctxt "P.O Box"
+msgid "P.O Box"
+msgstr "우편함"
+
+msgctxt "Frozen Ham"
+msgid "Frozen Ham"
+msgstr "냉동 햄"
+
+msgctxt "Arc Lightning"
+msgid "Arc Lightning"
+msgstr "연쇄 번개"
+
+msgctxt "Obliterate"
+msgid "Obliterate"
+msgstr "말살"
+
+msgctxt "Harpoon Gun"
+msgid "Harpoon Gun"
+msgstr "작살총"
+
+msgctxt "Supply Drop"
+msgid "Supply Drop"
+msgstr "보급품 투하"
+
+msgctxt "Zatoichi"
+msgid "Zatoichi"
+msgstr "자토이치"
+
+msgctxt "Shield"
+msgid "Shield"
+msgstr "방패"
+
+msgctxt "Scorching Ray II"
+msgid "Scorching Ray II"
+msgstr "작열 광선 II"
+
+msgctxt "Fade Bolt"
+msgid "Fade Bolt"
+msgstr "페이드 볼트"
+
+msgctxt "Copy Weapon"
+msgid "Copy Weapon"
+msgstr "무기 복사"
+
+msgctxt "Machinepistol"
+msgid "Machinepistol"
+msgstr "기관권총"
+
+msgctxt "Typewriter"
+msgid "Typewriter"
+msgstr "타자기"
+
+msgctxt "nunchucks 2"
+msgid "nunchucks 2"
+msgstr "쌍절곤 2"
+
+msgctxt "Sunder"
+msgid "Sunder"
+msgstr "선더"
+
+msgctxt "Firecrackers"
+msgid "Firecrackers"
+msgstr "폭죽"
+
+msgctxt "Roman candle"
+msgid "Roman candle"
+msgstr "로만 캔들"
+
+msgctxt "Mount Dingus"
+msgid "Mount Dingus"
+msgstr "마운트 딩거스"
+
+msgctxt "Jackhammer"
+msgid "Jackhammer"
+msgstr "착암기"
+
+msgctxt "Charged Punch"
+msgid "Charged Punch"
+msgstr "충전 펀치"
+
+msgctxt "Auto-Nailgun"
+msgid "Auto-Nailgun"
+msgstr "자동 못총"
+
+msgctxt "Speed Mode"
+msgid "Speed Mode"
+msgstr "스피드 모드"
+
+msgctxt "FireEx"
+msgid "FireEx"
+msgstr "소화기"
+
+msgctxt "Punchquest Gauntlet"
+msgid "Punchquest Gauntlet"
+msgstr "펀치퀘스트 건틀릿"
+
+msgctxt "Spoon"
+msgid "Spoon"
+msgstr "숟가락"
+
+msgctxt "Scissors"
+msgid "Scissors"
+msgstr "가위"
+
+msgctxt "Scalpel"
+msgid "Scalpel"
+msgstr "메스"
+
+msgctxt "Knitting needle"
+msgid "Knitting needle"
+msgstr "뜨개바늘"
+
+msgctxt "PUNCH"
+msgid "PUNCH"
+msgstr "펀치"
+
+msgctxt "Butter knife"
+msgid "Butter knife"
+msgstr "버터 나이프"
+
+msgctxt "Fork"
+msgid "Fork"
+msgstr "포크"
+
+msgctxt "Open the MOD's ZIP file."
+msgid "Open the MOD's ZIP file."
+msgstr "모드 ZIP 파일을 여세요."
+
+msgctxt "Press START to JOIN!"
+msgid "Press START to JOIN!"
+msgstr "START를 눌러 참가!"
+
+msgctxt "walkin'"
+msgid "walkin'"
+msgstr "걷는 중"
+
+msgctxt "Madgarden & Rocketcat Games"
+msgid "Madgarden & Rocketcat Games"
+msgstr "Madgarden & Rocketcat Games"
+
+msgctxt "OUTTA AMMO"
+msgid "OUTTA AMMO"
+msgstr "탄약 없음"
+
+msgctxt "NEED  AMMO"
+msgid "NEED  AMMO"
+msgstr "탄약 필요"
+
+msgctxt "OUTTA GAS"
+msgid "OUTTA GAS"
+msgstr "기름 없음"
+
+msgctxt "NEED  GAS"
+msgid "NEED  GAS"
+msgstr "기름 필요"
+
+msgctxt "nothing"
+msgid "nothing"
+msgstr "없음"
+
+msgctxt "* SNAP *"
+msgid "* SNAP *"
+msgstr "* 뚝 *"
+
+msgctxt "yoink"
+msgid "yoink"
+msgstr "슥"
+
+msgctxt "CARRYING:"
+msgid "CARRYING:"
+msgstr "소지품:"
+
+msgctxt "junk."
+msgid "junk."
+msgstr "잡동사니."
+
+msgctxt "DELETE existing '%s' character?"
+msgid "DELETE existing '%s' character?"
+msgstr "기존 '%s' 캐릭터를 삭제할까요?"

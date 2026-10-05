@@ -1,0 +1,2449 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/common/OMENTUM.df:784
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "THE WHEEL spins... it stops at: "
+msgstr "운명의 바퀴가 돈다... 멈춘 곳은: "
+
+#: deathforth/events/common/OMENTUM.df:790
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "RUN FOR IT"
+msgstr "도망쳐"
+
+#: deathforth/events/common/OMENTUM.df:791
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " refuses to let "
+msgstr "은(는) "
+
+#: deathforth/events/common/OMENTUM.df:791
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" fate be decided by some weird wheel!\r\n"
+"\t"
+msgstr ""
+" 운명을 이상한 바퀴 따위에 맡길 생각이 없다!\r\n"
+"\t"
+
+#: deathforth/events/common/OMENTUM.df:792
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " decide"
+msgstr "은(는)"
+
+#: deathforth/events/common/OMENTUM.df:792
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " to run for it, but "
+msgstr " 도망치기로 하지만, 탈출하면서 "
+
+#: deathforth/events/common/OMENTUM.df:792
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " must ditch the car during the escape."
+msgstr "은(는) 차를 버려야 한다."
+
+#: deathforth/events/common/OMENTUM.df:799
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Accept this fate"
+msgstr "이 운명을 받아들인다"
+
+#: deathforth/events/common/OMENTUM.df:800
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Run away, but lose car!"
+msgstr "도망친다, 하지만 차를 잃는다!"
+
+#: deathforth/events/common/OMENTUM.df:804
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "FACE THE WHEEL... AGAIN"
+msgstr "바퀴와 다시... 마주하라"
+
+#: deathforth/events/common/OMENTUM.df:805
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"Do-overs? How'd you know about our most sacred rule?\r\n"
+"\tWell, fine, but you only get one!"
+msgstr ""
+"다시 하기? 우리의 가장 신성한 규칙을 어떻게 알았지?\r\n"
+"\t뭐, 좋아. 하지만 딱 한 번뿐이야!"
+
+#: deathforth/events/common/OMENTUM.df:811
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "FACE THE WHEEL"
+msgstr "운명의 바퀴와 마주하라"
+
+#: deathforth/events/common/OMENTUM.df:812
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" stops at a small village. Rather than being a safe trading spot, things "
+"quickly take a bad turn with the locals. As punishment, they bring out..."
+msgstr "은(는) 작은 마을에 들른다. 안전한 거래 장소이긴커녕, 주민들과 금세 일이 틀어진다. 벌로 그들이 꺼내 온 것은..."
+
+#: deathforth/events/common/OMENTUM.df:814
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Demand do-overs!"
+msgstr "다시 하기를 요구한다!"
+
+#: deathforth/events/common/PANCREAS.df:39
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "GAME!!!"
+msgstr "게임!!!"
+
+#: deathforth/events/common/PANCREAS.df:40
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "K.O!!!"
+msgstr "K.O!!!"
+
+#: deathforth/events/common/PANCREAS.df:41
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "FATALITY!!!"
+msgstr "페이탈리티!!!"
+
+#: deathforth/events/common/PANCREAS.df:42
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "MATCHPOINT!!!"
+msgstr "매치 포인트!!!"
+
+#: deathforth/events/common/PANCREAS.df:43
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "RINGOUT!!!"
+msgstr "링 아웃!!!"
+
+#: deathforth/events/common/PANCREAS.df:44
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "KNOCKOUT!!!"
+msgstr "녹아웃!!!"
+
+#: deathforth/events/common/PANCREAS.df:45
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "TOUCHDOWN!!!"
+msgstr "터치다운!!!"
+
+#: deathforth/events/common/PANCREAS.df:46
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "KILLSTREAK!!!"
+msgstr "킬 스트릭!!!"
+
+#: deathforth/events/common/PANCREAS.df:47
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "RAMPAGE!!!"
+msgstr "광란!!!"
+
+#: deathforth/events/common/PANCREAS.df:48
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "TALK ABOUT A HOLE IN ONE!!!"
+msgstr "이거야말로 홀인원!!!"
+
+#: deathforth/events/common/PANCREAS.df:49
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "SCORE!!!"
+msgstr "득점!!!"
+
+#: deathforth/events/common/PANCREAS.df:50
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "HOMERUN!!!"
+msgstr "홈런!!!"
+
+#: deathforth/events/common/PANCREAS.df:217
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "POINTS: "
+msgstr "점수: "
+
+#: deathforth/events/common/PANCREAS.df:374
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S 12PM."
+msgstr "정오다."
+
+#: deathforth/events/common/PANCREAS.df:375
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S 12:00."
+msgstr "12시다."
+
+#: deathforth/events/common/PANCREAS.df:376
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S HIGH NOON."
+msgstr "하이 눈이다."
+
+#: deathforth/events/common/PANCREAS.df:377
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "YEEHAW."
+msgstr "이햐."
+
+#: deathforth/events/common/PANCREAS.df:378
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "YA FEEL LOVELY, PUNK?"
+msgstr "기분 좋냐, 애송이?"
+
+#: deathforth/events/common/PANCREAS.df:379
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "ROOTEM TOOTEM."
+msgstr "루템 투템."
+
+#: deathforth/events/common/PANCREAS.df:380
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "I'M A SHOOTIN COWBOY, NOT A SINGIN COWBOY."
+msgstr "난 총 쏘는 카우보이지, 노래하는 카우보이가 아니야."
+
+#: deathforth/events/common/PANCREAS.df:380
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "SOMEBODY'S POISONED THE WATERIN HOLE."
+msgstr "누가 물웅덩이에 독을 탔군."
+
+#: deathforth/events/common/PANCREAS.df:381
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "YIPPEE KI YAY."
+msgstr "이피 카이 예이."
+
+#: deathforth/events/common/PANCREAS.df:382
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "THERE'S A SNAKE IN MY BOOT."
+msgstr "부츠 안에 뱀이 있어."
+
+#: deathforth/events/common/PANCREAS.df:383
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S HIGH NOON?"
+msgstr "하이 눈인가?"
+
+#: deathforth/events/common/PANCREAS.df:384
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "TOO SLOW ON THE DRAW."
+msgstr "총 뽑는 게 너무 느려."
+
+#: deathforth/events/common/PANCREAS.df:385
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "YEE HAW."
+msgstr "이햐아."
+
+#: deathforth/events/common/PANCREAS.df:386
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "HIGH NOON."
+msgstr "하이 눈."
+
+#: deathforth/events/common/PANCREAS.df:387
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S HIGH NOON..."
+msgstr "하이 눈이다..."
+
+#: deathforth/events/common/PANCREAS.df:388
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S HIIIIIGH NOON."
+msgstr "하아아아이 눈이다."
+
+#: deathforth/events/common/PANCREAS.df:389
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "IT'S HONCHO NOON."
+msgstr "혼초 눈이다."
+
+#: deathforth/events/common/PANCREAS.df:558
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+" buys the Duckhunter(TM)!\r\n"
+"\t"
+msgstr ""
+"은(는) 덕헌터(TM)를 산다!\r\n"
+"\t"
+
+#: deathforth/events/common/PANCREAS.df:559
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"- Shots will pierce and ricochet after they hit zombies!\r\n"
+"\t- Reloads one shell at a time, when you're not shooting\r\n"
+"\t- The last shell takes the longest to reload"
+msgstr ""
+"- 탄환이 좀비를 맞힌 뒤 관통하고 튕겨 나간다!\r\n"
+"\t- 쏘지 않을 때 한 발씩 장전한다\r\n"
+"\t- 마지막 탄 장전이 가장 오래 걸린다"
+
+#: deathforth/events/common/PANCREAS.df:566
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+" buys the Lever-Action!\r\n"
+"\t"
+msgstr ""
+"은(는) 레버 액션을 산다!\r\n"
+"\t"
+
+#: deathforth/events/common/PANCREAS.df:567
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"- Tap ATTACK with the right timing to fire much faster!\r\n"
+"\t- Keep an eye out on the indicators over your head\r\n"
+"\t- When the indicator is no longer transparent, tap ATTACK"
+msgstr ""
+"- 타이밍 맞춰 공격 버튼을 누르면 훨씬 빨리 쏜다!\r\n"
+"\t- 머리 위 표시를 잘 봐라\r\n"
+"\t- 표시가 더 이상 투명하지 않을 때 공격 버튼을 눌러라"
+
+#: deathforth/events/common/PANCREAS.df:574
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+" buys a Dolt Big Iron!\r\n"
+"\t"
+msgstr ""
+"은(는) 돌트 빅 아이언을 산다!\r\n"
+"\t"
+
+#: deathforth/events/common/PANCREAS.df:575
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"- Hold ATTACK down to fire fast!\r\n"
+"\t- Shoots much slower if you only tap ATTACK\r\n"
+"\t- Has a reload period every 6 shots\r\n"
+"\t- You must fire all 6 shots to reload"
+msgstr ""
+"- 공격 버튼을 누르고 있으면 빠르게 쏜다!\r\n"
+"\t- 공격 버튼을 톡톡 누르기만 하면 훨씬 느리게 쏜다\r\n"
+"\t- 6발마다 장전 시간이 있다\r\n"
+"\t- 장전하려면 6발을 다 쏴야 한다"
+
+#: deathforth/events/common/PANCREAS.df:583
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+" buys a Kukri.\r\n"
+"\t"
+msgstr ""
+"은(는) 쿠크리를 산다.\r\n"
+"\t"
+
+#: deathforth/events/common/PANCREAS.df:584
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"- Single target\r\n"
+"\t- Low cooldown \r\n"
+"\t- Maims the target, slowing them \r\n"
+"\t- OK damage"
+msgstr ""
+"- 단일 대상\r\n"
+"\t- 짧은 재사용 대기시간 \r\n"
+"\t- 대상을 불구로 만들어 느리게 한다 \r\n"
+"\t- 피해는 그럭저럭"
+
+#: deathforth/events/common/PANCREAS.df:592
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+" buys a trumpet with a flag.\r\n"
+"\t"
+msgstr ""
+"은(는) 깃발 달린 트럼펫을 산다.\r\n"
+"\t"
+
+#: deathforth/events/common/PANCREAS.df:593
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"- Empowers teammates whilst held \r\n"
+"\t- Comes with 30s of charge time \r\n"
+"\t- Charge depletes whilst held  \r\n"
+"\t- Minicrits apply to melee only"
+msgstr ""
+"- 들고 있는 동안 동료를 강화한다 \r\n"
+"\t- 30초 분량 충전 포함 \r\n"
+"\t- 들고 있으면 충전이 줄어든다  \r\n"
+"\t- 미니 치명타는 근접 공격에만 적용"
+
+#: deathforth/events/common/PANCREAS.df:602
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Special Gimmick Weapons"
+msgstr "특수 기믹 무기"
+
+#: deathforth/events/common/PANCREAS.df:603
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"I've modified all of these weapons personally! They all have a SPECIAL "
+"GIMMICK!"
+msgstr "이 무기들은 전부 내가 직접 개조했지! 전부 특별한 기믹이 있어!"
+
+#: deathforth/events/common/PANCREAS.df:604
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"Duckhunter: A shotgun that ricochets constantly!\r\n"
+"\tLever-Action: Fires much faster if you shoot right after it flips!\r\n"
+"\tDolt Big Iron: A pistol that encourages you to shoot fast!\r\n"
+"\tBuff Banner: A support weapon that provides mini-crits!\r\n"
+"\tKukri: A knife that maims zombs, slowing them!"
+msgstr ""
+"덕헌터: 계속 튕기는 산탄총!\r\n"
+"\t레버 액션: 레버가 젖혀진 직후에 쏘면 훨씬 빨리 쏜다!\r\n"
+"\t돌트 빅 아이언: 빨리 쏘게 만드는 권총!\r\n"
+"\t버프 배너: 미니 치명타를 주는 지원 무기!\r\n"
+"\t쿠크리: 좀비를 불구로 만들어 느리게 하는 칼!"
+
+#: deathforth/events/common/PANCREAS.df:616
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "You're out of food! The trader gives "
+msgstr "식량이 다 떨어졌다! 상인은 "
+
+#: deathforth/events/common/PANCREAS.df:616
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid " an old snubnose pistol as a consolation prize."
+msgstr "에게 위로 선물로 낡은 스너브노즈 권총을 준다."
+
+#: deathforth/events/common/PANCREAS.df:618
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/common/PANCREAS.df:620
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Duckhunter for 30 food"
+msgstr "덕헌터 - 식량 30"
+
+#: deathforth/events/common/PANCREAS.df:623
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Lever-Action for 20 food"
+msgstr "레버 액션 - 식량 20"
+
+#: deathforth/events/common/PANCREAS.df:626
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Dolt Big Iron for 20 food"
+msgstr "돌트 빅 아이언 - 식량 20"
+
+#: deathforth/events/common/PANCREAS.df:629
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Buff Banner for 6 food"
+msgstr "버프 배너 - 식량 6"
+
+#: deathforth/events/common/PANCREAS.df:632
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Kukri for 4 food"
+msgstr "쿠크리 - 식량 4"
+
+#: deathforth/events/common/PANCREAS.df:656
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"was a professional pool player. He has turned this into his own warrior-"
+"philosophy."
+msgstr "은(는) 프로 당구 선수였다. 그는 이걸 자기만의 전사 철학으로 승화시켰다."
+
+#: deathforth/events/common/PANCREAS.df:671
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"is an OLD WEST cowboy. Dual-wields firearms if they're in the top two slots!"
+msgstr "은(는) 서부 시대 카우보이다. 위쪽 두 칸에 총이 있으면 쌍권총을 쓴다!"
+
+#: deathforth/events/common/PANCREAS.df:688
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "is a big game hunter. Aim for long distance headshot combos!"
+msgstr "은(는) 맹수 사냥꾼이다. 장거리 헤드샷 콤보를 노려라!"
+
+#: deathforth/events/common/PANCREAS.df:705
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "You just have to think of the whole world as a pool table!"
+msgstr "세상 전체를 당구대라고 생각하면 돼!"
+
+#: deathforth/events/common/PANCREAS.df:710
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Professional Pool Player"
+msgstr "프로 당구 선수"
+
+#: deathforth/events/common/PANCREAS.df:712
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"This man has the physicality and demeanor of a pro athlete. You instantly know, just from looking at him, that he plays darts or pool.\r\n"
+"\tHe might POSSIBLY be into bowling, instead."
+msgstr ""
+"이 남자는 프로 운동선수 같은 체격과 태도를 지녔다. 보자마자 다트나 당구를 치는 사람이라는 걸 바로 알 수 있다.\r\n"
+"\t어쩌면 볼링일 수도 있고."
+
+#: deathforth/events/common/PANCREAS.df:714
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"This character gets stamina and power bonuses for hitting zombies at the "
+"furthest tip of his melee range! He also has a 10% chance of getting "
+"explosive results from his tip attacks!"
+msgstr ""
+"이 캐릭터는 근접 사거리 맨 끝으로 좀비를 맞히면 스태미나와 위력 보너스를 받는다! 끝부분 공격은 10% 확률로 폭발하기도 한다!"
+
+#: deathforth/events/common/PANCREAS.df:716
+#: deathforth/events/common/PANCREAS.df:742
+#: deathforth/events/common/PANCREAS.df:765
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Leave him for now"
+msgstr "일단 두고 간다"
+
+#: deathforth/events/common/PANCREAS.df:717
+#: deathforth/events/common/PANCREAS.df:743
+#: deathforth/events/common/PANCREAS.df:766
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Hire him - 15 food"
+msgstr "고용한다 - 식량 15"
+
+#: deathforth/events/common/PANCREAS.df:719
+#: deathforth/events/common/PANCREAS.df:745
+#: deathforth/events/common/PANCREAS.df:768
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "You need 15 food to recruit him to the party."
+msgstr "동료로 영입하려면 식량 15가 필요하다."
+
+#: deathforth/events/common/PANCREAS.df:720
+#: deathforth/events/common/PANCREAS.df:746
+#: deathforth/events/common/PANCREAS.df:769
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "Can't spare the food"
+msgstr "식량을 줄 여유가 없다"
+
+#: deathforth/events/common/PANCREAS.df:729
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"WHERE'D MY PISTOLS GO?\r\n"
+"\tCONSARN IT!"
+msgstr ""
+"내 권총 어디 갔어?\r\n"
+"\t제기랄!"
+
+#: deathforth/events/common/PANCREAS.df:735
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "HIGH NOON"
+msgstr "하이 눈"
+
+#: deathforth/events/common/PANCREAS.df:737
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"This grizzled man is dressed up in a poncho and sombrero. He has two pistol "
+"holsters at his sides. On closer inspection, his holsters are empty."
+msgstr "이 꾀죄죄한 남자는 판초와 솜브레로 차림이다. 양옆에 권총집이 두 개 있다. 자세히 보니 권총집이 비어 있다."
+
+#: deathforth/events/common/PANCREAS.df:738
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"WHAT TIME IS IT?\r\n"
+"\tIT'S HIGH NOON."
+msgstr ""
+"지금 몇 시지?\r\n"
+"\t하이 눈이다."
+
+#: deathforth/events/common/PANCREAS.df:740
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"Honcho the Gunslinger can dual wield firearms, if they have ammo! Just put "
+"them in your top two slots, or just swap (or lock in the pause menu) until "
+"he's holding both."
+msgstr ""
+"총잡이 혼초는 탄약만 있으면 쌍권총을 쓸 수 있다! 위쪽 두 칸에 총을 넣거나, 둘 다 들 때까지 교체(또는 일시 정지 메뉴에서 "
+"고정)하면 된다."
+
+#: deathforth/events/common/PANCREAS.df:755
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "The hunt is on!"
+msgstr "사냥 시작이다!"
+
+#: deathforth/events/common/PANCREAS.df:760
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid "THE DEADLIEST GAME OF ALL"
+msgstr "가장 위험한 게임"
+
+#: deathforth/events/common/PANCREAS.df:762
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"The man resting by this campfire has the appearance of an old-timey big game"
+" hunter. Pith helmet, dapper hunting outfit, heavy rifle."
+msgstr "이 모닥불 옆에서 쉬는 남자는 옛날식 맹수 사냥꾼처럼 생겼다. 탐험모, 말쑥한 사냥복, 묵직한 소총."
+
+#: deathforth/events/common/PANCREAS.df:763
+msgctxt "deathforth/events/common/PANCREAS.df"
+msgid ""
+"This character has a rifle can be manually aimed for zombie headshots! The "
+"rifle gets more powerful as you land longer distance headshots. This gets "
+"even stronger as you get headshot streaks, especially past 30 headshots!"
+msgstr ""
+"이 캐릭터는 소총을 직접 조준해 좀비 헤드샷을 노릴 수 있다! 더 먼 거리에서 헤드샷을 맞힐수록 소총이 강해진다. 헤드샷 연속 기록이 "
+"쌓이면 더 강해지고, 30연속을 넘기면 특히 강해진다!"
+
+#: deathforth/events/common/RETINA.df:92
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "BEGONE, UNDEAD!"
+msgstr "꺼져라, 언데드!"
+
+#: deathforth/events/common/RETINA.df:93
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "SUNDER THE FIEND."
+msgstr "마귀를 베어라."
+
+#: deathforth/events/common/RETINA.df:94
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "PERISH, CREATURE!"
+msgstr "소멸하라, 괴물아!"
+
+#: deathforth/events/common/RETINA.df:95
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "FOR VENGEANCE!"
+msgstr "복수를 위하여!"
+
+#: deathforth/events/common/RETINA.df:96
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "MY OATH. YOUR SOUL."
+msgstr "나의 맹세. 너의 영혼."
+
+#: deathforth/events/common/RETINA.df:97
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "SLAYYYY THE FIEND!"
+msgstr "마귀를 처단하라아아!"
+
+#: deathforth/events/common/RETINA.df:98
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "VANQUISH THE UNDEAD!"
+msgstr "언데드를 무찔러라!"
+
+#: deathforth/events/common/RETINA.df:99
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "BEGONE FROM THIS PLANE!"
+msgstr "이 차원에서 꺼져라!"
+
+#: deathforth/events/common/RETINA.df:100
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "RADIANT AS THE DAWN!"
+msgstr "새벽처럼 찬란하게!"
+
+#: deathforth/events/common/RETINA.df:101
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "SYCAMORE - KILL THIS MAN!"
+msgstr "시카모어 - 이 남자를 죽여!"
+
+#: deathforth/events/common/RETINA.df:102
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "BEGONE, FOUL CRETIN!"
+msgstr "꺼져라, 더러운 얼간이!"
+
+#: deathforth/events/common/RETINA.df:103
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "PERISH!"
+msgstr "소멸하라!"
+
+#: deathforth/events/common/RETINA.df:104
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "BEGONE!"
+msgstr "꺼져라!"
+
+#: deathforth/events/common/RETINA.df:105
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "NONE SHALL RESIST!"
+msgstr "누구도 저항할 수 없다!"
+
+#: deathforth/events/common/RETINA.df:106
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "SILVER STEEL!"
+msgstr "은빛 강철!"
+
+#: deathforth/events/common/RETINA.df:107
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "MY SILVER EDGE!"
+msgstr "나의 은빛 칼날!"
+
+#: deathforth/events/common/RETINA.df:108
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "PERISH, WRETCHED ENTITY!"
+msgstr "소멸하라, 비참한 존재여!"
+
+#: deathforth/events/common/RETINA.df:109
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "VANQUISHED!"
+msgstr "처단했다!"
+
+#: deathforth/events/common/RETINA.df:116
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "WHY DO YOU FORSAKE ME SYCAMORE"
+msgstr "어째서 날 버리는 거야, 시카모어"
+
+#: deathforth/events/common/RETINA.df:163
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "SMITTEN FOR:"
+msgstr "강타:"
+
+#: deathforth/events/common/RETINA.df:197
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "accidentally smites the toilet every time she tries to flush it."
+msgstr "은(는) 변기 물을 내리려 할 때마다 실수로 변기를 성스럽게 강타해 버린다."
+
+#: deathforth/events/common/RETINA.df:306
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "Time grinds...even mountains to dust..."
+msgstr "시간은 갈아 낸다... 산조차 먼지로..."
+
+#: deathforth/events/common/RETINA.df:339
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"talks about you behind your back during Time Stop...especially if you make "
+"Za Warudo jokes!"
+msgstr "은(는) 시간 정지 중에 네 험담을 한다... 특히 네가 '자 와루도' 드립을 치면!"
+
+#: deathforth/events/common/RETINA.df:394
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "is the planeswalker, a defect; forever a lost broken soul."
+msgstr "은(는) 차원 방랑자이자 결함품이다. 영원히 길 잃은 부서진 영혼이다."
+
+#: deathforth/events/common/RETINA.df:395
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "can simply phase through the car door to leave the car."
+msgstr "은(는) 차 문을 그냥 통과해서 내릴 수 있다."
+
+#: deathforth/events/common/RETINA.df:396
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "responds only in jumbled, incoherent sounds, as if through TV static."
+msgstr "은(는) TV 잡음처럼 뒤죽박죽이고 알아들을 수 없는 소리로만 대답한다."
+
+#: deathforth/events/common/RETINA.df:397
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "is all that remains of somebody who time forgot."
+msgstr "은(는) 시간에게 잊힌 누군가의 마지막 잔재다."
+
+#: deathforth/events/common/RETINA.df:398
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "teleports behind you. Nothing personell, kid."
+msgstr "은(는) 네 뒤로 순간이동한다. 개인적인 감정은 없어, 꼬마야."
+
+#: deathforth/events/common/RETINA.df:399
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "doesn't know anything about the origin of the split down their face."
+msgstr "은(는) 자기 얼굴을 가로지르는 균열이 어디서 왔는지 전혀 모른다."
+
+#: deathforth/events/common/RETINA.df:464
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "h0me?..."
+msgstr "집...?..."
+
+#: deathforth/events/common/RETINA.df:524
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "appears to fade in and out of existence, as if at will."
+msgstr "은(는) 마치 마음대로 존재했다 사라졌다 하는 것 같다."
+
+#: deathforth/events/common/RETINA.df:536
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "H.P LOVECRAFT'S WIFE"
+msgstr "H.P 러브크래프트의 아내"
+
+#: deathforth/events/common/RETINA.df:538
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+" approaches some kind of eldritch entity clenching its wounds. When "
+"beckoned, it momentarily splits into two, but does not respond."
+msgstr "은(는) 상처를 움켜쥔 어떤 기괴한 존재에게 다가간다. 손짓하자 그것은 잠시 둘로 갈라지지만, 대답은 없다."
+
+#: deathforth/events/common/RETINA.df:539
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tReughhh...*whine*...reuuughhh..."
+msgstr ""
+"\r\n"
+"\t으어어...*낑낑*...으어어어..."
+
+#: deathforth/events/common/RETINA.df:541
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tWhat a friendly looking face!"
+msgstr ""
+"\r\n"
+"\t참 친근하게 생긴 얼굴이다!"
+
+#: deathforth/events/common/RETINA.df:543
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tThis extraplanar creature can blink with the SWAP button every so often."
+msgstr ""
+"\r\n"
+"\t이 이차원 생명체는 가끔 교체 버튼으로 순간이동할 수 있다."
+
+#: deathforth/events/common/RETINA.df:545
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tThe creature locks eyes with them suddenly. It tilts its head, as if curious, almost."
+msgstr ""
+"\r\n"
+"\t생명체가 갑자기 그들과 눈을 맞춘다. 거의 호기심이라도 생긴 듯 고개를 갸웃한다."
+
+#: deathforth/events/common/RETINA.df:547
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "Tentatively ask "
+msgstr "조심스럽게: "
+
+#: deathforth/events/common/RETINA.df:547
+#: deathforth/events/common/RETINA.df:565
+msgctxt "deathforth/events/common/RETINA.df"
+msgid " to join"
+msgstr "에게 합류 요청"
+
+#: deathforth/events/common/RETINA.df:548
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "NOPE. NO. THANK YOU"
+msgstr "싫어. 안 돼. 됐어요"
+
+#: deathforth/events/common/RETINA.df:552
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "ROLLING A NATURAL 20 IN EVERY STAT"
+msgstr "모든 능력치 주사위 20 굴림"
+
+#: deathforth/events/common/RETINA.df:554
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+" rushes up to the group, silver sword in hand. A blinding flash of yellow "
+"light follows, as she brings her sword down upon a wandering zombie!"
+msgstr "은(는) 은검을 든 채 일행에게 달려온다. 눈부신 노란빛이 번쩍이더니, 그녀가 떠도는 좀비에게 검을 내리친다!"
+
+#: deathforth/events/common/RETINA.df:559
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tOh, hello hun. Can I help you? I'm Isabelle. It's my job to protect people like you. Let me join, I can get you out of here."
+msgstr ""
+"\r\n"
+"\t어머, 안녕 자기. 도와줄까? 난 이자벨이야. 너희 같은 사람들을 지키는 게 내 일이지. 나를 끼워 줘, 여기서 꺼내 줄게."
+
+#: deathforth/events/common/RETINA.df:561
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tAt a first glance, it's impossible to tell whether she's merely a cosplayer or an actual paladin from the old world."
+msgstr ""
+"\r\n"
+"\t얼핏 봐서는 그냥 코스플레이어인지 진짜 옛 세계의 성기사인지 구분이 안 된다."
+
+#: deathforth/events/common/RETINA.df:563
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tIsabelle can smite enemies on melee hits for extra damage."
+msgstr ""
+"\r\n"
+"\t이자벨은 근접 공격을 맞힐 때 강타로 추가 피해를 줄 수 있다."
+
+#: deathforth/events/common/RETINA.df:565
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "Allow "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/RETINA.df:566
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "Leave this phony behind"
+msgstr "이 가짜는 두고 간다"
+
+#: deathforth/events/common/RETINA.df:570
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "A RACE AGAINST THE CLOCK...CLOCK(S)?"
+msgstr "시간과의 경주... 시계(들)?"
+
+#: deathforth/events/common/RETINA.df:572
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"Time seems to slow to a halt. Sound grows dull. Color seems to unsaturate. Suddenly, out of nowhere, a stranger appears.\r\n"
+"\t"
+msgstr ""
+"시간이 느려지다 멈추는 것 같다. 소리가 먹먹해진다. 색이 바래는 것 같다. 갑자기, 난데없이 낯선 사람이 나타난다.\r\n"
+"\t"
+
+#: deathforth/events/common/RETINA.df:575
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+" turns towards the group, pocketwatch in hand. A short time later, his "
+"silhouette seems to do the same thing."
+msgstr "은(는) 회중시계를 든 채 일행 쪽으로 돌아선다. 잠시 뒤, 그의 실루엣도 똑같이 한다."
+
+#: deathforth/events/common/RETINA.df:576
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\t...drat. I've must've set my machine wrong again...I'd better join you, or I'm toast. And you'd better let me, or else YOU'RE toast."
+msgstr ""
+"\r\n"
+"\t...젠장. 기계 설정을 또 잘못했나 보군... 너희랑 같이 가는 게 좋겠어, 아니면 난 끝장이야. 그리고 날 받아 주는 게 좋을 거다, 안 그러면 너희가 끝장이니까."
+
+#: deathforth/events/common/RETINA.df:578
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tThis must be some kind of traveller from the future! Or possibly just someone who COOL'D IT successfully."
+msgstr ""
+"\r\n"
+"\t미래에서 온 여행자인가 보다! 아니면 그냥 진정하기에 성공한 사람이거나."
+
+#: deathforth/events/common/RETINA.df:580
+msgctxt "deathforth/events/common/RETINA.df"
+msgid ""
+"\r\n"
+"\tOnce per mission, Clock King can stop time itself."
+msgstr ""
+"\r\n"
+"\t임무마다 한 번, 클락 킹은 시간 자체를 멈출 수 있다."
+
+#: deathforth/events/common/RETINA.df:582
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "Let "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/RETINA.df:582
+msgctxt "deathforth/events/common/RETINA.df"
+msgid " join"
+msgstr "을(를) 합류시킨다"
+
+#: deathforth/events/common/RETINA.df:583
+msgctxt "deathforth/events/common/RETINA.df"
+msgid "GO BACK TO THE FUTURE NERD"
+msgstr "미래로 돌아가, 이 찐따야"
+
+#: deathforth/events/common/STOMACH.df:134
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TRY TO KEEP UP~"
+msgstr "따라와 봐~"
+
+#: deathforth/events/common/STOMACH.df:135
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "WHAT'S WRONG?~"
+msgstr "왜 그래?~"
+
+#: deathforth/events/common/STOMACH.df:136
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TOO FAST?~"
+msgstr "너무 빨라?~"
+
+#: deathforth/events/common/STOMACH.df:137
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I'M OUTPACING YOU!~"
+msgstr "내가 앞질렀네!~"
+
+#: deathforth/events/common/STOMACH.df:138
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TRY HARDER!~"
+msgstr "더 열심히 해 봐!~"
+
+#: deathforth/events/common/STOMACH.df:139
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "COME ON NOW~"
+msgstr "자 어서~"
+
+#: deathforth/events/common/STOMACH.df:140
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "HOLY SMOKES~"
+msgstr "세상에~"
+
+#: deathforth/events/common/STOMACH.df:141
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "DAMN I'M GOOD~"
+msgstr "젠장 나 너무 잘해~"
+
+#: deathforth/events/common/STOMACH.df:142
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TRY AGAIN!~"
+msgstr "다시 해 봐!~"
+
+#: deathforth/events/common/STOMACH.df:143
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TOO QUICK!~"
+msgstr "너무 빨라!~"
+
+#: deathforth/events/common/STOMACH.df:144
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "WATCH ME GO!~"
+msgstr "내 움직임 봐!~"
+
+#: deathforth/events/common/STOMACH.df:145
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Oopsie!"
+msgstr "어머나!"
+
+#: deathforth/events/common/STOMACH.df:146
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Hehe, woopsie!~"
+msgstr "헤헤, 어머나!~"
+
+#: deathforth/events/common/STOMACH.df:147
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "GOTTA BE FASTER THAN THAT!"
+msgstr "그보다 빨라야지!"
+
+#: deathforth/events/common/STOMACH.df:148
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "KEEP UP NOW!~"
+msgstr "자 따라와!~"
+
+#: deathforth/events/common/STOMACH.df:149
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "SMASH!~"
+msgstr "스매시!~"
+
+#: deathforth/events/common/STOMACH.df:150
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BASH!~"
+msgstr "배시!~"
+
+#: deathforth/events/common/STOMACH.df:151
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I'M SO GOOD~"
+msgstr "나 너무 잘해~"
+
+#: deathforth/events/common/STOMACH.df:152
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "YOU WISH YOU COULD BE SO FAST!~"
+msgstr "이렇게 빠르면 좋겠지?!~"
+
+#: deathforth/events/common/STOMACH.df:153
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BAY-OH-NETTI!~"
+msgstr "베이-오-네티!~"
+
+#: deathforth/events/common/STOMACH.df:160
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BAYONETTI...BAYO-DEAD-TTI..."
+msgstr "베요네티... 베요-죽-네티..."
+
+#: deathforth/events/common/STOMACH.df:203
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"would probably take off like a rocket if she kept clicking her heels "
+"together."
+msgstr "은(는) 구두 뒤꿈치를 계속 부딪치면 아마 로켓처럼 날아갈 거다."
+
+#: deathforth/events/common/STOMACH.df:242
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "PUNY MORTALS..."
+msgstr "하찮은 필멸자들..."
+
+#: deathforth/events/common/STOMACH.df:243
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TRIBUTE ONTO ME!"
+msgstr "내게 공물을 바쳐라!"
+
+#: deathforth/events/common/STOMACH.df:244
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I AM YOUR SUPERIOR"
+msgstr "나는 너희보다 위대하다"
+
+#: deathforth/events/common/STOMACH.df:245
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BEHOLD, THE MIGHTY!"
+msgstr "보아라, 위대한 자를!"
+
+#: deathforth/events/common/STOMACH.df:246
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BEHOLD, ZEUS!"
+msgstr "보아라, 제우스를!"
+
+#: deathforth/events/common/STOMACH.df:247
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "WAIT, YOU AREN'T MY WIFE"
+msgstr "잠깐, 너 내 아내가 아니잖아"
+
+#: deathforth/events/common/STOMACH.df:248
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I AM YOUR DEITY! PAY RESPECT!"
+msgstr "나는 너희의 신이다! 경배하라!"
+
+#: deathforth/events/common/STOMACH.df:249
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "WANT TO DATE?"
+msgstr "데이트할래?"
+
+#: deathforth/events/common/STOMACH.df:250
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "PATHETIC."
+msgstr "한심하군."
+
+#: deathforth/events/common/STOMACH.df:251
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "DISAPPOINTING..."
+msgstr "실망스럽군..."
+
+#: deathforth/events/common/STOMACH.df:252
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "THIS IS YOUR 'EARTH'?"
+msgstr "이게 너희의 '지구'인가?"
+
+#: deathforth/events/common/STOMACH.df:253
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "MY CURRENT, YOUR VEINS"
+msgstr "나의 전류, 너의 혈관"
+
+#: deathforth/events/common/STOMACH.df:254
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BEHOLD...ZEUS!"
+msgstr "보아라... 제우스를!"
+
+#: deathforth/events/common/STOMACH.df:255
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "MY POWER INCREASES!"
+msgstr "나의 힘이 커진다!"
+
+#: deathforth/events/common/STOMACH.df:256
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "AAHHH... A TRIBUTE."
+msgstr "아아... 공물이군."
+
+#: deathforth/events/common/STOMACH.df:257
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "WITNESS A DEITY'S POWER!"
+msgstr "신의 권능을 목격하라!"
+
+#: deathforth/events/common/STOMACH.df:258
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "YOUR PRAYER, ANSWERED"
+msgstr "너의 기도에 응답했다"
+
+#: deathforth/events/common/STOMACH.df:259
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BY MY WHISKERS."
+msgstr "내 수염에 걸고."
+
+#: deathforth/events/common/STOMACH.df:260
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "THUNDEROUS APPLAUSE..."
+msgstr "우레와 같은 박수..."
+
+#: deathforth/events/common/STOMACH.df:261
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "THUNDER-STRUCK!"
+msgstr "벼락 맞았다!"
+
+#: deathforth/events/common/STOMACH.df:262
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I TAKETH AWAY."
+msgstr "내가 거두어 가노라."
+
+#: deathforth/events/common/STOMACH.df:356
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "OHHHH, TRAGIC DAYYYY!"
+msgstr "오오오, 비극의 날이여어어!"
+
+#: deathforth/events/common/STOMACH.df:430
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"was banished to the USA after an unsightly incident involving a moose and "
+"his wife."
+msgstr "은(는) 무스와 자기 아내가 얽힌 볼썽사나운 사건 이후 미국으로 추방됐다."
+
+#: deathforth/events/common/STOMACH.df:468
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "BURY ME...IN A PLUGHOLE..."
+msgstr "날 묻어 줘... 배수구에..."
+
+#: deathforth/events/common/STOMACH.df:497
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Ah, it's like being at sea again!"
+msgstr "아, 다시 바다에 나온 것 같군!"
+
+#: deathforth/events/common/STOMACH.df:550
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"wonders if that sinking feeling when looking in the mirror will ever fade."
+msgstr "은(는) 거울을 볼 때마다 드는 가라앉는 기분이 언젠가 사라질지 궁금하다."
+
+#: deathforth/events/common/STOMACH.df:583
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "All the world's a bathtub, and us merely the sailors."
+msgstr "온 세상이 욕조이고, 우리는 그저 선원일 뿐."
+
+#: deathforth/events/common/STOMACH.df:588
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Commander Of The Seas And Your Bathtub"
+msgstr "바다와 당신의 욕조의 사령관"
+
+#: deathforth/events/common/STOMACH.df:590
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"At first, this uniformed person is just splashing about in a puddle. Whatever kind of ritual this is, she's having a great time.  \r\n"
+"\tShe looks like an important member of some naval force, or possibly a very eccentric fisherwoman."
+msgstr ""
+"처음에 이 제복 차림의 사람은 그냥 물웅덩이에서 첨벙대고 있다. 무슨 의식인지 몰라도, 엄청 즐거워 보인다.  \r\n"
+"\t어느 해군의 중요한 인물 같아 보인다. 아니면 아주 괴짜인 어부거나."
+
+#: deathforth/events/common/STOMACH.df:592
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"This character can exchange food for gas supply drops. She's very powerful "
+"in wet weather or environments."
+msgstr "이 캐릭터는 식량을 기름 보급품 투하와 바꿀 수 있다. 비 오는 날씨나 젖은 환경에서 매우 강하다."
+
+#: deathforth/events/common/STOMACH.df:594
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Leave her for now"
+msgstr "일단 두고 간다"
+
+#: deathforth/events/common/STOMACH.df:595
+#: deathforth/events/common/STOMACH.df:668
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Hire her - 15 food"
+msgstr "고용한다 - 식량 15"
+
+#: deathforth/events/common/STOMACH.df:597
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "You need 15 food to recruit Admiral Raven to the party."
+msgstr "레이븐 제독을 영입하려면 식량 15가 필요하다."
+
+#: deathforth/events/common/STOMACH.df:598
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "No bathtub navy for you!"
+msgstr "욕조 해군은 너희에게 과분해!"
+
+#: deathforth/events/common/STOMACH.df:609
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"THIS TRIBUTE IS...SUFFICIENT. ALSO, TASTY. ARE THESE CHIPS LIGHTNING "
+"FLAVOURED?"
+msgstr "이 공물은... 충분하다. 그리고 맛있군. 이 과자 번개 맛인가?"
+
+#: deathforth/events/common/STOMACH.df:610
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Perhaps the group WILL make it to Canada, after all!"
+msgstr "어쩌면 일행은 결국 캐나다에 도착할지도 모르겠다!"
+
+#: deathforth/events/common/STOMACH.df:615
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"YOU, DEAR MORTAL. YOU, MORTAL WHO IS PUNY, TINY, PATHETIC, WEAK, IN YOUR "
+"FRAIL FLESH FORM..."
+msgstr "너, 필멸자여. 너, 하찮고, 조그맣고, 한심하고, 나약한, 연약한 육신을 지닌 필멸자여..."
+
+#: deathforth/events/common/STOMACH.df:617
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Would ask ME - ME? - ZEUS OF MOUNT OLYMPUS...TO COOL IT?"
+msgstr "감히 나에게 - 나에게? - 올림포스산의 제우스에게... 진정하라고?"
+
+#: deathforth/events/common/STOMACH.df:618
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"In retrospect, this was a popping-a-tire-on-the-freeway level bad idea. With"
+" a flick of his fingers, Zeus turns "
+msgstr "돌이켜 보면, 고속도로에서 타이어 터지는 수준의 나쁜 생각이었다. 제우스가 손가락을 튕기자, "
+
+#: deathforth/events/common/STOMACH.df:618
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "'s organs into pure ZP. Nothing remains."
+msgstr "의 장기가 순수한 ZP로 변한다. 아무것도 남지 않는다."
+
+#: deathforth/events/common/STOMACH.df:619
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Zeus, at least, looks pleased with himself."
+msgstr "적어도 제우스는 자기한테 만족한 표정이다."
+
+#: deathforth/events/common/STOMACH.df:626
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "TRUE SIGHT"
+msgstr "진실의 눈"
+
+#: deathforth/events/common/STOMACH.df:628
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"It's literally Zeus. The DINK. The myth. The legend. Here and now, right in "
+"front of you, wandering Earth in human form!"
+msgstr "말 그대로 제우스다. 그 얼간이. 그 신화. 그 전설. 바로 지금, 바로 눈앞에, 인간의 모습으로 지상을 떠돌고 있다!"
+
+#: deathforth/events/common/STOMACH.df:629
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "MORTALS...WHAT TRIBUTE DO YOU HAVE FOR YOUR SUPERIOR?"
+msgstr "필멸자들이여... 너희의 윗분께 어떤 공물을 바치겠느냐?"
+
+#: deathforth/events/common/STOMACH.df:630
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Thunder quakes between his words in the far distance."
+msgstr "그의 말 사이사이로 먼 곳에서 천둥이 울린다."
+
+#: deathforth/events/common/STOMACH.df:630
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "...it could also just be a chips packet opening."
+msgstr "...그냥 과자 봉지 뜯는 소리일 수도 있다."
+
+#: deathforth/events/common/STOMACH.df:631
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"This character wields lightning with great effectiveness, but it must be "
+"charged through melee attacks."
+msgstr "이 캐릭터는 번개를 아주 효과적으로 다루지만, 근접 공격으로 충전해야 한다."
+
+#: deathforth/events/common/STOMACH.df:633
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Leave him for now"
+msgstr "일단 두고 간다"
+
+#: deathforth/events/common/STOMACH.df:634
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Hire him - 25 food"
+msgstr "고용한다 - 식량 25"
+
+#: deathforth/events/common/STOMACH.df:637
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "You need 25 food to recruit him to the party."
+msgstr "동료로 영입하려면 식량 25가 필요하다."
+
+#: deathforth/events/common/STOMACH.df:638
+#: deathforth/events/common/STOMACH.df:671
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Can't spare the food"
+msgstr "식량을 줄 여유가 없다"
+
+#: deathforth/events/common/STOMACH.df:641
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " tells Zeus to 'Cool It'"
+msgstr "이(가) 제우스에게 '진정해'라고 한다"
+
+#: deathforth/events/common/STOMACH.df:654
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "YESYESYESYESYES! THIS'LL BE BLOODY BRILLIANT! ;3"
+msgstr "좋아좋아좋아좋아좋아! 완전 끝내주겠다! ;3"
+
+#: deathforth/events/common/STOMACH.df:660
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "SURVIVORS OF THE VAMPIRIC VARIETY"
+msgstr "뱀파이어 계열 생존자"
+
+#: deathforth/events/common/STOMACH.df:662
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"This woman won't stop talking. It's a relentless self-confident assault on "
+"the senses. Nevertheless, she seems to be hauling a variety of good weapons,"
+" as well as two pistols."
+msgstr ""
+"이 여자는 말을 멈추지 않는다. 자신감 넘치는 말이 감각을 끊임없이 공격한다. 그래도 좋은 무기 여러 개와 권총 두 자루를 끌고 다니는 "
+"것 같다."
+
+#: deathforth/events/common/STOMACH.df:663
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"OOH OOH HIRE ME! HIRE ME! I'LL BE SO FAST YOU WON'T BE ABLE TO KEEP UP, "
+"DARLING~"
+msgstr "우우 나 고용해! 나 고용해! 너무 빨라서 따라오지도 못할걸, 자기~"
+
+#: deathforth/events/common/STOMACH.df:664
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I'm sitting in this cyoa and even I already think she's annoying."
+msgstr "이 선택지를 쓰고 있는 나조차 벌써 그녀가 짜증 난다."
+
+#: deathforth/events/common/STOMACH.df:665
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"This character has a combo system. When killing with your locked-slot "
+"weapon, you'll roll a new weapon afterwards."
+msgstr "이 캐릭터는 콤보 시스템이 있다. 고정 칸 무기로 처치하면 다음 무기가 무작위로 바뀐다."
+
+#: deathforth/events/common/STOMACH.df:667
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Spare your ears"
+msgstr "귀를 아낀다"
+
+#: deathforth/events/common/STOMACH.df:670
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "You need 15 food to recruit her to the party."
+msgstr "그녀를 영입하려면 식량 15가 필요하다."
+
+#: deathforth/events/common/STOMACH.df:696
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "is trapped in this dimension as punishment for the roomgen system."
+msgstr "은(는) 룸젠 시스템에 대한 벌로 이 차원에 갇혀 있다."
+
+#: deathforth/events/common/STOMACH.df:719
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"is mostly here on accident after 'quit-to-title' stopped working for her."
+msgstr "은(는) '타이틀로 나가기'가 작동을 멈추는 바람에 거의 실수로 여기 와 있다."
+
+#: deathforth/events/common/STOMACH.df:737
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "i lost?"
+msgstr "나 졌어?"
+
+#: deathforth/events/common/STOMACH.df:785
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"will also steal your partner, children and house if unattended. A thief "
+"through and through!"
+msgstr "은(는) 방치하면 네 애인, 아이, 집까지 훔쳐 간다. 뼛속까지 도둑이다!"
+
+#: deathforth/events/common/STOMACH.df:793
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "NYEHEHEHEHEH"
+msgstr "녜헤헤헤헤헤"
+
+#: deathforth/events/common/STOMACH.df:794
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Nyheheheheh"
+msgstr "녜헤헤헤헤"
+
+#: deathforth/events/common/STOMACH.df:795
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "hehehehehh"
+msgstr "헤헤헤헤헤"
+
+#: deathforth/events/common/STOMACH.df:796
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "HEHEHEHEH"
+msgstr "헤헤헤헤헤"
+
+#: deathforth/events/common/STOMACH.df:797
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "HEY LEWIS"
+msgstr "어이 루이스"
+
+#: deathforth/events/common/STOMACH.df:798
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "hey lewis"
+msgstr "어이 루이스"
+
+#: deathforth/events/common/STOMACH.df:799
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "NYEHEHEH HEHEHEH"
+msgstr "녜헤헤헤 헤헤헤"
+
+#: deathforth/events/common/STOMACH.df:800
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "nyehehehehh"
+msgstr "녜헤헤헤헤"
+
+#: deathforth/events/common/STOMACH.df:801
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I am...ELECTRIC MAN"
+msgstr "나는... 일렉트릭 맨"
+
+#: deathforth/events/common/STOMACH.df:802
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "pewter...the zombies are here."
+msgstr "퓨터... 좀비들이 왔어."
+
+#: deathforth/events/common/STOMACH.df:803
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "this is worse than the time when..."
+msgstr "이건 그때보다 더 심하네..."
+
+#: deathforth/events/common/STOMACH.df:804
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "SHUT UP MEG."
+msgstr "닥쳐 멕."
+
+#: deathforth/events/common/STOMACH.df:805
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "INSERT CUTAWAY GAG"
+msgstr "컷어웨이 개그 삽입"
+
+#: deathforth/events/common/STOMACH.df:806
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "at least I'm not drinking."
+msgstr "적어도 술은 안 마시잖아."
+
+#: deathforth/events/common/STOMACH.df:807
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "I just wanna talk to him."
+msgstr "그냥 그 녀석이랑 얘기하고 싶을 뿐이야."
+
+#: deathforth/events/common/STOMACH.df:808
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Buttscratcher."
+msgstr "엉덩이 긁개."
+
+#: deathforth/events/common/STOMACH.df:809
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Life is a terrible thing!"
+msgstr "인생은 끔찍한 거야!"
+
+#: deathforth/events/common/STOMACH.df:810
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "IT INSISTS UPON ITSELF."
+msgstr "그건 스스로를 강요해."
+
+#: deathforth/events/common/STOMACH.df:811
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "OOOH! A DOLLAR."
+msgstr "오오! 1달러다."
+
+#: deathforth/events/common/STOMACH.df:824
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "hey, hey "
+msgstr "야, 야 "
+
+#: deathforth/events/common/STOMACH.df:826
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "hey "
+msgstr "야 "
+
+#: deathforth/events/common/STOMACH.df:834
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "*gasp*...aaaaaah...*gasp*...ahhhh..."
+msgstr "*헉*...아아아아...*헉*...아아..."
+
+#: deathforth/events/common/STOMACH.df:879
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"is wondering where all those good old-fashioned values have gone. Nyehehehe."
+msgstr "은(는) 그 좋았던 옛 가치들이 다 어디로 갔는지 궁금하다. 녜헤헤헤."
+
+#: deathforth/events/common/STOMACH.df:913
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "continuously whispers that"
+msgstr "은(는) 계속 속삭인다:"
+
+#: deathforth/events/common/STOMACH.df:913
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " THE EVIL PLANT MUST PAY."
+msgstr " 사악한 식물은 대가를 치러야 한다."
+
+#: deathforth/events/common/STOMACH.df:921
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"WELL, IT WOULD TAKE YOU A FEW THOUSAND YEARS TO LEARN WHAT I HAVE LEARNED..."
+msgstr "글쎄, 내가 배운 걸 배우려면 너희는 몇천 년은 걸릴 거다..."
+
+#: deathforth/events/common/STOMACH.df:922
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "ok, no need to be a dink about it."
+msgstr "그래, 그렇게까지 재수 없게 굴 필요는 없잖아."
+
+#: deathforth/events/common/STOMACH.df:924
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"HMM...I DID BUY THESE HEALING ITEMS FOR THE UPCOMING BATTLE. THEY WON'T BE "
+"OF MUCH USE TO ME NOW. YOU CAN HAVE THEM INSTEAD."
+msgstr "흠... 다가올 전투를 위해 이 회복 아이템을 사 뒀는데. 이제 나한텐 별 쓸모가 없겠군. 대신 너희가 가져라."
+
+#: deathforth/events/common/STOMACH.df:925
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Magus gives the group 2 healing sprays!"
+msgstr "마구스가 일행에게 힐링 스프레이 2개를 준다!"
+
+#: deathforth/events/common/STOMACH.df:926
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"Afterwards, he performs a circular hand motion. A ritual circle appears at "
+"his feet. In a second, he vanishes into thin air! Magical."
+msgstr "그러고는 손으로 원을 그린다. 그의 발밑에 의식의 원이 나타난다. 순식간에 그는 허공으로 사라진다! 마법이다."
+
+#: deathforth/events/common/STOMACH.df:932
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "DOGS OF THE APIARY 2...WAIT, NO"
+msgstr "양봉장의 개들 2... 아니, 잠깐"
+
+#: deathforth/events/common/STOMACH.df:934
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"When the group exits their car for a break, heavenly music plays. White "
+"flashes in their eyes. In front of them, some sort of green-goblin looking "
+"magic thing materialises."
+msgstr ""
+"일행이 쉬려고 차에서 내리자, 천상의 음악이 흐른다. 눈앞에 하얀 빛이 번쩍인다. 그들 앞에 초록 고블린처럼 생긴 마법적인 무언가가 "
+"나타난다."
+
+#: deathforth/events/common/STOMACH.df:935
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " looks around, confused, glancing at his hands and then back towards "
+msgstr "은(는) 당황한 채 주위를 둘러보고, 자기 손을 내려다봤다가 다시 바라본다: "
+
+#: deathforth/events/common/STOMACH.df:935
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ". He has some kind of staff."
+msgstr ". 그는 지팡이 같은 걸 들고 있다."
+
+#: deathforth/events/common/STOMACH.df:936
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "SOOOOO, THAT WAS DEATH. INTER-EST-ING. Oh, hello friends!"
+msgstr "그러니까아아, 그게 죽음이었군. 흥-미-롭-군. 아, 안녕 친구들!"
+
+#: deathforth/events/common/STOMACH.df:937
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "It's not everyday somebody on the road respawns in front of you."
+msgstr "길에서 누가 눈앞에 리스폰하는 일은 흔치 않다."
+
+#: deathforth/events/common/STOMACH.df:938
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Magus can copy other weapons for himself and also can use magic."
+msgstr "마구스는 다른 무기를 복사해 쓸 수 있고 마법도 쓸 수 있다."
+
+#: deathforth/events/common/STOMACH.df:939
+#: deathforth/events/common/STOMACH.df:940
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Ask "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/STOMACH.df:939
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " to join"
+msgstr "에게 합류 요청"
+
+#: deathforth/events/common/STOMACH.df:940
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " for some magic tips"
+msgstr "에게 마법 팁 요청"
+
+#: deathforth/events/common/STOMACH.df:941
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Forget this jerk"
+msgstr "이 재수 없는 놈은 잊는다"
+
+#: deathforth/events/common/STOMACH.df:947
+#: deathforth/events/common/STOMACH.df:1079
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t이 사람 자리를 만들려면 누구를 뺄까: "
+
+#: deathforth/events/common/STOMACH.df:952
+#: deathforth/events/common/STOMACH.df:1084
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " accepts "
+msgstr "은(는) "
+
+#: deathforth/events/common/STOMACH.df:952
+#: deathforth/events/common/STOMACH.df:1084
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " to the team!"
+msgstr "을(를) 일행으로 받아들인다!"
+
+#: deathforth/events/common/STOMACH.df:954
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " almost chokes to death on the rice cakes!"
+msgstr "은(는) 떡을 먹다가 숨이 막혀 죽을 뻔한다!"
+
+#: deathforth/events/common/STOMACH.df:962
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "HUMANOID MALE OF THE FAMILIAL VARIETY"
+msgstr "가족 계열의 인간형 남성"
+
+#: deathforth/events/common/STOMACH.df:964
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "NYEHEHEHEHEHE. NYEHEHEHEHEHE..."
+msgstr "녜헤헤헤헤헤. 녜헤헤헤헤헤..."
+
+#: deathforth/events/common/STOMACH.df:965
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "HEY...HEY "
+msgstr "야... 야 "
+
+#: deathforth/events/common/STOMACH.df:965
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " HEY, "
+msgstr " 야, "
+
+#: deathforth/events/common/STOMACH.df:966
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " looks around, terrified. Who said that?"
+msgstr "은(는) 겁에 질려 주위를 둘러본다. 누가 말한 거지?"
+
+#: deathforth/events/common/STOMACH.df:967
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "There's a large man with cartoon-like glasses ahead."
+msgstr "앞에 만화 같은 안경을 쓴 덩치 큰 남자가 있다."
+
+#: deathforth/events/common/STOMACH.df:968
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Between laughs, he says he'll join you, for some"
+msgstr "웃음 사이사이로, 그는 이걸 주면 합류하겠다고 한다:"
+
+#: deathforth/events/common/STOMACH.df:968
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " rice cakes."
+msgstr " 떡."
+
+#: deathforth/events/common/STOMACH.df:971
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Offer "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/STOMACH.df:971
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " 5 food of rice cakes"
+msgstr "에게 떡(식량 5) 주기"
+
+#: deathforth/events/common/STOMACH.df:973
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Reject him"
+msgstr "거절한다"
+
+#: deathforth/events/common/STOMACH.df:1009
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Strength"
+msgstr "근력 +1"
+
+#: deathforth/events/common/STOMACH.df:1010
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Fitness"
+msgstr "체력 +1"
+
+#: deathforth/events/common/STOMACH.df:1011
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Shooting"
+msgstr "사격 +1"
+
+#: deathforth/events/common/STOMACH.df:1012
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Medical"
+msgstr "의술 +1"
+
+#: deathforth/events/common/STOMACH.df:1013
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Mechanical"
+msgstr "기계 +1"
+
+#: deathforth/events/common/STOMACH.df:1014
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+2 Strength"
+msgstr "근력 +2"
+
+#: deathforth/events/common/STOMACH.df:1014
+#: deathforth/events/common/STOMACH.df:1015
+#: deathforth/events/common/STOMACH.df:1016
+#: deathforth/events/common/STOMACH.df:1017
+#: deathforth/events/common/STOMACH.df:1018
+#: deathforth/events/common/STOMACH.df:1023
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " +0.1x zombs"
+msgstr " 좀비 +0.1배"
+
+#: deathforth/events/common/STOMACH.df:1015
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+2 Fitness"
+msgstr "체력 +2"
+
+#: deathforth/events/common/STOMACH.df:1016
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+2 Shooting"
+msgstr "사격 +2"
+
+#: deathforth/events/common/STOMACH.df:1017
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+2 Medical"
+msgstr "의술 +2"
+
+#: deathforth/events/common/STOMACH.df:1018
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+2 Mech"
+msgstr "기계 +2"
+
+#: deathforth/events/common/STOMACH.df:1020
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Carry Slot"
+msgstr "소지 칸 +1"
+
+#: deathforth/events/common/STOMACH.df:1022
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+1 Max HP"
+msgstr "최대 체력 +1"
+
+#: deathforth/events/common/STOMACH.df:1023
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "+2 Max HP"
+msgstr "최대 체력 +2"
+
+#: deathforth/events/common/STOMACH.df:1025
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Reroll Personality"
+msgstr "성격 다시 굴리기"
+
+#: deathforth/events/common/STOMACH.df:1051
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "ALL OUTTA UPGRADES!"
+msgstr "업그레이드가 다 떨어졌다!"
+
+#: deathforth/events/common/STOMACH.df:1060
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "LEVEL UP!"
+msgstr "레벨 업!"
+
+#: deathforth/events/common/STOMACH.df:1061
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " is missing. Oh well. "
+msgstr "이(가) 없다. 뭐, 어쩔 수 없지. "
+
+#: deathforth/events/common/STOMACH.df:1061
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " was never going to reach "
+msgstr "은(는) 어차피 닿지 못했을 거다: "
+
+#: deathforth/events/common/STOMACH.df:1061
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "this campaign's end"
+msgstr "이번 캠페인의 끝"
+
+#: deathforth/events/common/STOMACH.df:1061
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " anyway."
+msgstr "."
+
+#: deathforth/events/common/STOMACH.df:1062
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "With every passing day,"
+msgstr "하루하루 지날수록,"
+
+#: deathforth/events/common/STOMACH.df:1062
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " Nimbus Ordeal "
+msgstr " 님버스 오디얼의 "
+
+#: deathforth/events/common/STOMACH.df:1062
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "gains more and more power."
+msgstr "힘이 점점 더 커진다."
+
+#: deathforth/events/common/STOMACH.df:1063
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "He'll need to accumulate even more power if he wants to finish his"
+msgstr "그가 자신의"
+
+#: deathforth/events/common/STOMACH.df:1063
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " legendary quest"
+msgstr " 전설적인 여정"
+
+#: deathforth/events/common/STOMACH.df:1063
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " and win."
+msgstr "을(를) 마치고 이기려면 힘을 더 모아야 한다."
+
+#: deathforth/events/common/STOMACH.df:1064
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Pick an upgrade for him:"
+msgstr "그를 위한 업그레이드를 고르세요:"
+
+#: deathforth/events/common/STOMACH.df:1074
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+" accepts a spare ace of hearts card. As it transitions into his hand, it "
+"suddenly becomes "
+msgstr "은(는) 남는 하트 에이스 카드를 받는다. 카드가 손에 들어가자 갑자기 "
+
+#: deathforth/events/common/STOMACH.df:1074
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "steel-like"
+msgstr "강철처럼"
+
+#: deathforth/events/common/STOMACH.df:1074
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " and a "
+msgstr " 단단해지고, "
+
+#: deathforth/events/common/STOMACH.df:1074
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "red seal"
+msgstr "붉은 인장"
+
+#: deathforth/events/common/STOMACH.df:1074
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " appears out of nowhere."
+msgstr "이 난데없이 나타난다."
+
+#: deathforth/events/common/STOMACH.df:1075
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "As soon as "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/STOMACH.df:1075
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid " puts the card on the table, the plant pot explodes!"
+msgstr "이(가) 카드를 테이블에 내려놓자마자, 화분이 폭발한다!"
+
+#: deathforth/events/common/STOMACH.df:1076
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"YOU'RE A REAL JOKER! THANKS. I'LL FOLLOW YOU, AT LEAST TO THE END OF THIS "
+"ANTE."
+msgstr "너 진짜 조커구나! 고마워. 따라갈게, 적어도 이번 앤티가 끝날 때까지는."
+
+#: deathforth/events/common/STOMACH.df:1090
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "COLD STAKE CANADIAN DECK"
+msgstr "콜드 스테이크 캐나다 덱"
+
+#: deathforth/events/common/STOMACH.df:1092
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "The group is walking through a park when they come across a jester."
+msgstr "일행이 공원을 지나다가 광대를 만난다."
+
+#: deathforth/events/common/STOMACH.df:1093
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+" seems to be deep into some kind of insane poker game. Across from him sits "
+"a plant in a pot."
+msgstr "은(는) 미친 포커 게임에 푹 빠져 있는 것 같다. 맞은편엔 화분에 심긴 식물이 앉아 있다."
+
+#: deathforth/events/common/STOMACH.df:1094
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "THE EVIL PLANT MUST PAY. THE EVIL PLANT MUST PAY."
+msgstr "사악한 식물은 대가를 치러야 한다. 사악한 식물은 대가를 치러야 한다."
+
+#: deathforth/events/common/STOMACH.df:1095
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid ""
+"Somehow, despite playing against an inanimate object, he seems to be losing."
+msgstr "어째선지, 무생물과 게임을 하면서도 지고 있는 것 같다."
+
+#: deathforth/events/common/STOMACH.df:1097
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Bribe him with a card"
+msgstr "카드로 매수한다"
+
+#: deathforth/events/common/STOMACH.df:1098
+msgctxt "deathforth/events/common/STOMACH.df"
+msgid "Leave him behind"
+msgstr "두고 간다"
+
+#: deathforth/events/common/TRACHEA.df:19
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "How much more betrayal can I take?"
+msgstr "얼마나 더 배신당해야 하지?"
+
+#: deathforth/events/common/TRACHEA.df:20
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "How bout that dink's face?"
+msgstr "저 얼간이 얼굴 좀 봐라?"
+
+#: deathforth/events/common/TRACHEA.df:21
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "I'm the kingpin."
+msgstr "내가 두목이다."
+
+#: deathforth/events/common/TRACHEA.df:22
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Never had the makings of a varsity athlete."
+msgstr "대표 선수감은 아니었지."
+
+#: deathforth/events/common/TRACHEA.df:23
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "20 years in a sardine can."
+msgstr "정어리 통조림에서 20년."
+
+#: deathforth/events/common/TRACHEA.df:24
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Zombies don't buy drink."
+msgstr "좀비는 술을 안 사."
+
+#: deathforth/events/common/TRACHEA.df:25
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Capped."
+msgstr "끝냈다."
+
+#: deathforth/events/common/TRACHEA.df:26
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Capiche?"
+msgstr "알아들어?"
+
+#: deathforth/events/common/TRACHEA.df:27
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Ya understand me?"
+msgstr "내 말 알아듣겠어?"
+
+#: deathforth/events/common/TRACHEA.df:28
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "You come to me...on the day of my 4th kidney stone..."
+msgstr "내 네 번째 신장 결석 날에... 날 찾아오다니..."
+
+#: deathforth/events/common/TRACHEA.df:29
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "It won't be cinematic."
+msgstr "영화처럼 멋지진 않을 거다."
+
+#: deathforth/events/common/TRACHEA.df:30
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Just do as you're told."
+msgstr "시키는 대로나 해."
+
+#: deathforth/events/common/TRACHEA.df:31
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "No knees? Just compromise."
+msgstr "무릎이 없다고? 그럼 타협해."
+
+#: deathforth/events/common/TRACHEA.df:32
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Family is everything. Mine are zombies."
+msgstr "가족이 전부야. 내 가족은 좀비지만."
+
+#: deathforth/events/common/TRACHEA.df:33
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Heyyyyyy how ya doinnnn?"
+msgstr "헤이이이이 잘 지내에에?"
+
+#: deathforth/events/common/TRACHEA.df:34
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "This is the schmutz."
+msgstr "이건 쓰레기야."
+
+#: deathforth/events/common/TRACHEA.df:35
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Where's the gabagool?"
+msgstr "카피콜라는 어딨어?"
+
+#: deathforth/events/common/TRACHEA.df:36
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "20 Gs on my desk by sundown."
+msgstr "해 질 때까지 내 책상에 2만 달러."
+
+#: deathforth/events/common/TRACHEA.df:37
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Get 'em boys!"
+msgstr "쳐라, 얘들아!"
+
+#: deathforth/events/common/TRACHEA.df:38
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "You better watch yourself!"
+msgstr "몸조심하는 게 좋을 거다!"
+
+#: deathforth/events/common/TRACHEA.df:39
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "You got-a bee on-a your hat!"
+msgstr "모자-에 벌-이 있다고!"
+
+#: deathforth/events/common/TRACHEA.df:54
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "2x!"
+msgstr "2배!"
+
+#: deathforth/events/common/TRACHEA.df:75
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "You can't kill me...I'm made!"
+msgstr "날 죽일 순 없어... 난 조직원이라고!"
+
+#: deathforth/events/common/TRACHEA.df:91
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"did 20 years in the can eating gabagool off the grilled cheese radiator."
+msgstr "은(는) 감방에서 20년 동안 그릴드 치즈 라디에이터 위의 카피콜라를 먹으며 지냈다."
+
+#: deathforth/events/common/TRACHEA.df:121
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "isn't even being paid anymore, he just loves his job."
+msgstr "은(는) 이제 월급도 못 받지만, 그냥 자기 일을 사랑한다."
+
+#: deathforth/events/common/TRACHEA.df:154
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " has modified the engine for even greater efficiency."
+msgstr "은(는) 엔진을 개조해 효율을 더 높였다."
+
+#: deathforth/events/common/TRACHEA.df:155
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " tinkered with the timing of the pistons."
+msgstr "은(는) 피스톤 타이밍을 손봤다."
+
+#: deathforth/events/common/TRACHEA.df:156
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " fiddled with the air-fuel mixture."
+msgstr "은(는) 공기-연료 혼합비를 조절했다."
+
+#: deathforth/events/common/TRACHEA.df:157
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " replaced an outdated part in the engine."
+msgstr "은(는) 엔진의 낡은 부품을 교체했다."
+
+#: deathforth/events/common/TRACHEA.df:158
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " is trying out a leaner fuel formula."
+msgstr "은(는) 더 희박한 연료 배합을 시험 중이다."
+
+#: deathforth/events/common/TRACHEA.df:159
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " is driving the car with ludicrous speed."
+msgstr "은(는) 터무니없는 속도로 차를 몰고 있다."
+
+#: deathforth/events/common/TRACHEA.df:160
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " is driving like a maniac."
+msgstr "은(는) 미치광이처럼 운전하고 있다."
+
+#: deathforth/events/common/TRACHEA.df:161
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " has his foot almost surgically attached to the accelerator."
+msgstr "은(는) 발이 거의 수술로 가속 페달에 붙어 있다."
+
+#: deathforth/events/common/TRACHEA.df:183
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Car MPG improved!"
+msgstr "차 연비 향상!"
+
+#: deathforth/events/common/TRACHEA.df:184
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Car speed increased!"
+msgstr "차 속도 증가!"
+
+#: deathforth/events/common/TRACHEA.df:197
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"is a person we know only two things about: he's good at driving, and he's "
+"called The Stug."
+msgstr "은(는) 우리가 딱 두 가지만 아는 사람이다: 운전을 잘하고, 이름이 스터그라는 것."
+
+#: deathforth/events/common/TRACHEA.df:213
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "WAAAAHOOHOOHOOOO"
+msgstr "와아아아후후후우우"
+
+#: deathforth/events/common/TRACHEA.df:214
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "YEEEHOOOOOOO"
+msgstr "이이이호오오오오오"
+
+#: deathforth/events/common/TRACHEA.df:215
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "AAYYYYHOOOOOO"
+msgstr "아아이이이호오오오오"
+
+#: deathforth/events/common/TRACHEA.df:216
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "HOOOHOOOO HOOOOOHHH"
+msgstr "호오오호오오 호오오오오"
+
+#: deathforth/events/common/TRACHEA.df:217
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "I CAN SEE MY HOUSE!"
+msgstr "우리 집이 보인다!"
+
+#: deathforth/events/common/TRACHEA.df:218
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "AAAAAAAAAAAA"
+msgstr "아아아아아아아아아아아아"
+
+#: deathforth/events/common/TRACHEA.df:219
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "AAAaaaaaaAAAAAAHHHH"
+msgstr "아아아아아아아아아아아악"
+
+#: deathforth/events/common/TRACHEA.df:220
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "GAHHHHHHHHHHH"
+msgstr "크아아아아아아아악"
+
+#: deathforth/events/common/TRACHEA.df:221
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "THAT HURT! YOU MOTHER-"
+msgstr "아프잖아! 이 개자-"
+
+#: deathforth/events/common/TRACHEA.df:222
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "YEEEEHHAWWWWWW"
+msgstr "이이이이햐아아아"
+
+#: deathforth/events/common/TRACHEA.df:269
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "I'M GONNA CRASH OUT!"
+msgstr "나 박살 난다!"
+
+#: deathforth/events/common/TRACHEA.df:284
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"is very insecure about his intelligence after being called 'dummy' his whole"
+" life."
+msgstr "은(는) 평생 '더미'라고 불린 탓에 자기 지능에 대해 자격지심이 심하다."
+
+#: deathforth/events/common/TRACHEA.df:315
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " has fixed up some old scrap into a workable weapon!"
+msgstr "은(는) 낡은 고철을 손봐서 쓸 만한 무기로 만들었다!"
+
+#: deathforth/events/common/TRACHEA.df:316
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " has produced another firearm!"
+msgstr "은(는) 총을 또 하나 만들어 냈다!"
+
+#: deathforth/events/common/TRACHEA.df:317
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " crafted up a gun for the team!"
+msgstr "은(는) 일행을 위해 총을 만들었다!"
+
+#: deathforth/events/common/TRACHEA.df:318
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " has completed their latest gun project!"
+msgstr "은(는) 최신 총기 프로젝트를 완성했다!"
+
+#: deathforth/events/common/TRACHEA.df:319
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " didn't blow up while working on their new gun!"
+msgstr "은(는) 새 총을 만들다가 폭발하지 않았다!"
+
+#: deathforth/events/common/TRACHEA.df:320
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " repaired an old firearm for the team!"
+msgstr "은(는) 일행을 위해 낡은 총을 수리했다!"
+
+#: deathforth/events/common/TRACHEA.df:325
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " is still working hard on his latest project."
+msgstr "은(는) 여전히 최신 프로젝트에 열심이다."
+
+#: deathforth/events/common/TRACHEA.df:326
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " needs more time to finish his firearms project."
+msgstr "은(는) 총기 프로젝트를 끝내려면 시간이 더 필요하다."
+
+#: deathforth/events/common/TRACHEA.df:327
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " works industrously to repair an old firearm."
+msgstr "은(는) 낡은 총을 고치려고 부지런히 일한다."
+
+#: deathforth/events/common/TRACHEA.df:328
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " is tinkering with an old gun in his spare time."
+msgstr "은(는) 남는 시간에 낡은 총을 만지작거리고 있다."
+
+#: deathforth/events/common/TRACHEA.df:329
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " has a repair side-project going on again."
+msgstr "은(는) 또 수리 부업을 벌이고 있다."
+
+#: deathforth/events/common/TRACHEA.df:330
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " is exercising his mechanical skills in the downtime."
+msgstr "은(는) 쉬는 시간에 기계 실력을 갈고닦는다."
+
+#: deathforth/events/common/TRACHEA.df:353
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " forges some ammo for the trip."
+msgstr "은(는) 여정을 위해 탄약을 만든다."
+
+#: deathforth/events/common/TRACHEA.df:369
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "has the designs for the first eye-phone rolling around his head."
+msgstr "은(는) 최초의 아이폰 설계도를 머릿속에 굴리고 있다."
+
+#: deathforth/events/common/TRACHEA.df:406
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "bury me...in an inflatable pool..."
+msgstr "날 묻어 줘... 비닐 풀장에..."
+
+#: deathforth/events/common/TRACHEA.df:414
+#: deathforth/events/common/TRACHEA.df:1039
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "READY "
+msgstr "준비 "
+
+#: deathforth/events/common/TRACHEA.df:532
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "likes to play shot-put...with an entire anchor. For fun."
+msgstr "은(는) 닻을 통째로 들고 포환던지기를 한다. 재미로."
+
+#: deathforth/events/common/TRACHEA.df:575
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "is passionate about their ever growing collection of daggers."
+msgstr "은(는) 계속 늘어나는 단검 컬렉션에 열정적이다."
+
+#: deathforth/events/common/TRACHEA.df:601
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"The group is full.\r\n"
+"\t\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t\t이 사람 자리를 만들려면 누구를 뺄까: "
+
+#: deathforth/events/common/TRACHEA.df:606
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " accepts "
+msgstr "은(는) "
+
+#: deathforth/events/common/TRACHEA.df:606
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " to the team!"
+msgstr "을(를) 일행으로 받아들인다!"
+
+#: deathforth/events/common/TRACHEA.df:612
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "THE ARENA OF THE ONE"
+msgstr "단 하나의 경기장"
+
+#: deathforth/events/common/TRACHEA.df:614
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+" fights the First Mate successfully! As per naval tradition, she is legally "
+"obligated to offer her position as part of the team."
+msgstr "은(는) 일등 항해사와 싸워 이긴다! 해군 전통에 따라, 그녀는 법적으로 일행 자리에 합류를 제안해야 한다."
+
+#: deathforth/events/common/TRACHEA.df:615
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "THAT THERE WAS A PROPER SCUFFLE! YOU'AR AN ALRIGHT FELLA."
+msgstr "그거 제대로 된 한판이었다! 너 꽤 괜찮은 녀석이구먼."
+
+#: deathforth/events/common/TRACHEA.df:618
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Let her go"
+msgstr "보내 준다"
+
+#: deathforth/events/common/TRACHEA.df:619
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Recruit her"
+msgstr "영입한다"
+
+#: deathforth/events/common/TRACHEA.df:621
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " fights the First Mate! "
+msgstr "은(는) 일등 항해사와 싸운다! "
+
+#: deathforth/events/common/TRACHEA.df:621
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " punches them up easily."
+msgstr "은(는) 일행을 가볍게 두들겨 팬다."
+
+#: deathforth/events/common/TRACHEA.df:623
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"PFFFTTT, YOU CALL THAT FIGHT? I'VE SEEN PEOPLE WITHOUT ARMS FIGHT BETTER!"
+msgstr "푸흐흐, 그걸 싸움이라고 해? 팔 없는 사람들도 그보단 잘 싸우겠다!"
+
+#: deathforth/events/common/TRACHEA.df:624
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "How incredibly rude."
+msgstr "엄청 무례하다."
+
+#: deathforth/events/common/TRACHEA.df:631
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "PUT 'ER IN A LONGBOAT TIL SHE'S SOBER"
+msgstr "술 깰 때까지 보트에 처박아 둬"
+
+#: deathforth/events/common/TRACHEA.df:633
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"Along the road, there's a woman with a big anchor. She leaps up high, and "
+"drops it cartoon-style on a zombie."
+msgstr "길가에 커다란 닻을 든 여자가 있다. 그녀는 높이 뛰어올라 만화처럼 좀비 위에 닻을 떨어뜨린다."
+
+#: deathforth/events/common/TRACHEA.df:634
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"HEY YOU THERE! WANNA FIGHT? IF YOU WIN, I'LL JOIN. IF YOU DON'T - UH, DON'T "
+"WORRY ABOUT THAT ACTUALLY."
+msgstr "어이 거기! 한판 붙을래? 너희가 이기면 합류할게. 지면 - 어, 사실 그건 신경 쓰지 마."
+
+#: deathforth/events/common/TRACHEA.df:635
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "An interesting proposal. "
+msgstr "흥미로운 제안이다. "
+
+#: deathforth/events/common/TRACHEA.df:635
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " looks strong, but stupid."
+msgstr "은(는) 강해 보이지만, 멍청해 보인다."
+
+#: deathforth/events/common/TRACHEA.df:636
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"First Mate can leap into the air with the SWAP button! Hit zombies on the "
+"way back down for devastating effect."
+msgstr "일등 항해사는 교체 버튼으로 공중에 뛰어오를 수 있다! 내려오면서 좀비를 맞히면 파괴적인 효과가 난다."
+
+#: deathforth/events/common/TRACHEA.df:638
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Fight "
+msgstr "대결: "
+
+#: deathforth/events/common/TRACHEA.df:639
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Ignore her"
+msgstr "무시한다"
+
+#: deathforth/events/common/TRACHEA.df:643
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "THE ONE WHO CALLS THE SHOTS"
+msgstr "명령을 내리는 자"
+
+#: deathforth/events/common/TRACHEA.df:645
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"When the group is searching through a town, there's a man sitting in a cafe "
+"window."
+msgstr "일행이 마을을 뒤지는데, 카페 창가에 한 남자가 앉아 있다."
+
+#: deathforth/events/common/TRACHEA.df:646
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "AY. AY YOU. YOU LOOK LIKE YOU KNOW HOW TO HANDLE YOURSELF."
+msgstr "어이. 어이 너. 너 좀 할 줄 아는 놈 같은데."
+
+#: deathforth/events/common/TRACHEA.df:647
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"He's dressed like a criminal boss. Or maybe he's just a really intimidating "
+"businessman? What could possibly go wrong!"
+msgstr "범죄 조직 보스 같은 차림이다. 아니면 그냥 아주 위압적인 사업가일지도? 뭐 잘못될 게 있겠어!"
+
+#: deathforth/events/common/TRACHEA.df:648
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"This character can multishot with firearms! Some special weapons excluded."
+msgstr "이 캐릭터는 총으로 멀티샷을 쏠 수 있다! 일부 특수 무기는 제외."
+
+#: deathforth/events/common/TRACHEA.df:651
+#: deathforth/events/common/TRACHEA.df:664
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Ask "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/TRACHEA.df:651
+#: deathforth/events/common/TRACHEA.df:664
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " to join"
+msgstr "에게 합류 요청"
+
+#: deathforth/events/common/TRACHEA.df:652
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Say NO to rackets"
+msgstr "조폭은 거절한다"
+
+#: deathforth/events/common/TRACHEA.df:656
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "A LAST STAND"
+msgstr "최후의 저항"
+
+#: deathforth/events/common/TRACHEA.df:658
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Ahead, there's man in a steel breastplate and helmet."
+msgstr "앞에 강철 흉갑과 투구를 쓴 남자가 있다."
+
+#: deathforth/events/common/TRACHEA.df:659
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"Skillfully, he knocks down two zombies with his halberd, and executes them "
+"cleanly in a single swing."
+msgstr "그는 능숙하게 할버드로 좀비 둘을 쓰러뜨리고, 단 한 번 휘둘러 깔끔하게 처형한다."
+
+#: deathforth/events/common/TRACHEA.df:660
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"Hallo-ha! Zis is a fine day for the end of the world, no? You look like you "
+"can take care of yourself."
+msgstr "할로-하! 세상 끝나기 좋은 날이군, 안 그래? 자네들은 스스로를 지킬 줄 아는 것 같군."
+
+#: deathforth/events/common/TRACHEA.df:661
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "This character has a special combo to knock down and execute zombies."
+msgstr "이 캐릭터는 좀비를 쓰러뜨리고 처형하는 특수 콤보가 있다."
+
+#: deathforth/events/common/TRACHEA.df:665
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Leave the medieval era"
+msgstr "중세 시대는 두고 간다"
+
+#: deathforth/events/common/TRACHEA.df:669
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "TONIGHT..."
+msgstr "오늘 밤..."
+
+#: deathforth/events/common/TRACHEA.df:669
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " MIGHT RECRUIT SOMEBODY"
+msgstr "은(는) 누군가를 영입할지도 모른다"
+
+#: deathforth/events/common/TRACHEA.df:671
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "In a rusted, burnt out car there's a man in a full white driving suit."
+msgstr "녹슬고 불탄 차 안에 하얀 레이싱 슈트를 입은 남자가 있다."
+
+#: deathforth/events/common/TRACHEA.df:672
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid ""
+"Even though the steering wheel is long gone, he's still pretending to use "
+"it."
+msgstr "핸들은 진작 없어졌는데도, 그는 여전히 운전하는 척하고 있다."
+
+#: deathforth/events/common/TRACHEA.df:673
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Perhaps you could convince him to join with your real, actual car."
+msgstr "진짜, 실제 차가 있으니 그를 합류하게 설득할 수 있을지도."
+
+#: deathforth/events/common/TRACHEA.df:674
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "This character can significantly improve your car over time."
+msgstr "이 캐릭터는 시간이 지나면서 차를 크게 개선할 수 있다."
+
+#: deathforth/events/common/TRACHEA.df:677
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid "Tempt "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/TRACHEA.df:677
+msgctxt "deathforth/events/common/TRACHEA.df"
+msgid " to drive your car"
+msgstr "에게 차를 몰게 꼬드긴다"

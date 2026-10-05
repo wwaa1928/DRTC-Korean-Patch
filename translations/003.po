@@ -1,0 +1,2328 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/blurb/screply.df:47
+msgctxt "deathforth/blurb/screply.df"
+msgid "thankuverymuch"
+msgstr "땡큐베리머치"
+
+#: deathforth/blurb/screply.df:48
+msgctxt "deathforth/blurb/screply.df"
+msgid "heymanthataintcool"
+msgstr "헤이맨그건좀아니지"
+
+#: deathforth/blurb/screply.df:49
+msgctxt "deathforth/blurb/screply.df"
+msgid "uh huh huh"
+msgstr "어 허 허"
+
+#: deathforth/blurb/screply.df:53
+msgctxt "deathforth/blurb/screply.df"
+msgid "HO! HO! HO!"
+msgstr "호! 호! 호!"
+
+#: deathforth/blurb/screply.df:54
+msgctxt "deathforth/blurb/screply.df"
+msgid "THAT SOUNDS LIKE A SAD CHRISTMAS TO MEEEEEE..."
+msgstr "그거 슬픈 크리스마스처럼 들리는구나아아아..."
+
+#: deathforth/blurb/screply.df:55
+msgctxt "deathforth/blurb/screply.df"
+msgid "HO, HO, HO!"
+msgstr "호, 호, 호!"
+
+#: deathforth/blurb/screply.df:57
+msgctxt "deathforth/blurb/screply.df"
+msgid "HO HO HO"
+msgstr "호 호 호"
+
+#: deathforth/blurb/screply.df:60
+msgctxt "deathforth/blurb/screply.df"
+msgid "YEAH! YEAH!"
+msgstr "예! 예!"
+
+#: deathforth/blurb/screply.df:61
+msgctxt "deathforth/blurb/screply.df"
+msgid "YOU NEED TO TRAIN AND BULK UP!"
+msgstr "넌 훈련해서 벌크업해야 해!"
+
+#: deathforth/blurb/screply.df:62
+msgctxt "deathforth/blurb/screply.df"
+msgid "BUILD MASS! BUILD BULK!"
+msgstr "근육을 키워! 덩치를 키워!"
+
+#: deathforth/blurb/sharp.df:2
+msgctxt "deathforth/blurb/sharp.df"
+msgid "the importance of washing your hands"
+msgstr "손 씻기의 중요성"
+
+#: deathforth/blurb/sharp.df:3
+msgctxt "deathforth/blurb/sharp.df"
+msgid "the importance of boiling water"
+msgstr "물 끓이기의 중요성"
+
+#: deathforth/blurb/sharp.df:4
+msgctxt "deathforth/blurb/sharp.df"
+msgid "how to properly lift furniture"
+msgstr "가구를 제대로 드는 법"
+
+#: deathforth/blurb/sharp.df:5
+msgctxt "deathforth/blurb/sharp.df"
+msgid "the best ways to open canned food"
+msgstr "통조림을 따는 최고의 방법"
+
+#: deathforth/blurb/sharp.df:6
+msgctxt "deathforth/blurb/sharp.df"
+msgid "why you shouldn't trust strangers"
+msgstr "낯선 사람을 믿으면 안 되는 이유"
+
+#: deathforth/blurb/sharp.df:7
+msgctxt "deathforth/blurb/sharp.df"
+msgid "shot placement to conserve ammo"
+msgstr "탄약을 아끼는 조준 위치"
+
+#: deathforth/blurb/sharp.df:8
+msgctxt "deathforth/blurb/sharp.df"
+msgid "the importance of sterile medical supplies"
+msgstr "의료품 소독의 중요성"
+
+#: deathforth/blurb/sharp.df:13
+msgctxt "deathforth/blurb/sharp.df"
+msgid " talks about "
+msgstr "의 수다 주제: "
+
+#: deathforth/blurb/sharp.df:24
+msgctxt "deathforth/blurb/sharp.df"
+msgid "We need to inventory all of our supplies!"
+msgstr "우리 물자 재고를 전부 정리해야 해!"
+
+#: deathforth/blurb/sharp.df:28
+msgctxt "deathforth/blurb/sharp.df"
+msgid "WE GOT NO TIME FOR THAT TYPE OF BORING STUFF!"
+msgstr "그런 지루한 걸 할 시간 없어!"
+
+#: deathforth/blurb/sharp.df:31
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Sure, maybe when we get some extra time, "
+msgstr "그래, 나중에 시간 좀 나면 하자, "
+
+#: deathforth/blurb/sharp.df:39
+msgctxt "deathforth/blurb/sharp.df"
+msgid ""
+"If you tie a string around your finger real tight your finger will turn "
+"purple!"
+msgstr "손가락에 끈을 꽉 묶으면 손가락이 보라색이 돼!"
+
+#: deathforth/blurb/sharp.df:53
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Why would I need to know that, "
+msgstr "그걸 내가 왜 알아야 하는데, "
+
+#: deathforth/blurb/sharp.df:54
+msgctxt "deathforth/blurb/sharp.df"
+msgid "WHO CARES?"
+msgstr "누가 신경 써?"
+
+#: deathforth/blurb/sharp.df:57
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Good to know, thanks!"
+msgstr "알아 두면 좋겠네, 고마워!"
+
+#: deathforth/blurb/sharp.df:67
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Next time we stop I should show you how to make snare traps."
+msgstr "다음에 쉴 때 올가미 덫 만드는 법 보여 줄게."
+
+#: deathforth/blurb/sharp.df:72
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Maybe next time I should show you how to shut your trap!"
+msgstr "다음엔 내가 네 입 다무는 법을 보여 줘야겠다!"
+
+#: deathforth/blurb/sharp.df:75
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Sounds good to me, "
+msgstr "좋은 생각이야, "
+
+#: deathforth/blurb/sharp.df:82
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Can any human truly be too swole?"
+msgstr "인간이 근육이 너무 많을 수가 있을까?"
+
+#: deathforth/blurb/sharp.df:86
+msgctxt "deathforth/blurb/sharp.df"
+msgid "What are you even talking about?"
+msgstr "너 대체 무슨 소리 하는 거야?"
+
+#: deathforth/blurb/sharp.df:89
+msgctxt "deathforth/blurb/sharp.df"
+msgid "TOO SWOLE TO CONTROLL, BABY. WOO!"
+msgstr "근육이 감당 안 돼, 베이비. 우!"
+
+#: deathforth/blurb/sharp.df:99
+msgctxt "deathforth/blurb/sharp.df"
+msgid ""
+"If we could get solar panels and a couple batteries, it could come in handy."
+msgstr "태양광 패널이랑 배터리 몇 개만 구하면 쓸모가 있을 텐데."
+
+#: deathforth/blurb/sharp.df:103
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Awesome idea, "
+msgstr "좋은 생각이야, "
+
+#: deathforth/blurb/sharp.df:104
+msgctxt "deathforth/blurb/sharp.df"
+msgid "I could hook up my video game console to it!"
+msgstr "거기에 내 게임기를 연결할 수 있겠다!"
+
+#: deathforth/blurb/sharp.df:107
+msgctxt "deathforth/blurb/sharp.df"
+msgid ""
+"Let's keep our eyes out then. I can see something like that being useful."
+msgstr "그럼 잘 찾아보자. 그런 거 있으면 쓸모 있겠어."
+
+#: deathforth/blurb/sharp.df:115
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Make sure to keep both hands on the wheel when driving! "
+msgstr "운전할 땐 두 손을 꼭 핸들에 올려! "
+
+#: deathforth/blurb/sharp.df:119
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Shut it, "
+msgstr "닥쳐, "
+
+#: deathforth/blurb/sharp.df:120
+msgctxt "deathforth/blurb/sharp.df"
+msgid "How else am I going to shoot zombies at the same time?"
+msgstr "그럼 좀비는 어떻게 동시에 쏘라고?"
+
+#: deathforth/blurb/sharp.df:123
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Fine, whatever!"
+msgstr "알았어, 맘대로 해!"
+
+#: deathforth/blurb/sharp.df:129
+msgctxt "deathforth/blurb/sharp.df"
+msgid "We can make it as long as we keep our supplies and morale up."
+msgstr "물자랑 사기만 잘 유지하면 우린 해낼 수 있어."
+
+#: deathforth/blurb/sharp.df:130
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Don't always have to get every recruit, unless we have lots of food."
+msgstr "식량이 넉넉하지 않으면 동료를 다 받아들일 필요는 없어."
+
+#: deathforth/blurb/sharp.df:131
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Sometimes it seems worth it to run past a horde instead of fighting."
+msgstr "가끔은 무리랑 싸우기보다 그냥 지나쳐 달리는 게 나아."
+
+#: deathforth/blurb/sharp.df:132
+msgctxt "deathforth/blurb/sharp.df"
+msgid "The zombies have an awful lot of trouble with closed doors."
+msgstr "좀비들은 닫힌 문을 엄청 힘들어해."
+
+#: deathforth/blurb/sharp.df:133
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Really need to be careful with our supply of gas..."
+msgstr "기름은 진짜 아껴 써야 해..."
+
+#: deathforth/blurb/sharp.df:135
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Try to conserve your ammo, attack only when you have to."
+msgstr "탄약을 아껴. 꼭 필요할 때만 공격해."
+
+#: deathforth/blurb/sharp.df:136
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Shot placement is crucial for making our ammo last."
+msgstr "탄약을 오래 쓰려면 조준이 생명이야."
+
+#: deathforth/blurb/sharp.df:138
+msgctxt "deathforth/blurb/sharp.df"
+msgid "We should try to find efficient cars to conserve our gas."
+msgstr "기름을 아끼려면 연비 좋은 차를 찾아야 해."
+
+#: deathforth/blurb/sharp.df:139
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Throwing furniture at zombies seems pretty effective."
+msgstr "좀비한테 가구를 던지는 게 꽤 효과적인 것 같아."
+
+#: deathforth/blurb/sharp.df:140
+msgctxt "deathforth/blurb/sharp.df"
+msgid "We should bring as little attention to ourselves as possible."
+msgstr "최대한 눈에 띄지 않게 다니자."
+
+#: deathforth/blurb/sharp.df:141
+msgctxt "deathforth/blurb/sharp.df"
+msgid "This canned food is a lot better when you're able to heat it up."
+msgstr "통조림은 데워 먹으면 훨씬 맛있어."
+
+#: deathforth/blurb/sharp.df:142
+msgctxt "deathforth/blurb/sharp.df"
+msgid "It is important to keep set rations to conserve our supplies."
+msgstr "물자를 아끼려면 배급량을 정해 두는 게 중요해."
+
+#: deathforth/blurb/sharp.df:143
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Things are going good now, but we got to be prepared for anything."
+msgstr "지금은 잘 풀리고 있지만, 무슨 일이든 대비해야 해."
+
+#: deathforth/blurb/sharp.df:144
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Being prepared is one of the most important parts of survival."
+msgstr "대비야말로 생존의 가장 중요한 부분 중 하나야."
+
+#: deathforth/blurb/sharp.df:145
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Keep your eyes open for anything suspicious."
+msgstr "수상한 게 없는지 잘 살펴."
+
+#: deathforth/blurb/sharp.df:146
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Zombies are not our only problems out here."
+msgstr "여기서 문제는 좀비만이 아니야."
+
+#: deathforth/blurb/sharp.df:147
+msgctxt "deathforth/blurb/sharp.df"
+msgid ""
+"We need to be wary of random people, who knows what they are capable of."
+msgstr "아무나 경계해야 해. 무슨 짓을 할지 모르니까."
+
+#: deathforth/blurb/sharp.df:148
+msgctxt "deathforth/blurb/sharp.df"
+msgid "We need to watch out for possible bandit ambushes."
+msgstr "약탈자 매복을 조심해야 해."
+
+#: deathforth/blurb/sharp.df:149
+msgctxt "deathforth/blurb/sharp.df"
+msgid "It wouldn't be a bad idea to try to hunt for food when possible."
+msgstr "가능하면 사냥으로 식량을 구하는 것도 나쁘지 않아."
+
+#: deathforth/blurb/sharp.df:150
+msgctxt "deathforth/blurb/sharp.df"
+msgid "Conserve your water, we don't want to waste any."
+msgstr "물은 아껴. 한 방울도 낭비하면 안 돼."
+
+#: deathforth/blurb/sharp.df:151
+msgctxt "deathforth/blurb/sharp.df"
+msgid "You can slow zombies down by dropping furniture in front of them."
+msgstr "좀비 앞에 가구를 떨어뜨리면 속도를 늦출 수 있어."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:1
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "BAYY-OH-NETTIIII!"
+msgstr "베이이-요-네타아아!"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:2
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "No such thing as driving too fast!~"
+msgstr "과속 같은 건 없어!~"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:3
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "There were these vampires, once..."
+msgstr "예전에 뱀파이어들이 있었는데..."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:4
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Nobody keeps up with me!~"
+msgstr "아무도 날 못 따라와!~"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:5
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "PARRY THRUST SMASH BANG BANG BANG BANG!"
+msgstr "패리 찌르기 스매시 빵 빵 빵 빵!"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:6
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "One time, my gun heels when off while sleeping."
+msgstr "한번은 자다가 총 달린 하이힐이 발사됐어."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:7
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "I tied these heels on...my foot is one big blister."
+msgstr "하이힐을 묶어 신었더니... 발이 온통 물집이야."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:8
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Curiously - I've never held an actual musket or bayonet."
+msgstr "신기하게도 진짜 머스킷이나 총검은 한 번도 들어 본 적 없어."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:9
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Zombies! Why did it have to be zombies?!"
+msgstr "좀비! 왜 하필 좀비야?!"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:10
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Look at what those zombies have done to my outfit. So impatient..."
+msgstr "좀비들이 내 옷을 이렇게 만들어 놨어. 성질도 급하지..."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:11
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "You know what I need? Some heels without guns."
+msgstr "나한테 필요한 게 뭔지 알아? 총 안 달린 하이힐."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:12
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "You know, I try to avoid doing this in my Sunday best."
+msgstr "있잖아, 이건 제일 좋은 옷 입고는 안 하려고 하거든."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:13
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Women of our caliber don't need invitations, darling."
+msgstr "우리 같은 급의 여자는 초대장이 필요 없어, 자기."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:14
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "One day, a kid offered to skip with me. Last time I EVER do that."
+msgstr "한번은 꼬마가 같이 줄넘기하자고 했어. 그게 마지막이었지."
+
+#: deathforth/blurb/syca_sc/bayonetta.df:15
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Whaaaaaat, you didn't like my choir performance?"
+msgstr "뭐어어어, 내 합창 공연이 별로였어?"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:16
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "IT'S MY SYMPHONY OF DESTRUCTION!"
+msgstr "이건 나의 파괴의 교향곡이다!"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:17
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Try 4 wheels for size!~"
+msgstr "바퀴 4개짜리 맛 좀 봐라!~"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:18
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "Do I smell like gunpowder to you yet?"
+msgstr "나한테 아직 화약 냄새 나?"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:19
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "It's the witching hour~"
+msgstr "마녀의 시간이야~"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:20
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "BAY-AHHH-NETTII!!!"
+msgstr "베이-아아-네티이!!!"
+
+#: deathforth/blurb/syca_sc/bayonetta.df:21
+msgctxt "deathforth/blurb/syca_sc/bayonetta.df"
+msgid "BAYYYYYOOOOONETTTTIIIIIII!"
+msgstr "베이이이이요오오오네에에에타아아아!"
+
+#: deathforth/blurb/syca_sc/clockking.df:1
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "Remind me, which one of us controls time, again?"
+msgstr "다시 말해 봐, 우리 중에 시간을 다스리는 게 누구라고?"
+
+#: deathforth/blurb/syca_sc/clockking.df:2
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "TEMPUS...nah, just kidding."
+msgstr "템푸스... 아냐, 농담이야."
+
+#: deathforth/blurb/syca_sc/clockking.df:3
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "My father was a digital clock. And before that, a grandfather clock."
+msgstr "우리 아버지는 디지털시계였어. 그 전엔 괘종시계였고."
+
+#: deathforth/blurb/syca_sc/clockking.df:4
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "I take a lot of offense to TICK TOCK actually."
+msgstr "사실 '째깍째깍'이라는 말은 꽤 기분 나빠."
+
+#: deathforth/blurb/syca_sc/clockking.df:5
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "You're really WINDING ME UP, haha...HAHAHAHAHA"
+msgstr "너 진짜 날 태엽 감듯 약 올리네, 하하...하하하하하"
+
+#: deathforth/blurb/syca_sc/clockking.df:6
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "DING DONG. Who does the bell toll for? YOU."
+msgstr "딩동. 저 종은 누구를 위해 울리지? 너."
+
+#: deathforth/blurb/syca_sc/clockking.df:7
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "ASK NOT FOR WHOM THE BELL TOLLS..."
+msgstr "누구를 위하여 종이 울리는지 묻지 마라..."
+
+#: deathforth/blurb/syca_sc/clockking.df:8
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "FOR WHOM...DOES THAT BELL NOW TOLL?"
+msgstr "누구를 위하여... 이제 저 종이 울리는가?"
+
+#: deathforth/blurb/syca_sc/clockking.df:9
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "DON'T SAY ZA WARUDO. I'M WATCHING YOU! DON'T DO IT!"
+msgstr "'자 와루도' 하지 마. 지켜보고 있다! 하지 마!"
+
+#: deathforth/blurb/syca_sc/clockking.df:10
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "WHO IS THIS 'JO-JO'?"
+msgstr "그 '죠죠'라는 놈은 누구지?"
+
+#: deathforth/blurb/syca_sc/clockking.df:11
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "I HAVE A WHOLE HOST OF ESOTERIC HEROES TO FIGHT STILL!"
+msgstr "아직 싸워야 할 마이너한 영웅들이 잔뜩 있다!"
+
+#: deathforth/blurb/syca_sc/clockking.df:12
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "The crown marks the king."
+msgstr "왕관이 왕을 말해 준다."
+
+#: deathforth/blurb/syca_sc/clockking.df:13
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "Oh, I just can't wait to be king."
+msgstr "아, 빨리 왕이 되고 싶어."
+
+#: deathforth/blurb/syca_sc/clockking.df:14
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "i've a bone to pick with caesium-133."
+msgstr "세슘-133이랑은 따질 게 좀 있어."
+
+#: deathforth/blurb/syca_sc/clockking.df:15
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "AND WHEN I'M KING OF CANADA, TIME WILL STOP FOREVER!"
+msgstr "그리고 내가 캐나다의 왕이 되면, 시간은 영원히 멈출 것이다!"
+
+#: deathforth/blurb/syca_sc/clockking.df:16
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "Einstein's problem was that he wasn't born as a deity."
+msgstr "아인슈타인의 문제는 신으로 태어나지 않았다는 거지."
+
+#: deathforth/blurb/syca_sc/clockking.df:17
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "I trust this will all make sense in the course of...nevermind."
+msgstr "이 모든 게 시간이 지나면... 아니, 됐다."
+
+#: deathforth/blurb/syca_sc/clockking.df:18
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "Oh? A race against the CLOCK? YEAH. HAHA. VERY FUNNY."
+msgstr "오? 시간과의 경주라고? 그래. 하하. 아주 재밌네."
+
+#: deathforth/blurb/syca_sc/clockking.df:19
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "Wonder if anybody would notice if I timestopped to pick my nose..."
+msgstr "시간 멈추고 코 파도 아무도 모르겠지..."
+
+#: deathforth/blurb/syca_sc/clockking.df:20
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "It's a good thing I don't have a neck. My crown would crush it."
+msgstr "목이 없는 게 다행이야. 있었으면 왕관이 짓눌렀을 거야."
+
+#: deathforth/blurb/syca_sc/clockking.df:21
+msgctxt "deathforth/blurb/syca_sc/clockking.df"
+msgid "IF I COULD TURRRRNNNNN BACK TIMEEEEEEE..."
+msgstr "시간을 되돌릴 수만 있다며어어언..."
+
+#: deathforth/blurb/syca_sc/condor.df:1
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid ""
+"STEPPPPPP RIGHT UP or don't, I don't care. It's not like its a big deal..."
+msgstr "자아아아, 어서 오세요. 아니면 말고, 상관없어. 별일도 아니고..."
+
+#: deathforth/blurb/syca_sc/condor.df:2
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "A CRACK OF THE WHIP SHALL MAKE THE BANDIT QUIT!"
+msgstr "채찍 한 방이면 약탈자도 물러나리라!"
+
+#: deathforth/blurb/syca_sc/condor.df:3
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "These RAPSCALLIONS do not know DISCIPLINE as I do."
+msgstr "이 악당들은 나만큼 규율을 모르는군."
+
+#: deathforth/blurb/syca_sc/condor.df:4
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "Don't worry, I know I'm better than you."
+msgstr "걱정 마, 내가 너보다 나은 건 나도 알아."
+
+#: deathforth/blurb/syca_sc/condor.df:5
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "BY JOVE I need the loo."
+msgstr "맙소사, 화장실 가고 싶군."
+
+#: deathforth/blurb/syca_sc/condor.df:6
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "AND THE CONFECTIONARY STAND shall be open in approximately NEVER."
+msgstr "그리고 매점은 대략... 영원히 안 엽니다."
+
+#: deathforth/blurb/syca_sc/condor.df:7
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "I'm so tired of performing all the time."
+msgstr "매일 공연하는 거 너무 지쳤어."
+
+#: deathforth/blurb/syca_sc/condor.df:8
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "'The show must go on'...to heck with the damn show."
+msgstr "'쇼는 계속되어야 한다'... 빌어먹을 쇼 따위 집어치워."
+
+#: deathforth/blurb/syca_sc/condor.df:9
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "Blast, Spidey's spoiled the seat again."
+msgstr "제길, 스파이디가 또 좌석을 망쳐 놨군."
+
+#: deathforth/blurb/syca_sc/condor.df:10
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "The world seems so bent on pulling itself apart."
+msgstr "세상이 스스로를 찢어발기려고 안달이 난 것 같아."
+
+#: deathforth/blurb/syca_sc/condor.df:11
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "AND FOR MY NEXT TRICK...HANDLESS DRIVING"
+msgstr "다음 묘기는... 손 놓고 운전하기"
+
+#: deathforth/blurb/syca_sc/condor.df:12
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "AND FOR OUR FIRST ACT...BREAKING THE SPEED LIMIT"
+msgstr "첫 번째 공연은... 속도위반"
+
+#: deathforth/blurb/syca_sc/condor.df:13
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "PLEASE WELCOME TO THE STAGE...CRIPPLING SADNESS!"
+msgstr "무대 위로 모십니다... 극심한 우울!"
+
+#: deathforth/blurb/syca_sc/condor.df:14
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "At least the audiences are larger. A bit more dead than usual though."
+msgstr "그래도 관객은 늘었어. 평소보다 좀 많이 죽어 있긴 하지만."
+
+#: deathforth/blurb/syca_sc/condor.df:15
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid ""
+"Spidey's got a good taste for zombie. Which is great, since he won't eat me."
+msgstr "스파이디는 좀비를 좋아해. 덕분에 날 안 잡아먹으니 다행이지."
+
+#: deathforth/blurb/syca_sc/condor.df:16
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "Wonder if I can whip zombies from the car..."
+msgstr "차에서 좀비한테 채찍질할 수 있을까..."
+
+#: deathforth/blurb/syca_sc/condor.df:17
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "The plight of our audience is ours."
+msgstr "관객의 고난이 곧 우리의 고난이다."
+
+#: deathforth/blurb/syca_sc/condor.df:18
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "A smidge of makeup might help. Also: showering."
+msgstr "화장을 좀 하면 나을지도. 그리고 샤워도."
+
+#: deathforth/blurb/syca_sc/condor.df:19
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "Rather makes me miss my dress collection."
+msgstr "내 드레스 컬렉션이 그리워지는군."
+
+#: deathforth/blurb/syca_sc/condor.df:20
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid "Cigarette? Just kidding, smoking is BANNED in my circus."
+msgstr "담배? 농담이야. 내 서커스에선 흡연 금지야."
+
+#: deathforth/blurb/syca_sc/condor.df:21
+msgctxt "deathforth/blurb/syca_sc/condor.df"
+msgid ""
+"I feel so tired...like I could sleep a million years, and still not be "
+"rested."
+msgstr "너무 피곤해... 백만 년을 자도 피로가 안 풀릴 것 같아."
+
+#: deathforth/blurb/syca_sc/disloyal.df:3
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "The only person I need is me."
+msgstr "내게 필요한 건 나 하나뿐이야."
+
+#: deathforth/blurb/syca_sc/disloyal.df:7
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "As they say, finders keepers!"
+msgstr "줍는 사람이 임자라잖아!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:8
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "If you turn into a zombie, I'm outta here."
+msgstr "너 좀비 되면 난 튄다."
+
+#: deathforth/blurb/syca_sc/disloyal.df:9
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I should've done this all on my own."
+msgstr "처음부터 혼자 할 걸 그랬어."
+
+#: deathforth/blurb/syca_sc/disloyal.df:10
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "One time, I stole this nerd's lunch money!"
+msgstr "한번은 어떤 찐따 점심값을 뺏은 적 있어!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:11
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Don't worry, I can keep allll your supplies safe."
+msgstr "걱정 마, 너희 물자는 내가 저어언부 안전하게 보관해 줄게."
+
+#: deathforth/blurb/syca_sc/disloyal.df:12
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Imagine if bandits jumped us right now? What would you do?"
+msgstr "지금 약탈자가 덮치면 어쩔래? 뭐 할 건데?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:13
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I ate your leftovers, by the way."
+msgstr "그나저나 네가 남긴 거 내가 먹었어."
+
+#: deathforth/blurb/syca_sc/disloyal.df:14
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Once, I found a wallet and didn't turn it in..."
+msgstr "한번은 지갑을 주웠는데 안 돌려줬지..."
+
+#: deathforth/blurb/syca_sc/disloyal.df:15
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Aaaaand there goes another zombie!"
+msgstr "그리고 좀비 하나 또 간다아아!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:16
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Here's a very simple rule: I'm always better than you!"
+msgstr "아주 간단한 규칙: 난 언제나 너보다 낫다!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:17
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Dinks here. Dinks there. Life's relentless."
+msgstr "여기도 나쁜 놈, 저기도 나쁜 놈. 인생 참 가혹해."
+
+#: deathforth/blurb/syca_sc/disloyal.df:18
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I'll always be here for you...maybe."
+msgstr "난 언제나 네 곁에 있을게... 아마도."
+
+#: deathforth/blurb/syca_sc/disloyal.df:19
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "All I'm saying is, the bandits have the right idea."
+msgstr "그러니까 내 말은, 약탈자들 생각이 맞다는 거야."
+
+#: deathforth/blurb/syca_sc/disloyal.df:20
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Ever kicked an inflatable puppy before?"
+msgstr "바람 넣은 강아지 인형 차 본 적 있어?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:21
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Threatening people can be really effective, actually."
+msgstr "사실 사람 협박하는 거 꽤 효과적이야."
+
+#: deathforth/blurb/syca_sc/disloyal.df:22
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I took the last loo roll. Sorry."
+msgstr "마지막 휴지 내가 썼어. 미안."
+
+#: deathforth/blurb/syca_sc/disloyal.df:23
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "My car...I mean uhm, our car, is great."
+msgstr "내 차... 아니 음, 우리 차 좋네."
+
+#: deathforth/blurb/syca_sc/disloyal.df:24
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I wanna raise a zombie army and take over Canada!"
+msgstr "좀비 군단을 키워서 캐나다를 정복하고 싶어!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:25
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Survival of the fittest...in OBAMA'S AMERICA."
+msgstr "적자생존... 오바마의 미국에서."
+
+#: deathforth/blurb/syca_sc/disloyal.df:26
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "What were you saying? I wasn't listening."
+msgstr "뭐라고 했어? 안 듣고 있었는데."
+
+#: deathforth/blurb/syca_sc/disloyal.df:27
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I'm not a bad person. A bad person would've left by now."
+msgstr "난 나쁜 사람 아니야. 나쁜 사람이었으면 벌써 떠났지."
+
+#: deathforth/blurb/syca_sc/disloyal.df:28
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Just wait until I reveal the 6th layer of my disguise!"
+msgstr "내 변장의 6번째 층을 공개할 때까지 기다려!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:66
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Thinking about it, the USA kinda sucks."
+msgstr "생각해 보면 미국 좀 별로야."
+
+#: deathforth/blurb/syca_sc/disloyal.df:70
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "YEAH! THANKS OBAMA."
+msgstr "그래! 고맙다 오바마."
+
+#: deathforth/blurb/syca_sc/disloyal.df:74
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "I think the zombies improved things somewhat."
+msgstr "좀비 덕분에 좀 나아진 것도 있는 것 같아."
+
+#: deathforth/blurb/syca_sc/disloyal.df:75
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "No more traffic, no more train delays!"
+msgstr "교통 체증도 없고, 열차 지연도 없고!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:78
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "With or without the zombies?"
+msgstr "좀비가 있는 거야, 없는 거야?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:87
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Where I'm from, I'm known for landing a plane all by myself."
+msgstr "우리 동네에선 혼자 비행기 착륙시킨 걸로 유명했어."
+
+#: deathforth/blurb/syca_sc/disloyal.df:91
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "WOW! You must be some kind of...SPACE DINGUS!"
+msgstr "우와! 너 무슨... 우주 바보라도 되는 거야?!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:94
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Can you tell the truth, just one time?"
+msgstr "한 번이라도 진실을 말해 줄 수 없어?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:104
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Hey. Hey. Guess. Guess what? Guess what?"
+msgstr "야. 야. 맞혀 봐. 맞혀 봐. 뭔지 알아?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:108
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "What, "
+msgstr "뭐, "
+
+#: deathforth/blurb/syca_sc/disloyal.df:108
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "? JUST SPIT IT OUT ALREADY!"
+msgstr "? 빨리 말해!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:112
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Did you say something?"
+msgstr "뭐라고 했어?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:122
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "If I was president, these zombies would've never happened."
+msgstr "내가 대통령이었으면 이 좀비 사태는 절대 안 일어났어."
+
+#: deathforth/blurb/syca_sc/disloyal.df:126
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "HECK YEAH! DOWN WITH THE ZOMBIES!"
+msgstr "그렇지! 좀비 타도!"
+
+#: deathforth/blurb/syca_sc/disloyal.df:131
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "AND WHAT ABOUT YOUR TAX POLICY, NERD?"
+msgstr "그럼 네 세금 정책은 뭔데, 찐따야?"
+
+#: deathforth/blurb/syca_sc/disloyal.df:134
+msgctxt "deathforth/blurb/syca_sc/disloyal.df"
+msgid "Perhaps you're right, "
+msgstr "네 말이 맞을지도, "
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:1
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "we are infinite."
+msgstr "우리는 무한하다."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:2
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "s-s t atic"
+msgstr "치-치 지 직"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:3
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "tr e ad pl anes  o-of  exis-tence"
+msgstr "존 재 의 평-면 들 을 걷 는 다"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:4
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "de-fectfectfect-ive"
+msgstr "결-함함함-있는"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:5
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "We are many."
+msgstr "우리는 많다."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:6
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "bR-0k..3n?..."
+msgstr "부-서..3졌?..."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:7
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "so ul...m1ss in g"
+msgstr "영 혼...없1어 졌 어"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:8
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "p a in"
+msgstr "고 통"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:9
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "w0rld... str-r an g e..."
+msgstr "세상... 이-상 해..."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:10
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "we s33k rev#*!##*--"
+msgstr "우리는 복ㅅ#*!##*--을 원한다"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:11
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "count our heads"
+msgstr "우리 머릿수를 세라"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:12
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "eth3 r3a l"
+msgstr "비3 현 실"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:13
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "we are restless"
+msgstr "우리는 안식이 없다"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:14
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "we will not give up."
+msgstr "우리는 포기하지 않는다."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:15
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "mu st  s33k  r ev eng-##*!#"
+msgstr "복 수 를 찾-아##*!#"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:16
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "w h at  r3al?..."
+msgstr "무 엇 이 진 3짜?..."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:17
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "when...e-nd?"
+msgstr "언제...끄-ㅌ?"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:18
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "fragm3nt...ed..."
+msgstr "조각3...나..."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:19
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "pieces o-f sou-l"
+msgstr "영-혼 의 조-각"
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:20
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "we remember."
+msgstr "우리는 기억한다."
+
+#: deathforth/blurb/syca_sc/echoxeresdialogue.df:21
+msgctxt "deathforth/blurb/syca_sc/echoxeresdialogue.df"
+msgid "save   us"
+msgstr "살 려 줘"
+
+#: deathforth/blurb/syca_sc/ember.df:1
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "THIS ONE TIME, ME AND THIS TONER PRINTER REALLY HIT IT OFF."
+msgstr "한번은 나랑 토너 프린터가 아주 죽이 잘 맞았지."
+
+#: deathforth/blurb/syca_sc/ember.df:2
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "BEST THING ABOUT ROBOTICS...FREE SURGERY."
+msgstr "로봇 공학의 최고 장점... 공짜 수술."
+
+#: deathforth/blurb/syca_sc/ember.df:3
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "BABY I'M LIKE A DOLL, TAKE ME APART AND BEAT ME WITH A BAT"
+msgstr "베이비 난 인형 같아, 날 분해해서 배트로 두들겨 줘"
+
+#: deathforth/blurb/syca_sc/ember.df:4
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "NOW, WHERE DID I LEAVE MY HEAD?-"
+msgstr "자, 내 머리를 어디 뒀더라?-"
+
+#: deathforth/blurb/syca_sc/ember.df:5
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "THE GAS PORT KEEPS EYEING ME UP."
+msgstr "주유구가 자꾸 날 훑어봐."
+
+#: deathforth/blurb/syca_sc/ember.df:6
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "BIGGER IS ALWAYS BETTER. I AM OF COURSE TALKING ABOUT MAULS"
+msgstr "클수록 좋지. 물론 대형 망치 얘기야"
+
+#: deathforth/blurb/syca_sc/ember.df:7
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid ""
+"LET ME HOLD ALL THE GAS CANS. I PROMISE I WILL KEEP THEM AT THEIR CURRENT "
+"VOLUME"
+msgstr "기름통은 전부 내가 들게. 지금 양 그대로 유지할게, 약속해"
+
+#: deathforth/blurb/syca_sc/ember.df:8
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "I AM WANTED BY THE POLICE FOR 42 COUNTS OF WANTON DESTRUCTION"
+msgstr "난 무분별한 파괴 42건으로 경찰에 수배 중이야"
+
+#: deathforth/blurb/syca_sc/ember.df:9
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid ""
+"FUN FACT - NOTHING MATTERS OR IS REAL. THE COLD WET GROUND AWAITS US. FUN!"
+msgstr "재밌는 사실 - 아무것도 중요하지 않고 진짜도 아니야. 차갑고 축축한 땅이 우릴 기다리지. 재밌다!"
+
+#: deathforth/blurb/syca_sc/ember.df:10
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "THEY CALL ME THE GAS GUZZLER, BECAUSE I'M REALLY INTO WOMEN."
+msgstr "사람들은 날 기름 먹는 하마라고 불러. 여자를 엄청 밝히거든."
+
+#: deathforth/blurb/syca_sc/ember.df:11
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "BEEP BOOP IS SORT OF A REALLY MEAN THING TO SAY"
+msgstr "'삐 뽀'는 꽤 심한 말이야"
+
+#: deathforth/blurb/syca_sc/ember.df:12
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "LIFE...HOORAY!"
+msgstr "인생... 만세!"
+
+#: deathforth/blurb/syca_sc/ember.df:13
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "I DID NOT CARE FOR THE TERMINATOR."
+msgstr "터미네이터는 별로였어."
+
+#: deathforth/blurb/syca_sc/ember.df:14
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "PLEASE POINT OUT ANY CYANIDE PILLS. THANK YOU IN ADVANCE"
+msgstr "청산가리 알약이 보이면 알려 줘. 미리 고마워"
+
+#: deathforth/blurb/syca_sc/ember.df:15
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "YOUR CALL IS REALLY IMPORTANT TO US. PLEASE HOLD."
+msgstr "고객님의 전화는 저희에게 정말 중요합니다. 잠시만 기다려 주십시오."
+
+#: deathforth/blurb/syca_sc/ember.df:16
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "FOR MAUL ENQUIRIES, PRESS 1. FOR SPLITTING YOUR SKULL, PRESS 2."
+msgstr "대형 망치 문의는 1번. 두개골 쪼개기는 2번을 눌러 주십시오."
+
+#: deathforth/blurb/syca_sc/ember.df:17
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "DID YOU SEE THAT SPEED CAMERA? SHE IS A LOOKER."
+msgstr "저 과속 카메라 봤어? 완전 미인이야."
+
+#: deathforth/blurb/syca_sc/ember.df:18
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "HA-HA. THE PASSAGE OF TIME IS RELENTLESS AND UNFORGIVING. HA-HA."
+msgstr "하-하. 시간의 흐름은 가혹하고 무자비하다. 하-하."
+
+#: deathforth/blurb/syca_sc/ember.df:19
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "GASSSS IN MA BELLYYYYYY. THERE'S GAS IN MA BELLYYYYYYY."
+msgstr "배 속에 기르으으음. 내 배 속에 기름이 있어어어어."
+
+#: deathforth/blurb/syca_sc/ember.df:20
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "MAMA SAID IM A REAL COWBOY. SHE WAS WRONG. I AM NEITHER COW OR BOY"
+msgstr "엄마가 나보고 진짜 카우보이래. 틀렸어. 난 소도 아니고 보이도 아니야"
+
+#: deathforth/blurb/syca_sc/ember.df:21
+msgctxt "deathforth/blurb/syca_sc/ember.df"
+msgid "I'M A REAL SMASH HIT. SO MUCH SO I EVEN MADE MY FATHER CRY"
+msgstr "난 진짜 대박 히트작이야. 아빠까지 울렸다니까"
+
+#: deathforth/blurb/syca_sc/gladiator.df:1
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "I should've just leapt all the way to Canada!"
+msgstr "그냥 캐나다까지 점프해서 갈 걸 그랬어!"
+
+#: deathforth/blurb/syca_sc/gladiator.df:2
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Can I do the gears?"
+msgstr "기어 내가 바꿔도 돼?"
+
+#: deathforth/blurb/syca_sc/gladiator.df:3
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Got any protein? My knees are killing me."
+msgstr "단백질 있어? 무릎이 죽겠어."
+
+#: deathforth/blurb/syca_sc/gladiator.df:4
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Sometimes I pose for posters, as a treat."
+msgstr "가끔 포스터 모델도 해. 나한테 주는 선물로."
+
+#: deathforth/blurb/syca_sc/gladiator.df:5
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "AND IF WE EVER NEED AN ANCHOR - I'VE GOT YOU COVERED!"
+msgstr "그리고 닻이 필요하면 - 나만 믿어!"
+
+#: deathforth/blurb/syca_sc/gladiator.df:6
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Guess I'm the captain of this car..."
+msgstr "아무래도 이 차의 선장은 나인 것 같네..."
+
+#: deathforth/blurb/syca_sc/gladiator.df:7
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Beans help me leap. Don't ask why."
+msgstr "콩을 먹으면 점프를 잘해. 이유는 묻지 마."
+
+#: deathforth/blurb/syca_sc/gladiator.df:8
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Can I interest you in a half-ton anchor? No? Okay."
+msgstr "반 톤짜리 닻에 관심 있어? 없어? 알았어."
+
+#: deathforth/blurb/syca_sc/gladiator.df:9
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Got any frozen ham?"
+msgstr "냉동 햄 있어?"
+
+#: deathforth/blurb/syca_sc/gladiator.df:10
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "If I wasn't lugging around this anchor I'd be an olympian."
+msgstr "이 닻만 안 끌고 다녔으면 올림픽 선수가 됐을 거야."
+
+#: deathforth/blurb/syca_sc/gladiator.df:11
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "I'VE FOUGHT EVERYTHING, FROM SEA SERPENTS TO YOUR DAD."
+msgstr "난 바다뱀부터 너희 아빠까지 안 싸워 본 게 없다."
+
+#: deathforth/blurb/syca_sc/gladiator.df:12
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "IS IT A BIRD? IS IT A PLANE? NO, IT'S ME!"
+msgstr "새냐? 비행기냐? 아니, 나다!"
+
+#: deathforth/blurb/syca_sc/gladiator.df:13
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "If I just keep leaping over zombies..."
+msgstr "계속 좀비를 뛰어넘다 보면..."
+
+#: deathforth/blurb/syca_sc/gladiator.df:14
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "When I learn to hold the car AND leap, the apocalypse will be over."
+msgstr "차를 든 채로 점프하는 법을 익히면 종말도 끝날 거야."
+
+#: deathforth/blurb/syca_sc/gladiator.df:15
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "I also make a mean quiche."
+msgstr "키슈도 끝내주게 만들어."
+
+#: deathforth/blurb/syca_sc/gladiator.df:16
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Ever been in a tsunami? No? Okay."
+msgstr "쓰나미 겪어 본 적 있어? 없어? 알았어."
+
+#: deathforth/blurb/syca_sc/gladiator.df:17
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "There's nothing like crushing a zombie into fine pulp."
+msgstr "좀비를 곤죽으로 짓이기는 것만 한 게 없지."
+
+#: deathforth/blurb/syca_sc/gladiator.df:18
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "At least with my anchor, nobody can steal our car anymore."
+msgstr "그래도 내 닻이 있으니 아무도 우리 차를 못 훔쳐 가."
+
+#: deathforth/blurb/syca_sc/gladiator.df:19
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "Make sure to flip off the zombies as you go by!"
+msgstr "지나가면서 좀비들한테 손가락 욕 날려 주는 거 잊지 마!"
+
+#: deathforth/blurb/syca_sc/gladiator.df:20
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "I TURN ZOMBIES INTO MERINGUE!"
+msgstr "좀비를 머랭으로 만들어 주마!"
+
+#: deathforth/blurb/syca_sc/gladiator.df:21
+msgctxt "deathforth/blurb/syca_sc/gladiator.df"
+msgid "OH, TO LEAVE THE BOUNDS OF EARTH...AND PUNCH THE FACE OF ZOMBS!"
+msgstr "오, 대지의 속박을 벗어나... 좀비 얼굴에 주먹을!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:1
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "We'll get there. For sure!"
+msgstr "우린 도착할 거야. 틀림없이!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:2
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "Call me 'sunflower', the way my armor's so yellow."
+msgstr "갑옷이 노래서 날 '해바라기'라고 불러 줘."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:3
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "I wonder how things are up north?"
+msgstr "북쪽은 사정이 어떨까?"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:4
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "SYCAMORE...HEED MY CALL!"
+msgstr "시카모어여... 나의 부름에 응하라!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:5
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "MY OATH COMPELS ME...to drive for a bit."
+msgstr "나의 맹세가 명하노니... 잠깐 운전 좀 할게."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:6
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "SUNDER THE HERETICAL!"
+msgstr "이단자를 베어라!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:7
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "I'm not giving up. Not now. Not yet."
+msgstr "포기 안 해. 지금은. 아직은."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:8
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "^W^"
+msgstr "^W^"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:9
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "'The dawn shall be radiant!'...so sayeth the wise sun."
+msgstr "'새벽은 찬란하리라!'... 지혜로운 태양이 그리 말씀하셨지."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:10
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "Hungry work, lugging this armor about."
+msgstr "이 갑옷 끌고 다니려니 배고프네."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:11
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "MY OATH COMPELS ME...to stop the car for a loo break."
+msgstr "나의 맹세가 명하노니... 화장실 가게 차 좀 세워 줘."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:12
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "SMITE THE FIENDS! SLAY THE FIENDS! FOR SUNLIGHT!"
+msgstr "악마를 쳐라! 악마를 베어라! 햇빛을 위하여!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:13
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "I once had a puppy. I hope she survived..."
+msgstr "강아지를 키웠었는데. 살아 있으면 좋겠다..."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:14
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "I'd sooner die than let the zombies win."
+msgstr "좀비가 이기게 두느니 차라리 죽겠어."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:15
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "Sorry about all the blinding lights. It kinda just happens."
+msgstr "눈부신 빛은 미안. 그냥 저절로 나와."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:16
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "THIS CAR NEEDS MORE LIGHTS!"
+msgstr "이 차엔 빛이 더 필요해!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:17
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid ""
+"Okay. I'll tell you what. You carry a sword around for 20 years and we'll "
+"compare notes."
+msgstr "그래, 이렇게 하자. 너도 검을 20년 들고 다녀 봐, 그다음에 얘기하자."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:18
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "For sure!"
+msgstr "틀림없이!"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:19
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid ""
+"If you see any dresses, they're mine. What, a paladin gal can't dress nice, "
+"too?"
+msgstr "드레스가 보이면 내 거야. 뭐, 성기사 아가씨는 옷 좀 잘 입으면 안 돼?"
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:20
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid ""
+"NO FIEND TOO BIG, NO MONSTER TOO BIG, unless it's about 8 foot tall or so."
+msgstr "너무 큰 악마도, 너무 큰 괴물도 없다. 키가 2.5미터쯤 넘지만 않으면."
+
+#: deathforth/blurb/syca_sc/izzydialogue.df:21
+msgctxt "deathforth/blurb/syca_sc/izzydialogue.df"
+msgid "I love sunflowers. They're so adorable."
+msgstr "해바라기 좋아. 너무 귀여워."
+
+#: deathforth/blurb/syca_sc/loyal.df:3
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Well, I'm not going anywhere fast."
+msgstr "뭐, 난 어디 안 가."
+
+#: deathforth/blurb/syca_sc/loyal.df:7
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "We should help whoever we can. You never know who'll need it!"
+msgstr "도울 수 있는 사람은 도와야 해. 누가 도움이 필요할지 모르잖아!"
+
+#: deathforth/blurb/syca_sc/loyal.df:8
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Everybody's just trying to survive. Why should we make it worse?"
+msgstr "다들 그냥 살아남으려는 것뿐이야. 우리가 왜 더 나쁘게 만들어?"
+
+#: deathforth/blurb/syca_sc/loyal.df:9
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Apocalypse aside, the USA is still our country!"
+msgstr "종말이든 뭐든, 미국은 여전히 우리나라야!"
+
+#: deathforth/blurb/syca_sc/loyal.df:10
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "U-S-A!"
+msgstr "유-에스-에이!"
+
+#: deathforth/blurb/syca_sc/loyal.df:11
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "I wonder how my hometown is doing?"
+msgstr "우리 고향은 어떻게 됐을까?"
+
+#: deathforth/blurb/syca_sc/loyal.df:12
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "For sure, buddy!"
+msgstr "물론이지, 친구!"
+
+#: deathforth/blurb/syca_sc/loyal.df:13
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Be sure to say thank you to the car."
+msgstr "차한테 고맙다고 꼭 말해 줘."
+
+#: deathforth/blurb/syca_sc/loyal.df:14
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Want a snack bar?"
+msgstr "에너지바 먹을래?"
+
+#: deathforth/blurb/syca_sc/loyal.df:15
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "If we could just help the zombies..."
+msgstr "좀비들을 도와줄 수만 있다면..."
+
+#: deathforth/blurb/syca_sc/loyal.df:16
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Do you think there'll ever be a cure?"
+msgstr "언젠가 치료제가 나올까?"
+
+#: deathforth/blurb/syca_sc/loyal.df:17
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "We should get a bigger car so we can save more people."
+msgstr "사람들을 더 구할 수 있게 더 큰 차를 구하자."
+
+#: deathforth/blurb/syca_sc/loyal.df:18
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "I'll always be here for you! Probably."
+msgstr "난 언제나 네 곁에 있을게! 아마도."
+
+#: deathforth/blurb/syca_sc/loyal.df:19
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "You can talk to me, you know."
+msgstr "나한테 털어놔도 돼, 알지?"
+
+#: deathforth/blurb/syca_sc/loyal.df:20
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Just say if you need something, OK?"
+msgstr "필요한 거 있으면 말만 해, 알았지?"
+
+#: deathforth/blurb/syca_sc/loyal.df:21
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "I'll make it to Canada...for you."
+msgstr "캐나다까지 갈 거야... 너를 위해서."
+
+#: deathforth/blurb/syca_sc/loyal.df:22
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Someday, when this is over, want to watch a bad movie together?"
+msgstr "언젠가 이게 다 끝나면, 같이 구린 영화 볼래?"
+
+#: deathforth/blurb/syca_sc/loyal.df:23
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Maybe we could drive AROUND the zombies?"
+msgstr "좀비를 돌아서 가면 안 될까?"
+
+#: deathforth/blurb/syca_sc/loyal.df:24
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Just gotta hold on a little longer."
+msgstr "조금만 더 버티면 돼."
+
+#: deathforth/blurb/syca_sc/loyal.df:25
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "I'd open a big sanctuary for all these strays if I could."
+msgstr "할 수만 있다면 떠돌이 동물들을 위한 큰 보호소를 열고 싶어."
+
+#: deathforth/blurb/syca_sc/loyal.df:26
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "And if anybody's hurt, I can try to help."
+msgstr "그리고 누가 다치면 내가 도와볼게."
+
+#: deathforth/blurb/syca_sc/loyal.df:27
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Do you think zombies feel pain?"
+msgstr "좀비도 아픔을 느낄까?"
+
+#: deathforth/blurb/syca_sc/loyal.df:28
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "One time I got to pet a brown bear. Then I got mauled..."
+msgstr "한번은 불곰을 쓰다듬어 본 적 있어. 그러고 나서 물어뜯겼지..."
+
+#: deathforth/blurb/syca_sc/loyal.df:66
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Are you alright?"
+msgstr "괜찮아?"
+
+#: deathforth/blurb/syca_sc/loyal.df:70
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "No, I'm all left."
+msgstr "아니, 안 괜찮아. 괜찮은 척하는 거야."
+
+#: deathforth/blurb/syca_sc/loyal.df:74
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "WE'RE IN THE MIDDLE OF THE APOCALYPSE."
+msgstr "지금 종말 한복판이잖아."
+
+#: deathforth/blurb/syca_sc/loyal.df:75
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "WHAT DO YOU THINK?"
+msgstr "어떨 것 같아?"
+
+#: deathforth/blurb/syca_sc/loyal.df:78
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Keeping it together, I guess."
+msgstr "그럭저럭 버티는 중이야."
+
+#: deathforth/blurb/syca_sc/loyal.df:87
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "I won't leave you, even if you turn zombie."
+msgstr "네가 좀비가 되더라도 난 널 안 떠날 거야."
+
+#: deathforth/blurb/syca_sc/loyal.df:91
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Yay! We can be zombies together!"
+msgstr "야호! 같이 좀비 되면 되겠다!"
+
+#: deathforth/blurb/syca_sc/loyal.df:94
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Oh. Thanks, that's nice."
+msgstr "아. 고마워, 다정하네."
+
+#: deathforth/blurb/syca_sc/loyal.df:104
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "We should raise an army to get to Canada!"
+msgstr "캐나다에 가려면 군대를 모아야 해!"
+
+#: deathforth/blurb/syca_sc/loyal.df:108
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Yeah, "
+msgstr "그래, "
+
+#: deathforth/blurb/syca_sc/loyal.df:108
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "! More people to rob!"
+msgstr "! 털어먹을 사람이 늘겠네!"
+
+#: deathforth/blurb/syca_sc/loyal.df:111
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "Heck yeah! Who's gonna stop us?"
+msgstr "당연하지! 누가 우릴 막겠어?"
+
+#: deathforth/blurb/syca_sc/loyal.df:121
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "If we have spare supplies, we should help others out."
+msgstr "물자가 남으면 다른 사람들을 도와야 해."
+
+#: deathforth/blurb/syca_sc/loyal.df:125
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "FRIENDSHIP POWER!"
+msgstr "우정 파워!"
+
+#: deathforth/blurb/syca_sc/loyal.df:129
+msgctxt "deathforth/blurb/syca_sc/loyal.df"
+msgid "It's every man for himself out here!"
+msgstr "여기선 각자도생이야!"
+
+#: deathforth/blurb/syca_sc/merenja.df:1
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Bit of a departure from my original commission, I admit."
+msgstr "원래 의뢰랑은 좀 거리가 멀어졌네, 인정해."
+
+#: deathforth/blurb/syca_sc/merenja.df:2
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "If you kick me out of my own car, I'm gonna be pissed."
+msgstr "내 차에서 날 쫓아내면 진짜 화낼 거야."
+
+#: deathforth/blurb/syca_sc/merenja.df:3
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "We need a better car with even more armor and guns."
+msgstr "장갑이랑 총이 더 달린 더 좋은 차가 필요해."
+
+#: deathforth/blurb/syca_sc/merenja.df:4
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "And then came my ship, charging in from the fog..."
+msgstr "그리고 내 배가 안개를 뚫고 돌진해 왔지..."
+
+#: deathforth/blurb/syca_sc/merenja.df:5
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "I did not care for the Admiral's pie."
+msgstr "제독의 파이는 별로였어."
+
+#: deathforth/blurb/syca_sc/merenja.df:6
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Less ear-shattering booms, a lot more undead."
+msgstr "귀청 터지는 폭음은 줄고, 언데드는 훨씬 늘었네."
+
+#: deathforth/blurb/syca_sc/merenja.df:7
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Want a can of eels?"
+msgstr "장어 통조림 먹을래?"
+
+#: deathforth/blurb/syca_sc/merenja.df:8
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "That's ADMIRAL Merenja Raven, to you."
+msgstr "나는 메렌자 레이븐 제독이시다."
+
+#: deathforth/blurb/syca_sc/merenja.df:9
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Here, have this handbook. You can wipe your butt with it."
+msgstr "자, 이 안내서 줄게. 밑 닦는 데 써도 돼."
+
+#: deathforth/blurb/syca_sc/merenja.df:10
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Need to find myself a chainsaw or two..."
+msgstr "전기톱 한두 개는 구해야겠어..."
+
+#: deathforth/blurb/syca_sc/merenja.df:11
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Haha, you think zombies are bad? Try the open ocean."
+msgstr "하하, 좀비가 무섭다고? 망망대해에 가 봐."
+
+#: deathforth/blurb/syca_sc/merenja.df:12
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Sure, this is bad, but not as bad as having your hull breached."
+msgstr "그래, 이것도 나쁘지만 선체에 구멍 나는 것만큼은 아니야."
+
+#: deathforth/blurb/syca_sc/merenja.df:13
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "It - it doesn't matter how large my vessel was or wasn't!"
+msgstr "내, 내 배가 컸는지 작았는지는 중요하지 않아!"
+
+#: deathforth/blurb/syca_sc/merenja.df:14
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Best thing about the road? Less barnacles."
+msgstr "육로의 최고 장점? 따개비가 적다는 거."
+
+#: deathforth/blurb/syca_sc/merenja.df:15
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Hang on, I didn't realise we had heated seats!"
+msgstr "잠깐, 열선 시트가 있는 줄 몰랐네!"
+
+#: deathforth/blurb/syca_sc/merenja.df:16
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "My old vessel even had sonar. They really thought of everything."
+msgstr "내 옛날 배엔 소나도 있었어. 진짜 별걸 다 생각했다니까."
+
+#: deathforth/blurb/syca_sc/merenja.df:17
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "What do you mean all your rivers have bridges across them?"
+msgstr "강마다 다리가 놓여 있다니 그게 무슨 소리야?"
+
+#: deathforth/blurb/syca_sc/merenja.df:18
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Wanderers are as wanderers be..."
+msgstr "방랑자는 방랑자일 뿐..."
+
+#: deathforth/blurb/syca_sc/merenja.df:19
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Shall I open a beer bottle?"
+msgstr "맥주병 하나 딸까?"
+
+#: deathforth/blurb/syca_sc/merenja.df:20
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid ""
+"A good captain goes down with her ship. A better captain sinks the other "
+"ship first."
+msgstr "훌륭한 선장은 배와 함께 가라앉지. 더 훌륭한 선장은 상대 배를 먼저 가라앉히고."
+
+#: deathforth/blurb/syca_sc/merenja.df:21
+msgctxt "deathforth/blurb/syca_sc/merenja.df"
+msgid "Need to attach some harpoons to this thing..."
+msgstr "이거에 작살 몇 개 달아야겠어..."
+
+#: deathforth/blurb/syca_sc/mobster.df:1
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "It was me and the death roaders...in the summer of 2016."
+msgstr "나랑 데스 로더들이었지... 2016년 여름에."
+
+#: deathforth/blurb/syca_sc/mobster.df:2
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Leave the gun. Take the strawberry flavour yoghurt."
+msgstr "총은 두고, 딸기 요거트는 챙겨."
+
+#: deathforth/blurb/syca_sc/mobster.df:3
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Forget zombies. What about the IRS?"
+msgstr "좀비는 잊어. 국세청은 어쩔 건데?"
+
+#: deathforth/blurb/syca_sc/mobster.df:4
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "I've got lots of cars! Mainly in red. All in red, actually..."
+msgstr "차 많아! 주로 빨간색. 사실 전부 빨간색이야..."
+
+#: deathforth/blurb/syca_sc/mobster.df:5
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "This better not take long."
+msgstr "오래 걸리면 곤란해."
+
+#: deathforth/blurb/syca_sc/mobster.df:6
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "This was my territory. Well, not really, but it is now."
+msgstr "여긴 내 구역이었어. 뭐, 사실 아니었지만 이젠 그래."
+
+#: deathforth/blurb/syca_sc/mobster.df:7
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Capiche? Capiche."
+msgstr "알아들어? 알아들었지."
+
+#: deathforth/blurb/syca_sc/mobster.df:8
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Now I'm here, you don't gotta worry 'bout nothin'."
+msgstr "내가 왔으니 이제 아무 걱정 안 해도 돼."
+
+#: deathforth/blurb/syca_sc/mobster.df:9
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Do you smell bacon?"
+msgstr "베이컨 냄새 안 나?"
+
+#: deathforth/blurb/syca_sc/mobster.df:10
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Al Zombo needs clipping. Y'know what I mean?"
+msgstr "알 좀보를 손봐야겠어. 무슨 말인지 알지?"
+
+#: deathforth/blurb/syca_sc/mobster.df:11
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "All these zombies, makin' me look like a fool."
+msgstr "이 좀비들이 날 바보로 만들고 있어."
+
+#: deathforth/blurb/syca_sc/mobster.df:12
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "'Mobster' is such a loaded word."
+msgstr "'마피아'라는 말은 너무 어감이 세."
+
+#: deathforth/blurb/syca_sc/mobster.df:13
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Don Car looks worse everyday. They made him a captain."
+msgstr "돈 카는 날이 갈수록 꼴이 말이 아니야. 그래서 간부로 앉혔지."
+
+#: deathforth/blurb/syca_sc/mobster.df:14
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Ayyyyyy. Ayyy!"
+msgstr "에에에에에이. 에에에이!"
+
+#: deathforth/blurb/syca_sc/mobster.df:15
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Ayyyyyy! Watchin' the road 'ere!"
+msgstr "에에에에에이! 여기 운전 중이잖아!"
+
+#: deathforth/blurb/syca_sc/mobster.df:16
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "These zombies put a hit on me! On ME! The don!"
+msgstr "이 좀비들이 내 목에 현상금을 걸었어! 나한테! 돈한테!"
+
+#: deathforth/blurb/syca_sc/mobster.df:17
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Listen to me carefully..."
+msgstr "내 말 잘 들어..."
+
+#: deathforth/blurb/syca_sc/mobster.df:18
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "We should burn down Canada, take the insurance money."
+msgstr "캐나다를 불태우고 보험금을 타자."
+
+#: deathforth/blurb/syca_sc/mobster.df:19
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "We'll push the Canadians over in no time."
+msgstr "캐나다 놈들은 금방 굴복시킬 거야."
+
+#: deathforth/blurb/syca_sc/mobster.df:20
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Let's make some moonshine."
+msgstr "밀주나 좀 만들자."
+
+#: deathforth/blurb/syca_sc/mobster.df:21
+msgctxt "deathforth/blurb/syca_sc/mobster.df"
+msgid "Hmmm...this could be a great smuggling opportunity."
+msgstr "흠... 밀수하기 딱 좋은 기회인데."
+
+#: deathforth/blurb/syca_sc/pewter.df:1
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Hehehe...I probably shouldn't have done that."
+msgstr "헤헤헤... 아마 그러면 안 됐던 것 같아."
+
+#: deathforth/blurb/syca_sc/pewter.df:2
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Hey guys, remember when this wasn't my fault?"
+msgstr "얘들아, 이게 내 잘못이 아니었던 때 기억나?"
+
+#: deathforth/blurb/syca_sc/pewter.df:3
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Ow. Ow. Still ow."
+msgstr "아야. 아야. 여전히 아야."
+
+#: deathforth/blurb/syca_sc/pewter.df:4
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "This is worse than that time I fought a chicken."
+msgstr "닭이랑 싸웠던 때보다 더 심하네."
+
+#: deathforth/blurb/syca_sc/pewter.df:5
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Don't worry. I've got a thing. I dunno what it is yet."
+msgstr "걱정 마. 나한테 수가 있어. 그게 뭔지는 아직 모르지만."
+
+#: deathforth/blurb/syca_sc/pewter.df:6
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "I don't wanna alarm anybody, but I'm doing my best."
+msgstr "다들 놀라게 하고 싶진 않은데, 나 최선을 다하고 있어."
+
+#: deathforth/blurb/syca_sc/pewter.df:7
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Alright, nobody freak out. I already did."
+msgstr "좋아, 다들 진정해. 난 이미 멘붕 왔어."
+
+#: deathforth/blurb/syca_sc/pewter.df:8
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "I HATE YOU BEES, I HATE YOU BEES, I HATE YOU..."
+msgstr "벌들아 싫어, 벌들아 싫어, 싫어..."
+
+#: deathforth/blurb/syca_sc/pewter.df:9
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "I've got a whole CARTON OF CIGARETTES!"
+msgstr "나한테 담배 한 보루 통째로 있어!"
+
+#: deathforth/blurb/syca_sc/pewter.df:10
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "WELLLLLLLP 'BOUT TIME FOR ME TO BE HITTIN' THE OLD DUSTY TRAIL..."
+msgstr "자아아아아, 이제 슬슬 먼지 날리는 옛길로 떠나 볼 시간이군..."
+
+#: deathforth/blurb/syca_sc/pewter.df:11
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "I can't believe we're goin' to Canada!"
+msgstr "우리가 캐나다에 간다니 믿기지 않아!"
+
+#: deathforth/blurb/syca_sc/pewter.df:12
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "My alphabits have a mysterious message. It says ooooooooo."
+msgstr "알파벳 시리얼에 수수께끼 메시지가 있어. '오오오오오오오오'래."
+
+#: deathforth/blurb/syca_sc/pewter.df:13
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "ROADHOUSE."
+msgstr "로드하우스."
+
+#: deathforth/blurb/syca_sc/pewter.df:14
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "When you poop in your dreams... You poop for real."
+msgstr "꿈에서 똥 싸면... 현실에서도 싼다."
+
+#: deathforth/blurb/syca_sc/pewter.df:15
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Yeah I'm a DINGUS. A real DINK. Whaddya mean I can't say that?"
+msgstr "그래, 나 바보야. 진짜 멍청이지. 뭐, 그런 말 하면 안 된다고?"
+
+#: deathforth/blurb/syca_sc/pewter.df:16
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "This is worse than that one time I went to Canada."
+msgstr "이건 내가 캐나다 갔을 때보다 더 심하네."
+
+#: deathforth/blurb/syca_sc/pewter.df:17
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "I bet...5 dollars that J*e is still in a wheelchair."
+msgstr "5달러 건다, J*e는 아직 휠체어 타고 있을걸."
+
+#: deathforth/blurb/syca_sc/pewter.df:18
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "You know what really grinds my gears?"
+msgstr "내 속을 진짜 뒤집는 게 뭔지 알아?"
+
+#: deathforth/blurb/syca_sc/pewter.df:19
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Do you, or do you not know about the bird?"
+msgstr "너 그 새 얘기 알아, 몰라?"
+
+#: deathforth/blurb/syca_sc/pewter.df:20
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "This is like that time I was on daytime TV."
+msgstr "내가 낮 방송에 나갔던 때랑 똑같네."
+
+#: deathforth/blurb/syca_sc/pewter.df:21
+msgctxt "deathforth/blurb/syca_sc/pewter.df"
+msgid "Hehehehehehehehe."
+msgstr "헤헤헤헤헤헤헤헤."
+
+#: deathforth/blurb/syca_sc/rohoa.df:1
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "No, I don't believe in 'Kepa', shut up."
+msgstr "아니, 난 '케파' 안 믿어. 닥쳐."
+
+#: deathforth/blurb/syca_sc/rohoa.df:2
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid ""
+"Yes, yes I know the goop smells. Okay, well, if you die, I don't want to "
+"hear complaining."
+msgstr "그래, 그래, 끈적이 냄새나는 거 알아. 좋아, 그럼 죽어도 불평하지 마."
+
+#: deathforth/blurb/syca_sc/rohoa.df:3
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "What a ruin...so much knowledge wasted."
+msgstr "폐허가 됐군... 이 많은 지식이 낭비되다니."
+
+#: deathforth/blurb/syca_sc/rohoa.df:4
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "I wander what pa would be up to now..."
+msgstr "아빠는 지금쯤 뭐 하고 계실까..."
+
+#: deathforth/blurb/syca_sc/rohoa.df:5
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "I keep other things in my satchel too you know. Ever played poker?"
+msgstr "가방엔 다른 것도 넣고 다녀, 알잖아. 포커 쳐 봤어?"
+
+#: deathforth/blurb/syca_sc/rohoa.df:6
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "You don't want to know how the goop is made. TRUST ME."
+msgstr "끈적이를 어떻게 만드는지는 모르는 게 좋아. 날 믿어."
+
+#: deathforth/blurb/syca_sc/rohoa.df:7
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "Shall I make us something to eat?"
+msgstr "먹을 거 좀 만들어 줄까?"
+
+#: deathforth/blurb/syca_sc/rohoa.df:8
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "You've never been hit round the head with a satchel before, have you?"
+msgstr "가방으로 머리 맞아 본 적 없지?"
+
+#: deathforth/blurb/syca_sc/rohoa.df:9
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid ""
+"I almost prefer things this way. There's less screaming, more groaning."
+msgstr "차라리 이게 나은 것 같기도 해. 비명은 적고 신음은 많고."
+
+#: deathforth/blurb/syca_sc/rohoa.df:10
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "Wonder if we'll meet any other doctors around here..."
+msgstr "이 근처에서 다른 의사를 만날 수 있을까..."
+
+#: deathforth/blurb/syca_sc/rohoa.df:11
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "I already can't wait for this catastrophe to be over."
+msgstr "벌써부터 이 재앙이 빨리 끝났으면 좋겠어."
+
+#: deathforth/blurb/syca_sc/rohoa.df:12
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "We need to stockpile medicine. We never know what's around the corner."
+msgstr "약을 비축해 둬야 해. 언제 무슨 일이 생길지 몰라."
+
+#: deathforth/blurb/syca_sc/rohoa.df:13
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "I know I go on, sometimes, but I'm here for you."
+msgstr "내가 가끔 말이 많긴 하지만, 난 네 편이야."
+
+#: deathforth/blurb/syca_sc/rohoa.df:14
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "Come on. Chin up. We can make it, still."
+msgstr "자. 고개 들어. 아직 해낼 수 있어."
+
+#: deathforth/blurb/syca_sc/rohoa.df:15
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "Look, look. It's not my fault you stink of purple reeds."
+msgstr "이봐, 이봐. 네가 보라색 갈대 냄새 나는 건 내 잘못이 아니야."
+
+#: deathforth/blurb/syca_sc/rohoa.df:16
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "Hmm...got a spare flint and steel around?"
+msgstr "흠... 부싯돌이랑 부시 남는 거 있어?"
+
+#: deathforth/blurb/syca_sc/rohoa.df:17
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "We're gonna make it through this. Come on. We've got this."
+msgstr "우린 이겨 낼 거야. 자. 할 수 있어."
+
+#: deathforth/blurb/syca_sc/rohoa.df:18
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid ""
+"Did you try the medicine drug? Only stupid people try the medicine drug."
+msgstr "약 하는 약 해 봤어? 바보들만 약 하는 약을 하지."
+
+#: deathforth/blurb/syca_sc/rohoa.df:19
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "Make sure you're changing your socks often, please."
+msgstr "양말 좀 자주 갈아 신어, 제발."
+
+#: deathforth/blurb/syca_sc/rohoa.df:20
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid ""
+"This is our burden to bear, because we're the only ones who can carry it."
+msgstr "이건 우리가 짊어질 짐이야. 이걸 질 수 있는 건 우리뿐이니까."
+
+#: deathforth/blurb/syca_sc/rohoa.df:21
+msgctxt "deathforth/blurb/syca_sc/rohoa.df"
+msgid "In this world the only people we can trust is us."
+msgstr "이 세상에서 믿을 건 우리뿐이야."
+
+#: deathforth/blurb/syca_sc/rubick.df:1
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "What wonders shall I see this day?"
+msgstr "오늘은 어떤 경이를 보게 될까?"
+
+#: deathforth/blurb/syca_sc/rubick.df:2
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "SOOO...YOU CAN DRIVE THE CAR? WONDERFUL."
+msgstr "그러니까아아... 너 차를 운전할 수 있다고? 훌륭해."
+
+#: deathforth/blurb/syca_sc/rubick.df:3
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Where shall I go next? Ultimyr University? Canada? Hmm..."
+msgstr "다음엔 어디로 갈까? 얼티미르 대학? 캐나다? 흠..."
+
+#: deathforth/blurb/syca_sc/rubick.df:4
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Oh, if I had father's skill in construction..."
+msgstr "아, 아버지만큼 건축 솜씨가 있었다면..."
+
+#: deathforth/blurb/syca_sc/rubick.df:5
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "No, the mask does not come off."
+msgstr "아니, 가면은 안 벗겨져."
+
+#: deathforth/blurb/syca_sc/rubick.df:6
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Do you mind if I copy the steering wheel?"
+msgstr "핸들 좀 복사해도 될까?"
+
+#: deathforth/blurb/syca_sc/rubick.df:7
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "I'm coming, Canadians! Wait for me!"
+msgstr "간다, 캐나다 사람들아! 기다려!"
+
+#: deathforth/blurb/syca_sc/rubick.df:8
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "My thirst for knowledge cannot be quenched."
+msgstr "지식에 대한 내 갈증은 해소될 수 없다."
+
+#: deathforth/blurb/syca_sc/rubick.df:9
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "No sorcery lies beyond my grasp."
+msgstr "내 손이 닿지 않는 마법은 없다."
+
+#: deathforth/blurb/syca_sc/rubick.df:10
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "I am no thief. I merely borrow. The police...disagree."
+msgstr "난 도둑이 아니야. 잠깐 빌릴 뿐이지. 경찰은... 생각이 다르지만."
+
+#: deathforth/blurb/syca_sc/rubick.df:11
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Hmmm. What a test this shall be..."
+msgstr "흠. 이거 제법 시험이 되겠군..."
+
+#: deathforth/blurb/syca_sc/rubick.df:12
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Mind if I copy your hair? I'm missing some."
+msgstr "네 머리카락 좀 복사해도 돼? 나 좀 모자라서."
+
+#: deathforth/blurb/syca_sc/rubick.df:13
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "No no no, it's not 'counterfeit' money, it's..."
+msgstr "아니 아니, 그건 '위조' 지폐가 아니라..."
+
+#: deathforth/blurb/syca_sc/rubick.df:14
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Excellent idea!"
+msgstr "훌륭한 생각이야!"
+
+#: deathforth/blurb/syca_sc/rubick.df:15
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "I could cast a portal, but where's the fun in that?"
+msgstr "포탈을 열 수도 있지만, 그럼 재미가 없잖아?"
+
+#: deathforth/blurb/syca_sc/rubick.df:16
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "What is this...'music' that keeps playing?"
+msgstr "계속 들리는 이... '음악'은 뭐지?"
+
+#: deathforth/blurb/syca_sc/rubick.df:17
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "WHO is the ulimate magus? That's right. I am."
+msgstr "최강의 마법사는 누구? 그래. 나지."
+
+#: deathforth/blurb/syca_sc/rubick.df:18
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "What's mine is mine and what's yours is also mine."
+msgstr "내 건 내 거고 네 것도 내 거야."
+
+#: deathforth/blurb/syca_sc/rubick.df:19
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "I had the strangest dream, that I was standing in a river..."
+msgstr "아주 이상한 꿈을 꿨어. 강 한가운데 서 있는 꿈이었지..."
+
+#: deathforth/blurb/syca_sc/rubick.df:20
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "We'd best hope we don't find the anti-magus. He's a real jerk."
+msgstr "안티 마법사를 안 만나기를 빌자. 진짜 재수 없는 놈이거든."
+
+#: deathforth/blurb/syca_sc/rubick.df:21
+msgctxt "deathforth/blurb/syca_sc/rubick.df"
+msgid "Zombies everywhere, Obama, no games...I almost feel bad."
+msgstr "사방에 좀비, 오바마, 게임은 없고... 좀 안됐다는 생각까지 드네."
+
+#: deathforth/blurb/syca_sc/swiss.df:1
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Good thing the halberd fit in the car."
+msgstr "미늘창이 차에 들어가서 다행이야."
+
+#: deathforth/blurb/syca_sc/swiss.df:2
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Guten morgen!"
+msgstr "구텐 모르겐!"
+
+#: deathforth/blurb/syca_sc/swiss.df:3
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Can I interest you in a coocoo clock?"
+msgstr "뻐꾸기시계에 관심 있어?"
+
+#: deathforth/blurb/syca_sc/swiss.df:4
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Interested in buying an old cow bell?"
+msgstr "오래된 소 방울 살 생각 있어?"
+
+#: deathforth/blurb/syca_sc/swiss.df:5
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Of course it's a real job, shut up shut up shut up!"
+msgstr "당연히 진짜 직업이지, 닥쳐 닥쳐 닥쳐!"
+
+#: deathforth/blurb/syca_sc/swiss.df:6
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "You've hired the finest pre-modern military in the world."
+msgstr "세계 최고의 전근대 군대를 고용하셨습니다."
+
+#: deathforth/blurb/syca_sc/swiss.df:7
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Our biggest issues - zombies and little red faced men with crossbows."
+msgstr "우리의 가장 큰 문제 - 좀비, 그리고 석궁 든 얼굴 빨간 꼬마들."
+
+#: deathforth/blurb/syca_sc/swiss.df:8
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "I must say, your horse is most unusual."
+msgstr "말하는데, 네 말은 참 특이하구나."
+
+#: deathforth/blurb/syca_sc/swiss.df:9
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Verdamnt!"
+msgstr "페르담트!"
+
+#: deathforth/blurb/syca_sc/swiss.df:10
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "I sleep in the armour too, in case there's a ruffian with a flintlock."
+msgstr "부싯돌 총 든 불한당이 있을지 몰라서 갑옷 입고 자."
+
+#: deathforth/blurb/syca_sc/swiss.df:11
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "For der Schweiss!"
+msgstr "슈바이츠를 위하여!"
+
+#: deathforth/blurb/syca_sc/swiss.df:12
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Luckily, I can solve any problems you have that need a 10-foot pole."
+msgstr "다행히 3미터짜리 장대가 필요한 문제는 내가 다 해결해 줄 수 있어."
+
+#: deathforth/blurb/syca_sc/swiss.df:13
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "The RCMP are just pretenders. I'm the real deal."
+msgstr "기마경찰은 다 가짜야. 진짜는 나라고."
+
+#: deathforth/blurb/syca_sc/swiss.df:14
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid ""
+"I think if every guard was armed with a Toyota, we'd be more effective."
+msgstr "경비병마다 도요타로 무장했으면 훨씬 효율적이었을 텐데."
+
+#: deathforth/blurb/syca_sc/swiss.df:15
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Don't worry, it's meat slop for dinner tonight."
+msgstr "걱정 마, 오늘 저녁은 고기 죽이야."
+
+#: deathforth/blurb/syca_sc/swiss.df:16
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Other benefits of a halberd - it makes for a crazy kebab skewer."
+msgstr "미늘창의 또 다른 장점 - 끝내주는 케밥 꼬치가 돼."
+
+#: deathforth/blurb/syca_sc/swiss.df:17
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "I don't take responsibility or ownership for Swiss Miss."
+msgstr "스위스 미스 코코아는 내 책임도 소유도 아니야."
+
+#: deathforth/blurb/syca_sc/swiss.df:18
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Never bring a knife to a polearm fight."
+msgstr "장창 싸움에 칼 들고 오지 마라."
+
+#: deathforth/blurb/syca_sc/swiss.df:19
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Never bring a polearm to a gun fight...okay, maybe sometimes."
+msgstr "총싸움에 장창 들고 오지 마라... 뭐, 가끔은 괜찮고."
+
+#: deathforth/blurb/syca_sc/swiss.df:20
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "Other uses for a halberd - using it like a giant carjack."
+msgstr "미늘창의 또 다른 용도 - 거대한 자동차 잭으로 쓰기."
+
+#: deathforth/blurb/syca_sc/swiss.df:21
+msgctxt "deathforth/blurb/syca_sc/swiss.df"
+msgid "This armour's great for shrapnel. Sucks for zombies."
+msgstr "이 갑옷은 파편엔 좋은데. 좀비한텐 꽝이야."
+
+#: deathforth/blurb/syca_sc/zeus.df:1
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "MAN SUPPOSES...ZEUS DISPOSES."
+msgstr "인간은 계획하고... 제우스는 처리한다."
+
+#: deathforth/blurb/syca_sc/zeus.df:2
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "OF ALL OF MOUNT OLYMPUS, I'M THE KINGPIN."
+msgstr "올림포스 산 전체에서 내가 두목이다."
+
+#: deathforth/blurb/syca_sc/zeus.df:3
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "QUICKER WITH THE BOLTS THAN USAIN!"
+msgstr "번개는 우사인보다 빠르다!"
+
+#: deathforth/blurb/syca_sc/zeus.df:4
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "A CURSE UPON...oh, wait, that's not my domain."
+msgstr "저주를 내리노라... 아, 잠깐, 그건 내 소관이 아니군."
+
+#: deathforth/blurb/syca_sc/zeus.df:5
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "A SCORE OF MORTAL PROGENY...no, wait, not my domain."
+msgstr "수많은 인간 자손을... 아니, 잠깐, 내 소관이 아니군."
+
+#: deathforth/blurb/syca_sc/zeus.df:6
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "ON THE FIRST DAY OF...nevermind, not my followship."
+msgstr "성탄절 첫째 날에... 됐다, 내 교단이 아니군."
+
+#: deathforth/blurb/syca_sc/zeus.df:7
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "THUNDERRRRRRRRRSTRUCK!"
+msgstr "썬더어어어어스트럭!"
+
+#: deathforth/blurb/syca_sc/zeus.df:8
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "ATTACK!"
+msgstr "공격!"
+
+#: deathforth/blurb/syca_sc/zeus.df:9
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "DO YOU KNOW MY SON, MARS? SORRY FOR YOUR LOSS IF SO"
+msgstr "내 아들 마르스 알아? 안다면 유감이군"
+
+#: deathforth/blurb/syca_sc/zeus.df:10
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "I CHISELLED THESE ABS MYSELF."
+msgstr "이 복근은 내가 직접 깎았다."
+
+#: deathforth/blurb/syca_sc/zeus.df:11
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "PERFECTION IS WHATEVER I REST MY GAZE UPON."
+msgstr "내 시선이 닿는 곳이 곧 완벽함이다."
+
+#: deathforth/blurb/syca_sc/zeus.df:12
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "WHEN YOU GET TO RIVER STYX...TELL MY DOG HE'S STINKY."
+msgstr "스틱스 강에 가거든... 내 개한테 냄새난다고 전해라."
+
+#: deathforth/blurb/syca_sc/zeus.df:13
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "WANT TO GET MARRIED? NO? OK."
+msgstr "결혼할래? 싫어? 알았어."
+
+#: deathforth/blurb/syca_sc/zeus.df:14
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "WANT TO DATE? NO? OK."
+msgstr "사귈래? 싫어? 알았어."
+
+#: deathforth/blurb/syca_sc/zeus.df:15
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "COME BACK TO MY PLACE WITH ME. IT'S LTIERALLY HEAVEN."
+msgstr "우리 집에 가자. 말 그대로 천국이야."
+
+#: deathforth/blurb/syca_sc/zeus.df:16
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "THESE ZOMBIES WOULD SLAY THEIR OWN MAKER?"
+msgstr "이 좀비들이 자기 창조주를 죽이겠다고?"
+
+#: deathforth/blurb/syca_sc/zeus.df:17
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "NOBODY WILL EVER BELIEVE YOU."
+msgstr "아무도 네 말을 믿지 않을 거다."
+
+#: deathforth/blurb/syca_sc/zeus.df:18
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "I DON'T NEED FOOD...BUT I SURE DO WANT FOOD."
+msgstr "난 음식이 필요 없어... 하지만 먹고 싶긴 하지."
+
+#: deathforth/blurb/syca_sc/zeus.df:19
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "LESS ZOMBIES...MORE WOMEN!"
+msgstr "좀비는 적게... 여자는 많이!"
+
+#: deathforth/blurb/syca_sc/zeus.df:20
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "IF YOU'RE EVER TEMPTED, DON'T GO TO VALHALLA. IT SUCKS."
+msgstr "혹시 유혹이 들더라도 발할라엔 가지 마. 구려."
+
+#: deathforth/blurb/syca_sc/zeus.df:21
+msgctxt "deathforth/blurb/syca_sc/zeus.df"
+msgid "IF YOU THINK I'M HORRIBLE, YOU SHOULD MEET ODIN."
+msgstr "내가 끔찍하다고 생각하면, 오딘을 만나 봐라."
+
+#: deathforth/boot-end.df:15
+msgctxt "deathforth/boot-end.df"
+msgid "Thanks for checking out Wayward Souls!"
+msgstr "Wayward Souls를 확인해 주셔서 감사합니다!"
+
+#: deathforth/boot-end.df:16
+msgctxt "deathforth/boot-end.df"
+msgid "10 ZOMBO POINTS earned!"
+msgstr "좀보 포인트 10점 획득!"
+
+#: deathforth/boot-end.df:19
+msgctxt "deathforth/boot-end.df"
+msgid ""
+"You are over the maximum for Zombo Points!\r\n"
+"\t\t\tSpend your excess ZP in the UNLOCKS section before starting a new game!"
+msgstr ""
+"좀보 포인트가 최대치를 넘었습니다!\r\n"
+"\t\t\t새 게임을 시작하기 전에 해금 메뉴에서 초과한 ZP를 사용하세요!"
+
+#: deathforth/boot-end.df:32
+msgctxt "deathforth/boot-end.df"
+msgid "WAYWARD SOULS 1.0 LAUNCH!"
+msgstr "WAYWARD SOULS 1.0 출시!"
+
+#: deathforth/boot-end.df:33
+msgctxt "deathforth/boot-end.df"
+msgid "Rocketcat Games has finished the 1.0 launch of "
+msgstr "Rocketcat Games가 1.0 출시를 마쳤습니다: "
+
+#: deathforth/boot-end.df:33 deathforth/boot-end.df:34
+msgctxt "deathforth/boot-end.df"
+msgid "Wayward Souls"
+msgstr "Wayward Souls"
+
+#: deathforth/boot-end.df:34
+msgctxt "deathforth/boot-end.df"
+msgid ""
+" is a randomly generated action RPG dungeon crawler. It focuses on story and"
+" multiple characters, all with their own playstyles. Check it out on the "
+"Steam Store for more info!"
+msgstr ""
+"은(는) 랜덤 생성 액션 RPG 던전 크롤러입니다. 스토리와 각자 다른 플레이 스타일을 가진 여러 캐릭터가 특징입니다. 자세한 정보는 "
+"Steam 상점에서 확인하세요!"
+
+#: deathforth/boot-end.df:35
+msgctxt "deathforth/boot-end.df"
+msgid "Maybe next time"
+msgstr "다음에"
+
+#: deathforth/boot-end.df:36
+msgctxt "deathforth/boot-end.df"
+msgid "Check it out on Steam - "
+msgstr "Steam에서 확인하기 - "
+
+#: deathforth/boot-end.df:36
+msgctxt "deathforth/boot-end.df"
+msgid "Get 10 Zombo Points"
+msgstr "좀보 포인트 10점 받기"
+
+#: deathforth/boot-end.df:37
+msgctxt "deathforth/boot-end.df"
+msgid "Don't show this news message again"
+msgstr "이 소식 다시 보지 않기"
+
+#: deathforth/boot-end.df:173
+msgctxt "deathforth/boot-end.df"
+msgid "OW!"
+msgstr "아야!"
+
+#: deathforth/boot-end.df:266
+msgctxt "deathforth/boot-end.df"
+msgid "*WARNING: Flash Flood!*"
+msgstr "*경고: 돌발 홍수!*"
+
+#: deathforth/boot-end.df:267 deathforth/boot-end.df:282
+msgctxt "deathforth/boot-end.df"
+msgid "*Seek Shelter!*"
+msgstr "*대피하세요!*"
+
+#: deathforth/boot-end.df:281
+msgctxt "deathforth/boot-end.df"
+msgid "*WARNING: Thunderstorm!*"
+msgstr "*경고: 뇌우!*"
+
+#: deathforth/boot-end.df:322
+msgctxt "deathforth/boot-end.df"
+msgid "*WARNING: Slippery Ice!*"
+msgstr "*경고: 미끄러운 빙판!*"
+
+#: deathforth/boot-end.df:323
+msgctxt "deathforth/boot-end.df"
+msgid "*Don't Rush!*"
+msgstr "*서두르지 마세요!*"
+
+#: deathforth/boot-end.df:330
+msgctxt "deathforth/boot-end.df"
+msgid "*Clear weather!*"
+msgstr "*맑은 날씨!*"
+
+#: deathforth/boot-end.df:331
+msgctxt "deathforth/boot-end.df"
+msgid "*No Active Effects*"
+msgstr "*활성 효과 없음*"
+
+#: deathforth/boot-end.df:1206
+msgctxt "deathforth/boot-end.df"
+msgid "BREAK ME!"
+msgstr "부숴 줘!"
+
+#: deathforth/car-logic.df:103
+msgctxt "deathforth/car-logic.df"
+msgid "LET'S BOOGIE"
+msgstr "가 보자고"
+
+#: deathforth/car-logic.df:106
+msgctxt "deathforth/car-logic.df"
+msgid "START THE CAR"
+msgstr "시동 걸기"
+
+#: deathforth/car-logic.df:108
+msgctxt "deathforth/car-logic.df"
+msgid "FLOOR IT!"
+msgstr "밟아!"
+
+#: deathforth/car-logic.df:108
+msgctxt "deathforth/car-logic.df"
+msgid "GIVE 'ER!"
+msgstr "달려!"
+
+#: deathforth/car-logic.df:110
+msgctxt "deathforth/car-logic.df"
+msgid "HONK"
+msgstr "빵빵"
+
+#: deathforth/car-logic.df:111
+msgctxt "deathforth/car-logic.df"
+msgid "GET OUT"
+msgstr "내리기"

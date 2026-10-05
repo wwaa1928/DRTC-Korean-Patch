@@ -1,0 +1,2897 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/common/cyoa-k-newbie.df:156
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"Test this and post a comment if there are:\r\n"
+"\t1. Missing buildings: There should be 4 lootable\r\n"
+"\t2. Buildings where the door is off the map"
+msgstr ""
+"이걸 테스트하고 다음이 있으면 댓글을 남겨 주세요:\r\n"
+"\t1. 빠진 건물: 뒤질 수 있는 건물이 4개 있어야 함\r\n"
+"\t2. 문이 맵 밖에 있는 건물"
+
+#: deathforth/events/common/cyoa-k-newbie.df:170
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"This option will take you straight to Canada, the final mission on the final day!\r\n"
+"\tThe purpose of this is to help people with the crash bug.\r\n"
+"\t"
+msgstr ""
+"이 선택지는 마지막 날 마지막 임무인 캐나다로 곧장 데려간다!\r\n"
+"\t충돌 버그를 겪는 사람들을 돕기 위한 것이다.\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:172
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "SPOILERS AHEAD"
+msgstr "스포일러 주의"
+
+#: deathforth/events/common/cyoa-k-newbie.df:173
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Woops no play normally"
+msgstr "앗 아니다, 그냥 플레이할래"
+
+#: deathforth/events/common/cyoa-k-newbie.df:174
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Warp straight to Canada!"
+msgstr "캐나다로 곧장 워프!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:178
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Get ready... for a superior JoJo experience."
+msgstr "준비해라... 한 차원 높은 죠죠 체험을."
+
+#: deathforth/events/common/cyoa-k-newbie.df:190
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Get ready... for a Mechnical shopping experience."
+msgstr "준비해라... 기계적인 쇼핑 체험을."
+
+#: deathforth/events/common/cyoa-k-newbie.df:195
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Get ready... for a relaxing park experience."
+msgstr "준비해라... 느긋한 공원 체험을."
+
+#: deathforth/events/common/cyoa-k-newbie.df:231
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "WYK codes reset!"
+msgstr "WYK 코드 초기화!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:238
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "UPDATE TESTING"
+msgstr "업데이트 테스트"
+
+#: deathforth/events/common/cyoa-k-newbie.df:239
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Notes for the "
+msgstr "패치 노트: "
+
+#: deathforth/events/common/cyoa-k-newbie.df:239
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "TRACHEA"
+msgstr "TRACHEA"
+
+#: deathforth/events/common/cyoa-k-newbie.df:239
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " Update:"
+msgstr " 업데이트"
+
+#: deathforth/events/common/cyoa-k-newbie.df:240
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"Anime Fan has been reworked. If you have paranoid, oblivious or irritating chars, they can help the Anime Fan char resist their curse!\r\n"
+"\tAI now loots floor loot much more effectively (subject to conditions). There are also two new personalities - tinker & agile!"
+msgstr ""
+"애니메이션 팬이 개편됐다. 편집증, 눈치 없음, 짜증 유발 캐릭터가 있으면 애니메이션 팬 캐릭터가 저주에 저항하도록 도울 수 있다!\r\n"
+"\tAI가 이제 바닥 전리품을 훨씬 잘 줍는다(조건부). 새 성격도 두 가지 추가됐다 - 손재주꾼 & 날렵함!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:242
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"Also, new events and locations, as well as some new interactions for old "
+"events!"
+msgstr "그리고 새 이벤트와 장소, 기존 이벤트의 새 상호작용도 추가됐다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:243
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "REMEMBER: ART IS SUBJECT TO CHANGE."
+msgstr "기억해: 그림은 바뀔 수 있음."
+
+#: deathforth/events/common/cyoa-k-newbie.df:245
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Test Things Out"
+msgstr "이것저것 테스트"
+
+#: deathforth/events/common/cyoa-k-newbie.df:254
+#: deathforth/events/common/cyoa-k-newbie.df:384
+#: deathforth/events/common/cyoa-k-newbie.df:500
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "HIT THE ROAD"
+msgstr "출발하자"
+
+#: deathforth/events/common/cyoa-k-newbie.df:263
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "PREVIEW NEW STUFF"
+msgstr "새 콘텐츠 미리보기"
+
+#: deathforth/events/common/cyoa-k-newbie.df:267
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "RESET WYK CODES"
+msgstr "WYK 코드 초기화"
+
+#: deathforth/events/common/cyoa-k-newbie.df:268
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Read another Hint"
+msgstr "힌트 하나 더 읽기"
+
+#: deathforth/events/common/cyoa-k-newbie.df:299
+#: deathforth/events/common/cyoa-k-newbie.df:363
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "WYK RACE: "
+msgstr "WYK 레이스: "
+
+#: deathforth/events/common/cyoa-k-newbie.df:299
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " Edition"
+msgstr " 에디션"
+
+#: deathforth/events/common/cyoa-k-newbie.df:301
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Death Road to Canada"
+msgstr "데스 로드 투 캐나다"
+
+#: deathforth/events/common/cyoa-k-newbie.df:358
+#: deathforth/events/common/cyoa-k-newbie.df:503
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" hears rumors that Canada is a safe place, free of the threat of zombies.\r\n"
+"\tWith nothing to gain from waiting around Florida, "
+msgstr ""
+"은(는) 캐나다는 좀비 위협이 없는 안전한 곳이라는 소문을 듣는다.\r\n"
+"\t플로리다에서 기다려 봐야 얻을 게 없으니, "
+
+#: deathforth/events/common/cyoa-k-newbie.df:359
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " decides to brave the Death Road and travel north."
+msgstr "는 데스 로드를 무릅쓰고 북쪽으로 떠나기로 한다."
+
+#: deathforth/events/common/cyoa-k-newbie.df:365
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "7 Steam keys are hidden on the Death Road!"
+msgstr "데스 로드에 스팀 키 7개가 숨겨져 있다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:366
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "6 Steam keys remaining!"
+msgstr "스팀 키 6개 남음!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:367
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "5 Steam keys to go!"
+msgstr "스팀 키 5개 남았다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:368
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "4 Steam keys still hidden!"
+msgstr "스팀 키 4개가 아직 숨겨져 있다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:369
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Win the game to get a final 3 Steam keys!"
+msgstr "게임을 클리어하면 마지막 스팀 키 3개를 얻는다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:370
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "All keys were found! Congrats!"
+msgstr "키를 전부 찾았다! 축하해!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:383
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "The Death Road to Canada 8/26 Alpha"
+msgstr "데스 로드 투 캐나다 8/26 알파"
+
+#: deathforth/events/common/cyoa-k-newbie.df:387
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"Welcome to the Death Road to Canada Alpha!\r\n"
+"\tCurrently Testing: Special Characters\r\n"
+"\tYou can find a full list of recent changes and instructions to help us test the game by clicking the NEWS link on the Death Road to Canada Steam page.\r\n"
+"\tSend us feedback via Kickstarter messages!"
+msgstr ""
+"데스 로드 투 캐나다 알파에 오신 걸 환영합니다!\r\n"
+"\t현재 테스트 중: 특수 캐릭터\r\n"
+"\t최근 변경 사항 전체 목록과 테스트 방법은 데스 로드 투 캐나다 스팀 페이지의 NEWS 링크에서 확인할 수 있습니다.\r\n"
+"\t킥스타터 메시지로 피드백을 보내 주세요!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:399
+#: deathforth/events/common/cyoa-k-newbie.df:456
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" is now part of the team!\r\n"
+"\t"
+msgstr ""
+"이(가) 이제 일행이 되었다!\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:400
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" quietly groans a little bit about this.\r\n"
+"\tOnward to Canada!"
+msgstr ""
+"은(는) 이걸 두고 조용히 조금 투덜댄다.\r\n"
+"\t캐나다로 출발!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:405
+#: deathforth/events/common/cyoa-k-newbie.df:462
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" peels out of there. \r\n"
+"\t"
+msgstr ""
+"은(는) 타이어 자국을 남기며 떠난다. \r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:406
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "SEE YOU LATER SUCKER."
+msgstr "잘 있어라, 호구야."
+
+#: deathforth/events/common/cyoa-k-newbie.df:406
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"\r\n"
+"\tIt seems like a good start."
+msgstr ""
+"\r\n"
+"\t괜찮은 출발 같다."
+
+#: deathforth/events/common/cyoa-k-newbie.df:411
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Powerful Allies"
+msgstr "강력한 동료"
+
+#: deathforth/events/common/cyoa-k-newbie.df:415
+#: deathforth/events/common/cyoa-k-newbie.df:475
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Recruit "
+msgstr "영입: "
+
+#: deathforth/events/common/cyoa-k-newbie.df:416
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " PEELS OUT"
+msgstr "이(가) 냅다 튄다"
+
+#: deathforth/events/common/cyoa-k-newbie.df:418
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "As "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/cyoa-k-newbie.df:418
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " starts the journey to Canada, they meet their neighbor, "
+msgstr "은(는) 캐나다로 떠나는 길에 이웃을 만난다: "
+
+#: deathforth/events/common/cyoa-k-newbie.df:419
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " has always hated this person, but could use the help and/or decoy."
+msgstr "은(는) 늘 이 사람을 싫어했지만, 도움이든 미끼든 필요하긴 하다."
+
+#: deathforth/events/common/cyoa-k-newbie.df:424
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" named this shotgun BIG DAWG. It is capable of exploding zombies, both near and far. For a novice, it's possibly the best choice of firearm.\r\n"
+"\t"
+msgstr ""
+"은(는) 이 산탄총에 빅 도그라는 이름을 붙였다. 가까이 있든 멀리 있든 좀비를 터뜨릴 수 있다. 초보에겐 아마 최고의 총일 거다.\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:425
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " acquires "
+msgstr "은(는) 손에 넣는다: "
+
+#: deathforth/events/common/cyoa-k-newbie.df:429
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"Rifles are capable of puncturing through multiple zombie heads, in the hands"
+" of a great shooter! "
+msgstr "소총은 명사수의 손에 들리면 좀비 머리 여러 개를 꿰뚫을 수 있다! "
+
+#: deathforth/events/common/cyoa-k-newbie.df:429
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" isn't necessarily a great shot, but practice makes perfect.\r\n"
+"\t"
+msgstr ""
+"은(는) 딱히 명사수는 아니지만, 연습하면 된다.\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:430
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " acquires the rifle!"
+msgstr "은(는) 소총을 손에 넣는다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:434
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"The humble pistol may not have the power of bigger firearms, but it gets the job done. That, and pistol bullets are still rather plentiful. Open any drawer and some will likely spill out!\r\n"
+"\t"
+msgstr ""
+"소박한 권총은 큰 총만큼 위력은 없지만, 할 일은 해낸다. 게다가 권총 총알은 아직 꽤 흔하다. 아무 서랍이나 열면 몇 개쯤 쏟아져 나올 거다!\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:435
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " acquires the pistol!"
+msgstr "은(는) 권총을 손에 넣는다!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:439
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"Weapons: who needs them? The car is a weapon. The further that huge chunk of metal can be driven before it runs out of gas, the safer the journey is.\r\n"
+"\tAlso, maybe you'll run into a chainsaw."
+msgstr ""
+"무기? 그런 게 왜 필요해? 차가 곧 무기다. 저 거대한 쇳덩어리를 기름이 떨어지기 전까지 멀리 몰수록 여정은 안전해진다.\r\n"
+"\t그리고 어쩌면 전기톱을 만날지도."
+
+#: deathforth/events/common/cyoa-k-newbie.df:443
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Locking and Loading"
+msgstr "장전 완료"
+
+#: deathforth/events/common/cyoa-k-newbie.df:445
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " takes a small detour to a stash of supplies that "
+msgstr "은(는) 잠깐 돌아서 물자 창고에 들른다. 예전에 "
+
+#: deathforth/events/common/cyoa-k-newbie.df:445
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" left there before. \r\n"
+" Besides a dinky bit of food and medicine, the stash had: "
+msgstr ""
+"이(가) 숨겨 둔 곳이다. \r\n"
+" 쥐꼬리만 한 식량과 약 말고도 창고엔 이게 있었다: "
+
+#: deathforth/events/common/cyoa-k-newbie.df:448
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Shotgun and 8 shells"
+msgstr "산탄총과 산탄 8발"
+
+#: deathforth/events/common/cyoa-k-newbie.df:449
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Rifle and 12 ammo"
+msgstr "소총과 탄약 12발"
+
+#: deathforth/events/common/cyoa-k-newbie.df:450
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Pistol and 20 bullets"
+msgstr "권총과 총알 20발"
+
+#: deathforth/events/common/cyoa-k-newbie.df:451
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "150 extra Gas"
+msgstr "기름 150 추가"
+
+#: deathforth/events/common/cyoa-k-newbie.df:457
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" winces as the new recruit scarfs down the two long-hoarded food cans.\r\n"
+"\tOnward to Canada!"
+msgstr ""
+"은(는) 새 동료가 오래 아껴 둔 통조림 두 개를 허겁지겁 먹어 치우는 걸 보고 움찔한다.\r\n"
+"\t캐나다로 출발!"
+
+#: deathforth/events/common/cyoa-k-newbie.df:463
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "NO ONE TOUCHES MY CANS OF FOOD."
+msgstr "아무도 내 통조림에 손대지 마."
+
+#: deathforth/events/common/cyoa-k-newbie.df:463
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"\r\n"
+"\tIt was probably the right choice."
+msgstr ""
+"\r\n"
+"\t아마 옳은 선택이었을 거다."
+
+#: deathforth/events/common/cyoa-k-newbie.df:468
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Ne'er-do-well Recruitment"
+msgstr "건달 영입"
+
+#: deathforth/events/common/cyoa-k-newbie.df:473
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "A short drive away from "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/cyoa-k-newbie.df:473
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "'s hideout, "
+msgstr "의 은신처에서 차로 조금 떨어진 곳에서, "
+
+#: deathforth/events/common/cyoa-k-newbie.df:473
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" runs into someone just wandering the road, sledgehammer over shoulder.\r\n"
+"\t"
+msgstr ""
+"은(는) 큰 망치를 어깨에 걸치고 길을 떠도는 사람과 마주친다.\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:474
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " introduces "
+msgstr "은(는) "
+
+#: deathforth/events/common/cyoa-k-newbie.df:474
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+"self, and offers to join the mission to Canada in exchange for some food to "
+"chow down on."
+msgstr " 자신을 소개하고, 먹을 식량을 좀 주면 캐나다로 가는 여정에 합류하겠다고 한다."
+
+#: deathforth/events/common/cyoa-k-newbie.df:475
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " for 2 Food"
+msgstr " (식량 2)"
+
+#: deathforth/events/common/cyoa-k-newbie.df:476
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ": IT'S MY FOOD"
+msgstr ": 내 식량이야"
+
+#: deathforth/events/common/cyoa-k-newbie.df:479
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Such incredible wisdom.\r\n"
+msgstr "정말 대단한 지혜다.\r\n"
+
+#: deathforth/events/common/cyoa-k-newbie.df:480
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " is enriched with this knowledge. "
+msgstr "은(는) 이 지식으로 한층 깊어진다. "
+
+#: deathforth/events/common/cyoa-k-newbie.df:480
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " will never forget those words."
+msgstr "는 이 말을 절대 잊지 못할 것이다."
+
+#: deathforth/events/common/cyoa-k-newbie.df:487
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "Wise Mentor"
+msgstr "현명한 스승"
+
+#: deathforth/events/common/cyoa-k-newbie.df:489
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" decides to visit their grizzled mentor one last time before heading north.\r\n"
+"\t"
+msgstr ""
+"은(는) 북쪽으로 떠나기 전에 노련한 스승을 마지막으로 찾아가기로 한다.\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:490
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "'s mentor reminisces with "
+msgstr "의 스승은 "
+
+#: deathforth/events/common/cyoa-k-newbie.df:490
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " and offers some final advice before the journey starts:"
+msgstr "와 추억을 나누며, 여정을 떠나기 전 마지막 조언을 건넨다:"
+
+#: deathforth/events/common/cyoa-k-newbie.df:492
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "NEVER TRUST ANYONE OR ANYTHING"
+msgstr "아무도, 아무것도 믿지 마라"
+
+#: deathforth/events/common/cyoa-k-newbie.df:493
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "IF SOMETHIN BREAKS JUST HIT IT"
+msgstr "뭐가 고장 나면 그냥 때려"
+
+#: deathforth/events/common/cyoa-k-newbie.df:494
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "SICK PEOPLE ARE FAKIN IT"
+msgstr "아픈 놈들은 다 꾀병이다"
+
+#: deathforth/events/common/cyoa-k-newbie.df:495
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "SAY IT DON'T SPRAY IT"
+msgstr "말로 해, 침 튀기지 말고"
+
+#: deathforth/events/common/cyoa-k-newbie.df:499
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid "The Death Road to Canada 5/27 Alpha"
+msgstr "데스 로드 투 캐나다 5/27 알파"
+
+#: deathforth/events/common/cyoa-k-newbie.df:504
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid ""
+" decides to gather up some hoarded supplies and head north.\r\n"
+"\t"
+msgstr ""
+"는 모아 둔 물자를 챙겨 북쪽으로 떠나기로 한다.\r\n"
+"\t"
+
+#: deathforth/events/common/cyoa-k-newbie.df:505
+msgctxt "deathforth/events/common/cyoa-k-newbie.df"
+msgid " brings along a trusty baseball bat!"
+msgstr "은(는) 믿음직한 야구 방망이를 챙긴다!"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:19
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Be more careful next time!"
+msgstr "다음엔 좀 더 조심해!"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:20
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Let me fix ya up, hon."
+msgstr "내가 고쳐 줄게, 자기야."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:21
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Expertise! From the expert."
+msgstr "전문 지식! 전문가가 왔다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:22
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Come here a moment."
+msgstr "잠깐 이리 와 봐."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:23
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "What'd you do this time?"
+msgstr "이번엔 또 뭘 한 거야?"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:24
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "That looked nasty."
+msgstr "보기만 해도 끔찍했어."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:25
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "I can fix that, hang on..."
+msgstr "고칠 수 있어, 잠깐만..."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:26
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "No, I don't keep whiskey in it."
+msgstr "아니, 이 안에 위스키는 없어."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:27
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Let me help, hold on..."
+msgstr "도와줄게, 잠깐만..."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:28
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Right as rain!"
+msgstr "말짱해졌어!"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:29
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Steady on there."
+msgstr "진정해."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:30
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "I've got just the thing for that."
+msgstr "그거라면 딱 좋은 게 있지."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:31
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Will you stop dying, please?"
+msgstr "제발 그만 좀 죽을래?"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:32
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Let me patch you up."
+msgstr "내가 붕대 감아 줄게."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:33
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Stand still a moment..."
+msgstr "잠깐 가만히 있어..."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:34
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Hang on- I can help."
+msgstr "잠깐- 내가 도와줄게."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:43
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "No, no, wait! If I can just reach into-"
+msgstr "아니, 아니, 잠깐! 이 안에 손만 넣으면-"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:154
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "WHERE DID THE LIGHTS GO"
+msgstr "불빛이 다 어디 갔지"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:257
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "THE END DRAWS NEAR"
+msgstr "종말이 다가온다"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:303
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "aggressively insists to passersby that she invented gel handwash."
+msgstr "은(는) 지나가는 사람들에게 자기가 젤 손 세정제를 발명했다고 막무가내로 우긴다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:326
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "keeps glancing flirtatiously at the car's gas tank."
+msgstr "은(는) 자꾸 차 연료 탱크에 추파를 던진다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:348
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "THE MEDICINE DRUG"
+msgstr "약이라는 약"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:350
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+" is tasting some strange purple liquid from the tip of her finger when she "
+"notices the group nearby."
+msgstr "은(는) 손가락 끝에 묻은 이상한 보라색 액체를 맛보다가 근처의 일행을 발견한다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:351
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tYou look rough. If you let me join, I can patch you up."
+msgstr ""
+"\r\n"
+"\t꼴이 말이 아니네. 나를 끼워 주면 치료해 줄게."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:353
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tDr. Hawke can heal other chars with her satchel, if her satchel is loaded with MEDICAL and held!"
+msgstr ""
+"\r\n"
+"\t호크 박사는 가방에 의약품을 채우고 들고 있으면 다른 캐릭터를 치료할 수 있다!"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:355
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tShe can even revive dead characters by pouring her own special brew on them! She's not carrying any weapons, though."
+msgstr ""
+"\r\n"
+"\t자기만의 특제 약물을 부어서 죽은 캐릭터를 되살릴 수도 있다! 다만 무기는 하나도 안 들고 다닌다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:358
+#: deathforth/events/common/DRTC_Q_UPDATE.df:377
+#: deathforth/events/common/DRTC_Q_UPDATE.df:728
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Ask "
+msgstr "<EMPTY>"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:358
+#: deathforth/events/common/DRTC_Q_UPDATE.df:377
+#: deathforth/events/common/DRTC_Q_UPDATE.df:728
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid " to join"
+msgstr "에게 합류 요청"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:359
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "BIOLOGY IS FOR NERDS"
+msgstr "생물학은 찐따들이나 하는 거야"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:365
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "THIS JULY...A DIESEL LOVE STORY"
+msgstr "올여름... 디젤 러브 스토리"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:367
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+" is repeatedly smashing a power box with a hammer when the group finds her."
+msgstr "은(는) 일행이 발견했을 때 망치로 배전함을 계속 내려치고 있다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:368
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tHELLO, ENTRY-LEVEL AUTOMATONS. YOU SHOULD HIRE ME. I BEAT UP A SENTIENT TREE ON THE WAY HERE."
+msgstr ""
+"\r\n"
+"\t안녕, 초급 자동인형들. 날 고용해. 여기 오는 길에 지각 있는 나무를 두들겨 패고 왔다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:370
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tWhat a convincing argument."
+msgstr ""
+"\r\n"
+"\t참 설득력 있는 주장이다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:372
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tEmber drinks gas! You can refuel her manually or let the AI handle it. The FIGHTIN' tactic will make her refuel more."
+msgstr ""
+"\r\n"
+"\t엠버는 기름을 마신다! 직접 기름을 넣어 줘도 되고 AI에게 맡겨도 된다. '싸워!' 전술이면 기름을 더 자주 넣는다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:374
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tEmber's combat power is dependent on her charge meter."
+msgstr ""
+"\r\n"
+"\t엠버의 전투력은 충전 게이지에 달려 있다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:378
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Leave this gas-addled maniac"
+msgstr "기름에 절은 이 미치광이는 두고 간다"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:689
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "knows all the words to Entrance of the Gladiators. All of them!"
+msgstr "은(는) '검투사의 입장' 가사를 전부 안다. 전부 다!"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:718
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "I ALREADY KNOW YOU'RE HUMMING THE TUNE"
+msgstr "벌써 그 멜로디 흥얼거리는 거 다 알아"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:720
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+" is gazing into a walk-in mirror when the group finds him, completely "
+"ensnared by his own grandeur. Not far from him, his pet is 'playing fetch' "
+"with zombies."
+msgstr ""
+"은(는) 일행이 발견했을 때 전신 거울을 들여다보며 자기 위엄에 완전히 빠져 있다. 그 근처에선 그의 애완동물이 좀비랑 '공 던지기 "
+"놀이'를 하고 있다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:721
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tAren't I magnificent?...I mean, uh, can I join?"
+msgstr ""
+"\r\n"
+"\t나 정말 멋지지 않아?...아니, 어, 나도 껴도 돼?"
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:723
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "He's some kind of well-dressed circus leader."
+msgstr "옷 잘 차려입은 서커스 단장 같은 사람이다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:725
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid ""
+"\r\n"
+"\tJohannes' pet follows the crack of his whip. On closer inspection, his muscles appear atrophied - unsuitable for heavy loads or weapons."
+msgstr ""
+"\r\n"
+"\t요하네스의 애완동물은 그의 채찍 소리를 따른다. 자세히 보면 그의 근육은 위축되어 있어서, 무거운 짐이나 무기에는 맞지 않는다."
+
+#: deathforth/events/common/DRTC_Q_UPDATE.df:729
+msgctxt "deathforth/events/common/DRTC_Q_UPDATE.df"
+msgid "Say NO to this gangly freak show"
+msgstr "이 비실비실한 괴짜 쇼는 거절한다"
+
+#: deathforth/events/common/LIVER.df:11
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Ruined Military Depot"
+msgstr "폐허가 된 군 보급창"
+
+#: deathforth/events/common/LIVER.df:12
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+" drives through the remains of a military depot. Everything is burnt and collapsed into rubble, with the exception of an isolated concrete bunker.\r\n"
+"\t"
+msgstr ""
+"은(는) 군 보급창 잔해를 지나간다. 모든 게 불타고 무너져 잔해가 됐지만, 외딴 콘크리트 벙커 하나만 남아 있다.\r\n"
+"\t"
+
+#: deathforth/events/common/LIVER.df:13
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "WARNING: EXTRA SPICY CENTER!"
+msgstr "경고: 속이 엑스트라 스파이시!"
+
+#: deathforth/events/common/LIVER.df:16
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Check it out"
+msgstr "살펴본다"
+
+#: deathforth/events/common/LIVER.df:21
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "THE CLIMACTIC STAMP BATTLE"
+msgstr "절정의 스탬프 배틀"
+
+#: deathforth/events/common/LIVER.df:22
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "[STAND NAME] NUGS Chungus   [STAND MASTER] E*FUDD"
+msgstr "[스탠드명] NUGS 청거스   [스탠드 마스터] E*FUDD"
+
+#: deathforth/events/common/LIVER.df:23
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"DESTRUCTIVE POWER: S+   SPEED: C   RANGE: A\r\n"
+"\tDURABILITY: S+   PRECISION: A   POTENTIAL: S"
+msgstr ""
+"파괴력: S+   스피드: C   사정거리: A\r\n"
+"\t지속력: S+   정밀성: A   성장성: S"
+
+#: deathforth/events/common/LIVER.df:26
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"This man's body and hat already take up way too much room! Who should leave?"
+msgstr "이 남자는 몸이랑 모자만으로도 자리를 너무 많이 차지한다! 누가 나갈까?"
+
+#: deathforth/events/common/LIVER.df:33
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Unfathomable Power"
+msgstr "헤아릴 수 없는 힘"
+
+#: deathforth/events/common/LIVER.df:37
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+" sees yet another extremely buff man walking by the side of the road. This one seems even more buff than the others, though maybe it's just due to the enormous hat.\r\n"
+"\t"
+msgstr ""
+"은(는) 또 엄청나게 우람한 남자가 길가를 걷는 걸 본다. 이번 사람은 다른 이들보다 더 우람해 보이는데, 어쩌면 거대한 모자 탓일지도.\r\n"
+"\t"
+
+#: deathforth/events/common/LIVER.df:38
+msgctxt "deathforth/events/common/LIVER.df"
+msgid " takes one look and knows he is a 'Stamp User'. "
+msgstr "은(는) 한눈에 그가 '스탬프 유저'라는 걸 안다. "
+
+#: deathforth/events/common/LIVER.df:38
+msgctxt "deathforth/events/common/LIVER.df"
+msgid " frowns intensely."
+msgstr "은(는) 강렬하게 인상을 쓴다."
+
+#: deathforth/events/common/LIVER.df:39
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "YES, IT'S ME! E*FUDD!"
+msgstr "그래, 나다! E*FUDD!"
+
+#: deathforth/events/common/LIVER.df:40
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"TRANSLATORS NOTE: WE HAD TO CHANGE E*FUDD'S STAMP NAME TO AVOID COPYRIGHT "
+"ISSUES, DESPITE THIS BEING AN ILLEGAL BOOTLEG TRANSLATION ANYWAY"
+msgstr "역자 주: 저작권 문제를 피하려고 E*FUDD의 스탬프 이름을 바꿔야 했다. 어차피 불법 해적판 번역이지만"
+
+#: deathforth/events/common/LIVER.df:41
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Recruit him! Do it!"
+msgstr "영입해! 어서!"
+
+#: deathforth/events/common/LIVER.df:42
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Don't recruit him, making a terrible mistake"
+msgstr "영입하지 않는다, 끔찍한 실수를 저지른다"
+
+#: deathforth/events/common/LIVER.df:47
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "INTRODUCED IN SECOND HALF OF THE ANIME"
+msgstr "애니메이션 후반부에 등장"
+
+#: deathforth/events/common/LIVER.df:48
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "[STAND NAME] GIANT-DAWG   [STAND MASTER] Ziggy (the Dog)"
+msgstr "[스탠드명] 자이언트-도그   [스탠드 마스터] 지기 (개)"
+
+#: deathforth/events/common/LIVER.df:49
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"DESTRUCTIVE POWER: C   SPEED: B   RANGE: B\r\n"
+"\tDURABILITY: B   PRECISION: B   POTENTIAL: A"
+msgstr ""
+"파괴력: C   스피드: B   사정거리: B\r\n"
+"\t지속력: B   정밀성: B   성장성: A"
+
+#: deathforth/events/common/LIVER.df:52
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"There's too many people, and this dog needs stretching room! Who should "
+"leave?"
+msgstr "사람이 너무 많고, 이 개는 몸 펼 자리가 필요하다! 누가 나갈까?"
+
+#: deathforth/events/common/LIVER.df:59
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Is this dog... a Stamp User????!"
+msgstr "이 개가... 스탬프 유저라고????!"
+
+#: deathforth/events/common/LIVER.df:63
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+" sees a dog walking down the road. \r\n"
+"\tIt's subtle at first, but on closer inspection the dog is also extremely buff and has nice cheekbones. It's probably a 'Stamp User', whatever that is. It's still a mystery, really."
+msgstr ""
+"은(는) 길을 걷는 개 한 마리를 본다. \r\n"
+"\t처음엔 잘 모르겠지만, 자세히 보니 이 개도 엄청나게 우람하고 광대뼈가 멋지다. 아마 '스탬프 유저'일 거다. 그게 뭔지는 몰라도. 여전히 수수께끼다."
+
+#: deathforth/events/common/LIVER.df:65
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "SFX: [MENACING]"
+msgstr "효과음: [고고고고]"
+
+#: deathforth/events/common/LIVER.df:66
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"TRANSLATORS NOTE: PLEASE DONATE SO I CAN CONTINUE MY TRANSLATIONS AND ALSO "
+"BUY A NEW MALL KATANA"
+msgstr "역자 주: 번역을 계속하고 새 쇼핑몰 카타나도 살 수 있게 후원 부탁드립니다"
+
+#: deathforth/events/common/LIVER.df:67
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Recruit the dog!"
+msgstr "개를 영입한다!"
+
+#: deathforth/events/common/LIVER.df:68 deathforth/events/common/LIVER.df:94
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Leave him be"
+msgstr "내버려 둔다"
+
+#: deathforth/events/common/LIVER.df:73
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "JUST LIKE IN MY PART 3 ANIMES"
+msgstr "내가 본 3부 애니랑 똑같잖아"
+
+#: deathforth/events/common/LIVER.df:74
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "[STAND NAME] ProPAIN   [STAND MASTER] Henk Heck"
+msgstr "[스탠드명] 프로PAIN   [스탠드 마스터] 행크 헥"
+
+#: deathforth/events/common/LIVER.df:75
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"DESTRUCTIVE POWER: A   SPEED: D   RANGE: B\r\n"
+"\tDURABILITY: D   PRECISION: C   POTENTIAL: B"
+msgstr ""
+"파괴력: A   스피드: D   사정거리: B\r\n"
+"\t지속력: D   정밀성: C   성장성: B"
+
+#: deathforth/events/common/LIVER.df:78
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"There's no room in the car for this hard working man! Who should leave?"
+msgstr "이 성실한 일꾼이 탈 자리가 차에 없다! 누가 나갈까?"
+
+#: deathforth/events/common/LIVER.df:85
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "ProPAIN and ProPAIN Accessories"
+msgstr "프로PAIN과 프로PAIN 액세서리"
+
+#: deathforth/events/common/LIVER.df:89
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+" sees another extremely buff man walking by the side of the road. He is carrying a propane tank.\r\n"
+"\tThis man also claims to be a 'Stamp User', though "
+msgstr ""
+"은(는) 또 엄청나게 우람한 남자가 길가를 걷는 걸 본다. 프로판 탱크를 들고 있다.\r\n"
+"\t이 남자도 자기가 '스탬프 유저'라고 주장하지만, "
+
+#: deathforth/events/common/LIVER.df:90
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+" still has no idea what this means and also interrupts any explanation."
+msgstr "은(는) 여전히 그게 뭔지 모르고, 설명도 다 끊어 버린다."
+
+#: deathforth/events/common/LIVER.df:91
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "BWAAAAAAAAAAH!"
+msgstr "브와아아아아아아앙!"
+
+#: deathforth/events/common/LIVER.df:92
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"TRANSLATORS NOTE: IN THE ORIGINAL JAPANESE, THIS WAS 'EHHHHHHHHH???!!!'"
+msgstr "역자 주: 일본어 원문에서는 '에에에에에에에???!!!'였다"
+
+#: deathforth/events/common/LIVER.df:93
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Recruit him!"
+msgstr "영입해!"
+
+#: deathforth/events/common/LIVER.df:132
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Good luck out there. I think you can make it."
+msgstr "행운을 빌어. 너흰 해낼 수 있을 거야."
+
+#: deathforth/events/common/LIVER.df:135
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "He gives you a very genre-savvy loadout of weapons."
+msgstr "그는 장르를 꿰뚫은 듯한 무기 세트를 준다."
+
+#: deathforth/events/common/LIVER.df:144
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "A little bit of advice can go a long way."
+msgstr "작은 조언 하나가 큰 도움이 될 수 있지."
+
+#: deathforth/events/common/LIVER.df:152
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Humble Assistance"
+msgstr "소박한 도움"
+
+#: deathforth/events/common/LIVER.df:154
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "You meet an older man who seems to radiate kindness. "
+msgstr "친절함이 뿜어져 나오는 듯한 노인을 만난다. "
+
+#: deathforth/events/common/LIVER.df:154
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+" talks to him for awhile, about nothing in particular. It's a pleasant "
+"conversation."
+msgstr "은(는) 그와 한동안 별것 아닌 얘기를 나눈다. 즐거운 대화다."
+
+#: deathforth/events/common/LIVER.df:156
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Well, I think I'll help you out a little bit."
+msgstr "좋아, 내가 조금 도와주지."
+
+#: deathforth/events/common/LIVER.df:157
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "He gives you a small gift before you leave:"
+msgstr "떠나기 전에 그가 작은 선물을 준다:"
+
+#: deathforth/events/common/LIVER.df:159
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "A few decent weapons"
+msgstr "쓸 만한 무기 몇 개"
+
+#: deathforth/events/common/LIVER.df:160
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "Some good advice"
+msgstr "좋은 조언"
+
+#: deathforth/events/common/LIVER.df:171
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "YOU'VE REALLY DONE IT NOW"
+msgstr "이번엔 진짜 큰일 냈다"
+
+#: deathforth/events/common/LIVER.df:172
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"With this character's death, the thread of prophecy is severed. Restore a "
+"saved game to restore the weave of fate, or persist in the doomed world you "
+"have created."
+msgstr ""
+"이 캐릭터의 죽음으로 예언의 실이 끊어졌다. 저장된 게임을 불러와 운명의 직물을 복구하거나, 네가 만든 멸망한 세계에서 계속 버텨라."
+
+#: deathforth/events/common/LIVER.df:172
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"\r\n"
+"\t\t\r\n"
+"\tJust kidding about the saved game part. "
+msgstr ""
+"\r\n"
+"\t\t\r\n"
+"\t저장된 게임 얘기는 농담이다. "
+
+#: deathforth/events/common/LIVER.df:174
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"YOU LOSE!\r\n"
+"\tYOU LOSE!\r\n"
+"\tYOU DINGUS!"
+msgstr ""
+"너의 패배!\r\n"
+"\t너의 패배!\r\n"
+"\t이 멍청이!"
+
+#: deathforth/events/common/LIVER.df:180
+msgctxt "deathforth/events/common/LIVER.df"
+msgid "UH WOOPS"
+msgstr "어 이런"
+
+#: deathforth/events/common/LIVER.df:202
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"is a legend, and the reason that this game even exists. That and everything "
+"in this entire genre."
+msgstr "은(는) 전설이며, 이 게임이 존재하는 이유다. 그리고 이 장르 전체가 존재하는 이유이기도 하다."
+
+#: deathforth/events/common/LIVER.df:221
+msgctxt "deathforth/events/common/LIVER.df"
+msgid ""
+"is a supersoldier trained by the US Government to reach combat potentials "
+"that can exceed normal humans/dogs."
+msgstr "은(는) 미국 정부가 보통 인간/개를 뛰어넘는 전투력을 갖도록 훈련시킨 슈퍼 솔저다."
+
+#: deathforth/events/common/MANDIBLE.df:8
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid ""
+" pulls into the garage, and several expert mechanics start working their MAGIC.\r\n"
+"\tYou can tell these are experts because they are wearing "
+msgstr ""
+"은(는) 정비소로 들어가고, 전문 정비공 여럿이 마법을 부리기 시작한다.\r\n"
+"\t이들이 전문가라는 걸 알 수 있는 건 이걸 입고 있어서다: "
+
+#: deathforth/events/common/MANDIBLE.df:9
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "OVERALLS."
+msgstr "멜빵바지."
+
+#: deathforth/events/common/MANDIBLE.df:14
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Full Service: The WORKS"
+msgstr "풀 서비스: 전부 다"
+
+#: deathforth/events/common/MANDIBLE.df:16
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "SPEED INCREASED! Fully repaired!"
+msgstr "속도 증가! 완전히 수리됨!"
+
+#: deathforth/events/common/MANDIBLE.df:17
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "ULTRA TUNE UP! The car is now much more gas efficient!"
+msgstr "울트라 튠업! 이제 차 연비가 훨씬 좋다!"
+
+#: deathforth/events/common/MANDIBLE.df:19
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "SUPER ARMOR UP!"
+msgstr "슈퍼 장갑 강화!"
+
+#: deathforth/events/common/MANDIBLE.df:20
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "V NICE"
+msgstr "아주 좋아"
+
+#: deathforth/events/common/MANDIBLE.df:24
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Full Repairs"
+msgstr "완전 수리"
+
+#: deathforth/events/common/MANDIBLE.df:26
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Car fully repaired!"
+msgstr "차가 완전히 수리됐다!"
+
+#: deathforth/events/common/MANDIBLE.df:27
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "NICE"
+msgstr "좋아"
+
+#: deathforth/events/common/MANDIBLE.df:31
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Car Outside Graveyard"
+msgstr "묘지 밖의 차"
+
+#: deathforth/events/common/MANDIBLE.df:32
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid ""
+" drives near a graveyard. Out front, there's a car parked in good condition."
+" Hopefully, there's not a lot of zombies in this zombie-infested burial "
+"ground."
+msgstr "은(는) 묘지 근처를 지난다. 정문 앞에 상태 좋은 차가 한 대 서 있다. 이 좀비 들끓는 묘지에 좀비가 너무 많지 않기를."
+
+#: deathforth/events/common/MANDIBLE.df:35
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Explore Graveyard"
+msgstr "묘지를 탐색한다"
+
+#: deathforth/events/common/MANDIBLE.df:39
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Public Park"
+msgstr "공원"
+
+#: deathforth/events/common/MANDIBLE.df:40
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid ""
+" finds a park. It could be fun to take a little walk. With the zombies. Who "
+"knows what you could find? Probably a bathroom."
+msgstr "은(는) 공원을 발견한다. 잠깐 산책하는 것도 재밌을지 모른다. 좀비들이랑. 뭘 찾을지 누가 알아? 아마 화장실 정도겠지."
+
+#: deathforth/events/common/MANDIBLE.df:44
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Visit Park"
+msgstr "공원에 간다"
+
+#: deathforth/events/common/MANDIBLE.df:48
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Crowded Park"
+msgstr "붐비는 공원"
+
+#: deathforth/events/common/MANDIBLE.df:49
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid ""
+" spots a park that is crowded with zombies. On the other side, a car speeds "
+"in. Someone runs out of the car, and even at this distance, it's obvious "
+"that they're making an awkward dash for a bathroom."
+msgstr ""
+"은(는) 좀비로 붐비는 공원을 발견한다. 반대편에 차 한 대가 쏜살같이 들어온다. 누군가 차에서 뛰어나오는데, 이 거리에서도 화장실로 "
+"어색하게 달려가는 게 뻔히 보인다."
+
+#: deathforth/events/common/MANDIBLE.df:53
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "Bathroom Rescue"
+msgstr "화장실 구조 작전"
+
+#: deathforth/events/common/MANDIBLE.df:103
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "is a robot, designed for punching."
+msgstr "은(는) 주먹질용으로 설계된 로봇이다."
+
+#: deathforth/events/common/MANDIBLE.df:135
+msgctxt "deathforth/events/common/MANDIBLE.df"
+msgid "is a robot, designed for serious speed."
+msgstr "은(는) 진지한 속도를 위해 설계된 로봇이다."
+
+#: deathforth/events/common/OMENTUM.df:12
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" gets a good workout in on the ancient, awkward gym equipment. The results "
+"seem a bit random."
+msgstr "은(는) 오래되고 불편한 헬스 기구로 운동을 제대로 한다. 결과는 좀 랜덤한 것 같다."
+
+#: deathforth/events/common/OMENTUM.df:13
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Even the animals work out!"
+msgstr "동물들도 운동한다!"
+
+#: deathforth/events/common/OMENTUM.df:19
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The Great Indoors"
+msgstr "위대한 실내"
+
+#: deathforth/events/common/OMENTUM.df:20
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " camps out in a small gym."
+msgstr "은(는) 작은 체육관에서 야영한다."
+
+#: deathforth/events/common/OMENTUM.df:21
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Leave the camp"
+msgstr "야영지를 떠난다"
+
+#: deathforth/events/common/OMENTUM.df:23
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The gym is full of ancient exercise equipment. "
+msgstr "체육관은 오래된 운동 기구로 가득하다. "
+
+#: deathforth/events/common/OMENTUM.df:23
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " has no idea how to use any of it, but "
+msgstr "은(는) 쓰는 법을 하나도 모르지만, "
+
+#: deathforth/events/common/OMENTUM.df:23
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " could stay a couple days to try to figure it out."
+msgstr "은(는) 며칠 머물면서 알아볼 수도 있다."
+
+#: deathforth/events/common/OMENTUM.df:24
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Work out for 2 days"
+msgstr "이틀 동안 운동한다"
+
+#: deathforth/events/common/OMENTUM.df:53
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " food."
+msgstr " 식량."
+
+#: deathforth/events/common/OMENTUM.df:57
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"the remainder of your food, and a quarter of your ammo and medical supplies."
+msgstr "남은 식량 전부, 그리고 탄약과 의약품의 4분의 1."
+
+#: deathforth/events/common/OMENTUM.df:59
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"the remainder of your food, and half of your ammo and medical supplies."
+msgstr "남은 식량 전부, 그리고 탄약과 의약품의 절반."
+
+#: deathforth/events/common/OMENTUM.df:63
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "all your extra gas, and half of your ammo and medical supplies!"
+msgstr "여분 기름 전부, 그리고 탄약과 의약품의 절반!"
+
+#: deathforth/events/common/OMENTUM.df:65
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "all of your ammo, medical supplies, and extra gas tanks!"
+msgstr "탄약, 의약품, 여분 기름통 전부!"
+
+#: deathforth/events/common/OMENTUM.df:73
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" starts eating the chess pieces!\r\n"
+"\t\tThe perfect opening move!"
+msgstr ""
+"은(는) 체스 말을 먹기 시작한다!\r\n"
+"\t\t완벽한 오프닝 수다!"
+
+#: deathforth/events/common/OMENTUM.df:74
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"\r\n"
+"\t\tYOU CAN'T DO THAT! YOU CAN'T DO THAT!"
+msgstr ""
+"\r\n"
+"\t\t그러면 안 돼! 그러면 안 된다고!"
+
+#: deathforth/events/common/OMENTUM.df:75
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" shrieks the chessmaster. The game is postponed until the chess pieces 'pass'. Medical science says this will take about 20 years.\r\n"
+"\t\t"
+msgstr ""
+" 체스 마스터가 비명을 지른다. 체스 말이 '통과'될 때까지 게임은 연기된다. 의학적으로 약 20년이 걸린다고 한다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:76
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " feels extremely satisfied."
+msgstr "은(는) 무척 만족스럽다."
+
+#: deathforth/events/common/OMENTUM.df:79
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " begins by picking up a Rook!"
+msgstr "은(는) 먼저 룩을 집어 든다!"
+
+#: deathforth/events/common/OMENTUM.df:80
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " then bellows "
+msgstr "은(는) 이어서 고함친다: "
+
+#: deathforth/events/common/OMENTUM.df:80
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "BOARD GAMES ARE FOR NEEEEERDS"
+msgstr "보드게임은 찐따들이나 하는 거야아아아"
+
+#: deathforth/events/common/OMENTUM.df:80
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " and flips the chessboard and its pieces with "
+msgstr " 그러고는 체스판과 말을 뒤엎는다. "
+
+#: deathforth/events/common/OMENTUM.df:80
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "INCREDIBLE FORCE! "
+msgstr "엄청난 힘으로! "
+
+#: deathforth/events/common/OMENTUM.df:80
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " flings "
+msgstr "는 "
+
+#: deathforth/events/common/OMENTUM.df:80
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " Rook right between the eyes of the chessmaster, knocking him out."
+msgstr " 룩을 체스 마스터의 미간에 정통으로 던져 기절시킨다."
+
+#: deathforth/events/common/OMENTUM.df:81
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " gets a free SHOTGUN and HUNTING RIFLE!"
+msgstr "은(는) 산탄총과 사냥용 소총을 공짜로 얻는다!"
+
+#: deathforth/events/common/OMENTUM.df:86
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " claims to have never heard of chess."
+msgstr "은(는) 체스라는 걸 들어 본 적이 없다고 한다."
+
+#: deathforth/events/common/OMENTUM.df:87
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "What do you mean you've never heard of chess?"
+msgstr "체스를 들어 본 적이 없다니 그게 무슨 소리야?"
+
+#: deathforth/events/common/OMENTUM.df:87
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " says the chessmaster."
+msgstr " 체스 마스터가 말한다."
+
+#: deathforth/events/common/OMENTUM.df:88
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Never heard of it, sorry. Is it like Fortnite?"
+msgstr "들어 본 적 없어, 미안. 포트나이트 같은 거야?"
+
+#: deathforth/events/common/OMENTUM.df:89
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "JUST LEAVE!"
+msgstr "그냥 꺼져!"
+
+#: deathforth/events/common/OMENTUM.df:93
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " plays against the chessmaster in the most annoying way that "
+msgstr "은(는) 체스 마스터를 상대로, "
+
+#: deathforth/events/common/OMENTUM.df:93
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" can possibly muster. Nearly endless throat clearing, long pauses between every move, off-tune humming, zany catch phrases. The works!\r\n"
+"\t\tThe chessmaster gets so angry that he can't even think. "
+msgstr ""
+"가 할 수 있는 가장 짜증 나는 방식으로 둔다. 끝없는 헛기침, 수마다 긴 침묵, 음 이탈 허밍, 엉뚱한 유행어. 풀코스다!\r\n"
+"\t\t체스 마스터는 너무 화가 나서 생각조차 못 한다. "
+
+#: deathforth/events/common/OMENTUM.df:94
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " declares "
+msgstr "은(는) 선언한다: "
+
+#: deathforth/events/common/OMENTUM.df:94
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Checkmate! Also, I don't even know how to play chess!"
+msgstr "체크메이트! 그리고 난 체스 둘 줄도 몰라!"
+
+#: deathforth/events/common/OMENTUM.df:95
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " The chessmaster is too mad to shoot straight!"
+msgstr " 체스 마스터는 너무 화가 나서 총도 제대로 못 쏜다!"
+
+#: deathforth/events/common/OMENTUM.df:97
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"*Using the above Cool It Strategem in Chess counted as an honorary Cool It "
+"Point"
+msgstr "*위의 '진정해' 전략을 체스에서 쓴 것은 명예 진정해 포인트로 인정됐다"
+
+#: deathforth/events/common/OMENTUM.df:100
+#: deathforth/events/common/OMENTUM.df:530
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " loses "
+msgstr "는 "
+
+#: deathforth/events/common/OMENTUM.df:100
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " temper during the chess match. "
+msgstr " 이성을 체스 도중에 잃는다. "
+
+#: deathforth/events/common/OMENTUM.df:100
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " flips the board and attacks the chessmaster at close range."
+msgstr "는 체스판을 뒤엎고 체스 마스터에게 가까이서 달려든다."
+
+#: deathforth/events/common/OMENTUM.df:101
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"The chessmaster flees! He can't collect his winnings, as this scenario "
+"counts as a 'draw' in chess."
+msgstr "체스 마스터가 도망친다! 체스에서 이 상황은 '무승부'라서 상금을 받아 가지 못한다."
+
+#: deathforth/events/common/OMENTUM.df:103
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " tries "
+msgstr "은(는) "
+
+#: deathforth/events/common/OMENTUM.df:103
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " hardest, but can't win against the chessmaster."
+msgstr " 최선을 다하지만, 체스 마스터를 이길 수 없다."
+
+#: deathforth/events/common/OMENTUM.df:109
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Who should challenge the chessmaster?"
+msgstr "누가 체스 마스터에게 도전할까?"
+
+#: deathforth/events/common/OMENTUM.df:114
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Chess Match for your LIFE"
+msgstr "목숨을 건 체스 대결"
+
+#: deathforth/events/common/OMENTUM.df:115
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" meets a man who claims to be a travelling chess master. Armed to the teeth,"
+" he challenges the group to a "
+msgstr "은(는) 떠돌이 체스 마스터라고 주장하는 남자를 만난다. 완전무장한 그가 일행에게 도전한다: "
+
+#: deathforth/events/common/OMENTUM.df:115
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "not optional"
+msgstr "선택권 없는"
+
+#: deathforth/events/common/OMENTUM.df:115
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " game of chess!"
+msgstr " 체스 한 판!"
+
+#: deathforth/events/common/OMENTUM.df:115
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " If you lose, he demands "
+msgstr " 지면 그가 요구하는 것: "
+
+#: deathforth/events/common/OMENTUM.df:117
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Who should challenge this chessmaster?"
+msgstr "누가 이 체스 마스터에게 도전할까?"
+
+#: deathforth/events/common/OMENTUM.df:119
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " recognizes the bandit as former chess world-champion, John Pawn."
+msgstr "은(는) 이 약탈자가 전 체스 세계 챔피언, 존 폰이라는 걸 알아본다."
+
+#: deathforth/events/common/OMENTUM.df:119
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " Even the smartest jerk probably wouldn't beat him."
+msgstr " 제일 똑똑한 놈이라도 아마 못 이길 거다."
+
+#: deathforth/events/common/OMENTUM.df:123
+#: deathforth/events/common/OMENTUM.df:407
+#: deathforth/events/common/OMENTUM.df:555
+#: deathforth/events/common/OMENTUM.df:722
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Pick someone else"
+msgstr "다른 사람 고르기"
+
+#: deathforth/events/common/OMENTUM.df:148
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" farts at the very concept of anime. The anime bandits somehow get the "
+"message."
+msgstr "은(는) 애니메이션이라는 개념 자체에 방귀를 뀐다. 애니 약탈자들은 어째선지 뜻을 알아듣는다."
+
+#: deathforth/events/common/OMENTUM.df:150
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " tells the anime bandits that "
+msgstr "은(는) 애니 약탈자들에게 말한다: "
+
+#: deathforth/events/common/OMENTUM.df:150
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"ANIME ISN'T REAL! \r\n"
+"\tALSO, COOL IT!"
+msgstr ""
+"애니는 진짜가 아니야! \r\n"
+"\t그리고, 진정해!"
+
+#: deathforth/events/common/OMENTUM.df:153
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"This shakes the bandits to their very core.\r\n"
+"\t\t\t"
+msgstr ""
+"약탈자들이 뿌리째 흔들린다.\r\n"
+"\t\t\t"
+
+#: deathforth/events/common/OMENTUM.df:154
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "IT'S TRUE! WE'VE BEEN WASTING OUR LIVES!!"
+msgstr "맞아! 우린 인생을 낭비하고 있었어!!"
+
+#: deathforth/events/common/OMENTUM.df:154
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"\r\n"
+"\t\t\tThe anime bandits leave in great shame. A lot of their supplies are left behind!"
+msgstr ""
+"\r\n"
+"\t\t\t애니 약탈자들은 크게 부끄러워하며 떠난다. 물자도 잔뜩 두고 갔다!"
+
+#: deathforth/events/common/OMENTUM.df:159
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"The bandits don't take this well.\r\n"
+"\t\t\t"
+msgstr ""
+"약탈자들은 이 말을 좋게 받아들이지 않는다.\r\n"
+"\t\t\t"
+
+#: deathforth/events/common/OMENTUM.df:160
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "NO! YOU'RE WRONG! STOP IT! STOP IT!!"
+msgstr "아니야! 네가 틀렸어! 그만해! 그만하라고!!"
+
+#: deathforth/events/common/OMENTUM.df:160
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"\r\n"
+"\t\t\tThe bandits all focus their weapons on "
+msgstr ""
+"\r\n"
+"\t\t\t약탈자들이 전부 무기를 겨눈다: "
+
+#: deathforth/events/common/OMENTUM.df:167
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "girl"
+msgstr "아가씨"
+
+#: deathforth/events/common/OMENTUM.df:167
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "guy"
+msgstr "녀석"
+
+#: deathforth/events/common/OMENTUM.df:172
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " states a controversial, and somewhat disgusting opinion: "
+msgstr "은(는) 논란의 여지가 있고 좀 역겨운 의견을 밝힌다: "
+
+#: deathforth/events/common/OMENTUM.df:172
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "I like anime!"
+msgstr "난 애니가 좋아!"
+
+#: deathforth/events/common/OMENTUM.df:173
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Heh... Hey, this "
+msgstr "헤... 야, 이 "
+
+#: deathforth/events/common/OMENTUM.df:173
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "'s alright!"
+msgstr " 꽤 괜찮은데!"
+
+#: deathforth/events/common/OMENTUM.df:174
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The bandits let you pass!"
+msgstr "약탈자들이 길을 비켜 준다!"
+
+#: deathforth/events/common/OMENTUM.df:178
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " booms out: "
+msgstr "은(는) 우렁차게 외친다: "
+
+#: deathforth/events/common/OMENTUM.df:178
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "I AM ANIME! I AM ANIME INCARNATE!"
+msgstr "나는 애니다! 나는 애니의 화신이다!"
+
+#: deathforth/events/common/OMENTUM.df:179
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The bandits bow down as their object of worship walks the earth!"
+msgstr "숭배의 대상이 지상에 강림하자 약탈자들이 엎드린다!"
+
+#: deathforth/events/common/OMENTUM.df:179
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " Please accept our offerings! We love anime!"
+msgstr " 부디 저희의 공물을 받아 주세요! 저흰 애니를 사랑해요!"
+
+#: deathforth/events/common/OMENTUM.df:210
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " looks the bandits up and down, judging them: a freak show..."
+msgstr "은(는) 약탈자들을 위아래로 훑어보며 판단한다: 괴짜 쇼..."
+
+#: deathforth/events/common/OMENTUM.df:211
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "...OF GROSS, UNSIGHTLY NERDS."
+msgstr "...역겹고 꼴사나운 찐따들의."
+
+#: deathforth/events/common/OMENTUM.df:212
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The thought of this sends "
+msgstr "이 생각에 "
+
+#: deathforth/events/common/OMENTUM.df:212
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " into a rage! "
+msgstr "은(는) 분노한다! "
+
+#: deathforth/events/common/OMENTUM.df:212
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " launches at the bandits suddenly, starting a nasty melee brawl."
+msgstr "는 갑자기 약탈자들에게 달려들어 험악한 난투를 벌인다."
+
+#: deathforth/events/common/OMENTUM.df:213
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " beats the bandits thanks to "
+msgstr "은(는) 약탈자들을 물리친다. 비결은 "
+
+#: deathforth/events/common/OMENTUM.df:213
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "'s strength!"
+msgstr "의 힘!"
+
+#: deathforth/events/common/OMENTUM.df:218
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " sneaks out while "
+msgstr "은(는) 몰래 빠져나간다. 그동안 "
+
+#: deathforth/events/common/OMENTUM.df:218
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" is busy with the bandits. They find the bandit's entire stash of anime!"
+msgstr "은(는) 약탈자들을 상대하느라 바쁘다. 그리고 약탈자들의 애니 컬렉션 전부를 찾아낸다!"
+
+#: deathforth/events/common/OMENTUM.df:219
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Then "
+msgstr "그러고는 "
+
+#: deathforth/events/common/OMENTUM.df:219
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" sets fire to it. The pyre distracts the bandits from robbing the group!"
+msgstr "가 거기에 불을 지른다. 불길에 정신이 팔린 약탈자들은 일행을 털 생각도 못 한다!"
+
+#: deathforth/events/common/OMENTUM.df:220
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"NOOOOO! NOOOOO! OUR STASH OF ORIGINAL EDITION VINTAGE ANIMES! OUR FIGURINES!"
+msgstr "안 돼애애! 안 돼애애! 우리 초판 빈티지 애니 컬렉션! 우리 피규어!"
+
+#: deathforth/events/common/OMENTUM.df:221
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " runs away whilst the bandits are distracted!"
+msgstr "은(는) 약탈자들이 정신 팔린 사이 도망친다!"
+
+#: deathforth/events/common/OMENTUM.df:226
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The Anime Bandits"
+msgstr "애니 약탈자"
+
+#: deathforth/events/common/OMENTUM.df:227
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"Bandits are guarding a narrow section of the road. They are dressed in ridiculous anime outfits.\r\n"
+"\t"
+msgstr ""
+"약탈자들이 좁은 길목을 지키고 있다. 우스꽝스러운 애니 코스프레 차림이다.\r\n"
+"\t"
+
+#: deathforth/events/common/OMENTUM.df:228
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "In order for you to pass, they want "
+msgstr "지나가려면 그들이 요구하는 것: "
+
+#: deathforth/events/common/OMENTUM.df:231
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ": I like anime!"
+msgstr ": 난 애니가 좋아!"
+
+#: deathforth/events/common/OMENTUM.df:234
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " tells Bandits ANIME ISN'T REAL"
+msgstr "이(가) 약탈자에게: 애니는 진짜가 아니야"
+
+#: deathforth/events/common/OMENTUM.df:237
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ": I CAN TAKE THESE NERDS!"
+msgstr ": 이 찐따들쯤은 이길 수 있어!"
+
+#: deathforth/events/common/OMENTUM.df:241
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ": Steal their merchandise!"
+msgstr ": 굿즈를 훔친다!"
+
+#: deathforth/events/common/OMENTUM.df:248
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " I AM ANIME"
+msgstr " 나는 애니다"
+
+#: deathforth/events/common/OMENTUM.df:262
+#: deathforth/events/common/OMENTUM.df:267
+#: deathforth/events/common/OMENTUM.df:289
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "True to the prophecy, "
+msgstr "예언대로, "
+
+#: deathforth/events/common/OMENTUM.df:262
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " finds a small cache of supplies a little later in the day!"
+msgstr "은(는) 그날 늦게 작은 물자 더미를 발견한다!"
+
+#: deathforth/events/common/OMENTUM.df:267
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" learns an important life lesson brought on by hallucinations. These were "
+"caused from "
+msgstr "은(는) 환각 덕분에 중요한 인생 교훈을 얻는다. 환각의 원인은 "
+
+#: deathforth/events/common/OMENTUM.df:267
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " also eating a can of mystery meat."
+msgstr "가 정체불명 고기 통조림도 먹었기 때문이다."
+
+#: deathforth/events/common/OMENTUM.df:284
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Surprise Location!"
+msgstr "뜻밖의 장소!"
+
+#: deathforth/events/common/OMENTUM.df:285
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "While driving on the Death Road, "
+msgstr "데스 로드를 달리던 중, "
+
+#: deathforth/events/common/OMENTUM.df:285
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " stumbles into an unexpected location: "
+msgstr "은(는) 뜻밖의 장소에 들어선다: "
+
+#: deathforth/events/common/OMENTUM.df:289
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " stubs "
+msgstr "은(는) "
+
+#: deathforth/events/common/OMENTUM.df:289
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " toe."
+msgstr " 발가락을 찧는다."
+
+#: deathforth/events/common/OMENTUM.df:291
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"True to the prophecy, in a series of freak accidents, the entire group stubs"
+" their respective toes."
+msgstr "예언대로, 기막힌 사고가 연달아 일어나 일행 전원이 각자 발가락을 찧는다."
+
+#: deathforth/events/common/OMENTUM.df:294
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Right after, "
+msgstr "바로 그 뒤, "
+
+#: deathforth/events/common/OMENTUM.df:294
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " unexpectedly stumbles into a dangerous location!"
+msgstr "은(는) 뜻밖에 위험한 장소에 들어선다!"
+
+#: deathforth/events/common/OMENTUM.df:299
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Seeing the Future"
+msgstr "미래 보기"
+
+#: deathforth/events/common/OMENTUM.df:300
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" hallucinates after eating a can of mystery meat. It was probably cat food."
+msgstr "은(는) 정체불명 고기 통조림을 먹고 환각을 본다. 아마 고양이 사료였을 거다."
+
+#: deathforth/events/common/OMENTUM.df:302
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "This somehow opens up "
+msgstr "어째선지 이걸로 "
+
+#: deathforth/events/common/OMENTUM.df:302
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " 'third eye'"
+msgstr " '제3의 눈'"
+
+#: deathforth/events/common/OMENTUM.df:302
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ", granting a temporary moment of "
+msgstr "이 열리고, 잠시 이것이 생긴다: "
+
+#: deathforth/events/common/OMENTUM.df:302
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "PRECOGNITION"
+msgstr "예지력"
+
+#: deathforth/events/common/OMENTUM.df:302
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " sees the future:"
+msgstr "은(는) 미래를 본다:"
+
+#: deathforth/events/common/OMENTUM.df:303
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "will find something good!"
+msgstr ": 좋은 걸 찾는다!"
+
+#: deathforth/events/common/OMENTUM.df:304
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " will learn something important!"
+msgstr "은(는) 중요한 걸 배운다!"
+
+#: deathforth/events/common/OMENTUM.df:305
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "will face great danger!"
+msgstr ": 큰 위험에 맞닥뜨린다!"
+
+#: deathforth/events/common/OMENTUM.df:311
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The Long Detour"
+msgstr "긴 우회로"
+
+#: deathforth/events/common/OMENTUM.df:312
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " starts the long detour."
+msgstr "은(는) 긴 우회로에 들어선다."
+
+#: deathforth/events/common/OMENTUM.df:315
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The second leg of the detour begins."
+msgstr "우회로의 두 번째 구간이 시작된다."
+
+#: deathforth/events/common/OMENTUM.df:318
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The long detour ends, and "
+msgstr "긴 우회로가 끝나고, "
+
+#: deathforth/events/common/OMENTUM.df:318
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " reaches an area that seems like it may be good for looting..."
+msgstr "은(는) 물자를 뒤지기 좋아 보이는 곳에 도착한다..."
+
+#: deathforth/events/common/OMENTUM.df:323
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Dead End Detour"
+msgstr "막다른 우회로"
+
+#: deathforth/events/common/OMENTUM.df:324
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " gets confused by the route becoming a maze of blocked roads. "
+msgstr "은(는) 길이 막힌 도로의 미로에 갇혀 헷갈린다. "
+
+#: deathforth/events/common/OMENTUM.df:324
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " arrive"
+msgstr "은(는)"
+
+#: deathforth/events/common/OMENTUM.df:324
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " at a dead end."
+msgstr " 막다른 길에 다다른다."
+
+#: deathforth/events/common/OMENTUM.df:326
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " get lost for a full day, until finally finding an alternate route. "
+msgstr "은(는) 꼬박 하루를 헤맨 끝에 겨우 다른 길을 찾는다. "
+
+#: deathforth/events/common/OMENTUM.df:329
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" choices are now between a detour, or a longer detour that may lead to loot."
+" "
+msgstr " 선택지는 이제 우회로, 아니면 물자가 있을지 모를 더 긴 우회로다. "
+
+#: deathforth/events/common/OMENTUM.df:331
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " could also ditch the car to continue on foot."
+msgstr "은(는) 차를 버리고 걸어서 갈 수도 있다."
+
+#: deathforth/events/common/OMENTUM.df:333
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Take a detour"
+msgstr "우회한다"
+
+#: deathforth/events/common/OMENTUM.df:334
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Take the longer detour"
+msgstr "더 길게 우회한다"
+
+#: deathforth/events/common/OMENTUM.df:335
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Ditch the car"
+msgstr "차를 버린다"
+
+#: deathforth/events/common/OMENTUM.df:345
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "NIGHTSTICK"
+msgstr "경찰봉"
+
+#: deathforth/events/common/OMENTUM.df:346
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "SHOTGUN"
+msgstr "산탄총"
+
+#: deathforth/events/common/OMENTUM.df:347
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "RIFLE"
+msgstr "소총"
+
+#: deathforth/events/common/OMENTUM.df:348
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "DOLT45 REVOLVER"
+msgstr "돌트45 리볼버"
+
+#: deathforth/events/common/OMENTUM.df:349
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "FIRE AXE"
+msgstr "소방 도끼"
+
+#: deathforth/events/common/OMENTUM.df:350
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "SNUBNOSE REVOLVER"
+msgstr "스너브노즈 리볼버"
+
+#: deathforth/events/common/OMENTUM.df:366
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " approaches the dog."
+msgstr "은(는) 개에게 다가간다."
+
+#: deathforth/events/common/OMENTUM.df:368
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " uses every bit of "
+msgstr "은(는) 총동원한다: "
+
+#: deathforth/events/common/OMENTUM.df:368
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" DOG PSYCHOLOGY. This involves picking up some garbage off the ground, "
+"acting really excited about it, and then stepping away from the garbage."
+msgstr " 개 심리학을. 바닥에서 쓰레기를 주워 들고, 엄청 신난 척하다가, 쓰레기에서 물러나는 기술이다."
+
+#: deathforth/events/common/OMENTUM.df:369
+#: deathforth/events/common/OMENTUM.df:381
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " steals the dog's precious "
+msgstr "은(는) 개가 한눈판 틈에 소중한 "
+
+#: deathforth/events/common/OMENTUM.df:369
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " while it is distracted!"
+msgstr "을(를) 훔친다!"
+
+#: deathforth/events/common/OMENTUM.df:373
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" plans to attack the dog. The dog senses this malevolent intent, and runs.\r\n"
+"\t\t"
+msgstr ""
+"는 개를 공격하려 한다. 개는 이 악의를 눈치채고 도망친다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:374
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " chases it, and doesn't see a lone zombie in the area until "
+msgstr "은(는) 개를 쫓아가느라 근처에 있던 좀비 한 마리를 보지 못한다. 결국 "
+
+#: deathforth/events/common/OMENTUM.df:374
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " practically runs into it."
+msgstr "가 좀비와 거의 정면으로 부딪힐 뻔한다."
+
+#: deathforth/events/common/OMENTUM.df:377
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" frolics with the old dog, and they both have a lot of fun and get some good"
+" exercise. However, "
+msgstr "는 늙은 개와 뛰놀며 둘 다 아주 즐겁고 운동도 제대로 한다. 하지만 "
+
+#: deathforth/events/common/OMENTUM.df:377
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " completely forgets about the "
+msgstr "은(는) 까맣게 잊어버린다: "
+
+#: deathforth/events/common/OMENTUM.df:380
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The dog runs away from "
+msgstr "개는 "
+
+#: deathforth/events/common/OMENTUM.df:380
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " for quite awhile, but "
+msgstr "에게서 한참 동안 도망치지만, "
+
+#: deathforth/events/common/OMENTUM.df:380
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " keeps at it!"
+msgstr "는 포기하지 않는다!"
+
+#: deathforth/events/common/OMENTUM.df:386
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" clever tricks are no match for the dog's simple, singleminded tactics of "
+"pick up thing, run a short distance, sit down, repeat."
+msgstr " 영리한 꾀도 개의 단순하고 일편단심인 전술 앞에선 소용없다. 물건 물기, 조금 달리기, 앉기, 반복."
+
+#: deathforth/events/common/OMENTUM.df:388
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" ends up chasing the dog for awhile, but eventually gets too frustrated and "
+"gives up!"
+msgstr "는 한동안 개를 쫓아다니지만, 결국 너무 답답해서 포기한다!"
+
+#: deathforth/events/common/OMENTUM.df:392
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Who should try to get the dog's toy?"
+msgstr "누가 개의 장난감을 가져와 볼까?"
+
+#: deathforth/events/common/OMENTUM.df:397
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The Dog and the Dinguses"
+msgstr "개와 멍청이들"
+
+#: deathforth/events/common/OMENTUM.df:399
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "There's an old dog sitting across the road. It is near a "
+msgstr "길 건너편에 늙은 개가 앉아 있다. 개 근처 땅바닥에 "
+
+#: deathforth/events/common/OMENTUM.df:399
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " lying on the ground. Whenever "
+msgstr "이(가) 놓여 있다. 그런데 "
+
+#: deathforth/events/common/OMENTUM.df:399
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" tries to approach the dog, it picks up the object and runs a small distance"
+" away."
+msgstr "이(가) 개에게 다가가려 할 때마다, 개는 그 물건을 물고 조금 떨어진 곳으로 달아난다."
+
+#: deathforth/events/common/OMENTUM.df:400
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Ignore the dog!"
+msgstr "개는 무시한다!"
+
+#: deathforth/events/common/OMENTUM.df:402
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Try to get that item"
+msgstr "저 물건을 가져와 본다"
+
+#: deathforth/events/common/OMENTUM.df:404
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Who should try to get the item?"
+msgstr "누가 그 물건을 가져와 볼까?"
+
+#: deathforth/events/common/OMENTUM.df:420
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" takes the gas from the generator. There wasn't much left, but every little bit helps.\r\n"
+"\tMaybe there will be time for cooking later."
+msgstr ""
+"은(는) 발전기에서 기름을 빼낸다. 별로 안 남았지만, 조금이라도 도움이 된다.\r\n"
+"\t요리는 나중에 할 시간이 있을지도."
+
+#: deathforth/events/common/OMENTUM.df:426
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" eats an extra full meal, cooked in a kitchen and brimming with flavor!\r\n"
+"\tWhat a morale booster! It's too bad that the next meal will be straight from a can."
+msgstr ""
+"은(는) 주방에서 요리한 풍미 가득한 식사를 한 끼 더 먹는다!\r\n"
+"\t사기가 쑥 오른다! 다음 끼니는 다시 통조림이라는 게 아쉽다."
+
+#: deathforth/events/common/OMENTUM.df:434
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" eats a nice snack, one actually cooked in a kitchen! It's a rare break from eating straight out of cans.\r\n"
+"\tWhat a morale booster!"
+msgstr ""
+"은(는) 주방에서 직접 요리한 근사한 간식을 먹는다! 통조림만 먹던 일상에서 벗어난 귀한 휴식이다.\r\n"
+"\t사기가 쑥 오른다!"
+
+#: deathforth/events/common/OMENTUM.df:447
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" prepares a MEGA MEAL! The flavor is MEGA MAXIMIZED, not to mention the "
+"portions."
+msgstr "은(는) 메가 만찬을 준비한다! 맛도 메가 최대치, 양은 말할 것도 없다."
+
+#: deathforth/events/common/OMENTUM.df:451
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " feels very solid after that meal, but so slow!"
+msgstr "은(는) 그 식사 후 아주 든든하지만, 너무 느려졌다!"
+
+#: deathforth/events/common/OMENTUM.df:461
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" almost immediately sets the entire kitchen on fire by accident. NOW things "
+"are starting to get spicy!"
+msgstr "은(는) 거의 곧바로 실수로 주방 전체에 불을 낸다. 이제야 좀 매콤해지기 시작하는군!"
+
+#: deathforth/events/common/OMENTUM.df:464
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " feels adequately spicy!"
+msgstr "은(는) 적당히 매콤함을 느낀다!"
+
+#: deathforth/events/common/OMENTUM.df:469
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" gets forged in the fires!\r\n"
+"\t\t\t"
+msgstr ""
+"은(는) 불길 속에서 단련된다!\r\n"
+"\t\t\t"
+
+#: deathforth/events/common/OMENTUM.df:470
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " is now "
+msgstr "는 이제 "
+
+#: deathforth/events/common/OMENTUM.df:470
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "mostly fireproof!"
+msgstr "거의 불에 강하다!"
+
+#: deathforth/events/common/OMENTUM.df:473
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Maybe a little too spicy."
+msgstr "좀 너무 매웠을지도."
+
+#: deathforth/events/common/OMENTUM.df:480
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Cooking with Gas"
+msgstr "가스로 요리하기"
+
+#: deathforth/events/common/OMENTUM.df:481
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " attempts to loot a restaurant. "
+msgstr "은(는) 식당을 털어 보려 한다. "
+
+#: deathforth/events/common/OMENTUM.df:481
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " find"
+msgstr "은(는)"
+
+#: deathforth/events/common/OMENTUM.df:481
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" no food, but there's bunch of spices and a functioning kitchen, thanks to a"
+" gas generator!"
+msgstr " 음식은 못 찾지만, 향신료가 잔뜩 있고 가스 발전기 덕분에 주방도 작동한다!"
+
+#: deathforth/events/common/OMENTUM.df:482
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Take Gas from Generator"
+msgstr "발전기에서 기름을 뺀다"
+
+#: deathforth/events/common/OMENTUM.df:484
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Cook a Snack - "
+msgstr "간식 요리 - "
+
+#: deathforth/events/common/OMENTUM.df:484
+#: deathforth/events/common/OMENTUM.df:487
+#: deathforth/events/common/OMENTUM.df:491
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " Food"
+msgstr " 식량"
+
+#: deathforth/events/common/OMENTUM.df:487
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Cook a Meal - "
+msgstr "식사 요리 - "
+
+#: deathforth/events/common/OMENTUM.df:491
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ": Cook MEGA FEAST - "
+msgstr ": 메가 만찬 요리 - "
+
+#: deathforth/events/common/OMENTUM.df:494
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ": Cook MEGA FEAST?"
+msgstr ": 메가 만찬 요리?"
+
+#: deathforth/events/common/OMENTUM.df:501
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " runs as the angry mob pelts "
+msgstr "은(는) 도망친다. 성난 군중이 "
+
+#: deathforth/events/common/OMENTUM.df:501
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " with rocks!"
+msgstr "에게 돌을 던진다!"
+
+#: deathforth/events/common/OMENTUM.df:503
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "But what hurts the most is the mean shouting."
+msgstr "하지만 가장 아픈 건 험한 고함이다."
+
+#: deathforth/events/common/OMENTUM.df:508
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " talks to the angry mob."
+msgstr "은(는) 성난 군중과 이야기한다."
+
+#: deathforth/events/common/OMENTUM.df:510
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " can't talk, so instead "
+msgstr "는 말을 못 해서, 대신 "
+
+#: deathforth/events/common/OMENTUM.df:510
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" spins around excitedly! How fun!\r\n"
+"\t\tThe mob forgets whatever their problem was."
+msgstr ""
+"가 신나게 빙글빙글 돈다! 재밌다!\r\n"
+"\t\t군중은 자기들 문제가 뭐였는지 잊어버린다."
+
+#: deathforth/events/common/OMENTUM.df:514
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " screeches "
+msgstr "는 소리친다: "
+
+#: deathforth/events/common/OMENTUM.df:514
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "YOU PEOPLE... ARE THE REAL ZOMBIES!"
+msgstr "너희가... 진짜 좀비야!"
+
+#: deathforth/events/common/OMENTUM.df:514
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"\r\n"
+"\t\tThe people of Maple Street are thus made ashamed of their words and deeds.\r\n"
+"\t\t"
+msgstr ""
+"\r\n"
+"\t\t메이플 스트리트 사람들은 자기 말과 행동을 부끄러워한다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:516
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " is let through."
+msgstr "은(는) 통과를 허락받는다."
+
+#: deathforth/events/common/OMENTUM.df:519
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " asks, "
+msgstr "는 묻는다: "
+
+#: deathforth/events/common/OMENTUM.df:519
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "What's a zombie?"
+msgstr "좀비가 뭔데?"
+
+#: deathforth/events/common/OMENTUM.df:519
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"\r\n"
+"\t\tThe mob is bewildered and exasperated by this. \r\n"
+"\t\tAfter failing to explain ANYTHING to "
+msgstr ""
+"\r\n"
+"\t\t군중은 어리둥절하고 진이 빠진다. \r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:521
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+", they decide the whole 'angry mob' thing is a waste of time. They put their"
+" pitchforks down and wander off. Hey, free pitchforks!"
+msgstr ""
+"에게 아무것도 설명하지 못하자, 그들은 '성난 군중' 짓이 시간 낭비라고 결론 내린다. 쇠스랑을 내려놓고 흩어진다. 오, 공짜 쇠스랑!"
+
+#: deathforth/events/common/OMENTUM.df:524
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " says, "
+msgstr "는 말한다: "
+
+#: deathforth/events/common/OMENTUM.df:524
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Sorry about causing that zombie outbreak!"
+msgstr "좀비 사태 일으켜서 미안해!"
+
+#: deathforth/events/common/OMENTUM.df:525
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" winks.\r\n"
+"\t\tThat's all the mob really wanted. An apology. \r\n"
+"\t\t"
+msgstr ""
+"은(는) 윙크한다.\r\n"
+"\t\t군중이 원한 건 그거였다. 사과. \r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:527
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " still gets beaten up, but it's a light beating."
+msgstr "은(는) 그래도 두들겨 맞지만, 가볍게 맞는다."
+
+#: deathforth/events/common/OMENTUM.df:530
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" temper almost right away, and yells at the mob that THEY caused the zombie outbreak.\r\n"
+"\t\tThe angry mob and "
+msgstr ""
+" 이성을 곧바로 잃고, 군중에게 좀비 사태를 일으킨 건 바로 너희라고 소리친다.\r\n"
+"\t\t성난 군중과 "
+
+#: deathforth/events/common/OMENTUM.df:531
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" shout at each other for a long time until they both storm off. Each side "
+"thinks they won the argument, and somehow, no one gets hurt."
+msgstr ""
+"은(는) 한참 서로 고함치다가 둘 다 씩씩대며 가 버린다. 양쪽 다 자기가 이겼다고 생각하고, 어째선지 아무도 다치지 않는다."
+
+#: deathforth/events/common/OMENTUM.df:534
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" expertly picks apart the mob's shouted accusations. The angry mob "
+"apologizes for saying mean things, and then beats "
+msgstr "는 군중의 고함 섞인 비난을 능숙하게 하나하나 반박한다. 성난 군중은 심한 말을 한 걸 사과하고, 그다음 두들겨 팬다: "
+
+#: deathforth/events/common/OMENTUM.df:534
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" up for being a know-it-all.\r\n"
+"\t\t"
+msgstr ""
+"을(를). 잘난 척했다는 이유로.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:535
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " still feels smug for being right."
+msgstr "는 그래도 자기가 옳았다는 사실에 우쭐하다."
+
+#: deathforth/events/common/OMENTUM.df:537
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "This goes very badly for "
+msgstr "이 일은 정말 안 좋게 끝난다. 불쌍한 "
+
+#: deathforth/events/common/OMENTUM.df:541
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Who reasons with the angry mob?"
+msgstr "누가 성난 군중을 설득할까?"
+
+#: deathforth/events/common/OMENTUM.df:546
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The Monsters of Maple Street"
+msgstr "메이플 스트리트의 괴물들"
+
+#: deathforth/events/common/OMENTUM.df:547
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" stops on Maple Street, which has formed a fortified village to defend from "
+"zombies. Soon after, a mob gathers with pitchforks and torches, and blames "
+msgstr ""
+"은(는) 메이플 스트리트에 멈춘다. 좀비를 막으려고 요새화한 마을이다. 곧 쇠스랑과 횃불을 든 군중이 모여들어 비난한다. 좀비 사태는 "
+
+#: deathforth/events/common/OMENTUM.df:547
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " for the zombie outbreak!"
+msgstr " 탓이라고!"
+
+#: deathforth/events/common/OMENTUM.df:548
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Run away!"
+msgstr "도망친다!"
+
+#: deathforth/events/common/OMENTUM.df:550
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ": Try to reason with them"
+msgstr ": 설득해 본다"
+
+#: deathforth/events/common/OMENTUM.df:552
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Should someone try to reason with them?"
+msgstr "누군가 설득해 볼까?"
+
+#: deathforth/events/common/OMENTUM.df:564
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "CONGRATULATIONS, YOU HAVE SOLVED MY RIDDLE! "
+msgstr "축하한다, 내 수수께끼를 풀었구나! "
+
+#: deathforth/events/common/OMENTUM.df:565
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The cat then mauls "
+msgstr "그러고는 고양이가 할퀸다: "
+
+#: deathforth/events/common/OMENTUM.df:565
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "everyone"
+msgstr "모두"
+
+#: deathforth/events/common/OMENTUM.df:566
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "In a rare act of mercy for a cat, it doesn't go for the kill."
+msgstr "고양이치고는 드물게 자비를 베풀어, 숨통을 끊지는 않는다."
+
+#: deathforth/events/common/OMENTUM.df:568
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "In the rest of the house, "
+msgstr "집의 나머지 부분에서, "
+
+#: deathforth/events/common/OMENTUM.df:568
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " finds a big haul of loot!"
+msgstr "은(는) 물자를 잔뜩 찾아낸다!"
+
+#: deathforth/events/common/OMENTUM.df:571
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The morale loss from getting mauled is perfectly counteracted by this."
+msgstr "할퀴어서 떨어진 사기가 이걸로 딱 상쇄된다."
+
+#: deathforth/events/common/OMENTUM.df:575
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Uh... cardboard?"
+msgstr "어... 골판지?"
+
+#: deathforth/events/common/OMENTUM.df:576
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "A mouse! That must be it!"
+msgstr "쥐! 쥐가 틀림없어!"
+
+#: deathforth/events/common/OMENTUM.df:577
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "THE ANSWER..... IS MAN"
+msgstr "정답은..... 인간이다"
+
+#: deathforth/events/common/OMENTUM.df:578
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "I dunno, something gross?"
+msgstr "몰라, 뭔가 역겨운 거?"
+
+#: deathforth/events/common/OMENTUM.df:579
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "... Cat food?"
+msgstr "... 고양이 사료?"
+
+#: deathforth/events/common/OMENTUM.df:580
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Is this a trick question? This is a trick question."
+msgstr "이거 함정 질문이지? 함정 질문이네."
+
+#: deathforth/events/common/OMENTUM.df:581
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "You're the riddle! YOU'RE the riddle!"
+msgstr "네가 수수께끼야! 네가 바로 수수께끼라고!"
+
+#: deathforth/events/common/OMENTUM.df:582
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "How should I know?!"
+msgstr "내가 어떻게 알아?!"
+
+#: deathforth/events/common/OMENTUM.df:610
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "What?"
+msgstr "뭐?"
+
+#: deathforth/events/common/OMENTUM.df:615
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"WHAT DID I JUST EAT?\r\n"
+"\t*NOTE: Whoever answers gets mauled extra hard!"
+msgstr ""
+"내가 방금 뭘 먹었게?\r\n"
+"\t*참고: 대답하는 사람은 더 세게 할퀴어진다!"
+
+#: deathforth/events/common/OMENTUM.df:622
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The cat clears its throat and repeats the riddle:  "
+msgstr "고양이가 헛기침을 하고 수수께끼를 다시 낸다:  "
+
+#: deathforth/events/common/OMENTUM.df:629
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The Riddle of the Sphinx"
+msgstr "스핑크스의 수수께끼"
+
+#: deathforth/events/common/OMENTUM.df:630
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "When searching for loot in a ruined house, "
+msgstr "폐허가 된 집에서 물자를 찾던 중, "
+
+#: deathforth/events/common/OMENTUM.df:630
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" encounters a cat sitting in a mouldy chair.\r\n"
+"\tThe cat speaks from its throne! It's a riddle:  "
+msgstr ""
+"은(는) 곰팡이 핀 의자에 앉은 고양이를 만난다.\r\n"
+"\t고양이가 왕좌에서 말한다! 수수께끼다:  "
+
+#: deathforth/events/common/OMENTUM.df:638
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" tries to decipher the secret documents, but gets frustrated after awhile "
+"and gives up."
+msgstr "은(는) 비밀 문서를 해독하려 하지만, 한참 뒤 짜증이 나서 포기한다."
+
+#: deathforth/events/common/OMENTUM.df:643
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" just starts eating the papers.\r\n"
+"\t\tI'm not sure what you were hoping for, here.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 그냥 종이를 먹기 시작한다.\r\n"
+"\t\t여기서 뭘 기대했는지 모르겠다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:645
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " is slightly pleased about solving this mystery."
+msgstr "은(는) 이 미스터리를 풀어서 살짝 기쁘다."
+
+#: deathforth/events/common/OMENTUM.df:649
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" gets PUMPED over the secret documents.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 비밀 문서를 보고 완전 흥분한다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:650
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Secret GOVERNMENT papers? Don't mind if I do!"
+msgstr "정부 비밀 문서? 사양 않지!"
+
+#: deathforth/events/common/OMENTUM.df:651
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " claims the papers document a secret organization called "
+msgstr "은(는) 이 문서가 비밀 조직에 관한 거라고 주장한다. 이름하여 "
+
+#: deathforth/events/common/OMENTUM.df:651
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "S*T*I*N*K*L*E"
+msgstr "S*T*I*N*K*L*E"
+
+#: deathforth/events/common/OMENTUM.df:651
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" whose goal was to create the Milk Duds shortage that lead to the zombocalype!\r\n"
+"\t\tFINALLY, the truth has been revealed!"
+msgstr ""
+". 목표는 좀비 사태로 이어진 밀크 더즈 품귀 현상을 일으키는 것이었다!\r\n"
+"\t\t드디어 진실이 밝혀졌다!"
+
+#: deathforth/events/common/OMENTUM.df:654
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Absolutely no one believes what "
+msgstr "아무도 "
+
+#: deathforth/events/common/OMENTUM.df:654
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " is saying."
+msgstr "의 말을 믿지 않는다."
+
+#: deathforth/events/common/OMENTUM.df:660
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " almost instantly forgets what "
+msgstr "은(는) "
+
+#: deathforth/events/common/OMENTUM.df:660
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" was doing and wanders off.\r\n"
+"\t\tHowever, "
+msgstr ""
+"가 뭘 하고 있었는지 거의 즉시 잊고 어슬렁 떠난다.\r\n"
+"\t\t하지만 "
+
+#: deathforth/events/common/OMENTUM.df:661
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " stumbles onto a small cache of supplies elsewhere in the office!"
+msgstr "는 사무실 다른 곳에서 작은 물자 더미를 우연히 발견한다!"
+
+#: deathforth/events/common/OMENTUM.df:666
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " tries to figure out the secret message for a little bit. Then "
+msgstr "은(는) 잠시 비밀 메시지를 풀어 보려 한다. 그러다 "
+
+#: deathforth/events/common/OMENTUM.df:666
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " frowns and halfheartedly writes "
+msgstr "는 인상을 쓰고 대충 적는다: "
+
+#: deathforth/events/common/OMENTUM.df:666
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "COOL IT!"
+msgstr "진정해!"
+
+#: deathforth/events/common/OMENTUM.df:666
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " on one of the pieces of paper."
+msgstr " 종이 한 장에."
+
+#: deathforth/events/common/OMENTUM.df:667
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " just isn't feeling it today."
+msgstr "는 오늘 영 내키지 않는다."
+
+#: deathforth/events/common/OMENTUM.df:676
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" tries to decode the secret documents.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 비밀 문서를 해독하려 한다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:677
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" recognizes many patterns in the papers. These are blueprints! It's designs "
+"for a car that is powered by being on top of a giant zombie, made larger "
+"through a massive all-cheese diet and electrical zaps! Mad science!!"
+msgstr ""
+"는 서류에서 여러 패턴을 알아본다. 이건 설계도다! 거대한 좀비 위에 올라타서 움직이는 차의 설계도다. 그 좀비는 치즈만 먹이고 전기 "
+"충격을 줘서 더 크게 키운다! 미친 과학이다!!"
+
+#: deathforth/events/common/OMENTUM.df:682
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" takes a crack at decoding the secret documents.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 비밀 문서 해독에 도전한다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:683
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" recognizes some patterns in the papers. These are blueprints! It's designs "
+"for an engine that runs off canned beans and expired cat food. Very "
+"interesting!"
+msgstr ""
+"는 서류에서 몇 가지 패턴을 알아본다. 이건 설계도다! 통조림 콩과 유통기한 지난 고양이 사료로 돌아가는 엔진의 설계도다. 아주 "
+"흥미롭다!"
+
+#: deathforth/events/common/OMENTUM.df:688
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" attempts to decipher the secret documents.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 비밀 문서를 해독해 보려 한다.\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:689
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" figures out that these are actually medical papers. They are talking about "
+"a theory on how to possibly prevent future zombification through an all-"
+"cheese diet. Interesting!"
+msgstr ""
+"는 이게 사실 의학 문서라는 걸 알아낸다. 치즈만 먹는 식단으로 앞으로의 좀비화를 막을 수 있을지도 모른다는 이론이 적혀 있다. "
+"흥미롭다!"
+
+#: deathforth/events/common/OMENTUM.df:694
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " completely loses "
+msgstr "은(는) 서류를 해독하다가 "
+
+#: deathforth/events/common/OMENTUM.df:694
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" patience while trying to decode the papers!\r\n"
+"\t\t"
+msgstr ""
+" 인내심을 완전히 잃는다!\r\n"
+"\t\t"
+
+#: deathforth/events/common/OMENTUM.df:695
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " takes out "
+msgstr "는 "
+
+#: deathforth/events/common/OMENTUM.df:695
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" rage by kicking something. Unfortunately, that something was the heavy safe"
+" the papers came from."
+msgstr " 분노를 뭔가를 걷어차서 푼다. 안타깝게도 그 뭔가는 서류가 들어 있던 무거운 금고였다."
+
+#: deathforth/events/common/OMENTUM.df:700
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" decodes some of the secret documents!\r\n"
+"\t\tThe papers are full of incredibly dry technical jargon, so they're still unreadable. Still, "
+msgstr ""
+"은(는) 비밀 문서 일부를 해독한다!\r\n"
+"\t\t서류는 엄청나게 건조한 기술 용어로 가득해서 여전히 읽을 수 없다. 그래도 "
+
+#: deathforth/events/common/OMENTUM.df:701
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " feels satisfied for decoding them."
+msgstr "은(는) 해독해 낸 것에 만족한다."
+
+#: deathforth/events/common/OMENTUM.df:710
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Who should decipher these secret documents?"
+msgstr "누가 이 비밀 문서를 해독할까?"
+
+#: deathforth/events/common/OMENTUM.df:716
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Secret Documents"
+msgstr "비밀 문서"
+
+#: deathforth/events/common/OMENTUM.df:717
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "While looking through an office building, "
+msgstr "사무실 건물을 뒤지던 중, "
+
+#: deathforth/events/common/OMENTUM.df:717
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" finds a safe that has been left open. There's nothing in there but papers. The text is all jumbled and makes no sense.\r\n"
+"\tThey were locked up, they must be important! Who should decipher them?"
+msgstr ""
+"은(는) 열린 채 방치된 금고를 발견한다. 안에는 종이뿐이다. 글자가 전부 뒤죽박죽이라 무슨 뜻인지 모르겠다.\r\n"
+"\t잠가 둔 걸 보면 중요한 게 틀림없다! 누가 해독할까?"
+
+#: deathforth/events/common/OMENTUM.df:719
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "Leave them alone"
+msgstr "그냥 둔다"
+
+#: deathforth/events/common/OMENTUM.df:734
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "DINGUS-DOO"
+msgstr "멍청이-두"
+
+#: deathforth/events/common/OMENTUM.df:735
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "HARD LABOR"
+msgstr "강제 노동"
+
+#: deathforth/events/common/OMENTUM.df:736
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "GIFT BASKET"
+msgstr "선물 바구니"
+
+#: deathforth/events/common/OMENTUM.df:765
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The villagers start chanting. This seems bad..."
+msgstr "마을 사람들이 구호를 외치기 시작한다. 불길하다..."
+
+#: deathforth/events/common/OMENTUM.df:766
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "DINGUS-DOO! DINGUS-DOO FOR YOU!"
+msgstr "멍청이-두! 너에게 멍청이-두!"
+
+#: deathforth/events/common/OMENTUM.df:767
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "They change "
+msgstr "마을 사람들이 강제 변신으로 바꿔 버린다: "
+
+#: deathforth/events/common/OMENTUM.df:767
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "'s hairstyle"
+msgstr "의 헤어스타일"
+
+#: deathforth/events/common/OMENTUM.df:767
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " in a forced makeover. This seems mildly irritating!"
+msgstr ". 살짝 짜증 난다!"
+
+#: deathforth/events/common/OMENTUM.df:770
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The villagers sentence "
+msgstr "마을 사람들은 선고한다: "
+
+#: deathforth/events/common/OMENTUM.df:770
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" to a week of hard labor in the Toilet Paper Factory!\r\n"
+"\t\tIt's grueling work, but at least they feed you. It's also good exercise!"
+msgstr ""
+"에게 화장지 공장 강제 노동 일주일!\r\n"
+"\t\t고된 일이지만, 적어도 밥은 준다. 운동도 된다!"
+
+#: deathforth/events/common/OMENTUM.df:775
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "The villagers present "
+msgstr "마을 사람들이 선물한다: "
+
+#: deathforth/events/common/OMENTUM.df:775
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+" with a tasteful gift basket! They don't want to do this, but they have to "
+"absolutely follow the will of "
+msgstr "에게 고상한 선물 바구니를! 하고 싶진 않지만, 무조건 따라야 하는 뜻이 있다: "
+
+#: deathforth/events/common/OMENTUM.df:775
+#: deathforth/events/common/OMENTUM.df:780
+#: deathforth/events/common/OMENTUM.df:812
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "THE WHEEL"
+msgstr "운명의 바퀴"
+
+#: deathforth/events/common/OMENTUM.df:775
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid ""
+"\r\n"
+"\t\tIt's delightful!"
+msgstr ""
+"\r\n"
+"\t\t기쁘다!"
+
+#: deathforth/events/common/OMENTUM.df:778
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "? That sounds really bad!"
+msgstr "? 정말 안 좋게 들린다!"
+
+#: deathforth/events/common/OMENTUM.df:779
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "DANG IT! Looks like we have to let "
+msgstr "젠장! 어쩔 수 없이 "
+
+#: deathforth/events/common/OMENTUM.df:779
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid " go!"
+msgstr "을(를) 보내 줘야겠군!"
+
+#: deathforth/events/common/OMENTUM.df:780
+msgctxt "deathforth/events/common/OMENTUM.df"
+msgid "What a relief! Thanks, "
+msgstr "다행이다! 고마워, "

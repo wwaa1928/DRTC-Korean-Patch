@@ -1,0 +1,2935 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/trade/camp-recruit.df:329
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit him - "
+msgstr "그를 영입한다 - 식량 "
+
+#: deathforth/events/trade/camp-recruit.df:329
+#: deathforth/events/trade/camp-recruit.df:373
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " food"
+msgstr "<EMPTY>"
+
+#: deathforth/events/trade/camp-recruit.df:338
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" buys the cannon! It's the type that you'd find on an old ship. \r\n"
+"\tShe throws in an enormous pile of cannonballs and gunpowder. It somehow fits in a little space in the trunk.\r\n"
+"\t"
+msgstr ""
+"은(는) 대포를 산다! 옛날 배에서나 볼 법한 종류다. \r\n"
+"\t그녀는 엄청난 양의 포탄과 화약까지 얹어 준다. 어째선지 트렁크의 작은 틈에 다 들어간다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:340
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Yarp."
+msgstr "그래."
+
+#: deathforth/events/trade/camp-recruit.df:349
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Yarrrrrr!"
+msgstr "요호호!"
+
+#: deathforth/events/trade/camp-recruit.df:349
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " She sounds enthusiastic."
+msgstr " 신나 보인다."
+
+#: deathforth/events/trade/camp-recruit.df:352
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" needs extra room for the cannonballs she's bringing. Who leaves the group?"
+msgstr "은(는) 가져올 포탄 때문에 자리가 더 필요하다. 누가 일행을 떠날까?"
+
+#: deathforth/events/trade/camp-recruit.df:359
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Terror of the Zombie Sea"
+msgstr "좀비 바다의 공포"
+
+#: deathforth/events/trade/camp-recruit.df:361
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This woman is a pirate. At least that's what you assume, due to the peg leg, eyepatch, cutlass, clothing, and hat.\r\n"
+"\t"
+msgstr ""
+"이 여자는 해적이다. 적어도 의족, 안대, 커틀러스, 옷차림, 모자를 보면 그런 것 같다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:362
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Yarr!"
+msgstr "야호!"
+
+#: deathforth/events/trade/camp-recruit.df:364
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "This checks out. She offers to sell "
+msgstr "그럴 만하다. 그녀는 "
+
+#: deathforth/events/trade/camp-recruit.df:364
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " a cannon for 5 food, or join "
+msgstr "에게 대포를 식량 5에 팔거나, 식량 20을 받고 "
+
+#: deathforth/events/trade/camp-recruit.df:366
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " already bought a cannon, so she reduced the price of recruiting her."
+msgstr "은(는) 이미 대포를 샀으니, 그녀는 영입 비용을 낮춰 준다."
+
+#: deathforth/events/trade/camp-recruit.df:370
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Buy Cannon - 5 food"
+msgstr "대포 구매 - 식량 5"
+
+#: deathforth/events/trade/camp-recruit.df:373
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit her - "
+msgstr "그녀를 영입한다 - 식량 "
+
+#: deathforth/events/trade/camp-recruit.df:386
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " and her companion both join the team! Two for the price of one!"
+msgstr "와(과) 동료가 둘 다 팀에 합류한다! 하나 값에 둘!"
+
+#: deathforth/events/trade/camp-recruit.df:391
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Wood Woman"
+msgstr "통나무 여인"
+
+#: deathforth/events/trade/camp-recruit.df:393
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" meets a mysterious woman. She holds a massive chunk of wood in her arms.\r\n"
+"\t"
+msgstr ""
+"은(는) 수수께끼의 여자를 만난다. 거대한 나무 토막을 품에 안고 있다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:394
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"My log says you can be trusted. I am more pragmatic. Pay me and I'll join "
+"you."
+msgstr "내 통나무가 너흰 믿어도 된대. 난 좀 더 현실적이야. 돈을 내면 합류하지."
+
+#: deathforth/events/trade/camp-recruit.df:397
+#: deathforth/events/trade/camp-recruit.df:507
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit her - 10 food"
+msgstr "그녀를 영입한다 - 식량 10"
+
+#: deathforth/events/trade/camp-recruit.df:412
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Try Burning Everything"
+msgstr "전부 태워 보기"
+
+#: deathforth/events/trade/camp-recruit.df:414
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This person is covered head to toe in fireproof gear.\r\n"
+"\tThis would usually be more suspicious, but you're used to this sort of thing.\r\n"
+"\t"
+msgstr ""
+"이 사람은 머리부터 발끝까지 방화복으로 감싸고 있다.\r\n"
+"\t평소라면 더 수상했겠지만, 이런 건 이제 익숙하다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:416
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Hi. Did you know that zombies are highly flammable?"
+msgstr "안녕. 좀비가 엄청 잘 탄다는 거 알아?"
+
+#: deathforth/events/trade/camp-recruit.df:418
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave for now"
+msgstr "일단 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:419
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit for 15 food"
+msgstr "식량 15에 영입한다"
+
+#: deathforth/events/trade/camp-recruit.df:421
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 15 food to properly make friends."
+msgstr "제대로 친구가 되려면 식량 15가 필요하다."
+
+#: deathforth/events/trade/camp-recruit.df:430
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "PLINK PLINK PLINK PLINK PLINK"
+msgstr "핑 핑 핑 핑 핑"
+
+#: deathforth/events/trade/camp-recruit.df:434
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Is This Cosplay?"
+msgstr "이거 코스프레야?"
+
+#: deathforth/events/trade/camp-recruit.df:436
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This person is covered in blue tights, a weird helmet, and is wearing a big plastic tube on one of his arms.\r\n"
+"\tThis would usually be more suspicious, but you're used to this sort of thing.\r\n"
+"\tHe strikes a dynamic pose with his plastic tube arm."
+msgstr ""
+"이 사람은 파란 쫄쫄이에 이상한 헬멧을 쓰고, 한쪽 팔에 커다란 플라스틱 통을 끼고 있다.\r\n"
+"\t평소라면 더 수상했겠지만, 이런 건 이제 익숙하다.\r\n"
+"\t그는 플라스틱 통 팔로 역동적인 포즈를 취한다."
+
+#: deathforth/events/trade/camp-recruit.df:441
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit him - 20 food"
+msgstr "그를 영입한다 - 식량 20"
+
+#: deathforth/events/trade/camp-recruit.df:443
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 20 food to recruit him to the party."
+msgstr "그를 일행으로 영입하려면 식량 20이 필요하다."
+
+#: deathforth/events/trade/camp-recruit.df:450
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Bee strong, bee loyal."
+msgstr "벌처럼 강하게, 벌처럼 충직하게."
+
+#: deathforth/events/trade/camp-recruit.df:454
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Bee Power"
+msgstr "벌 파워"
+
+#: deathforth/events/trade/camp-recruit.df:456
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"It's Bee Mann! He was a popular children's show host, when TV still existed.\r\n"
+"\tBy some miracle, he's still around."
+msgstr ""
+"비 맨이다! TV가 아직 있던 시절, 인기 어린이 프로그램 진행자였다.\r\n"
+"\t기적적으로 아직 살아 있다."
+
+#: deathforth/events/trade/camp-recruit.df:458
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "It's a little strange that he's still wearing his costume."
+msgstr "아직도 의상을 입고 있다는 건 좀 이상하다."
+
+#: deathforth/events/trade/camp-recruit.df:461
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit him - 5 food"
+msgstr "그를 영입한다 - 식량 5"
+
+#: deathforth/events/trade/camp-recruit.df:463
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 5 food to recruit him to the party."
+msgstr "그를 일행으로 영입하려면 식량 5가 필요하다."
+
+#: deathforth/events/trade/camp-recruit.df:477
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Tiny Animal"
+msgstr "작은 동물"
+
+#: deathforth/events/trade/camp-recruit.df:479
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"It's a small animal.\r\n"
+"\t"
+msgstr ""
+"작은 동물이다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:480
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" looks like some kind of rodent? \r\n"
+"\tI'm not an expert on what is and isn't a rodent."
+msgstr ""
+"는 무슨 설치류처럼 보인다? \r\n"
+"\t뭐가 설치류고 아닌지 나는 잘 모른다."
+
+#: deathforth/events/trade/camp-recruit.df:484
+#: deathforth/events/trade/camp-recruit.df:767
+#: deathforth/events/trade/camp-recruit.df:787
+#: deathforth/events/trade/camp-recruit.df:981
+#: deathforth/events/trade/camp-recruit.df:1040
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit "
+msgstr "영입: "
+
+#: deathforth/events/trade/camp-recruit.df:484
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " - 3 food"
+msgstr " - 식량 3"
+
+#: deathforth/events/trade/camp-recruit.df:486
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 3 food to recruit "
+msgstr "식량 3이 있어야 "
+
+#: deathforth/events/trade/camp-recruit.df:486
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " to the party."
+msgstr "를 일행으로 영입할 수 있다."
+
+#: deathforth/events/trade/camp-recruit.df:495
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Let's blast our way to Canada! Two shells at a time!"
+msgstr "캐나다까지 쏴서 뚫고 가자! 두 발씩!"
+
+#: deathforth/events/trade/camp-recruit.df:500
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Super Shotgun"
+msgstr "슈퍼 샷건"
+
+#: deathforth/events/trade/camp-recruit.df:502
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This woman is cleaning a double barrel shotgun. On closer inspection, her "
+"weapon seems sturdier than normal. It is covered in fine engraving."
+msgstr "이 여자는 쌍발 산탄총을 닦고 있다. 자세히 보니 보통 총보다 튼튼해 보인다. 정교한 조각이 새겨져 있다."
+
+#: deathforth/events/trade/camp-recruit.df:503
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"Have shotgun, will travel.\r\n"
+"\tRecruit me and I'll show you how many zombies I can splat in one shot!"
+msgstr ""
+"샷건만 있으면 어디든 간다.\r\n"
+"\t날 영입하면 한 방에 좀비를 몇 마리나 터뜨리는지 보여 주지!"
+
+#: deathforth/events/trade/camp-recruit.df:509
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 10 food to recruit her to the party."
+msgstr "그녀를 일행으로 영입하려면 식량 10이 필요하다."
+
+#: deathforth/events/trade/camp-recruit.df:518
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "What weapon should I get out first?"
+msgstr "어떤 무기부터 꺼낼까?"
+
+#: deathforth/events/trade/camp-recruit.df:523
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Truly Barbaric"
+msgstr "진정한 야만"
+
+#: deathforth/events/trade/camp-recruit.df:525
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"She is wearing primitive leather armor, and her hair is stuffed into a very "
+"old looking metal helmet. Is this the next fashion trend in the "
+"zombocalypse?"
+msgstr "그녀는 원시적인 가죽 갑옷을 입고, 아주 오래돼 보이는 쇠 투구에 머리를 쑤셔 넣었다. 이게 좀비 종말의 다음 유행인가?"
+
+#: deathforth/events/trade/camp-recruit.df:526
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"I own 18 different weapons, each one is my favorite.\r\n"
+"\tI like to switch between them so I don't get bored!"
+msgstr ""
+"난 무기가 18개 있는데, 하나하나가 다 최애야.\r\n"
+"\t지루하지 않게 번갈아 쓰는 걸 좋아해!"
+
+#: deathforth/events/trade/camp-recruit.df:530
+#: deathforth/events/trade/camp-recruit.df:640
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit her - 15 food"
+msgstr "그녀를 영입한다 - 식량 15"
+
+#: deathforth/events/trade/camp-recruit.df:532
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 15 food to recruit her to the party."
+msgstr "그녀를 일행으로 영입하려면 식량 15가 필요하다."
+
+#: deathforth/events/trade/camp-recruit.df:541
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "I brought my own weapons!"
+msgstr "내 무기는 내가 챙겨 왔어!"
+
+#: deathforth/events/trade/camp-recruit.df:546
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "MooD"
+msgstr "MooD"
+
+#: deathforth/events/trade/camp-recruit.df:548
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This man is wearing futuristic sci-fi armor and holding a matching rifle. "
+"Likely some kind of cosplay, though I don't know who because I'm not a nerd."
+msgstr ""
+"이 남자는 미래적인 SF 갑옷을 입고 거기 어울리는 소총을 들고 있다. 아마 무슨 코스프레겠지만, 누군지는 모르겠다. 난 덕후가 "
+"아니니까."
+
+#: deathforth/events/trade/camp-recruit.df:549
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"Nobody tells Moody what to do!\r\n"
+"\tI'm Moody."
+msgstr ""
+"누구도 무디에게 명령할 수 없다!\r\n"
+"\t내가 무디다."
+
+#: deathforth/events/trade/camp-recruit.df:553
+#: deathforth/events/trade/camp-recruit.df:579
+#: deathforth/events/trade/camp-recruit.df:687
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Recruit him - 15 food"
+msgstr "그를 영입한다 - 식량 15"
+
+#: deathforth/events/trade/camp-recruit.df:555
+#: deathforth/events/trade/camp-recruit.df:581
+#: deathforth/events/trade/camp-recruit.df:605
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You need 15 food to recruit him to the party."
+msgstr "그를 일행으로 영입하려면 식량 15가 필요하다."
+
+#: deathforth/events/trade/camp-recruit.df:565
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "[STAND NAME] S DOGGY DOGG   [STAND MASTER] CharBro"
+msgstr "[스탠드 이름] S 도기 독   [스탠드 마스터] CharBro"
+
+#: deathforth/events/trade/camp-recruit.df:566
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"DESTRUCTIVE POWER: B   SPEED: B   RANGE: C\r\n"
+"\tDURABILITY: C   PRECISION: C   POTENTIAL: C"
+msgstr ""
+"파괴력: B   스피드: B   사정거리: C\r\n"
+"\t지속력: C   정밀동작성: C   성장성: C"
+
+#: deathforth/events/trade/camp-recruit.df:572
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Finally, a CharBro Reference"
+msgstr "드디어, CharBro 패러디"
+
+#: deathforth/events/trade/camp-recruit.df:574
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "This extremely buff man claims to be a 'Stamp User', though "
+msgstr "이 엄청나게 우람한 남자는 자기가 '스탬프 사용자'라고 주장하지만, "
+
+#: deathforth/events/trade/camp-recruit.df:574
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " has no idea what this means and does not care to know."
+msgstr "은(는) 그게 무슨 뜻인지 모르고 알고 싶지도 않다."
+
+#: deathforth/events/trade/camp-recruit.df:575
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Yare yare daze...."
+msgstr "야레야레다제...."
+
+#: deathforth/events/trade/camp-recruit.df:576
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"TRANSLATORS NOTE: LOOSELY TRANSLATED FROM JAPANESE, THIS MEANS 'GOOD GRIEF.'"
+msgstr "번역자 주: 일본어를 대충 번역하면 '아이고 맙소사'라는 뜻이다."
+
+#: deathforth/events/trade/camp-recruit.df:591
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " offers him a new job: Zombie crushing."
+msgstr "은(는) 그에게 새 일자리를 제안한다: 좀비 분쇄."
+
+#: deathforth/events/trade/camp-recruit.df:592
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Break over!"
+msgstr "휴식 끝!"
+
+#: deathforth/events/trade/camp-recruit.df:597
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Under Construction"
+msgstr "공사 중"
+
+#: deathforth/events/trade/camp-recruit.df:599
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This man is dressed up like a construction worker, but what's being built? "
+"It seems like he's just standing around. Maybe he's been standing around for"
+" years."
+msgstr ""
+"이 남자는 공사장 인부처럼 차려입었는데, 대체 뭘 짓고 있는 걸까? 그냥 서 있기만 하는 것 같다. 몇 년째 서 있었을지도 모른다."
+
+#: deathforth/events/trade/camp-recruit.df:600
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "I'm on break!"
+msgstr "나 쉬는 시간이야!"
+
+#: deathforth/events/trade/camp-recruit.df:603
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Hire him - 15 food"
+msgstr "그를 고용한다 - 식량 15"
+
+#: deathforth/events/trade/camp-recruit.df:616
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " buys a map! This will help for a sense of direction."
+msgstr "은(는) 지도를 산다! 방향 감각에 도움이 될 거다."
+
+#: deathforth/events/trade/camp-recruit.df:622
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "My maps will get us straight to Canada!"
+msgstr "내 지도면 캐나다까지 곧장 갈 수 있어!"
+
+#: deathforth/events/trade/camp-recruit.df:627
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "I like Maps"
+msgstr "지도가 좋아"
+
+#: deathforth/events/trade/camp-recruit.df:629
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"This woman is carrying a bunch of maps. You can see a bunch of papers sticking out of her backpack.\r\n"
+"\t"
+msgstr ""
+"이 여자는 지도를 잔뜩 들고 있다. 배낭 밖으로 종이 뭉치가 삐져나와 있다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:630
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"I love maps! Started makin' them ever since before the apocalypse, now they've been more useful than ever!\r\n"
+"\t"
+msgstr ""
+"난 지도가 좋아! 종말 전부터 만들기 시작했는데, 지금은 그 어느 때보다 쓸모가 많다니까!\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:631
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "She offers to sell "
+msgstr "그녀는 "
+
+#: deathforth/events/trade/camp-recruit.df:631
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " one of her maps, or to join for some food."
+msgstr "에게 지도 한 장을 팔거나, 식량을 받고 합류하겠다고 한다."
+
+#: deathforth/events/trade/camp-recruit.df:635
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Buy a Map - 5 food"
+msgstr "지도 구매 - 식량 5"
+
+#: deathforth/events/trade/camp-recruit.df:637
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" already bought a map from her. She doesn't seem to want to give out any "
+"more maps."
+msgstr "은(는) 이미 그녀에게 지도를 샀다. 지도를 더 내줄 생각은 없어 보인다."
+
+#: deathforth/events/trade/camp-recruit.df:642
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " doesn't have enough food to recruit her, unfortunately."
+msgstr "은(는) 아쉽게도 그녀를 영입할 식량이 부족하다."
+
+#: deathforth/events/trade/camp-recruit.df:645
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " doesn't have enough food to buy anything!"
+msgstr "은(는) 뭘 살 식량이 부족하다!"
+
+#: deathforth/events/trade/camp-recruit.df:655
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Champion in Training"
+msgstr "수련 중인 챔피언"
+
+#: deathforth/events/trade/camp-recruit.df:657
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"Alright! Let's go!\r\n"
+"\t"
+msgstr ""
+"좋아! 가자!\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:658
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "He eats the food in no time at all."
+msgstr "그는 식량을 순식간에 먹어 치운다."
+
+#: deathforth/events/trade/camp-recruit.df:665
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " buys "
+msgstr "은(는) 남자에게서 "
+
+#: deathforth/events/trade/camp-recruit.df:665
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "some"
+msgstr "퓨키볼 여러 개"
+
+#: deathforth/events/trade/camp-recruit.df:665
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "one"
+msgstr "퓨키볼 한 개"
+
+#: deathforth/events/trade/camp-recruit.df:665
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " Pukeyball"
+msgstr "<EMPTY>"
+
+#: deathforth/events/trade/camp-recruit.df:665
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "s"
+msgstr "<EMPTY>"
+
+#: deathforth/events/trade/camp-recruit.df:665
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" from the man.\r\n"
+"\t"
+msgstr ""
+"를 산다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:666
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "They'll fare you well!"
+msgstr "잘 해낼 거야!"
+
+#: deathforth/events/trade/camp-recruit.df:679
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Catch 'em All"
+msgstr "전부 잡아라"
+
+#: deathforth/events/trade/camp-recruit.df:681
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" finds a man with a frying pan in the camp. He's being followed by a floating rock with arms?\r\n"
+"\t"
+msgstr ""
+"은(는) 캠프에서 프라이팬을 든 남자를 발견한다. 팔 달린 떠다니는 바위가 그를 따라다닌다?\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:682
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"All these zombies chased the Pukeymon all away, but I won't give up hope! I'll keep training and be the best there ever was!\r\n"
+"\t"
+msgstr ""
+"좀비들 때문에 퓨키몬이 전부 도망가 버렸지만, 난 희망을 버리지 않아! 계속 수련해서 역대 최고가 될 거야!\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:683
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"What in the world is he babbling about?\r\n"
+"\tAside from that, he offers to sell "
+msgstr ""
+"대체 무슨 소리를 하는 거지?\r\n"
+"\t그건 그렇고, 그는 "
+
+#: deathforth/events/trade/camp-recruit.df:684
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " some Pukeyballs, 2 food for 1 ball, or to join for 15 food."
+msgstr "에게 퓨키볼을 1개당 식량 2에 팔거나, 식량 15에 합류하겠다고 한다."
+
+#: deathforth/events/trade/camp-recruit.df:685
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave him be"
+msgstr "내버려 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:689
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " doesn't have enough food to recruit him."
+msgstr "은(는) 그를 영입할 식량이 부족하다."
+
+#: deathforth/events/trade/camp-recruit.df:691
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "He's out of pukeyballs to sell you!"
+msgstr "그는 팔 퓨키볼이 다 떨어졌다!"
+
+#: deathforth/events/trade/camp-recruit.df:692
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " has no food to buy any Pukeyballs with!"
+msgstr "은(는) 퓨키볼을 살 식량이 없다!"
+
+#: deathforth/events/trade/camp-recruit.df:695
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Buy full Pukeymon team - 12 food"
+msgstr "퓨키몬 풀팀 구매 - 식량 12"
+
+#: deathforth/events/trade/camp-recruit.df:699
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Buy 3 Pukeyballs - 6 food"
+msgstr "퓨키볼 3개 구매 - 식량 6"
+
+#: deathforth/events/trade/camp-recruit.df:703
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Buy a Pukeyball - 2 food"
+msgstr "퓨키볼 구매 - 식량 2"
+
+#: deathforth/events/trade/camp-recruit.df:739
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is glad to be back!"
+msgstr "은(는) 돌아와서 기쁘다!"
+
+#: deathforth/events/trade/camp-recruit.df:742
+#: deathforth/events/trade/camp-recruit.df:756
+#: deathforth/events/trade/camp-recruit.df:776
+#: deathforth/events/trade/camp-recruit.df:964
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t누구를 빼고 자리를 만들까: "
+
+#: deathforth/events/trade/camp-recruit.df:752
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " devours the food!"
+msgstr "은(는) 식량을 게걸스럽게 먹어 치운다!"
+
+#: deathforth/events/trade/camp-recruit.df:767
+#: deathforth/events/trade/camp-recruit.df:981
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " - 5 food"
+msgstr " - 식량 5"
+
+#: deathforth/events/trade/camp-recruit.df:772
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" devours the food! It's like watching a speed eating competition, but with "
+"one person."
+msgstr "은(는) 식량을 게걸스럽게 먹어 치운다! 1인 빨리 먹기 대회를 보는 것 같다."
+
+#: deathforth/events/trade/camp-recruit.df:787
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " - 10 food"
+msgstr " - 식량 10"
+
+#: deathforth/events/trade/camp-recruit.df:795
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is tired of being stuck in this camp. "
+msgstr "은(는) 이 캠프에 갇혀 있는 데 질렸다. "
+
+#: deathforth/events/trade/camp-recruit.df:795
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " will join you, for a small fee of 5 food!"
+msgstr "는 식량 5라는 소소한 값에 합류하겠다고 한다!"
+
+#: deathforth/events/trade/camp-recruit.df:799
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "You don't have enough food to spare."
+msgstr "내줄 식량이 부족하다."
+
+#: deathforth/events/trade/camp-recruit.df:806
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "The Outdoors Fitness Lifestyle"
+msgstr "아웃도어 피트니스 라이프스타일"
+
+#: deathforth/events/trade/camp-recruit.df:812
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " claims to be physically fit. "
+msgstr "은(는) 체력이 좋다고 주장한다. "
+
+#: deathforth/events/trade/camp-recruit.df:837
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Muscle Mercenary"
+msgstr "근육 용병"
+
+#: deathforth/events/trade/camp-recruit.df:843
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " claims to be really strong. "
+msgstr "은(는) 힘이 정말 세다고 주장한다. "
+
+#: deathforth/events/trade/camp-recruit.df:868
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Hired Gun"
+msgstr "청부 총잡이"
+
+#: deathforth/events/trade/camp-recruit.df:874
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " claims to be a great shot with a gun. "
+msgstr "은(는) 총을 정말 잘 쏜다고 주장한다. "
+
+#: deathforth/events/trade/camp-recruit.df:899
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Field Medic"
+msgstr "야전 의무병"
+
+#: deathforth/events/trade/camp-recruit.df:905
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " claims to be experienced in medical matters. "
+msgstr "은(는) 의료 경험이 많다고 주장한다. "
+
+#: deathforth/events/trade/camp-recruit.df:930
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Mechanic for Hire"
+msgstr "출장 정비사"
+
+#: deathforth/events/trade/camp-recruit.df:936
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " claims to be great at fixing cars and machinery. "
+msgstr "은(는) 차와 기계를 잘 고친다고 주장한다. "
+
+#: deathforth/events/trade/camp-recruit.df:961
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is tamed using DOG PSYCHOLOGY by "
+msgstr "은(는) 개 심리학으로 길들여진다. 길들인 건 "
+
+#: deathforth/events/trade/camp-recruit.df:961
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ", who insists on bringing "
+msgstr "(이)다. 그 사람은 "
+
+#: deathforth/events/trade/camp-recruit.df:961
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " along!"
+msgstr "를 꼭 데려가겠다고 고집한다!"
+
+#: deathforth/events/trade/camp-recruit.df:973
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "A Dog With No Cause"
+msgstr "이유 없는 개"
+
+#: deathforth/events/trade/camp-recruit.df:977
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is hanging around the camp, tame but with no one to follow. "
+msgstr "은(는) 캠프 주변을 어슬렁거린다. 길들여졌지만 따를 주인이 없다. "
+
+#: deathforth/events/trade/camp-recruit.df:977
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " must have been abandoned here."
+msgstr "는 여기 버려진 게 분명하다."
+
+#: deathforth/events/trade/camp-recruit.df:979
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Leave the dog alone"
+msgstr "개를 내버려 둔다"
+
+#: deathforth/events/trade/camp-recruit.df:984
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " recruits the dog!"
+msgstr "이(가) 개를 영입한다!"
+
+#: deathforth/events/trade/camp-recruit.df:989
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "If At First You Don't Succeed"
+msgstr "처음엔 실패하더라도"
+
+#: deathforth/events/trade/camp-recruit.df:991
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " almost made it to Canada. "
+msgstr "은(는) 캐나다에 거의 다 갔었다. "
+
+#: deathforth/events/trade/camp-recruit.df:991
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " got as far as the City of Crushed Hopes, where the rest of "
+msgstr "는 무너진 희망의 도시까지 갔는데, 거기서 "
+
+#: deathforth/events/trade/camp-recruit.df:991
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" group was eaten.\r\n"
+"\t"
+msgstr ""
+" 일행은 잡아먹혔다.\r\n"
+"\t"
+
+#: deathforth/events/trade/camp-recruit.df:992
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " offers to join you for 10 food. "
+msgstr "는 식량 10에 합류하겠다고 한다. "
+
+#: deathforth/events/trade/camp-recruit.df:992
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " has a real good feeling about this attempt!"
+msgstr "는 이번 도전에 정말 좋은 예감이 든다!"
+
+#: deathforth/events/trade/camp-recruit.df:1000
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " gives a quick demonstration of "
+msgstr "이(가) 재빨리 시범을 보인다:"
+
+#: deathforth/events/trade/camp-recruit.df:1002
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "shooting skills!"
+msgstr "사격 실력!"
+
+#: deathforth/events/trade/camp-recruit.df:1007
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "mighty strength!"
+msgstr "엄청난 힘!"
+
+#: deathforth/events/trade/camp-recruit.df:1011
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "physical fitness!"
+msgstr "체력!"
+
+#: deathforth/events/trade/camp-recruit.df:1017
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+"My last team was a bunch of wieners! I think I'll do a lot better this time "
+"around, if you give me a chance!"
+msgstr "지난 팀은 죄다 찌질이였어! 기회만 준다면 이번엔 훨씬 잘할 수 있을 거야!"
+
+#: deathforth/events/trade/camp-recruit.df:1025
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "Familiar Face"
+msgstr "낯익은 얼굴"
+
+#: deathforth/events/trade/camp-recruit.df:1029
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " is hanging around the camp. "
+msgstr "은(는) 캠프 주변을 어슬렁거리고 있다. "
+
+#: deathforth/events/trade/camp-recruit.df:1029
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid " has been waiting for you to show up!"
+msgstr "는 너희가 나타나길 기다리고 있었다!"
+
+#: deathforth/events/trade/camp-recruit.df:1032
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid ""
+" claims to know you, but you swear you've never seen this person before..."
+msgstr "는 너희를 안다고 주장하지만, 이 사람은 맹세코 처음 본다..."
+
+#: deathforth/events/trade/camp-recruit.df:1034
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "TRAIT: "
+msgstr "특성: "
+
+#: deathforth/events/trade/camp-recruit.df:1035
+msgctxt "deathforth/events/trade/camp-recruit.df"
+msgid "  PERK: "
+msgstr "  특전: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:5
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"YOU GOT LIKE A BILLION PEOPLE.\r\n"
+"\tGO AWAY.\r\n"
+"\t"
+msgstr ""
+"사람이 무슨 10억 명은 있네.\r\n"
+"\t꺼져.\r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:7
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "You'll have to clear a spot if you want this annoying person."
+msgstr "이 짜증 나는 사람을 원한다면 자리를 비워야 한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:10
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"FINE, whatever! \r\n"
+"\t"
+msgstr ""
+"그래, 알았다고! \r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:11
+#: deathforth/events/trade/cyoa-k-recruit.df:33
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "The door opens and "
+msgstr "문이 열리고 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:11
+#: deathforth/events/trade/cyoa-k-recruit.df:33
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " comes out."
+msgstr "이(가) 나온다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:15
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"YOU ARE AN ESPECIALLY HUGE DINK. \r\n"
+"\tYOU DINK.\r\n"
+"\t"
+msgstr ""
+"너 진짜 엄청난 찐따구나. \r\n"
+"\t이 찐따야.\r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:17
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " is infuriated and smashes on the door for awhile. "
+msgstr "은(는) 화가 치밀어 한동안 문을 두들긴다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:17
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " ends up leaving shortly after."
+msgstr "은(는) 곧 자리를 뜬다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:21
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " farts on the locked door."
+msgstr "은(는) 잠긴 문에 방귀를 뀐다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:23
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " tells the voice to "
+msgstr "은(는) 목소리에게 말한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:23
+#: deathforth/events/trade/cyoa-k-recruit.df:91
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "COOL IT."
+msgstr "진정해."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:26
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "HHHHHHEH! YOU'RE ALRIGHT! "
+msgstr "흐흐흐흐흐헤! 너 괜찮은 놈이구나! "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:28
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"YOU HAVE TOO MANY PEOPLE, THOUGH.\r\n"
+"\t\t\t"
+msgstr ""
+"근데 사람이 너무 많아.\r\n"
+"\t\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:29
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "The door stays shut unless you get rid of someone."
+msgstr "누군가를 내보내지 않으면 문은 열리지 않는다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:32
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"OK, I'M IN!\r\n"
+"\t\t\t"
+msgstr ""
+"좋아, 나도 낄게!\r\n"
+"\t\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:37
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"SAY IT, DON'T SPRAY IT! \r\n"
+"\t\tI HATE ANNOYING PEOPLE!\r\n"
+"\t\t"
+msgstr ""
+"말로 해, 침 튀기지 말고! \r\n"
+"\t\t짜증 나는 놈들 딱 질색이야!\r\n"
+"\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:39
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "The voice refuses to open the door, and "
+msgstr "목소리는 문을 열어 주지 않고, "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:39
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " ends up leaving."
+msgstr "은(는) 결국 떠난다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:44
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "The Dinkdoor: Door of Dinks"
+msgstr "찐따문: 찐따들의 문"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:50
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" comes across a house by the road. It's locked.\r\n"
+"\tWhile trying to smash the door down, a voice calls out:\r\n"
+"\t"
+msgstr ""
+"은(는) 길가에서 집 한 채를 발견한다. 잠겨 있다.\r\n"
+"\t문을 부수려는데, 목소리가 들린다:\r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:52
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "HEY LEAVE MY DOOR ALONE YOU DINKS"
+msgstr "야 내 문 건드리지 마 이 찐따들아"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:53
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Try to Recruit"
+msgstr "영입을 시도한다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:54
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ": I'M NOT A DINK"
+msgstr ": 난 찐따 아니야"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:56
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " tells voice to COOL IT"
+msgstr "이(가) 목소리에게 진정하라고 한다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:63
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " says that there are too many people in your car already, and that "
+msgstr "은(는) 너희 차에 이미 사람이 너무 많다며, "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:63
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"'ll be fine staying put for awhile longer.\r\n"
+"\t\tDitch someone to make room:"
+msgstr ""
+"는 한동안 여기 있어도 괜찮다고 한다.\r\n"
+"\t\t자리를 만들려면 누군가를 내보내라:"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:67
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"Sure, I'll join! I was running out of food, anyway.\r\n"
+"\t"
+msgstr ""
+"좋아, 합류할게! 어차피 식량도 떨어져 가던 참이야.\r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:68
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" is now part of the team!\r\n"
+"\t"
+msgstr ""
+"은(는) 이제 팀의 일원이다!\r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:69
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" brings along some food supplies! Bonus!\r\n"
+"\tOnward to Canada!"
+msgstr ""
+"이(가) 식량을 좀 가져온다! 보너스!\r\n"
+"\t캐나다로 전진!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:78
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " robs "
+msgstr "이(가) 털어 버린다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:78
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+".\r\n"
+"\tThis is probably why your group has just one person in it."
+msgstr ""
+".\r\n"
+"\t아마 이래서 너희 일행이 한 명뿐인 거다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:81
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " convinces the group to rob "
+msgstr "은(는) 일행을 설득해 털기로 한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:89
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " farts. It echoes in the grocery store."
+msgstr "이(가) 방귀를 뀐다. 식료품점에 메아리친다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:91
+#: deathforth/events/trade/cyoa-k-recruit.df:127
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " tells "
+msgstr "은(는) "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:91
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " to "
+msgstr "에게 말한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:94
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " is impressed by this devil-may-care attitude!"
+msgstr "는 이 거침없는 태도에 감명받는다!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:96
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"Here, take a bunch of food I had stored up!\r\n"
+"\t\t\t"
+msgstr ""
+"자, 내가 쟁여 둔 식량 잔뜩 가져가!\r\n"
+"\t\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:97
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "The team goes on their way with the food."
+msgstr "팀은 식량을 챙겨 갈 길을 간다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:99
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Let me come with you! I have a bunch of food!"
+msgstr "나도 같이 가자! 식량 많이 있어!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:104
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" is mostly just confused by this.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 그저 어리둥절할 뿐이다.\r\n"
+"\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:105
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"What? I wasn't doing anything...\r\n"
+"\t\t"
+msgstr ""
+"뭐? 난 아무것도 안 했는데...\r\n"
+"\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:106
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " Wow! What a nerd! "
+msgstr " 와! 완전 찐따네! "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:106
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " leaves "
+msgstr "은(는) 그냥 두고 떠난다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:111
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Grocery Squatter"
+msgstr "식료품점 무단 거주자"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:119
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" is about to break into a small, fortified grocery store, but then finds "
+msgstr "은(는) 작고 튼튼하게 막아 둔 식료품점에 막 침입하려다 발견한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:119
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" already living inside!\r\n"
+"\t"
+msgstr ""
+"이(가) 이미 안에 살고 있다!\r\n"
+"\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:120
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " seems like a calm, clever person."
+msgstr "는 차분하고 영리한 사람 같다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:121
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Ask "
+msgstr "<EMPTY>"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:121
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " to join"
+msgstr "에게 합류를 요청한다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:122
+#: deathforth/events/trade/cyoa-k-recruit.df:365
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Leave "
+msgstr "일단 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:122
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " alone"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:124
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ": Let's rob this dingus!"
+msgstr ": 이 멍청이를 털자!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:127
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " to COOL IT"
+msgstr "에게 진정하라고 한다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:132
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Kinda Pushy"
+msgstr "좀 막무가내"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:140
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " finds another traveller by the roadside, named "
+msgstr "은(는) 길가에서 다른 여행자를 발견한다. 이름은 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:141
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " insists on joining the group, immediately. "
+msgstr "는 당장 일행에 합류하겠다고 우긴다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:143
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " considers the benefits of "
+msgstr "은(는) 지금까지의 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:143
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " LONE WOLF strategy so far. Should "
+msgstr " 외톨이 늑대 전략의 이점을 따져 본다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:143
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " recruit "
+msgstr "모두 영입해야 할까: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:147
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" isn't even given a choice.\r\n"
+"\t\t"
+msgstr ""
+"에게는 선택권조차 주어지지 않는다.\r\n"
+"\t\t"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:148
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " joins the party! Onward to Canada?"
+msgstr "이(가) 일행에 합류한다! 캐나다로 전진?"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:153
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"The car is already full! Someone will have to be kicked out of the group to "
+"make room:"
+msgstr "차가 이미 꽉 찼다! 자리를 만들려면 누군가를 일행에서 쫓아내야 한다:"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:161
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " finds a new person, "
+msgstr "은(는) 새로운 사람을 발견한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:162
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " is alone, and wants to join the team!"
+msgstr "는 혼자이고, 팀에 합류하고 싶어 한다!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:169
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " vouches for this claim."
+msgstr "은(는) 이 말이 사실이라고 보증한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:170
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " trusts this based on "
+msgstr "은(는) 이 말을 믿는다. 근거는 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:170
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " experience."
+msgstr " 경험이다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:171
+#: deathforth/events/trade/cyoa-k-recruit.df:184
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " thinks that "
+msgstr "은(는) "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:171
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " is telling the truth."
+msgstr "가 진실을 말한다고 생각한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:172
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " has a good feeling about this person."
+msgstr "은(는) 이 사람에게서 좋은 느낌을 받는다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:173
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " has a gut feeling that this is the truth."
+msgstr "은(는) 이게 사실이라는 직감이 든다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:182
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " seriously doubts this."
+msgstr "은(는) 이 말을 심각하게 의심한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:183
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " rolls "
+msgstr "은(는) "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:183
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " eyes at this obvious lie."
+msgstr " 뻔한 거짓말에 눈을 굴린다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:184
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " is lying."
+msgstr "가 거짓말을 한다고 생각한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:185
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " has a very bad feeling about this person."
+msgstr "은(는) 이 사람에게서 아주 나쁜 느낌을 받는다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:186
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " has a gut feeling that this is a lie."
+msgstr "은(는) 이게 거짓말이라는 직감이 든다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:187
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " knows that something is off about "
+msgstr "은(는) 뭔가 수상하다는 걸 안다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:194
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " flexes in a dramatic way to prove it."
+msgstr "는 증명하겠다며 과장되게 근육을 뽐낸다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:195
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " talks about a past life as a lumberjack."
+msgstr "는 전생에 나무꾼이었다고 이야기한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:196
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " talks about a former life as a bodybuilder."
+msgstr "는 예전에 보디빌더였다고 이야기한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:197
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " boasts about being a former 'caged pit deathmatch' fighter."
+msgstr "는 왕년에 '철창 데스매치' 파이터였다고 자랑한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:198
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " bends a spoon, very aggressively."
+msgstr "는 숟가락을 아주 공격적으로 구부린다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:199
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " flexes and grunts HARD, beads of sweat forming on forehead."
+msgstr "는 이마에 땀방울이 맺힐 만큼 세게 근육에 힘을 주며 끙끙댄다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:205
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " reveals that "
+msgstr "는 밝힌다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:205
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " was a track star in college."
+msgstr "는 대학 시절 육상 스타였다고."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:206
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " does a clumsy half-cartwheel. Maybe it's an off day for "
+msgstr "는 어설프게 반쯤 옆돌기를 한다. 오늘 컨디션이 안 좋은 날인가, "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:207
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " shows off an elaborate stretching routine to prove it."
+msgstr "는 증명하겠다며 정교한 스트레칭 루틴을 선보인다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:208
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" jogs in place for a bit. It looks ok? There's little to no wheezing..."
+msgstr "는 잠깐 제자리 뛰기를 한다. 괜찮아 보인다? 헐떡임이 거의 없다..."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:209
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " does a quick little dance. Then "
+msgstr "는 짧게 춤을 춘다. 그러더니 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:209
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " stops, saying to recruit "
+msgstr "은(는) 멈추고, 더 보고 싶으면 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:209
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " for more."
+msgstr "를 영입하라고 한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:210
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " boasts about how "
+msgstr "는 자랑한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:210
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " used to be an olympic athlete."
+msgstr "는 올림픽 선수였다고."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:216
+#: deathforth/events/trade/cyoa-k-recruit.df:230
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " talks about "
+msgstr "는 이야기한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:216
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " favorite guns, though it's worrying that "
+msgstr " 최애 총들에 대해. 그런데 걱정스럽게도 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:216
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " pronounces 'guns' wrong."
+msgstr "는 '총'을 잘못 발음한다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:217
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" talks about a past life as a police officer. 'Not just any cop, a "
+"supercop'."
+msgstr "는 예전에 경찰이었다고 이야기한다. '그냥 경찰이 아니라, 슈퍼 경찰'."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:218
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " talks about all "
+msgstr "는 늘어놓는다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:218
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " shooting trophies and trophies for best guns."
+msgstr " 사격 트로피와 최고의 총 트로피 전부를."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:219
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " refuses to prove "
+msgstr "는 증명하길 거부한다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:219
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "'s a good shot because "
+msgstr "가 명사수라는 걸. 이유는 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:219
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " finger hurts right now. Suspicious."
+msgstr " 손가락이 지금 아파서란다. 수상하다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:220
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " twirls a pistol around, before accidentally dropping and breaking it."
+msgstr "는 권총을 빙글빙글 돌리다 실수로 떨어뜨려 망가뜨린다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:221
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " shoots a rubber band off "
+msgstr "는 고무줄을 쏜다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:221
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " finger to show off "
+msgstr " 손가락에서, 자랑하려고 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:221
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " aim, but misses."
+msgstr " 조준 실력을. 하지만 빗나간다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:227
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " spouts a bunch of medicalish jargon. Seems plausible?"
+msgstr "는 의학 비슷한 전문용어를 잔뜩 늘어놓는다. 그럴듯한가?"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:228
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " is evasive when asked what "
+msgstr "는 얼버무린다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:228
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " practice was."
+msgstr " 전공 분야를 묻자."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:229
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " nearly admits that "
+msgstr "는 털어놓을 뻔한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:229
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " wasn't a 'doctor-doctor', but catches "
+msgstr "가 '진짜 의사'는 아니었다고. 하지만 "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:229
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "self."
+msgstr "는 말을 삼킨다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:230
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " long career in healthcare."
+msgstr " 의료계에서의 오랜 경력에 대해."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:231
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " says that "
+msgstr "는 말한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:231
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " never had a degree, but learned a lot 'on the streets'."
+msgstr "는 학위는 없지만 '길거리에서' 많이 배웠다고."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:232
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" twirls a scalpel around like an expert, but then drops it into a storm "
+"drain."
+msgstr "는 전문가처럼 메스를 빙글빙글 돌리다 빗물 배수구에 떨어뜨린다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:238
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " discusses car repair, but its hard to tell if "
+msgstr "는 차 수리 얘기를 하지만, "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:238
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "'s bluffing or not."
+msgstr "가 허세를 부리는 건지 알기 어렵다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:239
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " talks about how "
+msgstr "는 이야기한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:239
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " used to own a repair shop."
+msgstr "는 정비소를 운영했었다고."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:240
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " says "
+msgstr "는 말한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:240
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " used to be an engineer, but is evasive about what kind."
+msgstr "는 엔지니어였다고. 무슨 엔지니어인지는 얼버무린다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:241
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " drones on about "
+msgstr "는 늘어놓는다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:241
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " lifelong passion for cars."
+msgstr " 평생에 걸친 자동차 사랑을."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:242
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " promises that if something breaks, "
+msgstr "는 약속한다. 뭐가 고장 나면, "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:242
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " can fix it!"
+msgstr "가 고칠 수 있다고!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:243
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " smells like car oil, but maybe that's just poor hygiene."
+msgstr "에게서 엔진오일 냄새가 나지만, 그냥 안 씻어서일지도 모른다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:252
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Strong Stranger"
+msgstr "힘센 낯선 이"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:255
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " claims to be really strong. "
+msgstr "은(는) 힘이 정말 세다고 주장한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:273
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Recruitment of the Fittest"
+msgstr "적자 영입"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:276
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " claims to be physically fit. "
+msgstr "은(는) 체력이 좋다고 주장한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:293
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "A New Gun in Town"
+msgstr "마을의 새 총잡이"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:296
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " claims to be a great shot with a gun. "
+msgstr "은(는) 총을 정말 잘 쏜다고 주장한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:314
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Medical Assistance"
+msgstr "의료 지원"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:317
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " claims to be experienced in medical matters. "
+msgstr "은(는) 의료 경험이 많다고 주장한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:335
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Mechanic Service"
+msgstr "정비 서비스"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:338
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " claims to be great at fixing cars and machinery. "
+msgstr "은(는) 차와 기계를 잘 고친다고 주장한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:357
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"There wasn't enough food to spare for the dog.\r\n"
+"\t\tIt runs away when approached."
+msgstr ""
+"개에게 내줄 식량이 부족했다.\r\n"
+"\t\t다가가자 달아나 버린다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:360
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " lures "
+msgstr "은(는) 식량으로 꾀어낸다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:360
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " over with food. "
+msgstr ". "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:360
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " knows a good source of meals when "
+msgstr "는 좋은 밥줄을 보면 알아본다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:360
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " sees it, and decides to stick around. "
+msgstr "는 곁에 머물기로 한다. "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:363
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "The group is full. Who would you like to replace to make room for "
+msgstr "일행이 꽉 찼다. 누구를 빼고 자리를 만들까: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:365
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " behind"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:371
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Dog Recruitment"
+msgstr "개 영입"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:374
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+"There is a dog wandering nearby. It's keeping its distance, but watching "
+msgstr "근처에 개 한 마리가 돌아다닌다. 거리를 두고 있지만, "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:374
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" with guarded interest.\r\n"
+"\tIt's become rare to see a dog that trusts people."
+msgstr ""
+"을(를) 경계하며 흥미롭게 지켜본다.\r\n"
+"\t사람을 믿는 개는 이제 보기 드물다."
+
+#: deathforth/events/trade/cyoa-k-recruit.df:376
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Recruit dog - 2 food"
+msgstr "개 영입 - 식량 2"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:377
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Leave the dog alone"
+msgstr "개를 내버려 둔다"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:381
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid "Dog Magnet!"
+msgstr "개 자석!"
+
+#: deathforth/events/trade/cyoa-k-recruit.df:385
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid ""
+" is a lightning rod, but for dogs!\r\n"
+"\tA dog approaches "
+msgstr ""
+"은(는) 피뢰침이다. 개 전용!\r\n"
+"\t난데없이 개 한 마리가 다가온다: "
+
+#: deathforth/events/trade/cyoa-k-recruit.df:386
+msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
+msgid " out of nowhere. It seems eager to join up!"
+msgstr ". 합류하고 싶어 안달 난 것 같다!"
+
+#: deathforth/events/trade/familiar-recruit.df:28
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " hasn't seen "
+msgstr "는 아직 "
+
+#: deathforth/events/trade/familiar-recruit.df:28
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " yet, and is real busy picking "
+msgstr "을(를) 못 봤다. 지금 한창 파는 중이다: "
+
+#: deathforth/events/trade/familiar-recruit.df:28
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " nose."
+msgstr " 코를."
+
+#: deathforth/events/trade/familiar-recruit.df:29
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is sleeping on a picnic table, right out in the open."
+msgstr "는 탁 트인 곳의 피크닉 테이블 위에서 자고 있다."
+
+#: deathforth/events/trade/familiar-recruit.df:30
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " was found trying to pull open a door that said PUSH on it."
+msgstr "는 '미시오'라고 적힌 문을 당기려다 발견됐다."
+
+#: deathforth/events/trade/familiar-recruit.df:31
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is humming a little song, and hasn't noticed "
+msgstr "는 작게 노래를 흥얼거리느라, 아직 "
+
+#: deathforth/events/trade/familiar-recruit.df:31
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " yet."
+msgstr "을(를) 알아채지 못했다."
+
+#: deathforth/events/trade/familiar-recruit.df:32
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is being thrown out by "
+msgstr "는 쫓겨나는 중이다: "
+
+#: deathforth/events/trade/familiar-recruit.df:32
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " former group. They seem pretty angry. "
+msgstr " 이전 일행에게서. 꽤 화난 것 같다. "
+
+#: deathforth/events/trade/familiar-recruit.df:32
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " shrugs."
+msgstr "은(는) 어깨를 으쓱한다."
+
+#: deathforth/events/trade/familiar-recruit.df:33
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " was sleeping in an abandoned house. "
+msgstr "는 버려진 집에서 자고 있었다. "
+
+#: deathforth/events/trade/familiar-recruit.df:33
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is slightly irritated to have been woken up."
+msgstr "는 잠이 깨서 살짝 짜증이 났다."
+
+#: deathforth/events/trade/familiar-recruit.df:34
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is sitting in a park, reading a book."
+msgstr "는 공원에 앉아 책을 읽고 있다."
+
+#: deathforth/events/trade/familiar-recruit.df:35
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid ""
+" was making tons of noise, playing a portable game console at full blast."
+msgstr "는 휴대용 게임기를 최대 볼륨으로 하며 엄청 시끄럽게 굴고 있었다."
+
+#: deathforth/events/trade/familiar-recruit.df:36
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is eating a candy bar. Those things still haven't gone bad."
+msgstr "는 초코바를 먹고 있다. 그건 아직도 상하지 않았다."
+
+#: deathforth/events/trade/familiar-recruit.df:37
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " stretches. Then "
+msgstr "는 스트레칭을 한다. 그러고는 "
+
+#: deathforth/events/trade/familiar-recruit.df:37
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " stretches some more. It's an elaborate stretching routine."
+msgstr "는 스트레칭을 더 한다. 정교한 스트레칭 루틴이다."
+
+#: deathforth/events/trade/familiar-recruit.df:38
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " pokes the dirt with a stick. Maybe "
+msgstr "는 막대기로 흙을 쑤신다. 어쩌면 "
+
+#: deathforth/events/trade/familiar-recruit.df:38
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is drawing plans, maybe just poking the dirt with a stick."
+msgstr "는 계획을 그리는 중일지도, 그냥 막대기로 흙을 쑤시는 중일지도."
+
+#: deathforth/events/trade/familiar-recruit.df:39
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is staring at a map, with an expression of total confusion."
+msgstr "는 완전히 혼란스러운 표정으로 지도를 노려보고 있다."
+
+#: deathforth/events/trade/familiar-recruit.df:40
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is yelling at some survivors, because they made fun of "
+msgstr "는 생존자 몇에게 소리치고 있다. 그들이 놀렸기 때문이다: "
+
+#: deathforth/events/trade/familiar-recruit.df:40
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " hair."
+msgstr " 머리를."
+
+#: deathforth/events/trade/familiar-recruit.df:41
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " is kicking a car in frustration. The car is emitting plumes of smoke."
+msgstr "는 화가 나서 차를 걷어차고 있다. 차에서 연기가 뭉게뭉게 피어오른다."
+
+#: deathforth/events/trade/familiar-recruit.df:42
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid ""
+" is fighting a single zombie, then suddenly trips and falls down in an "
+"awkward mistake. "
+msgstr "는 좀비 하나와 싸우다 어이없는 실수로 갑자기 넘어진다. "
+
+#: deathforth/events/trade/familiar-recruit.df:42
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " gets really embarassed when "
+msgstr "는 무척 민망해한다. 그러다 "
+
+#: deathforth/events/trade/familiar-recruit.df:42
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " notices "
+msgstr "는 알아챈다: "
+
+#: deathforth/events/trade/familiar-recruit.df:55
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Sweet Ride"
+msgstr "멋진 차"
+
+#: deathforth/events/trade/familiar-recruit.df:56
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " said that "
+msgstr "은(는) 말한다. "
+
+#: deathforth/events/trade/familiar-recruit.df:56
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " had "
+msgstr "는 근처에 "
+
+#: deathforth/events/trade/familiar-recruit.df:56
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " own car stashed nearby, and that it's a "
+msgstr " 차를 숨겨 뒀는데, 그게 "
+
+#: deathforth/events/trade/familiar-recruit.df:56
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "'pretty sweet ride'"
+msgstr "'꽤 멋진 차'라고."
+
+#: deathforth/events/trade/familiar-recruit.df:56
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid ""
+"\r\n"
+"\t\tWould you like to switch to "
+msgstr ""
+"\r\n"
+"\t\t차를 바꿀까: "
+
+#: deathforth/events/trade/familiar-recruit.df:57
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "'s car?"
+msgstr "의 차로?"
+
+#: deathforth/events/trade/familiar-recruit.df:58
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Keep current car"
+msgstr "지금 차를 유지한다"
+
+#: deathforth/events/trade/familiar-recruit.df:59
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Switch to new car"
+msgstr "새 차로 바꾼다"
+
+#: deathforth/events/trade/familiar-recruit.df:75
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " gets booted out of the group to make room for "
+msgstr "은(는) 일행에서 쫓겨난다. 대신 들어오는 사람: "
+
+#: deathforth/events/trade/familiar-recruit.df:83
+#: deathforth/events/trade/familiar-recruit.df:111
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Leave "
+msgstr "일단 "
+
+#: deathforth/events/trade/familiar-recruit.df:83
+#: deathforth/events/trade/familiar-recruit.df:111
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " behind"
+msgstr "을(를) 두고 간다"
+
+#: deathforth/events/trade/familiar-recruit.df:88
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid ""
+"The group is full.\r\n"
+"\t\tWho would you like to replace to make room for "
+msgstr ""
+"일행이 꽉 찼다.\r\n"
+"\t\t누구를 빼고 자리를 만들까: "
+
+#: deathforth/events/trade/familiar-recruit.df:93
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " accepts "
+msgstr "은(는) "
+
+#: deathforth/events/trade/familiar-recruit.df:93
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " to the team!"
+msgstr "을(를) 팀으로 받아들인다!"
+
+#: deathforth/events/trade/familiar-recruit.df:101
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Familiar Faces"
+msgstr "낯익은 얼굴들"
+
+#: deathforth/events/trade/familiar-recruit.df:103
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "NO MORE PEOPLE!"
+msgstr "더 이상 사람 없음!"
+
+#: deathforth/events/trade/familiar-recruit.df:107
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Whoa, it's "
+msgstr "와, "
+
+#: deathforth/events/trade/familiar-recruit.df:107
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "! It's nice to see a familiar face! "
+msgstr "(이)잖아! 낯익은 얼굴을 보니 반갑다! "
+
+#: deathforth/events/trade/familiar-recruit.df:108
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "TRAIT: "
+msgstr "특성: "
+
+#: deathforth/events/trade/familiar-recruit.df:109
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "  PERK: "
+msgstr "  특전: "
+
+#: deathforth/events/trade/familiar-recruit.df:110
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid "Recruit "
+msgstr "영입: "
+
+#: deathforth/events/trade/familiar-recruit.df:110
+msgctxt "deathforth/events/trade/familiar-recruit.df"
+msgid " to team"
+msgstr "<EMPTY>"
+
+#: deathforth/events/trade/gnomey.df:12
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Nice purchase, NERD!"
+msgstr "좋은 구매야, 찐따!"
+
+#: deathforth/events/trade/gnomey.df:13
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "OOOooooooo!"
+msgstr "오오오오오오오!"
+
+#: deathforth/events/trade/gnomey.df:14
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Keep on looting toilets! "
+msgstr "화장실 계속 털라고! "
+
+#: deathforth/events/trade/gnomey.df:15
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Ooo! Oooooooo!"
+msgstr "오! 오오오오오!"
+
+#: deathforth/events/trade/gnomey.df:16
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Good luck with Canada! "
+msgstr "캐나다 가는 길 행운을 빌어! "
+
+#: deathforth/events/trade/gnomey.df:17
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Smell ya later!"
+msgstr "나중에 보자고!"
+
+#: deathforth/events/trade/gnomey.df:18
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Whenever you need help... look to the staaaaars!"
+msgstr "도움이 필요할 땐... 별을 바라봐아아아!"
+
+#: deathforth/events/trade/gnomey.df:19
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "I'm ascending!"
+msgstr "나 승천한다!"
+
+#: deathforth/events/trade/gnomey.df:20
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "I'M INTERFAAAAACED!"
+msgstr "나 인터페이스 됐다아아아!"
+
+#: deathforth/events/trade/gnomey.df:21
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "This... this is goodbye!"
+msgstr "이게... 이게 작별이야!"
+
+#: deathforth/events/trade/gnomey.df:22
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "I'm outta heeeeere!"
+msgstr "난 간다아아아!"
+
+#: deathforth/events/trade/gnomey.df:23
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Believe in the Uncks!"
+msgstr "언크스를 믿어라!"
+
+#: deathforth/events/trade/gnomey.df:24
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "May the Zombo Points protect you!"
+msgstr "좀보 포인트가 너희를 지켜 주길!"
+
+#: deathforth/events/trade/gnomey.df:25
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Uh, something's pulling me upwards."
+msgstr "어, 뭔가 날 위로 끌어당기는데."
+
+#: deathforth/events/trade/gnomey.df:26
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "The real power was FRIENDSHIP!"
+msgstr "진정한 힘은 우정이었어!"
+
+#: deathforth/events/trade/gnomey.df:27
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "I'll always be with you, inside your heart!"
+msgstr "난 언제나 너희 마음속에 함께할 거야!"
+
+#: deathforth/events/trade/gnomey.df:28
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Thank you, please shop at TNOME-CO again!"
+msgstr "감사합니다, TNOME-CO를 또 이용해 주세요!"
+
+#: deathforth/events/trade/gnomey.df:29
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Thanks for the ZP!"
+msgstr "ZP 고마워!"
+
+#: deathforth/events/trade/gnomey.df:52
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Rodent of Unusual Size"
+msgstr "비정상적 크기의 설치류"
+
+#: deathforth/events/trade/gnomey.df:53
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid ""
+"WELCOME TO A NEW WORLD\r\n"
+"\tA WORLD OF RODENT"
+msgstr ""
+"새로운 세상에 온 걸 환영한다\r\n"
+"\t설치류의 세상에"
+
+#: deathforth/events/trade/gnomey.df:55
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "These words from Tnomey echo in your mind."
+msgstr "트노미의 이 말이 머릿속에 메아리친다."
+
+#: deathforth/events/trade/gnomey.df:62
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid ""
+"The group is too full for a rodent this big.\r\n"
+"\t\tWho would you like to replace to make rodent room?"
+msgstr ""
+"이렇게 큰 설치류를 태우기엔 일행이 너무 꽉 찼다.\r\n"
+"\t\t설치류 자리를 만들려면 누구를 뺄까?"
+
+#: deathforth/events/trade/gnomey.df:124
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "4 food - 10 "
+msgstr "식량 4 - 10 "
+
+#: deathforth/events/trade/gnomey.df:124 deathforth/events/trade/gnomey.df:125
+#: deathforth/events/trade/gnomey.df:126 deathforth/events/trade/gnomey.df:127
+#: deathforth/events/trade/gnomey.df:128 deathforth/events/trade/gnomey.df:129
+#: deathforth/events/trade/gnomey.df:130 deathforth/events/trade/gnomey.df:135
+#: deathforth/events/trade/gnomey.df:136 deathforth/events/trade/gnomey.df:137
+#: deathforth/events/trade/gnomey.df:138 deathforth/events/trade/gnomey.df:139
+#: deathforth/events/trade/gnomey.df:140 deathforth/events/trade/gnomey.df:141
+#: deathforth/events/trade/gnomey.df:142 deathforth/events/trade/gnomey.df:143
+#: deathforth/events/trade/gnomey.df:144 deathforth/events/trade/gnomey.df:145
+#: deathforth/events/trade/gnomey.df:150 deathforth/events/trade/gnomey.df:151
+#: deathforth/events/trade/gnomey.df:152 deathforth/events/trade/gnomey.df:153
+#: deathforth/events/trade/gnomey.df:154 deathforth/events/trade/gnomey.df:155
+#: deathforth/events/trade/gnomey.df:156 deathforth/events/trade/gnomey.df:157
+#: deathforth/events/trade/gnomey.df:158 deathforth/events/trade/gnomey.df:179
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "ZP"
+msgstr "ZP"
+
+#: deathforth/events/trade/gnomey.df:125
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "3 medical - 10 "
+msgstr "의료품 3 - 10 "
+
+#: deathforth/events/trade/gnomey.df:126
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "30 gas - 10 "
+msgstr "기름 30 - 10 "
+
+#: deathforth/events/trade/gnomey.df:127
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "24 bullets - 10 "
+msgstr "총알 24 - 10 "
+
+#: deathforth/events/trade/gnomey.df:128
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "15 shotgun ammo - 10 "
+msgstr "샷건 탄약 15 - 10 "
+
+#: deathforth/events/trade/gnomey.df:129
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "18 rifle ammo - 10 "
+msgstr "소총 탄약 18 - 10 "
+
+#: deathforth/events/trade/gnomey.df:130
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Random Common Recruit! - 10 "
+msgstr "무작위 일반 동료! - 10 "
+
+#: deathforth/events/trade/gnomey.df:135
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "6 food - 20 "
+msgstr "식량 6 - 20 "
+
+#: deathforth/events/trade/gnomey.df:136
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "4 medical - 15 "
+msgstr "의료품 4 - 15 "
+
+#: deathforth/events/trade/gnomey.df:137
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "45 gas - 20 "
+msgstr "기름 45 - 20 "
+
+#: deathforth/events/trade/gnomey.df:138
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "36 bullets - 20 "
+msgstr "총알 36 - 20 "
+
+#: deathforth/events/trade/gnomey.df:139
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "22 shotgun ammo - 20 "
+msgstr "샷건 탄약 22 - 20 "
+
+#: deathforth/events/trade/gnomey.df:140
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "27 rifle ammo - 20 "
+msgstr "소총 탄약 27 - 20 "
+
+#: deathforth/events/trade/gnomey.df:141
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Battle Rodent - 20 "
+msgstr "전투 설치류 - 20 "
+
+#: deathforth/events/trade/gnomey.df:142
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Cowboy Rifle - 20 "
+msgstr "카우보이 소총 - 20 "
+
+#: deathforth/events/trade/gnomey.df:143
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Dolt Revolver - 20 "
+msgstr "멍청이 리볼버 - 20 "
+
+#: deathforth/events/trade/gnomey.df:144
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Shotgun - 20 "
+msgstr "샷건 - 20 "
+
+#: deathforth/events/trade/gnomey.df:145
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Grenade - 20 "
+msgstr "수류탄 - 20 "
+
+#: deathforth/events/trade/gnomey.df:150
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "8 food - 30 "
+msgstr "식량 8 - 30 "
+
+#: deathforth/events/trade/gnomey.df:151
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "6 medical - 30 "
+msgstr "의료품 6 - 30 "
+
+#: deathforth/events/trade/gnomey.df:152
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "60 gas - 30 "
+msgstr "기름 60 - 30 "
+
+#: deathforth/events/trade/gnomey.df:153
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "48 bullets - 30 "
+msgstr "총알 48 - 30 "
+
+#: deathforth/events/trade/gnomey.df:154
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "30 shotgun ammo - 30 "
+msgstr "샷건 탄약 30 - 30 "
+
+#: deathforth/events/trade/gnomey.df:155
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "36 rifle ammo - 30 "
+msgstr "소총 탄약 36 - 30 "
+
+#: deathforth/events/trade/gnomey.df:156
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Random Rare Recruit! - 30 "
+msgstr "무작위 희귀 동료! - 30 "
+
+#: deathforth/events/trade/gnomey.df:157
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Sledgehammer - 30 "
+msgstr "슬레지해머 - 30 "
+
+#: deathforth/events/trade/gnomey.df:158
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Fire Axe - 30 "
+msgstr "소방 도끼 - 30 "
+
+#: deathforth/events/trade/gnomey.df:170
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "TNOMEY THE TRADER GNOME"
+msgstr "상인 노움 트노미"
+
+#: deathforth/events/trade/gnomey.df:174
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid ""
+"HI I'M TNOMEY\r\n"
+"\tDON'T YOU KNOW ME?\r\n"
+"\tWAIT THAT JOKE DOESN'T WORK AS WELL"
+msgstr ""
+"안녕 난 트노미\r\n"
+"\t나 몰라?\r\n"
+"\t잠깐 그 개그는 이번엔 잘 안 먹히네"
+
+#: deathforth/events/trade/gnomey.df:179
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid "Save up "
+msgstr "일단 "
+
+#: deathforth/events/trade/gnomey.df:179
+msgctxt "deathforth/events/trade/gnomey.df"
+msgid " for now!"
+msgstr "를 모아 둔다!"
+
+#: deathforth/events/trade/oldtrade.df:26
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " gets FREE training with firearms! "
+msgstr "은(는) 총기 훈련을 공짜로 받는다! "
+
+#: deathforth/events/trade/oldtrade.df:26
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " already feels like a steadier shot."
+msgstr "는 벌써 조준이 안정된 느낌이다."
+
+#: deathforth/events/trade/oldtrade.df:28
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "It didn't actually help "
+msgstr "사실 "
+
+#: deathforth/events/trade/oldtrade.df:28
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " shooting, but it was FREE!"
+msgstr " 사격 실력엔 도움이 안 됐지만, 공짜였다!"
+
+#: deathforth/events/trade/oldtrade.df:32
+#: deathforth/events/trade/oldtrade.df:132
+#: deathforth/events/trade/oldtrade.df:213
+#: deathforth/events/trade/oldtrade.df:367
+#: deathforth/events/trade/oldtrade.df:1508
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" accidentally just comes off as creepy. \r\n"
+"\t\t"
+msgstr ""
+"은(는) 의도치 않게 그냥 소름 끼치는 사람이 되어 버린다. \r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:33
+#: deathforth/events/trade/oldtrade.df:133
+#: deathforth/events/trade/oldtrade.df:214
+#: deathforth/events/trade/oldtrade.df:292
+#: deathforth/events/trade/oldtrade.df:368
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " is asked to leave."
+msgstr "에게 떠나 달라는 요청이 온다."
+
+#: deathforth/events/trade/oldtrade.df:39
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " learns some new tricks with firearms! Zombies beware."
+msgstr "은(는) 총기 요령을 새로 배운다! 좀비들아 조심해라."
+
+#: deathforth/events/trade/oldtrade.df:41
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " didn't really learn anything new. "
+msgstr "은(는) 딱히 새로 배운 게 없다. "
+
+#: deathforth/events/trade/oldtrade.df:41
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " had already picked up these tricks on "
+msgstr "는 이미 이 요령들을 "
+
+#: deathforth/events/trade/oldtrade.df:41
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " own."
+msgstr " 힘으로 익혔었다."
+
+#: deathforth/events/trade/oldtrade.df:48
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "The entire group gets firearms training!"
+msgstr "일행 전체가 총기 훈련을 받는다!"
+
+#: deathforth/events/trade/oldtrade.df:57
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Who should get the training in firearms handling?"
+msgstr "총기 다루는 훈련은 누가 받을까?"
+
+#: deathforth/events/trade/oldtrade.df:63
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " farts really loudly at the firearms coach, and then rolls around."
+msgstr "은(는) 사격 코치를 향해 엄청 크게 방귀를 뀌고 데굴데굴 구른다."
+
+#: deathforth/events/trade/oldtrade.df:65
+#: deathforth/events/trade/oldtrade.df:165
+#: deathforth/events/trade/oldtrade.df:246
+#: deathforth/events/trade/oldtrade.df:324
+#: deathforth/events/trade/oldtrade.df:392
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " quips "
+msgstr "은(는) 재치 있게 한마디 한다: "
+
+#: deathforth/events/trade/oldtrade.df:65
+#: deathforth/events/trade/oldtrade.df:165
+#: deathforth/events/trade/oldtrade.df:246
+#: deathforth/events/trade/oldtrade.df:324
+#: deathforth/events/trade/oldtrade.df:392
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "SAY IT DON'T SPRAY IT"
+msgstr "말로 해, 침 튀기지 말고"
+
+#: deathforth/events/trade/oldtrade.df:65
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " to the firearms coach."
+msgstr " - 사격 코치에게."
+
+#: deathforth/events/trade/oldtrade.df:68
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"A miracle happens: she decides to not shoot!\r\n"
+"\t\t"
+msgstr ""
+"기적이 일어난다: 그녀는 쏘지 않기로 한다!\r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:69
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "You seem like you need all the help you can get..."
+msgstr "넌 받을 수 있는 도움은 다 받아야 할 것 같네..."
+
+#: deathforth/events/trade/oldtrade.df:69
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tShe teaches her secret gun tricks to "
+msgstr ""
+"\r\n"
+"\t\t그녀는 비밀 사격 요령을 전수해 준다. 대상은 "
+
+#: deathforth/events/trade/oldtrade.df:71
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " -> SHOOTING SKILL MAXED OUT!"
+msgstr " -> 사격 최대치!"
+
+#: deathforth/events/trade/oldtrade.df:73
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Her reaction is brief disgust."
+msgstr "그녀는 잠깐 혐오스러운 표정을 짓는다."
+
+#: deathforth/events/trade/oldtrade.df:73
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tOh. Yeah, ok. You're one of those types, huh?"
+msgstr ""
+"\r\n"
+"\t\t아. 그래, 알겠어. 너 그런 부류구나?"
+
+#: deathforth/events/trade/oldtrade.df:74
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tShe slings her rifle back onto her shoulder and walks away."
+msgstr ""
+"\r\n"
+"\t\t그녀는 소총을 다시 어깨에 메고 걸어가 버린다."
+
+#: deathforth/events/trade/oldtrade.df:80
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Firearms Coach"
+msgstr "사격 코치"
+
+#: deathforth/events/trade/oldtrade.df:81
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" finds a rifle wielding woman. She claims she used to train others in competitive shooting. \r\n"
+"\tShe has a lot of tricks for keeping your aim steady while moving, and even some multiple target trick shots. "
+msgstr ""
+"은(는) 소총을 든 여자를 발견한다. 예전에 사격 대회 선수들을 가르쳤다고 한다. \r\n"
+"\t움직이면서도 조준을 안정시키는 요령과, 여러 표적을 맞히는 묘기 사격까지 잔뜩 알고 있다. "
+
+#: deathforth/events/trade/oldtrade.df:82
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Zombies are slow moving targets. It's real easy!"
+msgstr "좀비는 느리게 움직이는 표적이야. 진짜 쉬워!"
+
+#: deathforth/events/trade/oldtrade.df:84
+#: deathforth/events/trade/oldtrade.df:184
+#: deathforth/events/trade/oldtrade.df:265
+#: deathforth/events/trade/oldtrade.df:341
+#: deathforth/events/trade/oldtrade.df:416
+#: deathforth/events/trade/oldtrade.df:974
+#: deathforth/events/trade/oldtrade.df:1190
+#: deathforth/events/trade/oldtrade.df:1251
+#: deathforth/events/trade/oldtrade.df:1311
+#: deathforth/events/trade/oldtrade.df:1371
+#: deathforth/events/trade/oldtrade.df:1431
+#: deathforth/events/trade/oldtrade.df:1579
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Sadly, there isn't enough food left for trading."
+msgstr "안타깝게도 거래할 식량이 남아 있지 않다."
+
+#: deathforth/events/trade/oldtrade.df:86
+#: deathforth/events/trade/oldtrade.df:186
+#: deathforth/events/trade/oldtrade.df:267
+#: deathforth/events/trade/oldtrade.df:343
+#: deathforth/events/trade/oldtrade.df:418
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Give 6 food for training"
+msgstr "식량 6을 주고 훈련받는다"
+
+#: deathforth/events/trade/oldtrade.df:88
+#: deathforth/events/trade/oldtrade.df:188
+#: deathforth/events/trade/oldtrade.df:269
+#: deathforth/events/trade/oldtrade.df:345
+#: deathforth/events/trade/oldtrade.df:420
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Give "
+msgstr "식량 "
+
+#: deathforth/events/trade/oldtrade.df:88
+#: deathforth/events/trade/oldtrade.df:188
+#: deathforth/events/trade/oldtrade.df:269
+#: deathforth/events/trade/oldtrade.df:345
+#: deathforth/events/trade/oldtrade.df:420
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " food for group training"
+msgstr "을 주고 일행 전체 훈련"
+
+#: deathforth/events/trade/oldtrade.df:92
+#: deathforth/events/trade/oldtrade.df:192
+#: deathforth/events/trade/oldtrade.df:273
+#: deathforth/events/trade/oldtrade.df:349
+#: deathforth/events/trade/oldtrade.df:424
+#: deathforth/events/trade/oldtrade.df:1526
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " uses charm"
+msgstr "이(가) 매력을 발휘한다"
+
+#: deathforth/events/trade/oldtrade.df:95
+#: deathforth/events/trade/oldtrade.df:198
+#: deathforth/events/trade/oldtrade.df:276
+#: deathforth/events/trade/oldtrade.df:352
+#: deathforth/events/trade/oldtrade.df:427
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ": SAY IT DON'T SPRAY IT"
+msgstr ": 말로 해, 침 튀기지 말고"
+
+#: deathforth/events/trade/oldtrade.df:97
+#: deathforth/events/trade/oldtrade.df:200
+#: deathforth/events/trade/oldtrade.df:278
+#: deathforth/events/trade/oldtrade.df:354
+#: deathforth/events/trade/oldtrade.df:429
+#: deathforth/events/trade/oldtrade.df:480
+#: deathforth/events/trade/oldtrade.df:555
+#: deathforth/events/trade/oldtrade.df:636
+#: deathforth/events/trade/oldtrade.df:723
+#: deathforth/events/trade/oldtrade.df:807
+#: deathforth/events/trade/oldtrade.df:881
+#: deathforth/events/trade/oldtrade.df:931
+#: deathforth/events/trade/oldtrade.df:969
+#: deathforth/events/trade/oldtrade.df:1037
+#: deathforth/events/trade/oldtrade.df:1120
+#: deathforth/events/trade/oldtrade.df:1184
+#: deathforth/events/trade/oldtrade.df:1246
+#: deathforth/events/trade/oldtrade.df:1306
+#: deathforth/events/trade/oldtrade.df:1366
+#: deathforth/events/trade/oldtrade.df:1426
+#: deathforth/events/trade/oldtrade.df:1531
+#: deathforth/events/trade/oldtrade.df:1574
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Drive off"
+msgstr "그냥 떠난다"
+
+#: deathforth/events/trade/oldtrade.df:105
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" flexes once, using only half effort. But the contest is already decided.\r\n"
+"\t\t"
+msgstr ""
+"은(는) 힘을 반만 써서 딱 한 번 근육을 뽐낸다. 하지만 승부는 이미 났다.\r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:106
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "IMPOSSIBLE! THIS IS IMPOSSIBLE!"
+msgstr "말도 안 돼! 이건 말도 안 된다고!"
+
+#: deathforth/events/trade/oldtrade.df:106
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" shrieks the Strength Trainer, in a strangely high-pitched voice.\r\n"
+"\t\t"
+msgstr ""
+" 근력 트레이너가 이상하게 높은 목소리로 비명을 지른다.\r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:107
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "ARE YOU 'THE SWOLE THAT WAS PROMISED'?"
+msgstr "네가 '예언된 근육'이냐?"
+
+#: deathforth/events/trade/oldtrade.df:107
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" and then he turns into stone and, moments later, shatters into a million "
+"fragments."
+msgstr " 그러더니 그는 돌로 변하고, 잠시 후 백만 조각으로 산산이 부서진다."
+
+#: deathforth/events/trade/oldtrade.df:111
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " wins the pose-off!"
+msgstr "이(가) 포즈 대결에서 이긴다!"
+
+#: deathforth/events/trade/oldtrade.df:113
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "It was pretty hard to win a flexing competition as an animal!"
+msgstr "동물 몸으로 근육 자랑 대회에서 이기기는 꽤 힘들었다!"
+
+#: deathforth/events/trade/oldtrade.df:117
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" loses the pose-off. \r\n"
+"\t\t"
+msgstr ""
+"은(는) 포즈 대결에서 진다. \r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:118
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " feels "
+msgstr "는 느낀다: "
+
+#: deathforth/events/trade/oldtrade.df:118
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "GREAT SHAME."
+msgstr "크나큰 수치."
+
+#: deathforth/events/trade/oldtrade.df:125
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " gets FREE strength training! "
+msgstr "은(는) 근력 훈련을 공짜로 받는다! "
+
+#: deathforth/events/trade/oldtrade.df:125
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" already clearly feels a 'pump', as the bodybuilders used to say before they"
+" were all wiped out."
+msgstr "는 벌써 확실히 '펌핑'을 느낀다. 보디빌더들이 전멸하기 전에 쓰던 말이다."
+
+#: deathforth/events/trade/oldtrade.df:127
+#: deathforth/events/trade/oldtrade.df:209
+#: deathforth/events/trade/oldtrade.df:287
+#: deathforth/events/trade/oldtrade.df:363
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "It didn't actually improve "
+msgstr "사실 "
+
+#: deathforth/events/trade/oldtrade.df:127
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " strength, but it was FREE!"
+msgstr " 근력이 오르진 않았지만, 공짜였다!"
+
+#: deathforth/events/trade/oldtrade.df:139
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " gets all pumped up from the strength training regiment!"
+msgstr "은(는) 근력 훈련 루틴으로 완전히 펌핑된다!"
+
+#: deathforth/events/trade/oldtrade.df:141
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " was not impressed with that dinky little workout. "
+msgstr "은(는) 그 시시한 운동에 감흥이 없다. "
+
+#: deathforth/events/trade/oldtrade.df:141
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " needs to find a better routine!"
+msgstr "는 더 나은 루틴을 찾아야 한다!"
+
+#: deathforth/events/trade/oldtrade.df:148
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "The entire group gets strength training!"
+msgstr "일행 전체가 근력 훈련을 받는다!"
+
+#: deathforth/events/trade/oldtrade.df:157
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Who should get this INTENSE strength workout?"
+msgstr "이 강렬한 근력 운동은 누가 받을까?"
+
+#: deathforth/events/trade/oldtrade.df:163
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " farts really loudly at the strength trainer."
+msgstr "은(는) 근력 트레이너를 향해 엄청 크게 방귀를 뀐다."
+
+#: deathforth/events/trade/oldtrade.df:165
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " to the strength trainer."
+msgstr " - 근력 트레이너에게."
+
+#: deathforth/events/trade/oldtrade.df:168
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"YEAH! THAT'S THE ATTITUDE YOU NEED TO MAKE IT AS A TOP BODYBUILDER! WE WILL "
+"REBUILD THE SPORT! YEAH!"
+msgstr "그래! 최고의 보디빌더가 되려면 그런 태도가 필요하지! 우리가 이 스포츠를 재건할 거다! 예!"
+
+#: deathforth/events/trade/oldtrade.df:168
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tHe takes "
+msgstr ""
+"\r\n"
+"\t\t그는 "
+
+#: deathforth/events/trade/oldtrade.df:169
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" on as his top student, to get HUGE at a mind destroying pace!\r\n"
+"\t\t"
+msgstr ""
+"을(를) 수제자로 받아들여, 정신이 나갈 속도로 엄청나게 키운다!\r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:170
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " -> STRENGTH SKILL MAXED OUT!"
+msgstr " -> 근력 최대치!"
+
+#: deathforth/events/trade/oldtrade.df:172
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "He doesn't take this well."
+msgstr "그는 이걸 좋게 받아들이지 않는다."
+
+#: deathforth/events/trade/oldtrade.df:172
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tGET OUT OF HERE YOU DWEEBUS! YOU DON'T DESERVE TO GET HUGE!"
+msgstr ""
+"\r\n"
+"\t\t꺼져 이 찐따야! 넌 커질 자격이 없어!"
+
+#: deathforth/events/trade/oldtrade.df:173
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tHe continues yelling as "
+msgstr ""
+"\r\n"
+"\t\t그는 계속 소리친다. 그사이 "
+
+#: deathforth/events/trade/oldtrade.df:174
+#: deathforth/events/trade/oldtrade.df:1010
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " leaves."
+msgstr "은(는) 떠난다."
+
+#: deathforth/events/trade/oldtrade.df:179
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Strength Trainer"
+msgstr "근력 트레이너"
+
+#: deathforth/events/trade/oldtrade.df:180
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" meets an old but very fit man in matching gray sweatpants and sweatshirt.\r\n"
+"\tHe screams something about "
+msgstr ""
+"은(는) 회색 트레이닝복 상하의를 맞춰 입은, 나이 들었지만 아주 탄탄한 남자를 만난다.\r\n"
+"\t그는 뭐라고 소리친다: "
+
+#: deathforth/events/trade/oldtrade.df:181
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "BUILDING MASS AND BULK "
+msgstr "근육과 덩치 키우기 "
+
+#: deathforth/events/trade/oldtrade.df:181
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " with an "
+msgstr " - "
+
+#: deathforth/events/trade/oldtrade.df:181
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "INTENSE STRENGTH ROUTINE!"
+msgstr "강렬한 근력 루틴으로!"
+
+#: deathforth/events/trade/oldtrade.df:181
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\tHe flails towards some heavy objects lying around."
+msgstr ""
+"\r\n"
+"\t그는 주변에 놓인 무거운 물건들 쪽으로 허우적거리며 간다."
+
+#: deathforth/events/trade/oldtrade.df:195
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " declares a pose off!"
+msgstr "이(가) 포즈 대결을 선언한다!"
+
+#: deathforth/events/trade/oldtrade.df:207
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " gets FREE fitness training! "
+msgstr "은(는) 체력 훈련을 공짜로 받는다! "
+
+#: deathforth/events/trade/oldtrade.df:207
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " sweats from the intense exercise!"
+msgstr "는 강도 높은 운동으로 땀을 흘린다!"
+
+#: deathforth/events/trade/oldtrade.df:209
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " fitness, but it was FREE!"
+msgstr " 체력이 오르진 않았지만, 공짜였다!"
+
+#: deathforth/events/trade/oldtrade.df:220
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " works up a huge sweat from the fitness routine!"
+msgstr "은(는) 체력 루틴으로 땀을 엄청 흘린다!"
+
+#: deathforth/events/trade/oldtrade.df:222
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" didn't even break a sweat! The Fitness Instructor is confused, even she got"
+" a little tired."
+msgstr "은(는) 땀 한 방울 흘리지 않는다! 피트니스 강사는 당황한다. 자기도 좀 지쳤는데."
+
+#: deathforth/events/trade/oldtrade.df:229
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "The entire group gets fitness training!"
+msgstr "일행 전체가 체력 훈련을 받는다!"
+
+#: deathforth/events/trade/oldtrade.df:238
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Who wants strenuous exercise for the sake of fitness?"
+msgstr "체력을 위해 힘든 운동을 할 사람?"
+
+#: deathforth/events/trade/oldtrade.df:244
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " farts in a high pitch at the fitness instructor."
+msgstr "은(는) 피트니스 강사를 향해 높은 음으로 방귀를 뀐다."
+
+#: deathforth/events/trade/oldtrade.df:246
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " to the fitness instructor."
+msgstr " - 피트니스 강사에게."
+
+#: deathforth/events/trade/oldtrade.df:249
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"That's what I like to hear! You're ready for the MIRACLE FITNESS ROUTINE!"
+msgstr "바로 그거야! 넌 기적의 피트니스 루틴을 받을 준비가 됐어!"
+
+#: deathforth/events/trade/oldtrade.df:249
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tIt's likely that she just heard "
+msgstr ""
+"\r\n"
+"\t\t아마 그녀가 "
+
+#: deathforth/events/trade/oldtrade.df:250
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" wrong. An incredible, cutting edge series of calisthenics follows.\r\n"
+"\t\t"
+msgstr ""
+"의 말을 잘못 들은 것 같다. 놀랍고 최첨단인 맨몸 운동이 이어진다.\r\n"
+"\t\t"
+
+#: deathforth/events/trade/oldtrade.df:251
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " -> FITNESS SKILL MAXED OUT!"
+msgstr " -> 체력 최대치!"
+
+#: deathforth/events/trade/oldtrade.df:253
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Her reaction is mostly disappointment."
+msgstr "그녀는 대체로 실망한 반응이다."
+
+#: deathforth/events/trade/oldtrade.df:253
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tYeah, well, have fun getting eaten by zombies."
+msgstr ""
+"\r\n"
+"\t\t그래, 뭐, 좀비한테 잘 먹혀 봐."
+
+#: deathforth/events/trade/oldtrade.df:254
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\t\tShe jogs backwards until she's out of sight. Then she's gone."
+msgstr ""
+"\r\n"
+"\t\t그녀는 시야에서 사라질 때까지 뒤로 조깅해 간다. 그리고 사라진다."
+
+#: deathforth/events/trade/oldtrade.df:260
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid "Fitness Instructor"
+msgstr "피트니스 강사"
+
+#: deathforth/events/trade/oldtrade.df:261
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+" finds a woman decked out in sweat bands, limb warmers, and exercise clothes. All bright neon.\r\n"
+"\t"
+msgstr ""
+"은(는) 땀 밴드, 팔다리 워머, 운동복으로 쫙 빼입은 여자를 발견한다. 전부 형광색이다.\r\n"
+"\t"
+
+#: deathforth/events/trade/oldtrade.df:262
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"Only the fittest will survive in this zombie filled world! I can help you "
+"get fit, fast!"
+msgstr "좀비 가득한 이 세상에선 제일 건강한 사람만 살아남아! 내가 빨리 몸 만들게 도와줄게!"
+
+#: deathforth/events/trade/oldtrade.df:262
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid ""
+"\r\n"
+"\tShe's been continuously running in place this whole time."
+msgstr ""
+"\r\n"
+"\t그녀는 이 내내 제자리 뛰기를 하고 있다."
+
+#: deathforth/events/trade/oldtrade.df:285
+msgctxt "deathforth/events/trade/oldtrade.df"
+msgid " gets FREE medical training!"
+msgstr "은(는) 의료 훈련을 공짜로 받는다!"

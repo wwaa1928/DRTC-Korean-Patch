@@ -1,0 +1,2620 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/events/trade/weapons.df:1048
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " a free silenced pistol."
+msgstr "에게 소음 권총을 공짜로 준다."
+
+#: deathforth/events/trade/weapons.df:1052
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Silenced Pistol for 3 food"
+msgstr "소음 권총 - 식량 3"
+
+#: deathforth/events/trade/weapons.df:1055
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Sniper Rifle for 25 food"
+msgstr "저격 소총 - 식량 25"
+
+#: deathforth/events/trade/weapons.df:1058
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Quiet Shotgun for 30 food"
+msgstr "저소음 산탄총 - 식량 30"
+
+#: deathforth/events/trade/weapons.df:1070
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" buys a TactiCop Lite(TM)!\r\n"
+"\t"
+msgstr ""
+"은(는) 택티캅 라이트(TM)를 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1071
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "The king of flashlights! Also good for thunking zombie skulls!"
+msgstr "손전등의 왕! 좀비 머리통을 후려치기에도 좋지!"
+
+#: deathforth/events/trade/weapons.df:1076
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" buys a can of Healing Spray!\r\n"
+"\t"
+msgstr ""
+"은(는) 회복 스프레이 한 통을 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1077
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"Spray someone to heal them. You can spray yourself by walking into the "
+"healing cloud! In emergencies, you can also melt zombies with it."
+msgstr "사람에게 뿌리면 치료돼. 분무 구름 속으로 걸어가면 자신도 치료할 수 있지! 급할 땐 좀비를 녹이는 데 써도 돼."
+
+#: deathforth/events/trade/weapons.df:1082
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys a flashlight."
+msgstr "은(는) 손전등을 산다."
+
+#: deathforth/events/trade/weapons.df:1084
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"I have a zillion of these, if you happen to need hundreds of flashlights."
+msgstr "이거 엄청 많아. 손전등 수백 개가 필요하다면 말이지."
+
+#: deathforth/events/trade/weapons.df:1093
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Handy Survival Tools"
+msgstr "편리한 생존 도구"
+
+#: deathforth/events/trade/weapons.df:1094
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"This trader is waving a sturdy military flashlight around. It's an old business trick to draw in customers.\r\n"
+"\t"
+msgstr ""
+"상인이 튼튼한 군용 손전등을 흔들고 있다. 손님을 끌어모으는 오래된 장사 수법이다.\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1095
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "It pays to be prepared!"
+msgstr "준비해 두면 이득이지!"
+
+#: deathforth/events/trade/weapons.df:1103
+#: deathforth/events/trade/weapons.df:1154
+#: deathforth/events/trade/weapons.df:1224
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "You're out of food! The trader gives "
+msgstr "식량이 다 떨어졌다! 상인은 "
+
+#: deathforth/events/trade/weapons.df:1103
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " a free flashlight."
+msgstr "에게 손전등을 공짜로 준다."
+
+#: deathforth/events/trade/weapons.df:1107
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Healing Spray for 6 food"
+msgstr "회복 스프레이 - 식량 6"
+
+#: deathforth/events/trade/weapons.df:1110
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "TactiCop Lite for 5 food"
+msgstr "택티캅 라이트 - 식량 5"
+
+#: deathforth/events/trade/weapons.df:1113
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Flashlight for 1 food"
+msgstr "손전등 - 식량 1"
+
+#: deathforth/events/trade/weapons.df:1126
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys 8 land mines."
+msgstr "은(는) 지뢰 8개를 산다."
+
+#: deathforth/events/trade/weapons.df:1127
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"Set a trap for the zombies with these, then let the explosions do all the "
+"work!"
+msgstr "이걸로 좀비에게 함정을 놓고, 나머지는 폭발에 맡겨!"
+
+#: deathforth/events/trade/weapons.df:1132
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" buys a grenade launcher with 6 shots!\r\n"
+"\t"
+msgstr ""
+"은(는) 유탄 6발이 든 유탄 발사기를 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1133
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"You can safely fire this right into a crowd of zombies! The grenades explode"
+" after one second."
+msgstr "좀비 무리 한가운데에 쏴도 안전해! 유탄은 1초 뒤에 폭발하거든."
+
+#: deathforth/events/trade/weapons.df:1138
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" buys a bazooka and three rockets!\r\n"
+"\t"
+msgstr ""
+"은(는) 바주카와 로켓 3발을 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1139
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "This is THE tool for blowing up a crowd of zombies, fast."
+msgstr "좀비 무리를 순식간에 날려 버리는 데 이만한 도구가 없지."
+
+#: deathforth/events/trade/weapons.df:1144
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys 2 land mines."
+msgstr "은(는) 지뢰 2개를 산다."
+
+#: deathforth/events/trade/weapons.df:1145
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Drop one on the ground, then run and wait for the explosion!"
+msgstr "땅에 하나 놓고 달아나서 폭발을 기다려!"
+
+#: deathforth/events/trade/weapons.df:1150
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Heavy Ordinance"
+msgstr "중화기"
+
+#: deathforth/events/trade/weapons.df:1151
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" meets a man holding a bazooka and a satchel overstuffed with beeping mines. He looks so happy with his explosives.\r\n"
+"\t"
+msgstr ""
+"은(는) 바주카를 들고 삑삑거리는 지뢰로 가방을 꽉 채운 남자를 만난다. 폭발물 때문에 정말 행복해 보인다.\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1152
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"These weapons will not let you down! Unless, of course, you blow yourself up"
+" with them."
+msgstr "이 무기들은 널 실망시키지 않을 거야! 물론, 네가 스스로를 날려 버리면 얘기가 다르지만."
+
+#: deathforth/events/trade/weapons.df:1154
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " a complimentary land mine."
+msgstr "에게 지뢰 하나를 공짜로 준다."
+
+#: deathforth/events/trade/weapons.df:1158
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "8 Land Mines for 20 food"
+msgstr "지뢰 8개 - 식량 20"
+
+#: deathforth/events/trade/weapons.df:1161
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Bazooka - 3 shots - 12 food"
+msgstr "바주카 - 3발 - 식량 12"
+
+#: deathforth/events/trade/weapons.df:1164
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Grenade Launcher - 6 shots - 12 food"
+msgstr "유탄 발사기 - 6발 - 식량 12"
+
+#: deathforth/events/trade/weapons.df:1167
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "2 Land Mines for 6 food"
+msgstr "지뢰 2개 - 식량 6"
+
+#: deathforth/events/trade/weapons.df:1180
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys a fire whip! Embers bounce gently off its glowing tail end."
+msgstr "은(는) 불 채찍을 산다! 빛나는 끝에서 불씨가 살랑살랑 튄다."
+
+#: deathforth/events/trade/weapons.df:1181
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"I stole this from some guy who was running a circus.\r\n"
+"\t\tJust don't hit yourself with it! Best used on groups of enemies.\r\n"
+"\t\tIt's quite lightweight, so maybe give it to your athletically challenged characters."
+msgstr ""
+"서커스 운영하던 어떤 놈한테서 훔쳤어.\r\n"
+"\t\t자기 몸만 때리지 마! 적이 몰려 있을 때 제격이지.\r\n"
+"\t\t꽤 가벼우니까 운동 능력이 좀 부족한 친구한테 줘도 좋아."
+
+#: deathforth/events/trade/weapons.df:1188
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys a KO Boomer! Formerly illegal in nearly all countries!"
+msgstr "은(는) KO 부머를 산다! 한때 거의 모든 나라에서 불법이었다!"
+
+#: deathforth/events/trade/weapons.df:1189
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"I hear this is still really illegal in Canada!\r\n"
+"\t\t25% chance to blow yourself up! Try your luck!\r\n"
+"\t\tIf it's feeling hot in your hand, try dropping it and running away REAL fast!"
+msgstr ""
+"캐나다에선 아직도 엄청 불법이라더라!\r\n"
+"\t\t25% 확률로 너까지 터져! 운을 시험해 봐!\r\n"
+"\t\t손에서 뜨거워지면 내려놓고 진짜 빨리 달아나!"
+
+#: deathforth/events/trade/weapons.df:1196
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" buys a Roman Candle!\r\n"
+"\t"
+msgstr ""
+"은(는) 로만 캔들을 산다!\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1197
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "It's so pretty! Zombies love it!"
+msgstr "정말 예뻐! 좀비도 좋아해!"
+
+#: deathforth/events/trade/weapons.df:1202
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys a two-pack of Mount Dingus"
+msgstr "은(는) 마운트 딩거스 2개 묶음을 산다"
+
+#: deathforth/events/trade/weapons.df:1202
+#: deathforth/events/trade/weapons.df:1237
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "[TM]"
+msgstr "[TM]"
+
+#: deathforth/events/trade/weapons.df:1202
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"!\r\n"
+"\tTHE most disappointing firework on the market.\r\n"
+"\t"
+msgstr ""
+"!\r\n"
+"\t시중에서 가장 실망스러운 불꽃놀이 용품이다.\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1204
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"It doesn't even explode! It just sprays little sparks!\r\n"
+"\tI hate it!"
+msgstr ""
+"터지지도 않아! 작은 불꽃만 뿜지!\r\n"
+"\t난 이거 싫어!"
+
+#: deathforth/events/trade/weapons.df:1210
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " buys 3 bundles of firecrackers."
+msgstr "은(는) 폭죽 3묶음을 산다."
+
+#: deathforth/events/trade/weapons.df:1211
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Light a bundle, then watch the zombies chase it around!"
+msgstr "한 묶음에 불을 붙이고 좀비들이 쫓아다니는 걸 구경해!"
+
+#: deathforth/events/trade/weapons.df:1216
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Fireworks Enthusiast"
+msgstr "불꽃놀이 애호가"
+
+#: deathforth/events/trade/weapons.df:1217
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+" meets a woman holding a roman candle. It's unlit. She seems like she's "
+"ready to light it at "
+msgstr "은(는) 아직 불붙이지 않은 로만 캔들을 든 여자를 만난다. 불을 붙일 준비가 된 듯하다. 바로 "
+
+#: deathforth/events/trade/weapons.df:1217
+msgctxt "deathforth/events/trade/weapons.df"
+msgid ""
+"ANY MOMENT.\r\n"
+"\t"
+msgstr ""
+"지금 당장이라도.\r\n"
+"\t"
+
+#: deathforth/events/trade/weapons.df:1219
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "So strong! So pretty! So practical!"
+msgstr "강력하고! 예쁘고! 실용적이야!"
+
+#: deathforth/events/trade/weapons.df:1221
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "I won't be liable if you blow yourself up with the KO Boomer!"
+msgstr "KO 부머로 네가 터져도 난 책임 안 져!"
+
+#: deathforth/events/trade/weapons.df:1224
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " a complimentary bundle of firecrackers."
+msgstr "에게 폭죽 한 묶음을 공짜로 준다."
+
+#: deathforth/events/trade/weapons.df:1228
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Fire Whip - 20 food"
+msgstr "불 채찍 - 식량 20"
+
+#: deathforth/events/trade/weapons.df:1231
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "KO Boomer - 5 food"
+msgstr "KO 부머 - 식량 5"
+
+#: deathforth/events/trade/weapons.df:1234
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "Roman Candle - 3 food"
+msgstr "로만 캔들 - 식량 3"
+
+#: deathforth/events/trade/weapons.df:1237
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "2 Mount Dingus"
+msgstr "마운트 딩거스 2개"
+
+#: deathforth/events/trade/weapons.df:1237
+msgctxt "deathforth/events/trade/weapons.df"
+msgid " - 3 food"
+msgstr " - 식량 3"
+
+#: deathforth/events/trade/weapons.df:1240
+msgctxt "deathforth/events/trade/weapons.df"
+msgid "3 Firecrackers - 2 food"
+msgstr "폭죽 3묶음 - 식량 2"
+
+#: deathforth/events/tutorial.df:8
+msgctxt "deathforth/events/tutorial.df"
+msgid " tells "
+msgstr "은(는) 이렇게 말한다. "
+
+#: deathforth/events/tutorial.df:8
+msgctxt "deathforth/events/tutorial.df"
+msgid " to "
+msgstr "에게 "
+
+#: deathforth/events/tutorial.df:8
+msgctxt "deathforth/events/tutorial.df"
+msgid "COOL IT!"
+msgstr "진정해!"
+
+#: deathforth/events/tutorial.df:9
+msgctxt "deathforth/events/tutorial.df"
+msgid " is infuriated by this! "
+msgstr "은(는) 이 말에 격분한다! "
+
+#: deathforth/events/tutorial.df:9
+msgctxt "deathforth/events/tutorial.df"
+msgid " gets "
+msgstr "는 "
+
+#: deathforth/events/tutorial.df:9
+msgctxt "deathforth/events/tutorial.df"
+msgid "SUPER STEAMING MAD!"
+msgstr "분노가 활활 타오른다!!"
+
+#: deathforth/events/tutorial.df:10
+msgctxt "deathforth/events/tutorial.df"
+msgid "I'm not sure if telling someone to "
+msgstr "누군가에게 "
+
+#: deathforth/events/tutorial.df:10
+msgctxt "deathforth/events/tutorial.df"
+msgid "'COOL IT'"
+msgstr "'진정해'"
+
+#: deathforth/events/tutorial.df:10
+msgctxt "deathforth/events/tutorial.df"
+msgid " has ever worked, in the history of the whole world."
+msgstr "라고 해서 통했던 적이 인류 역사에 있기는 할까."
+
+#: deathforth/events/tutorial.df:17
+msgctxt "deathforth/events/tutorial.df"
+msgid " tries to lay on the charm and get "
+msgstr "은(는) 매력을 발휘해서 설득해 본다. "
+
+#: deathforth/events/tutorial.df:17
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" to help fight the zombies swarming in.\r\n"
+"\t"
+msgstr ""
+"에게 몰려드는 좀비와 함께 싸우자고 부탁한다.\r\n"
+"\t"
+
+#: deathforth/events/tutorial.df:18
+msgctxt "deathforth/events/tutorial.df"
+msgid " sweats visibly."
+msgstr "은(는) 눈에 띄게 땀을 흘린다."
+
+#: deathforth/events/tutorial.df:19
+msgctxt "deathforth/events/tutorial.df"
+msgid "I'm busy! I'm busy doing stuff! You go do it!"
+msgstr "나 바빠! 할 일이 많다고! 네가 해!"
+
+#: deathforth/events/tutorial.df:20
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"Well, it was worth a try. This might have worked on someone that was less of"
+" a jerk."
+msgstr "시도할 가치는 있었다. 조금 덜 재수 없는 사람이었다면 통했을지도 모른다."
+
+#: deathforth/events/tutorial.df:27
+msgctxt "deathforth/events/tutorial.df"
+msgid " calls "
+msgstr "은(는) 대놓고 말한다. "
+
+#: deathforth/events/tutorial.df:27
+msgctxt "deathforth/events/tutorial.df"
+msgid " a "
+msgstr "은(는) "
+
+#: deathforth/events/tutorial.df:27
+msgctxt "deathforth/events/tutorial.df"
+msgid "dink."
+msgstr "재수 없는 놈이다."
+
+#: deathforth/events/tutorial.df:28
+msgctxt "deathforth/events/tutorial.df"
+msgid " is shocked! It was fun to finally tell "
+msgstr "은(는) 충격을 받는다! 마침내 "
+
+#: deathforth/events/tutorial.df:28
+msgctxt "deathforth/events/tutorial.df"
+msgid " what a dink "
+msgstr "에게, "
+
+#: deathforth/events/tutorial.df:28
+msgctxt "deathforth/events/tutorial.df"
+msgid " was."
+msgstr "는 정말 재수 없는 놈이라고 말하니 속이 시원하다."
+
+#: deathforth/events/tutorial.df:36
+msgctxt "deathforth/events/tutorial.df"
+msgid " sees "
+msgstr "은(는) 이 사람을 본다. "
+
+#: deathforth/events/tutorial.df:36
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+", who is a real dink.\r\n"
+"\t"
+msgstr ""
+"은(는) 정말 재수 없는 놈이다.\r\n"
+"\t"
+
+#: deathforth/events/tutorial.df:37
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"Zombies have broken into my home! This is probably your fault! It certainly "
+"isn't mine!"
+msgstr "좀비가 내 집에 쳐들어왔어! 아마 네 탓일 거야! 절대 내 탓은 아니라고!"
+
+#: deathforth/events/tutorial.df:37
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"\r\n"
+"\tWhen the group found this zombie bunker, "
+msgstr ""
+"\r\n"
+"\t일행이 이 좀비 방공호를 발견했을 때, "
+
+#: deathforth/events/tutorial.df:38
+msgctxt "deathforth/events/tutorial.df"
+msgid " called dibs on this big bedroom before anyone else."
+msgstr "은(는) 누구보다 먼저 이 큰 침실을 찜했다."
+
+#: deathforth/events/tutorial.df:40
+msgctxt "deathforth/events/tutorial.df"
+msgid "Leave "
+msgstr "<EMPTY>"
+
+#: deathforth/events/tutorial.df:40
+msgctxt "deathforth/events/tutorial.df"
+msgid " be for now"
+msgstr "를 일단 내버려 둔다"
+
+#: deathforth/events/tutorial.df:41
+msgctxt "deathforth/events/tutorial.df"
+msgid "Tell "
+msgstr "<EMPTY>"
+
+#: deathforth/events/tutorial.df:41
+msgctxt "deathforth/events/tutorial.df"
+msgid " to 'Cool It'"
+msgstr "에게 '진정해'라고 하기"
+
+#: deathforth/events/tutorial.df:42
+msgctxt "deathforth/events/tutorial.df"
+msgid "Convince "
+msgstr "<EMPTY>"
+
+#: deathforth/events/tutorial.df:42
+msgctxt "deathforth/events/tutorial.df"
+msgid " to help fight zombies"
+msgstr "에게 좀비와 싸우자고 설득하기"
+
+#: deathforth/events/tutorial.df:43
+msgctxt "deathforth/events/tutorial.df"
+msgid "Call "
+msgstr "<EMPTY>"
+
+#: deathforth/events/tutorial.df:43
+msgctxt "deathforth/events/tutorial.df"
+msgid " a dink"
+msgstr "에게 재수 없는 놈이라고 하기"
+
+#: deathforth/events/tutorial.df:49
+msgctxt "deathforth/events/tutorial.df"
+msgid " greets "
+msgstr "은(는) 인사를 건넨다. 상대는 "
+
+#: deathforth/events/tutorial.df:50
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"I think we will have to leave this safehouse. At least we got to rest for awhile.\r\n"
+"\tWe should try heading to Canada! Would you like me to travel with you?"
+msgstr ""
+"이 은신처를 떠나야 할 것 같아. 그래도 잠깐 쉬었잖아.\r\n"
+"\t캐나다로 가 보자! 나도 같이 가도 될까?"
+
+#: deathforth/events/tutorial.df:51
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"\r\n"
+"\tMore people means more hands to loot and fight with. It also means more people to get in the way, eat up the food, and argue."
+msgstr ""
+"\r\n"
+"\t사람이 늘면 물자를 찾고 싸울 손도 늘어난다. 동시에 길을 막고, 식량을 먹고, 말다툼할 입도 늘어난다."
+
+#: deathforth/events/tutorial.df:76
+msgctxt "deathforth/events/tutorial.df"
+msgid "No Exit"
+msgstr "출구 없음"
+
+#: deathforth/events/tutorial.df:77
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"You can't leave from this location!\r\n"
+"\tThis door just leads to the "
+msgstr ""
+"여기로는 나갈 수 없다!\r\n"
+"\t이 문 뒤에는 "
+
+#: deathforth/events/tutorial.df:78
+msgctxt "deathforth/events/tutorial.df"
+msgid "Garbage Room"
+msgstr "쓰레기 방"
+
+#: deathforth/events/tutorial.df:78
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+", which is nearly full. Whoever designed this zombie bunker didn't put a lot of thought into how long it would last.\r\n"
+"\tYou will have to find another way out. "
+msgstr ""
+"이(가) 있다. 거의 꽉 찼다. 이 좀비 방공호를 설계한 사람은 얼마나 오래 버틸지 별생각이 없었던 모양이다.\r\n"
+"\t다른 출구를 찾아야 한다. "
+
+#: deathforth/events/tutorial.df:80
+msgctxt "deathforth/events/tutorial.df"
+msgid "Or, if you'd like, you can skip the tutorial."
+msgstr "원한다면 튜토리얼을 건너뛰어도 된다."
+
+#: deathforth/events/tutorial.df:81
+msgctxt "deathforth/events/tutorial.df"
+msgid "Go Back to Tutorial"
+msgstr "튜토리얼로 돌아가기"
+
+#: deathforth/events/tutorial.df:83
+msgctxt "deathforth/events/tutorial.df"
+msgid "Skip Tutorial!"
+msgstr "튜토리얼 건너뛰기!"
+
+#: deathforth/events/tutorial.df:129
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"DRAG LEFT THUMB TO MOVE\r\n"
+"\t\tTAP USE BUTTON TO OPEN"
+msgstr ""
+"왼쪽 엄지를 끌어 이동\r\n"
+"\t\t사용 버튼을 눌러 열기"
+
+#: deathforth/events/tutorial.df:134
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO MOVE \r\n"
+"\t\t"
+msgstr ""
+" : 이동 \r\n"
+"\t\t"
+
+#: deathforth/events/tutorial.df:135
+msgctxt "deathforth/events/tutorial.df"
+msgid " TO OPEN OR USE"
+msgstr " : 열기/사용"
+
+#: deathforth/events/tutorial.df:139
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"USE BUTTON TO PICK UP WEAPONS\r\n"
+"\t\tSWAP BUTTON TO SWAP\r\n"
+"\t\tHOLD USE TO DROP"
+msgstr ""
+"사용 버튼으로 무기 줍기\r\n"
+"\t\t교체 버튼으로 무기 교체\r\n"
+"\t\t사용 버튼을 길게 눌러 내려놓기"
+
+#: deathforth/events/tutorial.df:143
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO PICK UP WEAPONS\r\n"
+"\t\t"
+msgstr ""
+" : 무기 줍기\r\n"
+"\t\t"
+
+#: deathforth/events/tutorial.df:144
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO SWAP WEAPONS\r\n"
+"\t\tHOLD "
+msgstr ""
+" : 무기 교체\r\n"
+"\t\t길게 누르기: "
+
+#: deathforth/events/tutorial.df:145
+msgctxt "deathforth/events/tutorial.df"
+msgid " TO DROP WEAPON"
+msgstr " : 무기 내려놓기"
+
+#: deathforth/events/tutorial.df:151
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"USE BUTTON TO SLAM CHAIR \r\n"
+"\t\t\t\tTAP RIGHT SIDE OF SCREEN TO LOB CHAIR\r\n"
+"\t\t\t\tSWAP BUTTON TO DROP"
+msgstr ""
+"사용 버튼으로 의자 내려찍기 \r\n"
+"\t\t\t\t화면 오른쪽을 눌러 의자 던지기\r\n"
+"\t\t\t\t교체 버튼으로 내려놓기"
+
+#: deathforth/events/tutorial.df:155
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"USE BUTTON TO PICK UP CHAIRS\r\n"
+"\t\t\t\tGET SWOLE TO LIFT BETTER STUFF\r\n"
+"\t\t\t\tHEAVIER OBJECTS DO MORE DAMAGE"
+msgstr ""
+"사용 버튼으로 의자 들기\r\n"
+"\t\t\t\t근력을 키워 더 좋은 물건 들기\r\n"
+"\t\t\t\t무거운 물건일수록 더 아프다"
+
+#: deathforth/events/tutorial.df:163
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO SLAM CHAIR\r\n"
+"\t\t\t"
+msgstr ""
+" : 의자 내려찍기\r\n"
+"\t\t\t"
+
+#: deathforth/events/tutorial.df:164
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO LOB CHAIR\r\n"
+"\t\t\t"
+msgstr ""
+" : 의자 던지기\r\n"
+"\t\t\t"
+
+#: deathforth/events/tutorial.df:165
+msgctxt "deathforth/events/tutorial.df"
+msgid " TO DROP CHAIR"
+msgstr " : 의자 내려놓기"
+
+#: deathforth/events/tutorial.df:167
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO PICK UP CHAIRS\r\n"
+"\t\t\tGET SWOLE TO LIFT BETTER STUFF\r\n"
+"\t\t\tHEAVIER OBJECTS DO MORE DAMAGE"
+msgstr ""
+" : 의자 들기\r\n"
+"\t\t\t근력을 키워 더 좋은 물건 들기\r\n"
+"\t\t\t무거운 물건일수록 더 아프다"
+
+#: deathforth/events/tutorial.df:174
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"TAP RIGHT SIDE OF SCREEN TO ATTACK\r\n"
+"\t\tTRY TO PACE YOURSELF"
+msgstr ""
+"화면 오른쪽을 눌러 공격\r\n"
+"\t\t체력을 아끼며 싸우기"
+
+#: deathforth/events/tutorial.df:177
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" TO ATTACK\r\n"
+"\t\tTRY TO PACE YOURSELF"
+msgstr ""
+" : 공격\r\n"
+"\t\t체력을 아끼며 싸우기"
+
+#: deathforth/events/tutorial.df:182
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"WATCH OUT FOR HUGE SWARMS\r\n"
+"\tRUNNING OFTEN BEATS FIGHTING"
+msgstr ""
+"대규모 무리를 조심하자\r\n"
+"\t싸우기보다 달아나는 게 나을 때도 있다"
+
+#: deathforth/events/tutorial.df:185
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"LADDER LEADS TO OUTSIDE\r\n"
+"\tGOOD LUCK OUT THERE"
+msgstr ""
+"사다리를 타면 밖으로 나간다\r\n"
+"\t행운을 빈다"
+
+#: deathforth/events/tutorial.df:190
+msgctxt "deathforth/events/tutorial.df"
+msgid "USE BUTTON TO TALK OR INTERACT"
+msgstr "사용 버튼으로 대화/상호작용"
+
+#: deathforth/events/tutorial.df:192
+msgctxt "deathforth/events/tutorial.df"
+msgid " TO TALK OR INTERACT"
+msgstr " : 대화/상호작용"
+
+#: deathforth/events/tutorial.df:196
+msgctxt "deathforth/events/tutorial.df"
+msgid "CHOOSE YOUR PALS WISELY"
+msgstr "동료를 신중히 고르자"
+
+#: deathforth/events/tutorial.df:198
+msgctxt "deathforth/events/tutorial.df"
+msgid "BATHROOMS MAY HAVE MEDS"
+msgstr "화장실에 의약품이 있을 수 있다"
+
+#: deathforth/events/tutorial.df:200
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"ALWAYS BE LOOTING\r\n"
+"\t\tLOOK OUT FOR LOOTABLE SHELVES!"
+msgstr ""
+"언제나 물자를 챙기자\r\n"
+"\t\t뒤질 수 있는 선반을 찾아보자!"
+
+#: deathforth/events/tutorial.df:205
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+"PAUSE FOR TEAM SWAP OR INFO\r\n"
+"\t\tSWAP LEADERS BY SELECTING CHAR FACE\r\n"
+"\t\tDOUBLE-TAP WEAPON TO LOCK IT TO CHAR"
+msgstr ""
+"일시정지: 동료 교체/정보\r\n"
+"\t\t캐릭터 얼굴을 선택해 선두 교체\r\n"
+"\t\t무기를 두 번 눌러 캐릭터에게 고정"
+
+#: deathforth/events/tutorial.df:209
+msgctxt "deathforth/events/tutorial.df"
+msgid ""
+" FOR TEAM SWAP OR INFO\r\n"
+"\t\tSWAP LEADERS BY SELECTING CHAR FACE\r\n"
+"\t\tDOUBLE-TAP WEAPON TO LOCK IT TO CHAR"
+msgstr ""
+" : 동료 교체/정보\r\n"
+"\t\t캐릭터 얼굴을 선택해 선두 교체\r\n"
+"\t\t무기를 두 번 눌러 캐릭터에게 고정"
+
+#: deathforth/events/unlock/gnome.df:21
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " UNLOCKS LEFT: "
+msgstr " 남은 해금: "
+
+#: deathforth/events/unlock/gnome.df:31
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "YOU UNLOCKED: "
+msgstr "해금 완료: "
+
+#: deathforth/events/unlock/gnome.df:39
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "BACK"
+msgstr "뒤로"
+
+#: deathforth/events/unlock/gnome.df:41
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Unlock "
+msgstr "해금: "
+
+#: deathforth/events/unlock/gnome.df:41
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " ZP"
+msgstr " ZP"
+
+#: deathforth/events/unlock/gnome.df:43
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Costs "
+msgstr "비용: "
+
+#: deathforth/events/unlock/gnome.df:43
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " ZP to unlock!"
+msgstr " ZP로 해금!"
+
+#: deathforth/events/unlock/gnome.df:60
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I MADE YOU A LITTLE WALLET\r\n"
+"\tTHAT WILL LET YOU HOLD MORE ZOMBO POINTS\r\n"
+"\tIT'S MORE OF A COINPURSE"
+msgstr ""
+"작은 지갑을 만들어 줬어!!\r\n"
+"\t좀보 포인트를 더 많이 넣을 수 있지!!\r\n"
+"\t동전 지갑에 더 가깝긴 해!!"
+
+#: deathforth/events/unlock/gnome.df:65
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "MAXIMUM ZOMBO POINT INCREASE!"
+msgstr "좀보 포인트 최대치 증가!"
+
+#: deathforth/events/unlock/gnome.df:66
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Zombo Point Cap Increased!"
+msgstr "좀보 포인트 한도 증가!"
+
+#: deathforth/events/unlock/gnome.df:69
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Max ZP Increase (15)"
+msgstr "최대 ZP 증가 (15)"
+
+#: deathforth/events/unlock/gnome.df:70
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Max ZP Increase (20)"
+msgstr "최대 ZP 증가 (20)"
+
+#: deathforth/events/unlock/gnome.df:71
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Max ZP Increase (30)"
+msgstr "최대 ZP 증가 (30)"
+
+#: deathforth/events/unlock/gnome.df:72
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Max ZP Increase (50)"
+msgstr "최대 ZP 증가 (50)"
+
+#: deathforth/events/unlock/gnome.df:73
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Cheevos to Max ZP"
+msgstr "업적으로 최대 ZP 증가"
+
+#: deathforth/events/unlock/gnome.df:74
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilet Upgrade I"
+msgstr "변기 강화 I"
+
+#: deathforth/events/unlock/gnome.df:75
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilet Upgrade II"
+msgstr "변기 강화 II"
+
+#: deathforth/events/unlock/gnome.df:76
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilet Upgrade III"
+msgstr "변기 강화 III"
+
+#: deathforth/events/unlock/gnome.df:77
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilet Upgrade ULTIMATE"
+msgstr "변기 최종 강화"
+
+#: deathforth/events/unlock/gnome.df:78
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Trader Camp Gnome"
+msgstr "상인 야영지 노움"
+
+#: deathforth/events/unlock/gnome.df:79
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Trader Gnome Upgrade"
+msgstr "상인 노움 강화"
+
+#: deathforth/events/unlock/gnome.df:80
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Trader Gnome ULTIMATE"
+msgstr "상인 노움 최종 강화"
+
+#: deathforth/events/unlock/gnome.df:81
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Extra ZP I"
+msgstr "추가 ZP I"
+
+#: deathforth/events/unlock/gnome.df:82
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Extra ZP II"
+msgstr "추가 ZP II"
+
+#: deathforth/events/unlock/gnome.df:83
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Extra ZP III"
+msgstr "추가 ZP III"
+
+#: deathforth/events/unlock/gnome.df:84
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Extra ZP ULTIMATE"
+msgstr "추가 ZP 최종 강화"
+
+#: deathforth/events/unlock/gnome.df:85
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "More Rare Traders I"
+msgstr "희귀 상인 증가 I"
+
+#: deathforth/events/unlock/gnome.df:86
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "More Rare Traders II"
+msgstr "희귀 상인 증가 II"
+
+#: deathforth/events/unlock/gnome.df:87
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "More Rare Traders III"
+msgstr "희귀 상인 증가 III"
+
+#: deathforth/events/unlock/gnome.df:88
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "More Rare Traders MAX"
+msgstr "희귀 상인 최대 증가"
+
+#: deathforth/events/unlock/gnome.df:89
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Finder I"
+msgstr "희귀 탐색 I"
+
+#: deathforth/events/unlock/gnome.df:90
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Finder II"
+msgstr "희귀 탐색 II"
+
+#: deathforth/events/unlock/gnome.df:91
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Finder III"
+msgstr "희귀 탐색 III"
+
+#: deathforth/events/unlock/gnome.df:92
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Finder ULTIMATE"
+msgstr "희귀 탐색 최종 강화"
+
+#: deathforth/events/unlock/gnome.df:93
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Challenge Hut"
+msgstr "도전 오두막"
+
+#: deathforth/events/unlock/gnome.df:95
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Max ZP Increase (75)"
+msgstr "최대 ZP 증가 (75)"
+
+#: deathforth/events/unlock/gnome.df:96
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Max ZP Increase (99)"
+msgstr "최대 ZP 증가 (99)"
+
+#: deathforth/events/unlock/gnome.df:97 deathforth/events/unlock/gnome.df:421
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "DOUBLE TNOMEY"
+msgstr "트노미 두 배"
+
+#: deathforth/events/unlock/gnome.df:98 deathforth/events/unlock/gnome.df:433
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "TRIPLE TNOMEY"
+msgstr "트노미 세 배"
+
+#: deathforth/events/unlock/gnome.df:106
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Increases your maximum ZP to 15!\r\n"
+"\t"
+msgstr ""
+"최대 ZP가 15로 늘어난다!\r\n"
+"\t"
+
+#: deathforth/events/unlock/gnome.df:107 deathforth/events/unlock/gnome.df:117
+#: deathforth/events/unlock/gnome.df:213 deathforth/events/unlock/gnome.df:260
+#: deathforth/events/unlock/gnome.df:364
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "NOTE:"
+msgstr "참고:"
+
+#: deathforth/events/unlock/gnome.df:107
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " You can unlock this for free by winning the game in any mode."
+msgstr " 아무 모드나 클리어하면 공짜로 해금할 수 있다."
+
+#: deathforth/events/unlock/gnome.df:116
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Increases your maximum ZP to 20!\r\n"
+"\t"
+msgstr ""
+"최대 ZP가 20으로 늘어난다!\r\n"
+"\t"
+
+#: deathforth/events/unlock/gnome.df:117
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+" You can unlock this for free by winning the game in Deadlier Road mode!"
+msgstr " 더 치명적인 길 모드를 클리어하면 공짜로 해금할 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:125
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I MADE YOU A BIGGER WALLET\r\n"
+"\tTHAT WILL LET YOU HOLD MORE ZOMBO POINTS\r\n"
+"\tIT'S NEARLY A PURSE"
+msgstr ""
+"더 큰 지갑을 만들어 줬어!!\r\n"
+"\t좀보 포인트를 더 많이 넣을 수 있지!!\r\n"
+"\t거의 핸드백이야!!"
+
+#: deathforth/events/unlock/gnome.df:128
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Increases your maximum ZP to 30! The most expensive Trait or Perk is well "
+"under 30 points, but Unomey caters to a more upscale clientele."
+msgstr ""
+"최대 ZP가 30으로 늘어난다! 가장 비싼 특성이나 특전도 30포인트보다는 훨씬 싸지만, 우노미는 좀 더 고급스러운 고객층을 상대한다."
+
+#: deathforth/events/unlock/gnome.df:136
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"YOU SEEMED TO LIKE THE LAST PURSE I MADE YOU\r\n"
+"\tSO HERE'S A BETTER PURSE\r\n"
+"\tVERY FASHIONABLE"
+msgstr ""
+"저번에 만든 핸드백이 맘에 들었나 봐!!\r\n"
+"\t그래서 더 좋은 핸드백을 준비했어!!\r\n"
+"\t아주 세련됐지!!"
+
+#: deathforth/events/unlock/gnome.df:139
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Increases your maximum ZP to 50! This lets you buy Unomey's more expensive "
+"unlocks."
+msgstr "최대 ZP가 50으로 늘어난다! 우노미의 더 비싼 해금 상품을 살 수 있다."
+
+#: deathforth/events/unlock/gnome.df:147
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"A NEW BREAKTHROUGH\r\n"
+"\tBUT IS THE PERFECT PURSE REALLY POSSIBLE?\r\n"
+"\tMAYBE IN SOME SHINING FUTURE"
+msgstr ""
+"새로운 혁신이야!!\r\n"
+"\t완벽한 핸드백은 정말 가능할까?\r\n"
+"\t어쩌면 눈부신 미래에는!!"
+
+#: deathforth/events/unlock/gnome.df:150
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Increases your maximum ZP to 75! This lets you hoard even more points!"
+msgstr "최대 ZP가 75로 늘어난다! 포인트를 더 많이 쌓아 둘 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:158
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"THEY SAID IT COULD NOT BE DONE\r\n"
+"\tTHE ULTIMATE PURSE\r\n"
+"\tIT'S A TINY PURSE THAT GOES ON THE LAST ONE"
+msgstr ""
+"다들 불가능하다고 했지!!\r\n"
+"\t궁극의 핸드백!!\r\n"
+"\t저번 핸드백에 매다는 작은 핸드백이야!!"
+
+#: deathforth/events/unlock/gnome.df:161
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Increases your maximum ZP to 99! The final ZP upgrade!"
+msgstr "최대 ZP가 99로 늘어난다! 마지막 ZP 강화다!"
+
+#: deathforth/events/unlock/gnome.df:167
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "TOILET POWER INCREASED!"
+msgstr "변기 파워 증가!"
+
+#: deathforth/events/unlock/gnome.df:168
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilets may now have 2 gas!"
+msgstr "이제 변기에 기름이 2만큼 있을 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:170
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "I HEARD HUMANS WERE OBSESSED WITH TOILETS"
+msgstr "인간은 변기에 집착한다더라!!"
+
+#: deathforth/events/unlock/gnome.df:171
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Unomey gives you a look of pure disgust.\r\n"
+"\tUpgrades toilets. Now they'll have 2 gas instead of 1. Maybe it adds up?"
+msgstr ""
+"우노미가 완전히 질렸다는 표정으로 바라본다.\r\n"
+"\t변기가 강화된다. 이제 기름이 1 대신 2만큼 들어 있다. 모으면 꽤 되려나?"
+
+#: deathforth/events/unlock/gnome.df:178
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "ENVIRONMENTAL STORYTELLING"
+msgstr "환경을 통한 이야기 전달"
+
+#: deathforth/events/unlock/gnome.df:179
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Toilets may now have 2 bullets!\r\n"
+"\tFamous game designer Ken Levine calls this "
+msgstr ""
+"이제 변기에 총알 2발이 있을 수 있다!\r\n"
+"\t유명 게임 디자이너 켄 레빈은 이를 "
+
+#: deathforth/events/unlock/gnome.df:180
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "environmental storytelling"
+msgstr "환경을 통한 이야기 전달"
+
+#: deathforth/events/unlock/gnome.df:180
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+".\r\n"
+"\tEvery toilet with bullets in it tells a story."
+msgstr ""
+"이라 부른다.\r\n"
+"\t총알이 들어 있는 모든 변기에는 이야기가 담겨 있다."
+
+#: deathforth/events/unlock/gnome.df:183
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "WOW LOOK AT YOU GO WITH THE TOILET UPGRADES"
+msgstr "와, 변기 강화에 진심이네!!"
+
+#: deathforth/events/unlock/gnome.df:184
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Unomey scrunches up his nose in an even more exaggerated look of disgust.\r\n"
+"\tToilets can contain 2 bullets. Every little bit helps."
+msgstr ""
+"우노미가 코를 찡그리며 더욱 노골적으로 질린 표정을 짓는다.\r\n"
+"\t변기에 총알 2발이 들어 있을 수 있다. 티끌 모아 태산이다."
+
+#: deathforth/events/unlock/gnome.df:191
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "TOILET SKELETONS"
+msgstr "변기 해골"
+
+#: deathforth/events/unlock/gnome.df:192
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Toilets may now have rare and mysterious toilet loot!\r\n"
+"\tThis may include skeletons, which elevates the quality of "
+msgstr ""
+"이제 변기에서 희귀하고 신비한 물자가 나올 수 있다!\r\n"
+"\t해골이 나올 수도 있다. 덕분에 완성도가 높아진다. 바로 "
+
+#: deathforth/events/unlock/gnome.df:193
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilet-Based Environmental Storytelling"
+msgstr "변기를 통한 환경적 이야기 전달"
+
+#: deathforth/events/unlock/gnome.df:193
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+" even further.\r\n"
+"\tToilets will also now have a higher loot chance!"
+msgstr ""
+"의 완성도가.\r\n"
+"\t변기에서 물자를 찾을 확률도 높아진다!"
+
+#: deathforth/events/unlock/gnome.df:196
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "DISGUSTING"
+msgstr "역겨워"
+
+#: deathforth/events/unlock/gnome.df:197
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Unomey just has a look of blank contempt towards you at this point.\r\n"
+"\tToilets may rarely contain something mysterious. Toilets also will get a 30% chance to contain toilet loot, up from the default 20%"
+msgstr ""
+"이쯤 되자 우노미는 무표정한 경멸의 눈빛으로 바라볼 뿐이다.\r\n"
+"\t변기에서 가끔 신비한 물건이 나온다. 변기에 물자가 있을 확률도 기본 20%에서 30%로 높아진다."
+
+#: deathforth/events/unlock/gnome.df:204
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "HEAVEN'S TOILET: THE ULTIMATE TOILET"
+msgstr "천국의 변기: 궁극의 변기"
+
+#: deathforth/events/unlock/gnome.df:205
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilets have ascended to their final form!"
+msgstr "변기가 최종 형태로 진화했다!"
+
+#: deathforth/events/unlock/gnome.df:206
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Toilet Genies now occur every 50 opened toilets!\r\n"
+"\tDeath Road to Canada represents the ULTIMATE in "
+msgstr ""
+"이제 변기를 50개 열 때마다 변기 지니가 나타난다!\r\n"
+"\t데스 로드 투 캐나다가 선보이는 궁극의 경지! "
+
+#: deathforth/events/unlock/gnome.df:207
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Toilet-Based Interactive Fiction!"
+msgstr "변기 기반 상호작용 소설!"
+
+#: deathforth/events/unlock/gnome.df:207
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " Enjoy!"
+msgstr " 즐겨 보자!"
+
+#: deathforth/events/unlock/gnome.df:209
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"SO DO HUMANS WORSHIP THE TOILETS OR WHAT\r\n"
+"\tIS OPENING THEM A RITUAL?\r\n"
+"\tWHAT IS WRONG WITH YOU"
+msgstr ""
+"인간은 변기를 숭배하는 거야 뭐야!!\r\n"
+"\t여는 게 의식이야?\r\n"
+"\t대체 왜 그러는 거야!!"
+
+#: deathforth/events/unlock/gnome.df:212
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"With this final toilet upgrade, you only need to open 50 toilets to summon the Toilet Genie, instead of 100!\r\n"
+"\t"
+msgstr ""
+"마지막 변기 강화를 하면 변기 지니를 부르는 데 필요한 변기 수가 100개에서 50개로 줄어든다!\r\n"
+"\t"
+
+#: deathforth/events/unlock/gnome.df:213
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " I'm being serious."
+msgstr " 진지하게 하는 말이다."
+
+#: deathforth/events/unlock/gnome.df:219
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "TNOMEY THE TRADE GNOME UNLOCKED"
+msgstr "상인 노움 트노미 해금"
+
+#: deathforth/events/unlock/gnome.df:220
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Unlock 20 Zombo Point options by upgrading him!"
+msgstr "강화하면 20 좀보 포인트 상품이 해금된다!"
+
+#: deathforth/events/unlock/gnome.df:222
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"MY PAL TNOMEY WILL GIVE YOU A GOOD DEAL\r\n"
+"\tHE'LL START LOITERING AROUND TRADER CAMPS!"
+msgstr ""
+"내 친구 트노미가 잘해 줄 거야!!\r\n"
+"\t이제 상인 야영지에서 어슬렁거릴 거야!!"
+
+#: deathforth/events/unlock/gnome.df:224
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Lets you buy a little bit of extra supplies from Tnomey, the Trade Gnome. He"
+" takes ZP as currency, and you may buy one thing from him per game. Besides "
+"supplies, he may also sell an extra recruit!"
+msgstr ""
+"상인 노움 트노미에게 추가 물자를 조금 살 수 있다. ZP로 거래하며 게임마다 한 번 구매할 수 있다. 물자 대신 추가 동료를 팔기도 "
+"한다!"
+
+#: deathforth/events/unlock/gnome.df:230
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "TNOMEY THE TRADE GNOME UPGRADED"
+msgstr "상인 노움 트노미 강화"
+
+#: deathforth/events/unlock/gnome.df:231
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Unlock a 30 ZP tier of items in his final upgrade!"
+msgstr "마지막 강화로 30 ZP 상품을 해금하자!"
+
+#: deathforth/events/unlock/gnome.df:233
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"HOW DOES HE SELL THESE RODENTS?\r\n"
+"\tHE HAS THEM ALL STUFFED INTO A SACK"
+msgstr ""
+"저 설치류를 어떻게 파는 걸까?\r\n"
+"\t전부 자루에 쑤셔 넣어 놨네!!"
+
+#: deathforth/events/unlock/gnome.df:235
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"This will upgrade the Trade Gnome to carry items worth 20 ZP. This will be "
+"an extra option in every shop, in addition to his 10 ZP item. He may sell "
+"cheap weapons and battle rodents!"
+msgstr ""
+"상인 노움이 20 ZP 상품을 취급하도록 강화된다. 모든 상점에서 10 ZP 상품 외에 새 상품을 고를 수 있다. 값싼 무기와 전투용 "
+"설치류를 팔기도 한다!"
+
+#: deathforth/events/unlock/gnome.df:241
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "ULTIMATE TRADE GNOME DELUXE ULTRA"
+msgstr "궁극의 상인 노움 디럭스 울트라"
+
+#: deathforth/events/unlock/gnome.df:242
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Tnomey has reached his ultimate form!"
+msgstr "트노미가 궁극의 형태에 도달했다!"
+
+#: deathforth/events/unlock/gnome.df:244
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"SOMEONE'S A BIG SPENDER\r\n"
+"\tWITH A NOSE FOR GNOMISH DEALS\r\n"
+"\tIT'S YOUUUUU"
+msgstr ""
+"통 크게 쓰는 손님이네!!\r\n"
+"\t노움의 알뜰 상품을 알아보는 코!!\r\n"
+"\t바로 너어어어!!"
+
+#: deathforth/events/unlock/gnome.df:247
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"This will upgrade the Trade Gnome to also carry items worth 30 ZP. He may "
+"sell some new weapons and random rare characters!"
+msgstr "상인 노움이 30 ZP 상품도 취급하도록 강화된다. 새로운 무기나 무작위 희귀 캐릭터를 팔기도 한다!"
+
+#: deathforth/events/unlock/gnome.df:253
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "HERO OF THE ZOMBOCALYPSE"
+msgstr "좀비 종말의 영웅"
+
+#: deathforth/events/unlock/gnome.df:254
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "You now get 1 ZP for every successful rescue!"
+msgstr "이제 구조에 성공할 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:256
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"WHEN YOU RESCUE SOMEONE\r\n"
+"\tYOU SHOULD PROBABLY SHAKE THEM DOWN\r\n"
+"\tFOR THEIR SWEET ZOMBO POINTS"
+msgstr ""
+"누굴 구해 주면!!\r\n"
+"\t좀 뜯어내는 게 좋겠지!!\r\n"
+"\t그 달콤한 좀보 포인트 말이야!!"
+
+#: deathforth/events/unlock/gnome.df:259
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Get 1 ZP every time you rescue a person or dog!\r\n"
+"\t"
+msgstr ""
+"사람이나 개를 구할 때마다 1 ZP를 얻는다!\r\n"
+"\t"
+
+#: deathforth/events/unlock/gnome.df:260
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " For normal rescues only, rare rescues don't count."
+msgstr " 일반 구조만 해당한다. 희귀 구조는 제외된다."
+
+#: deathforth/events/unlock/gnome.df:266
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "BUYER REWARDS PROGRAM"
+msgstr "구매 보상 프로그램"
+
+#: deathforth/events/unlock/gnome.df:267
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "You now get 1 ZP for each sale to the weapons buyers!"
+msgstr "이제 무기 매입상에게 팔 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:269
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I HAVE A SPECIAL DEAL WITH THE WEAPON BUYERS\r\n"
+"\tSO THEY AND TNOMEY CAN BOTH RIP YOU OFF BETTER\r\n"
+"\tIT IS WHAT GNOMES CALL A WIN-WIN"
+msgstr ""
+"무기 매입상과 특별 계약을 했어!!\r\n"
+"\t놈들과 트노미가 네 등골을 더 잘 빼먹도록!!\r\n"
+"\t노움은 이걸 윈윈이라고 하지!!"
+
+#: deathforth/events/unlock/gnome.df:272
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Get 1 ZP every time you sell an item to the weapons buyers!"
+msgstr "무기 매입상에게 물건을 팔 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:278
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "MAKING NEW FRIENDS"
+msgstr "새 친구 사귀기"
+
+#: deathforth/events/unlock/gnome.df:279
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "You now get 1 ZP for each time you get a new recruit!"
+msgstr "이제 새 동료를 영입할 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:281
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"ZOMBO POINTS FLOW THROUGH ALL LIFE\r\n"
+"\tTHEY ARE EXACTLY LIKE MIDI-CHLORIANS\r\n"
+"\tGNOMES LOVE THE STAR WARS PREQUELS"
+msgstr ""
+"좀보 포인트는 모든 생명 속에 흐르지!!\r\n"
+"\t미디클로리언이랑 똑같아!!\r\n"
+"\t노움은 스타워즈 프리퀄을 좋아해!!"
+
+#: deathforth/events/unlock/gnome.df:284
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Get 1 ZP every time you recruit someone or something!"
+msgstr "누군가, 또는 무언가를 영입할 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:290
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "MAKING NEW SKELETONS"
+msgstr "새 해골 만들기"
+
+#: deathforth/events/unlock/gnome.df:291
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "You now get 1 ZP for each time an ally dies!"
+msgstr "이제 동료가 죽을 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:292
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "THE ULTIMATE ZP GENERATOR"
+msgstr "궁극의 ZP 생성기"
+
+#: deathforth/events/unlock/gnome.df:294
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I COULD START GIVING YOU A ZOMBO POINT\r\n"
+"\tWHENEVER SOMEONE ON YOUR TEAM GETS KILLED\r\n"
+"\tTHIS SEEMS LIKE A PRETTY GOOD IDEA"
+msgstr ""
+"좀보 포인트를 하나씩 줄 수도 있지!!\r\n"
+"\t네 일행 누가 죽을 때마다!!\r\n"
+"\t꽤 좋은 생각 같은데!!"
+
+#: deathforth/events/unlock/gnome.df:297
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Get 1 ZP every time an ally dies!"
+msgstr "동료가 죽을 때마다 1 ZP를 얻는다!"
+
+#: deathforth/events/unlock/gnome.df:303
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "WEIRDER TRADERS"
+msgstr "더 이상한 상인들"
+
+#: deathforth/events/unlock/gnome.df:304
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Rare Trader chance increased!\r\n"
+"\tThe chance has gone from 1/30 to 1/27!"
+msgstr ""
+"희귀 상인 등장 확률 증가!\r\n"
+"\t1/30에서 1/27로 높아졌다!"
+
+#: deathforth/events/unlock/gnome.df:307
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"IN TRADER CAMPS\r\n"
+"\tSOMETIMES A REAL WEIRDO CAN SHOW UP\r\n"
+"\tRARE TRADERS HAVE RARE DEALS"
+msgstr ""
+"상인 야영지에는!!\r\n"
+"\t가끔 정말 괴상한 놈이 나타나!!\r\n"
+"\t희귀 상인은 희귀 상품을 팔지!!"
+
+#: deathforth/events/unlock/gnome.df:310
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Normal chance of a Rare Trader is 1/30\r\n"
+"\tThis will increase the chance to 1/27!"
+msgstr ""
+"희귀 상인의 기본 등장 확률은 1/30이다.\r\n"
+"\t이 강화로 확률이 1/27이 된다!"
+
+#: deathforth/events/unlock/gnome.df:317
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "EVEN WEIRDER TRADERS"
+msgstr "한층 더 이상한 상인들"
+
+#: deathforth/events/unlock/gnome.df:318
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Rare Trader chance increased!\r\n"
+"\tThe chance has gone from 1/27 to 1/24!"
+msgstr ""
+"희귀 상인 등장 확률 증가!\r\n"
+"\t1/27에서 1/24로 높아졌다!"
+
+#: deathforth/events/unlock/gnome.df:321
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"THERE ARE MANY RARE TRADERS\r\n"
+"\tI HAVE SEEN A WITCH ONCE ALSO A WIZARD\r\n"
+"\tSOME CAN BE RECRUITED FOR A BRIBE"
+msgstr ""
+"희귀 상인은 아주 다양해!!\r\n"
+"\t마녀도 한 번 봤고 마법사도 봤어!!\r\n"
+"\t뇌물을 주면 영입할 수 있는 놈도 있지!!"
+
+#: deathforth/events/unlock/gnome.df:324
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Traders chance will increase to 1/24!"
+msgstr "희귀 상인 등장 확률이 1/24로 높아진다!"
+
+#: deathforth/events/unlock/gnome.df:330
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "MORE WEIRDERER TRADERS"
+msgstr "더더더 이상한 상인들"
+
+#: deathforth/events/unlock/gnome.df:331
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Rare Trader chance increased!\r\n"
+"\tThe chance has gone from 1/24 to 1/21!"
+msgstr ""
+"희귀 상인 등장 확률 증가!\r\n"
+"\t1/24에서 1/21로 높아졌다!"
+
+#: deathforth/events/unlock/gnome.df:334
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I'M PASSING OUT LOTS OF FLYERS\r\n"
+"\tI DREW THEM WITH COLORED PENCILS\r\n"
+"\tTHIS WILL BRING THE BEST TRADERS IN"
+msgstr ""
+"전단지를 잔뜩 돌리고 있어!!\r\n"
+"\t색연필로 그렸지!!\r\n"
+"\t최고의 상인들이 몰려올 거야!!"
+
+#: deathforth/events/unlock/gnome.df:337
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Traders chance will increase to 1/21!"
+msgstr "희귀 상인 등장 확률이 1/21로 높아진다!"
+
+#: deathforth/events/unlock/gnome.df:343
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "MOST WEIRDEST TRADERS"
+msgstr "제일 이상한 상인들"
+
+#: deathforth/events/unlock/gnome.df:344
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Rare Trader chance increased!\r\n"
+"\tThe chance has gone from 1/21 to 1/18!"
+msgstr ""
+"희귀 상인 등장 확률 증가!\r\n"
+"\t1/21에서 1/18로 높아졌다!"
+
+#: deathforth/events/unlock/gnome.df:346
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"You now have a higher chance of finding more than one Rare Trader per game!"
+msgstr "한 게임에서 희귀 상인을 여러 명 만날 확률도 높아진다!"
+
+#: deathforth/events/unlock/gnome.df:348
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I CAN HIRE A GNOMISH SIGN SPINNER\r\n"
+"\tLOTS MORE WEIRD TRADERS WILL SHOW UP\r\n"
+"\tIT HEIGHTENS THE SHOPPING EXPERIENCE!"
+msgstr ""
+"간판 돌리는 노움을 고용하면!!\r\n"
+"\t이상한 상인이 훨씬 많이 올 거야!!\r\n"
+"\t쇼핑의 품격이 올라가지!!"
+
+#: deathforth/events/unlock/gnome.df:351
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Rare Traders chance will increase to 1/18!"
+msgstr "희귀 상인 등장 확률이 1/18로 높아진다!"
+
+#: deathforth/events/unlock/gnome.df:357
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "EXOTIC LOCALES"
+msgstr "이국적인 장소"
+
+#: deathforth/events/unlock/gnome.df:358
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Locations has increased from roughly 3/55 to 4/55!\r\n"
+"\tYou may also now find up to 4 Rare Locations in one game, up from 3!"
+msgstr ""
+"희귀 장소 등장 확률이 약 3/55에서 4/55로 높아졌다!\r\n"
+"\t한 게임에서 찾을 수 있는 희귀 장소 수도 3곳에서 4곳으로 늘었다!"
+
+#: deathforth/events/unlock/gnome.df:361
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I'M SELLING THESE SPECIAL MAPS\r\n"
+"\tI DREW THEM WITH COLORED PENCILS"
+msgstr ""
+"특별 지도를 팔고 있어!!\r\n"
+"\t색연필로 그렸지!!"
+
+#: deathforth/events/unlock/gnome.df:363
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Locations will slightly increase! You may also find one extra Rare Location in a game!\r\n"
+"\t"
+msgstr ""
+"희귀 장소 등장 확률이 조금 높아진다! 한 게임에서 찾을 수 있는 희귀 장소도 한 곳 늘어난다!\r\n"
+"\t"
+
+#: deathforth/events/unlock/gnome.df:364
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid " Rare Locations can be identified by their flashing text."
+msgstr " 희귀 장소는 깜빡이는 글자로 구별할 수 있다."
+
+#: deathforth/events/unlock/gnome.df:370
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "STRANGE DAYS ON THE DEATH ROAD"
+msgstr "데스 로드의 이상한 나날"
+
+#: deathforth/events/unlock/gnome.df:371
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Events has increased from roughly 2/55 to 3/55!\r\n"
+"\tYou may also now find up to 3 Rare Events in one game, up from 2!"
+msgstr ""
+"희귀 이벤트 등장 확률이 약 2/55에서 3/55로 높아졌다!\r\n"
+"\t한 게임에서 만날 수 있는 희귀 이벤트 수도 2개에서 3개로 늘었다!"
+
+#: deathforth/events/unlock/gnome.df:374
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"ALL SORTS OF NONSENSE CAN HAPPEN ON THE ROAD\r\n"
+"\tYOU SHOULD JUST ROLL WITH IT"
+msgstr ""
+"길에서는 온갖 황당한 일이 생겨!!\r\n"
+"\t그냥 흐름에 맡기는 게 좋아!!"
+
+#: deathforth/events/unlock/gnome.df:376
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Road Events will slightly increase!\r\n"
+"\tYou may also find an extra Rare Event in a game!"
+msgstr ""
+"희귀 도로 이벤트 등장 확률이 조금 높아진다!\r\n"
+"\t한 게임에서 만날 수 있는 희귀 이벤트도 하나 늘어난다!"
+
+#: deathforth/events/unlock/gnome.df:383
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "LOCATION, LOCATION, LOCATION"
+msgstr "입지, 입지, 입지"
+
+#: deathforth/events/unlock/gnome.df:384
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Locations has increased from roughly 4/55 to 5/55!\r\n"
+"\tYou may also now find up to 5 Rare Locations in one game, up from 4!"
+msgstr ""
+"희귀 장소 등장 확률이 약 4/55에서 5/55로 높아졌다!\r\n"
+"\t한 게임에서 찾을 수 있는 희귀 장소 수도 4곳에서 5곳으로 늘었다!"
+
+#: deathforth/events/unlock/gnome.df:387
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I'M SELLING DELUXE TOUR GUIDES NOW\r\n"
+"\tTHEY'RE THE OLD ONES\r\n"
+"\tBUT I PUT STICKERS ON THEM"
+msgstr ""
+"이제 고급 관광 안내서를 팔아!!\r\n"
+"\t예전에 팔던 거지만!!\r\n"
+"\t스티커를 붙였지!!"
+
+#: deathforth/events/unlock/gnome.df:390
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Locations will slightly increase! You may also find one extra"
+" Rare Location in a game!"
+msgstr "희귀 장소 등장 확률이 조금 높아진다! 한 게임에서 찾을 수 있는 희귀 장소도 한 곳 늘어난다!"
+
+#: deathforth/events/unlock/gnome.df:396
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "A VERY WEIRD JOURNEY"
+msgstr "아주 이상한 여행"
+
+#: deathforth/events/unlock/gnome.df:397
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Events has increased from roughly 3/55 to 4/55!\r\n"
+"\tYou may also now find up to 4 Rare Events in one game, up from 3!"
+msgstr ""
+"희귀 이벤트 등장 확률이 약 3/55에서 4/55로 높아졌다!\r\n"
+"\t한 게임에서 만날 수 있는 희귀 이벤트 수도 3개에서 4개로 늘었다!"
+
+#: deathforth/events/unlock/gnome.df:400
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"WEIRD AND WONDROUS EVENTS CAN HAPPEN\r\n"
+"\tIF YOU BELIEVE IN THE POWER OF FRIENDSHIP"
+msgstr ""
+"이상하고 신기한 일이 생길 수 있지!!\r\n"
+"\t우정의 힘을 믿는다면!!"
+
+#: deathforth/events/unlock/gnome.df:402
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Chance of Rare Road Events will increase further!\r\n"
+"\tYou may also find another extra Rare Event in a game!"
+msgstr ""
+"희귀 도로 이벤트 등장 확률이 더 높아진다!\r\n"
+"\t한 게임에서 만날 수 있는 희귀 이벤트도 하나 더 늘어난다!"
+
+#: deathforth/events/unlock/gnome.df:409
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "A CHALLENGING HUT"
+msgstr "도전적인 오두막"
+
+#: deathforth/events/unlock/gnome.df:410
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"You've unlocked a new building, where you can see new challenges and unlock "
+"cosmetic features!"
+msgstr "새 건물이 해금됐다! 새로운 도전을 확인하고 꾸미기 요소를 해금할 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:412
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"A MAGICAL HUT OF CHALLENGES\r\n"
+"\tALSO CONTAINS A *VERY* SPECIAL STORE"
+msgstr ""
+"마법의 도전 오두막!!\r\n"
+"\t*아주* 특별한 상점도 있지!!"
+
+#: deathforth/events/unlock/gnome.df:414
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Unlocks a new building where you can view special challenges!\r\n"
+"\tBeating these challenges can unlock new cosmetic features!"
+msgstr ""
+"특별한 도전을 확인할 수 있는 새 건물이 해금된다!\r\n"
+"\t도전을 완료하면 새로운 꾸미기 요소를 해금할 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:422
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "You can now buy from Tnomey twice per game!"
+msgstr "이제 한 게임에서 트노미에게 두 번 구매할 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:424
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"IF YOU LOVE TNOMEY SO MUCH\r\n"
+"\tWHY DON'T YOU GET\r\n"
+"\tDOUBLE THE TNOMEYS??"
+msgstr ""
+"트노미가 그렇게 좋으면!!\r\n"
+"\t한번 만나 보는 게 어때!!\r\n"
+"\t두 배의 트노미를??"
+
+#: deathforth/events/unlock/gnome.df:427
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Buy from Tnomey the Trade Gnome up to twice per game, instead of just once!"
+msgstr "상인 노움 트노미에게 한 게임에 한 번 대신 두 번까지 구매할 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:434
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "You can buy from Tnomey up to three times per game!"
+msgstr "트노미에게 한 게임에 세 번까지 구매할 수 있다!"
+
+#: deathforth/events/unlock/gnome.df:436
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"TRIPLE THE VALUES\r\n"
+"\tTRIPLE THE WHOLESOME WHIMSY\r\n"
+"\tTRIPLE THE TNOMEYS"
+msgstr ""
+"가치도 세 배!!\r\n"
+"\t훈훈한 장난기도 세 배!!\r\n"
+"\t트노미도 세 배!!"
+
+#: deathforth/events/unlock/gnome.df:439
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"Buy from Tnomey the Trade Gnome up to three times per game! Burn that ZP!"
+msgstr "상인 노움 트노미에게 한 게임에 세 번까지 구매할 수 있다! ZP를 불태우자!"
+
+#: deathforth/events/unlock/gnome.df:444
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "UNOMEY THE UNLOCK GNOME"
+msgstr "해금 노움 우노미"
+
+#: deathforth/events/unlock/gnome.df:448
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I'M UNOMEY, THE UNLOCK GNOME\r\n"
+"\t\tYOU FOUND ME!\r\n"
+"\t\tI'LL SELL YOU UNLOCKS FROM NOW ON\r\n"
+"\t\tGET OUT OF MY HOUSE YOU NERD!"
+msgstr ""
+"난 해금 노움 우노미야!!\r\n"
+"\t\t날 찾았네!!\r\n"
+"\t\t이제 해금 상품을 팔아 줄게!!\r\n"
+"\t\t내 집에서 나가, 이 찌질아!!"
+
+#: deathforth/events/unlock/gnome.df:454
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"HELLO I'M UNOMEY\r\n"
+"\t\tDON'T YOU KNOW ME?"
+msgstr ""
+"안녕, 난 우노미야!!\r\n"
+"\t\t우노미를 몰라?"
+
+#: deathforth/events/unlock/gnome.df:458
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"UNLOCKS ARE A BIG PART\r\n"
+"\t\t\tOF GNOME SOCIETY!\r\n"
+"\t\t\tWHOEVER HAS THE MOST UNLOCKS IS KING"
+msgstr ""
+"해금은 아주 중요한 부분이지!!\r\n"
+"\t\t\t노움 사회에서 말이야!!\r\n"
+"\t\t\t가장 많이 해금한 자가 왕이야!!"
+
+#: deathforth/events/unlock/gnome.df:464
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"GNOMES INVENTED UNLOCKS!\r\n"
+"\t\t\tWE CALL THEM 'UNCKS' FOR SHORT\r\n"
+"\t\t\tIT SAVES A LOT OF TIME TO CALL THEM THIS"
+msgstr ""
+"해금은 노움이 발명했어!!\r\n"
+"\t\t\t줄여서 '해꾸'라고 하지!!\r\n"
+"\t\t\t이렇게 부르면 시간이 엄청 절약돼!!"
+
+#: deathforth/events/unlock/gnome.df:470
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"MORE UNLOCKS\r\n"
+"\t\t\tMORE PROBLEMS\r\n"
+"\t\t\t-- GNOMISH PROVERB"
+msgstr ""
+"해금이 많아질수록!!\r\n"
+"\t\t\t문제도 많아진다!!\r\n"
+"\t\t\t-- 노움 속담"
+
+#: deathforth/events/unlock/gnome.df:476
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"NO ONE CAN GET ENOUGH\r\n"
+"\t\t\tOF THESE UNCKS\r\n"
+"\t\t\t'UNCKS' MEANS UNLOCKS"
+msgstr ""
+"누구도 충분히 가질 수 없어!!\r\n"
+"\t\t\t이 해꾸는 말이야!!\r\n"
+"\t\t\t'해꾸'는 해금이란 뜻이야!!"
+
+#: deathforth/events/unlock/gnome.df:482
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I HOPE YOU ENJOYED THESE UNCKS\r\n"
+"\t\t\tAS MUCH AS I ENJOYED STANDING HERE\r\n"
+"\t\t\tFOR DAYS"
+msgstr ""
+"해꾸를 즐겼길 바라!!\r\n"
+"\t\t\t내가 여기 서 있었던 만큼!!\r\n"
+"\t\t\t며칠씩이나!!"
+
+#: deathforth/events/unlock/gnome.df:488
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I'M RUNNING OUT OF STUFF FOR NOW!\r\n"
+"\t\t\tI WILL HAVE A LOT MORE THINGS LATER\r\n"
+"\t\t\tMAYBE EVEN ANOTHER TOILET FOR YOU"
+msgstr ""
+"지금은 팔 게 거의 다 떨어졌어!!\r\n"
+"\t\t\t나중에는 더 많이 가져올게!!\r\n"
+"\t\t\t어쩌면 변기도 또 가져올지 몰라!!"
+
+#: deathforth/events/unlock/gnome.df:494
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid ""
+"I'M OUT OF UNLOCKS!\r\n"
+"\t\t\tCHECK BACK NEXT UPDATE\r\n"
+"\t\t\tI'LL HAVE MORE, MAYBE!"
+msgstr ""
+"해금 상품이 다 떨어졌어!!\r\n"
+"\t\t\t다음 업데이트 때 와!!\r\n"
+"\t\t\t더 있을지도 모르지!!"
+
+#: deathforth/events/unlock/gnome.df:507
+msgctxt "deathforth/events/unlock/gnome.df"
+msgid "Leave this thing be"
+msgstr "이 녀석은 내버려 두기"
+
+#: deathforth/events/unlock/perk1.df:60
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "  UPGRADES LEFT: "
+msgstr "  남은 강화: "
+
+#: deathforth/events/unlock/perk1.df:61
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid " UNLOCKS: "
+msgstr " 해금: "
+
+#: deathforth/events/unlock/perk1.df:75
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "THE CAR IS A SYMBOL OF HOPE"
+msgstr "차는 희망의 상징이다!!"
+
+#: deathforth/events/unlock/perk1.df:81
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "CAN'T DIE WITH ALL THIS GAUZE"
+msgstr "붕대가 이렇게 많은데 죽을 순 없지!!"
+
+#: deathforth/events/unlock/perk1.df:95
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "PRECIOUS PUPS"
+msgstr "소중한 강아지들!!"
+
+#: deathforth/events/unlock/perk1.df:101
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "License Plate: SWEETRIDEZ"
+msgstr "번호판: 멋진차들"
+
+#: deathforth/events/unlock/perk1.df:107
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "NO STONE UNTURNED, NO TOILET UNOPENED"
+msgstr "돌은 다 들춰 보고, 변기는 다 열어 보고!!"
+
+#: deathforth/events/unlock/perk1.df:113
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "UGH MY FEET HURT"
+msgstr "으악, 발 아파!!"
+
+#: deathforth/events/unlock/perk1.df:119
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "SALES LEADER IN THE ZOMBOCALYPSE"
+msgstr "좀비 종말의 판매왕!!"
+
+#: deathforth/events/unlock/perk1.df:125
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "POWER OF POSITIVE THINKING"
+msgstr "긍정적 사고의 힘!!"
+
+#: deathforth/events/unlock/perk1.df:131
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "HELPY HELPERSON"
+msgstr "도움 주는 도우미!!"
+
+#: deathforth/events/unlock/perk1.df:137
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "Perks of the Mind"
+msgstr "정신의 특전"
+
+#: deathforth/events/unlock/perk1.df:139
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"The Debutante is holding a tiny teacup.\r\n"
+"\t"
+msgstr ""
+"사교계 아가씨가 작은 찻잔을 들고 있다.\r\n"
+"\t"
+
+#: deathforth/events/unlock/perk1.df:140
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"Running around, flailing, just has no GRACE to it! You should use "
+"INTELLIGENCE and DECORUM."
+msgstr "이리저리 뛰고 허우적거리다니, 우아함이 전혀 없잖아! 지성과 예의를 갖춰야지."
+
+#: deathforth/events/unlock/perk1.df:140
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"\r\n"
+"\tShe crushes the teacup into a fine dust."
+msgstr ""
+"\r\n"
+"\t그녀가 찻잔을 곱게 가루로 부순다."
+
+#: deathforth/events/unlock/perk1.df:144
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"I'm all out of teacups now!\r\n"
+"\t\tWell, I can get more later."
+msgstr ""
+"찻잔이 다 떨어졌네!\r\n"
+"\t\t뭐, 나중에 더 구하면 되지."
+
+#: deathforth/events/unlock/perk1.df:145
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"\r\n"
+"\t\tShe shrugs in an elegant manner."
+msgstr ""
+"\r\n"
+"\t\t그녀가 우아하게 어깨를 으쓱한다."
+
+#: deathforth/events/unlock/perk1.df:150
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"I think Explorer is underrated.\r\n"
+"\t\tYou can use its cheaper 'drive around' option to seek out the best locations, so you can keep well stocked with supplies!"
+msgstr ""
+"탐험가는 저평가된 것 같아.\r\n"
+"\t\t저렴한 '주변 둘러보기'로 좋은 장소를 찾으면 물자를 넉넉히 챙길 수 있지!"
+
+#: deathforth/events/unlock/perk1.df:155
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"One of my favorite strategies is focusing on mechanical and medical skills, "
+"and then filling my group with useful meat shields!"
+msgstr "내가 좋아하는 전략은 기계와 의술을 키운 다음, 쓸 만한 고기 방패로 일행을 채우는 거야!"
+
+#: deathforth/events/unlock/perk1.df:159
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"Keep calm and alert!\r\n"
+"\t\tKeep your car running and your meat shields healed!"
+msgstr ""
+"침착하게 경계를 늦추지 마!\r\n"
+"\t\t차는 잘 굴러가게, 고기 방패는 건강하게 유지하고!"
+
+#: deathforth/events/unlock/perk1.df:164
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"I have nothing left to teach you!\r\n"
+"\t\tKeep thinking things through, and you'll make it!"
+msgstr ""
+"더 가르쳐 줄 게 없네!\r\n"
+"\t\t계속 머리를 쓰면 해낼 수 있을 거야!"
+
+#: deathforth/events/unlock/perk1.df:165
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid ""
+"\r\n"
+"\t\tShe crushes a handful of fine dust, and when she opens her hands it has turned into a teacup."
+msgstr ""
+"\r\n"
+"\t\t그녀가 고운 가루 한 줌을 움켜쥔다. 손을 펴자 찻잔으로 변해 있다."
+
+#: deathforth/events/unlock/perk1.df:171
+msgctxt "deathforth/events/unlock/perk1.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/perk2.df:39
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "  UPGRADES LEFT: "
+msgstr "  남은 강화: "
+
+#: deathforth/events/unlock/perk2.df:40
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid " UNLOCKS: "
+msgstr " 해금: "
+
+#: deathforth/events/unlock/perk2.df:58
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "WARMED UP"
+msgstr "몸풀기 완료!!"
+
+#: deathforth/events/unlock/perk2.df:64
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "TOO FIT TO QUIT"
+msgstr "멈추기엔 너무 튼튼해!!"
+
+#: deathforth/events/unlock/perk2.df:70
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "FLEX"
+msgstr "근육 자랑!!"
+
+#: deathforth/events/unlock/perk2.df:76
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "HIT LIKE A TRUCK"
+msgstr "트럭처럼 후려친다!!"
+
+#: deathforth/events/unlock/perk2.df:82
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "WEAPONS NOT NEEDED"
+msgstr "무기는 필요 없다!!"
+
+#: deathforth/events/unlock/perk2.df:88
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "UNLEASHED POTENTIAL"
+msgstr "잠재력 해방!!"
+
+#: deathforth/events/unlock/perk2.df:94
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "TRAGIC WRESTLING BACKSTORY"
+msgstr "레슬러의 비극적 과거!!"
+
+#: deathforth/events/unlock/perk2.df:100
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "TOO*SWOLE*TO*CONTROL"
+msgstr "통제*불가*근육!!"
+
+#: deathforth/events/unlock/perk2.df:113
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "Peak Performance Perks"
+msgstr "최고의 몸을 위한 특전"
+
+#: deathforth/events/unlock/perk2.df:115
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"The Last Bodybuilder looks lost in thought.\r\n"
+"\t"
+msgstr ""
+"최후의 보디빌더가 생각에 잠겨 있다.\r\n"
+"\t"
+
+#: deathforth/events/unlock/perk2.df:116
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"YOU CAN'T RELY ON GUNS TO SURVIVE... THE ONLY GUNS YOU CAN TRULY RELY ON... ARE THESE GUNS\r\n"
+"\t"
+msgstr ""
+"살아남으려면 총에만 의지해선 안 돼... 진짜 의지할 수 있는 총은... 바로 이 대포 같은 팔이지!!\r\n"
+"\t"
+
+#: deathforth/events/unlock/perk2.df:117
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "T*L*B flexes, BIG TIME"
+msgstr "T*L*B가 아주 크게 근육을 자랑한다!"
+
+#: deathforth/events/unlock/perk2.df:120
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"T*L*B is going through his posing routine.\r\n"
+"\t\t"
+msgstr ""
+"T*L*B가 포즈 연습을 하고 있다.\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/perk2.df:121
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"I'M READY FOR THE NEXT BODYBUILDING COMPETITION, WHEN CIVILIZATION COMES BACK!\r\n"
+"\t\t"
+msgstr ""
+"문명이 돌아오면 열릴 다음 보디빌딩 대회, 준비 완료다!!\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/perk2.df:122
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "T*L*B grunts and flexes at an alarming speed!"
+msgstr "T*L*B가 괴성을 내며 무서울 만큼 빠르게 근육을 자랑한다!"
+
+#: deathforth/events/unlock/perk2.df:127
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"BIG BRUISER AND MARTIAL ARTIST ARE VERY STRONG IN THE BEGINNING OF A GAME!\r\n"
+"\t\t"
+msgstr ""
+"덩치 깡패와 무술가는 게임 초반에 아주 강력하지!!\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/perk2.df:128
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "He emphasizes by FLEXING when saying 'STRONG'!"
+msgstr "그가 '강력'을 강조하며 근육에 힘을 준다!"
+
+#: deathforth/events/unlock/perk2.df:132
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"HIDDEN POTENTIAL CAN REALLY PAY OFF WITH HEAVY TRAINING AND A SLOW WEAPON!\r\n"
+"\t\t"
+msgstr ""
+"숨은 잠재력은 맹훈련과 느린 무기를 만나면 정말 빛을 발하지!!\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/perk2.df:133
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "T*L*B flexes a little bit more!"
+msgstr "T*L*B가 근육을 조금 더 자랑한다!"
+
+#: deathforth/events/unlock/perk2.df:137
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"I LOVE BEING STRONG, THAT'S ALL YOU GOTTA KNOW!\r\n"
+"\t\t"
+msgstr ""
+"난 강한 게 좋아! 그거만 알면 돼!!\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/perk2.df:138
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "T*L*B flexes so hard he emits smoke!"
+msgstr "T*L*B가 너무 세게 힘을 줘서 연기가 난다!"
+
+#: deathforth/events/unlock/perk2.df:142
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid ""
+"I'M OUT OF STRENGTH TIPS!\r\n"
+"\t\tYOU'LL HAVE TO CONTINUE YOUR TRAINING ON THE WAY TO CANADA!\r\n"
+"\t\t"
+msgstr ""
+"근력 조언은 다 떨어졌다!!\r\n"
+"\t\t캐나다로 가는 길에 훈련을 계속해!!\r\n"
+"\t\t"
+
+#: deathforth/events/unlock/perk2.df:144
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "T*L*B flexes extra hard, to wish you luck!"
+msgstr "T*L*B가 행운을 빌며 더욱 세게 근육에 힘을 준다!"
+
+#: deathforth/events/unlock/perk2.df:150
+msgctxt "deathforth/events/unlock/perk2.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/perk3.df:54
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "  UPGRADES LEFT: "
+msgstr "  남은 강화: "
+
+#: deathforth/events/unlock/perk3.df:55
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid " UNLOCKS: "
+msgstr " 해금: "
+
+#: deathforth/events/unlock/perk3.df:73
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "A GUN IS LIKE A LITTLE CAR SORT OF"
+msgstr "총은 약간 작은 차 같지!!"
+
+#: deathforth/events/unlock/perk3.df:79
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "COMES WITH FREE HATCHET"
+msgstr "손도끼 무료 증정!!"
+
+#: deathforth/events/unlock/perk3.df:85
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "A STEADY HAND"
+msgstr "흔들림 없는 손!!"
+
+#: deathforth/events/unlock/perk3.df:91
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "NUTS ABOUT GUNS"
+msgstr "총에 미친 사람!!"
+
+#: deathforth/events/unlock/perk3.df:97
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "PATENT PENDING"
+msgstr "특허 출원 중!!"
+
+#: deathforth/events/unlock/perk3.df:103
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "YOU'RE A NATURAL"
+msgstr "타고난 재능!!"
+
+#: deathforth/events/unlock/perk3.df:109
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "A REAL DO IT YOURSELF WEAPON"
+msgstr "진짜 손수 만드는 무기!!"
+
+#: deathforth/events/unlock/perk3.df:115
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "THE PURIFYING FIRE"
+msgstr "정화의 불길!!"
+
+#: deathforth/events/unlock/perk3.df:121
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "CRITICAL SPLAT"
+msgstr "치명적인 강타!!"
+
+#: deathforth/events/unlock/perk3.df:127
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "SKILLED AT ALL"
+msgstr "전부 능숙하게!!"
+
+#: deathforth/events/unlock/perk3.df:133
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "QUICKDRAW MAESTRO"
+msgstr "속사 명인!!"
+
+#: deathforth/events/unlock/perk3.df:139
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "THE POWERFUL SWORD-SAINT"
+msgstr "강력한 검성!!"
+
+#: deathforth/events/unlock/perk3.df:145
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "FIE AND PARRY"
+msgstr "찌르고 받아치기!!"
+
+#: deathforth/events/unlock/perk3.df:151
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "ARTILLERY ROUNDS"
+msgstr "포탄 발사!!"
+
+#: deathforth/events/unlock/perk3.df:157
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "NEWTON'S SECOND LAW"
+msgstr "뉴턴의 제2법칙!!"
+
+#: deathforth/events/unlock/perk3.df:176
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "Weapon and Shooting Perks"
+msgstr "무기와 사격 특전"
+
+#: deathforth/events/unlock/perk3.df:178
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid ""
+"When the hordes swarm in\r\n"
+"\tYou need a good weapon near\r\n"
+"\t..... And lots of ammo\r\n"
+"\t-- Rambeaux's Haiku"
+msgstr ""
+"좀비 떼가 몰려오면\r\n"
+"\t좋은 무기를 곁에 두고\r\n"
+"\t..... 탄약도 많이\r\n"
+"\t-- 람보의 하이쿠"
+
+#: deathforth/events/unlock/perk3.df:184
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid ""
+"Zombies rushing in\r\n"
+"\t\tAs long as you have ammo\r\n"
+"\t\t**** Nothing is over ****\r\n"
+"\t\t-- Rambeaux's Haiku #2"
+msgstr ""
+"좀비가 달려온다\r\n"
+"\t\t탄약이 남아 있는 한\r\n"
+"\t\t**** 아직 끝나지 않았다 ****\r\n"
+"\t\t-- 람보의 하이쿠 #2"
+
+#: deathforth/events/unlock/perk3.df:191
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid ""
+"Try Trademark Weapon\r\n"
+"\t\tSpecialist gives Sword\r\n"
+"\t\tGourmand gives Cleaver\r\n"
+"\t\t-- Rambeaux's Haiku #3"
+msgstr ""
+"시그니처 무기를 써 봐\r\n"
+"\t\t전문가는 검을 받고\r\n"
+"\t\t대식가는 식칼을 받지\r\n"
+"\t\t-- 람보의 하이쿠 #3"
+
+#: deathforth/events/unlock/perk3.df:198
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid ""
+"Train up shooting skill\r\n"
+"\t\tYour shots will pierce more zombies\r\n"
+"\t\tVictory grows near\r\n"
+"\t\t-- Rambeaux's Haiku #4"
+msgstr ""
+"사격 기술을 단련하면\r\n"
+"\t\t총알이 좀비를 더 꿰뚫고\r\n"
+"\t\t승리가 가까워진다\r\n"
+"\t\t-- 람보의 하이쿠 #4"
+
+#: deathforth/events/unlock/perk3.df:205
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid ""
+"The real, true weapons\r\n"
+"\t\tAre the ones inside our hearts\r\n"
+"\t\t( Figuritively )\r\n"
+"\t\t-- Rambeaux's Haiku #4.5"
+msgstr ""
+"진정한 무기란\r\n"
+"\t\t우리 마음속에 있는 것\r\n"
+"\t\t( 비유적으로 )\r\n"
+"\t\t-- 람보의 하이쿠 #4.5"
+
+#: deathforth/events/unlock/perk3.df:213
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid ""
+"I ran out of perks\r\n"
+"\t\tYou now know all I can teach\r\n"
+"\t\tNow go and survive\r\n"
+"\t\t-- Rambeaux's Haiku #5"
+msgstr ""
+"특전이 다 떨어졌네\r\n"
+"\t\t내 가르침을 모두 받았으니\r\n"
+"\t\t이제 가서 살아남아라\r\n"
+"\t\t-- 람보의 하이쿠 #5"
+
+#: deathforth/events/unlock/perk3.df:222
+msgctxt "deathforth/events/unlock/perk3.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/perkblank.df:12
+msgctxt "deathforth/events/unlock/perkblank.df"
+msgid "Perks"
+msgstr "특전"
+
+#: deathforth/events/unlock/perkblank.df:14
+msgctxt "deathforth/events/unlock/perkblank.df"
+msgid "AAAAAAAAAA."
+msgstr "아아아아아아아."
+
+#: deathforth/events/unlock/perkblank.df:18
+msgctxt "deathforth/events/unlock/perkblank.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/perktrait.df:96
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "You can now use the Custom Characters screen to make people with the "
+msgstr "이제 커스텀 캐릭터 화면에서 캐릭터를 만들 수 있다. 다음 "
+
+#: deathforth/events/unlock/perktrait.df:97
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "You have upgraded the "
+msgstr "강화 완료: "
+
+#: deathforth/events/unlock/perktrait.df:98
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid ""
+"All characters you assign or have assigned this perk will get to enjoy the "
+"new effects!"
+msgstr "이 특전을 새로 지정하거나 이미 지정한 모든 캐릭터에게 새로운 효과가 적용된다!"
+
+#: deathforth/events/unlock/perktrait.df:100
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " trait!"
+msgstr " 특성을 가진 캐릭터를!"
+
+#: deathforth/events/unlock/perktrait.df:104
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " perk!"
+msgstr " 특전!"
+
+#: deathforth/events/unlock/perktrait.df:106
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "This perk has reached the maximum level!"
+msgstr "이 특전은 최대 레벨에 도달했다!"
+
+#: deathforth/events/unlock/perktrait.df:120
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "Unlock "
+msgstr "해금: "
+
+#: deathforth/events/unlock/perktrait.df:120
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "Upgrade "
+msgstr "강화: "
+
+#: deathforth/events/unlock/perktrait.df:121
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " Trait"
+msgstr " 특성"
+
+#: deathforth/events/unlock/perktrait.df:121
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " Perk"
+msgstr " 특전"
+
+#: deathforth/events/unlock/perktrait.df:127
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "BACK"
+msgstr "뒤로"
+
+#: deathforth/events/unlock/perktrait.df:131
+#: deathforth/events/unlock/perktrait.df:136
+#: deathforth/events/unlock/perktrait.df:150
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " ZP"
+msgstr " ZP"
+
+#: deathforth/events/unlock/perktrait.df:134
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "Costs "
+msgstr "비용: "
+
+#: deathforth/events/unlock/perktrait.df:134
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " ZP to unlock!"
+msgstr " ZP로 해금!"
+
+#: deathforth/events/unlock/perktrait.df:136
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid " COST: "
+msgstr " 비용: "
+
+#: deathforth/events/unlock/perktrait.df:158
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "Perks and Traits"
+msgstr "특전과 특성"
+
+#: deathforth/events/unlock/perktrait.df:160
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid ""
+"I'm developing an amazing new product\r\n"
+"\tI call them... unlocks. Or 'uncks' for short"
+msgstr ""
+"놀라운 신제품을 개발 중이야.\r\n"
+"\t이름은... 해금. 줄여서 '해꾸'라고 하지."
+
+#: deathforth/events/unlock/perktrait.df:164
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid ""
+"You're going to need to get some Zombo Points to see what I mean! I also "
+"invented those just now."
+msgstr "무슨 말인지 알려면 좀보 포인트를 좀 모아 와! 이것도 방금 내가 발명했어."
+
+#: deathforth/events/unlock/perktrait.df:166
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid ""
+"Witness the magic of 'cheevos'!\r\n"
+"\t\tWait, I meant to say 'unlocks'."
+msgstr ""
+"'업적'의 마법을 봐!\r\n"
+"\t\t잠깐, '해금'이라고 하려던 거야."
+
+#: deathforth/events/unlock/perktrait.df:170
+msgctxt "deathforth/events/unlock/perktrait.df"
+msgid "Leave for now"
+msgstr "일단 떠난다"
+
+#: deathforth/events/unlock/trait1.df:27
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid " UNLOCKS LEFT: "
+msgstr " 남은 해금: "
+
+#: deathforth/events/unlock/trait1.df:45
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "SPECIAL OPS MORE LIKE SPECIAL PLOPS"
+msgstr "특수 작전? 특수 뻘짓이지!!"
+
+#: deathforth/events/unlock/trait1.df:51
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "LESS GUNNING MORE RUNNING"
+msgstr "총질은 줄이고 달리기는 늘리고!!"
+
+#: deathforth/events/unlock/trait1.df:57
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "BODYGUARD OUTFIT NOT INCLUDED"
+msgstr "경호원 복장은 별도 구매!!"
+
+#: deathforth/events/unlock/trait1.df:63
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "THROWING ZOMBIES LIKE THEY'RE CHAIRS"
+msgstr "의자처럼 좀비를 던진다!!"
+
+#: deathforth/events/unlock/trait1.df:69
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "ANIME IS THE ULTIMATE WEAPON"
+msgstr "애니메이션이 궁극의 무기다!!"
+
+#: deathforth/events/unlock/trait1.df:75
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "SLEEPING THROUGH THE APOCALYPSE"
+msgstr "종말에도 꿀잠!!"
+
+#: deathforth/events/unlock/trait1.df:81
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "A TASTE FOR THE FINER THINGS"
+msgstr "고급진 입맛!!"
+
+#: deathforth/events/unlock/trait1.df:87
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "GIVE ME THOSE RARE ENCOUNTERS"
+msgstr "희귀한 만남을 원해!!"
+
+#: deathforth/events/unlock/trait1.df:93
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "LITTLE BITS"
+msgstr "쪼끔씩 먹기!!"
+
+#: deathforth/events/unlock/trait1.df:99
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "THE PHOENIX HATH ARISEN *nasal voice*"
+msgstr "불사조가 부활했도다 *코맹맹이 소리*"
+
+#: deathforth/events/unlock/trait1.df:105
+#: deathforth/events/unlock/trait1.df:111
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "THE ULTIMATE DINGUS"
+msgstr "궁극의 얼간이!!"
+
+#: deathforth/events/unlock/trait1.df:117
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "WHO KNOWS WHO I AM"
+msgstr "내가 누군지 누가 알겠어!!"
+
+#: deathforth/events/unlock/trait1.df:123
+msgctxt "deathforth/events/unlock/trait1.df"
+msgid "HELP MY BACK HURTS"
+msgstr "아이고, 허리야!!"

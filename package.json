@@ -1,0 +1,7 @@
+{
+  "name": "drtc-korean-patch",
+  "version": "0.2.0",
+  "description": "Build Korean translations locally from the user-owned English game",
+  "author": "DRTC Korean Patch contributors",
+  "private": true
+}

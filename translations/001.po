@@ -1,0 +1,2453 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DRTC Korean Patch\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: deathforth/blurb/aggressive.df:5
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "One time I punched a zombie so hard it exploded!"
+msgstr "한번은 좀비를 너무 세게 때려서 터져 버린 적도 있어!"
+
+#: deathforth/blurb/aggressive.df:9
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I don't believe you, "
+msgstr "못 믿겠는데, "
+
+#: deathforth/blurb/aggressive.df:10
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "You're a PHONEY!"
+msgstr "이 사기꾼아!"
+
+#: deathforth/blurb/aggressive.df:13
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "No way! Awesome!"
+msgstr "말도 안 돼! 대박!"
+
+#: deathforth/blurb/aggressive.df:22
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "What if we attach bladed weapons to the outside of the car?"
+msgstr "차 바깥에 칼날 무기를 달면 어떨까?"
+
+#: deathforth/blurb/aggressive.df:26
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "That would never work, "
+msgstr "그건 절대 안 될걸, "
+
+#: deathforth/blurb/aggressive.df:27
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "It's a bad idea!"
+msgstr "최악의 아이디어야!"
+
+#: deathforth/blurb/aggressive.df:30
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Yeah, just like a modern scythed chariot!"
+msgstr "그래, 현대판 낫 전차 같은 거지!"
+
+#: deathforth/blurb/aggressive.df:39
+msgctxt "deathforth/blurb/aggressive.df"
+msgid ""
+"Hey! If you're going to take so long to shoot something give me some of your"
+" ammo!"
+msgstr "야! 뭐 하나 쏘는 데 그렇게 오래 걸릴 거면 탄약 좀 나눠 줘!"
+
+#: deathforth/blurb/aggressive.df:43
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Take some, "
+msgstr "좀 가져가, "
+
+#: deathforth/blurb/aggressive.df:44
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I'd probably miss anyway."
+msgstr "어차피 난 빗맞힐 것 같으니까."
+
+#: deathforth/blurb/aggressive.df:47
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Shut up! This is my ammo."
+msgstr "닥쳐! 이건 내 탄약이야."
+
+#: deathforth/blurb/aggressive.df:56
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Let's go run over some zombies with the car!"
+msgstr "차로 좀비 좀 치러 가자!"
+
+#: deathforth/blurb/aggressive.df:60
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "That's a horrible idea, "
+msgstr "끔찍한 생각이야, "
+
+#: deathforth/blurb/aggressive.df:61
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We can't risk damaging the car for stupid reasons!"
+msgstr "멍청한 이유로 차를 망가뜨릴 순 없어!"
+
+#: deathforth/blurb/aggressive.df:64
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Yeah! That would be a great and we'd save on ammo!"
+msgstr "좋아! 끝내주는데다 탄약도 아낄 수 있겠어!"
+
+#: deathforth/blurb/aggressive.df:74
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I need more weapons! Give me all the weapons!"
+msgstr "무기가 더 필요해! 무기 전부 내놔!"
+
+#: deathforth/blurb/aggressive.df:78
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Fine, take mine, "
+msgstr "좋아, 내 거 가져가, "
+
+#: deathforth/blurb/aggressive.df:79
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I don't want them anymore!"
+msgstr "이제 필요 없어!"
+
+#: deathforth/blurb/aggressive.df:82
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "No! We need to divide the weapons evenly!"
+msgstr "안 돼! 무기는 공평하게 나눠야 해!"
+
+#: deathforth/blurb/aggressive.df:89
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "their favorite weapons"
+msgstr "자기 애용 무기"
+
+#: deathforth/blurb/aggressive.df:90
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "their narrow escapes"
+msgstr "구사일생 탈출담"
+
+#: deathforth/blurb/aggressive.df:91
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "their best zombie kills"
+msgstr "최고의 좀비 사냥 기록"
+
+#: deathforth/blurb/aggressive.df:92
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "how high they can kick"
+msgstr "발차기를 얼마나 높이 할 수 있는지"
+
+#: deathforth/blurb/aggressive.df:93
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "how well they can drive"
+msgstr "운전 실력"
+
+#: deathforth/blurb/aggressive.df:94
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "how well they can use a gun"
+msgstr "총 솜씨"
+
+#: deathforth/blurb/aggressive.df:95
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "how much they can bench press"
+msgstr "벤치프레스 기록"
+
+#: deathforth/blurb/aggressive.df:96
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "a car they once owned"
+msgstr "예전에 몰던 차"
+
+#: deathforth/blurb/aggressive.df:97
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "a sweet jump they once did on a bicycle"
+msgstr "예전에 자전거로 했던 끝내주는 점프"
+
+#: deathforth/blurb/aggressive.df:98
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "how good they are at board games"
+msgstr "보드게임 실력"
+
+#: deathforth/blurb/aggressive.df:99
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "their video game speed runs"
+msgstr "비디오 게임 스피드런 기록"
+
+#: deathforth/blurb/aggressive.df:104
+msgctxt "deathforth/blurb/aggressive.df"
+msgid " brags about "
+msgstr "의 자랑 타임: "
+
+#: deathforth/blurb/aggressive.df:114
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We should run these zombies down with the car!"
+msgstr "이 좀비들을 차로 싹 밀어 버려야 해!"
+
+#: deathforth/blurb/aggressive.df:115
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "It's always worth trying to loot a place. Or else we could starve."
+msgstr "어디든 뒤져 볼 가치는 있어. 안 그러면 굶어 죽을걸."
+
+#: deathforth/blurb/aggressive.df:116
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We should try to kill every zombie we can!"
+msgstr "보이는 좀비는 전부 죽여야 해!"
+
+#: deathforth/blurb/aggressive.df:117
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I need to get in my zombie splattering practice."
+msgstr "좀비 박살 연습 좀 해야겠어."
+
+#: deathforth/blurb/aggressive.df:118
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Let's try to find a faster car! This is taking forever."
+msgstr "더 빠른 차를 찾자! 이러다 평생 걸리겠어."
+
+#: deathforth/blurb/aggressive.df:120
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I can't wait to fight some more zombies!"
+msgstr "좀비랑 더 싸우고 싶어 죽겠어!"
+
+#: deathforth/blurb/aggressive.df:121
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "My weapons are a lot cleaner than they should be."
+msgstr "내 무기가 생각보다 너무 깨끗해."
+
+#: deathforth/blurb/aggressive.df:122
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Can this car go any faster?"
+msgstr "이 차 더 빨리 못 가?"
+
+#: deathforth/blurb/aggressive.df:123
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "I wish I had a bigger gun!"
+msgstr "더 큰 총이 있었으면!"
+
+#: deathforth/blurb/aggressive.df:124
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We need more lootin' so we can do some more shootin'."
+msgstr "더 많이 털어야 더 많이 쏘지."
+
+#: deathforth/blurb/aggressive.df:125
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Let's take the car off some sweet jumps!"
+msgstr "차로 끝내주는 점프 좀 해 보자!"
+
+#: deathforth/blurb/aggressive.df:126
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Let's go some place with a lot of zombies."
+msgstr "좀비 많은 데로 가 보자."
+
+#: deathforth/blurb/aggressive.df:127
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "It would be great if we were in a tank right now."
+msgstr "지금 탱크를 타고 있으면 딱 좋을 텐데."
+
+#: deathforth/blurb/aggressive.df:128
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We can just run over zombies with the car!"
+msgstr "그냥 차로 좀비를 치고 가면 돼!"
+
+#: deathforth/blurb/aggressive.df:129
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We should go shoot something!"
+msgstr "뭐라도 쏘러 가자!"
+
+#: deathforth/blurb/aggressive.df:130
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "We don't need to slow down!"
+msgstr "속도 줄일 필요 없어!"
+
+#: deathforth/blurb/aggressive.df:131
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Just drive on the side of the road if you have to."
+msgstr "필요하면 그냥 갓길로 달려."
+
+#: deathforth/blurb/aggressive.df:132
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "Run over that zombie, yeah!"
+msgstr "저 좀비 치어 버려, 그렇지!"
+
+#: deathforth/blurb/aggressive.df:133
+msgctxt "deathforth/blurb/aggressive.df"
+msgid ""
+"Who cares if you're tired? Just keep swinging your weapon at all times!"
+msgstr "피곤한 게 대수야? 무기를 쉬지 말고 휘둘러!"
+
+#: deathforth/blurb/aggressive.df:134
+msgctxt "deathforth/blurb/aggressive.df"
+msgid "The bigger the weapon the more things I can hit in one swing!"
+msgstr "무기가 클수록 한 번에 더 많이 때릴 수 있지!"
+
+#: deathforth/blurb/blurbdeck.df:7
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I need to use the bathroom."
+msgstr "화장실 가고 싶어."
+
+#: deathforth/blurb/blurbdeck.df:10
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "You should have went when we stopped last!"
+msgstr "아까 섰을 때 갔어야지!"
+
+#: deathforth/blurb/blurbdeck.df:18
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Anyone want to do a sing-along?"
+msgstr "다 같이 노래 부를 사람?"
+
+#: deathforth/blurb/blurbdeck.df:21
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "We should do a shut-up-along."
+msgstr "다 같이 입 다물기나 하자."
+
+#: deathforth/blurb/blurbdeck.df:30
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "This is some BULLCRAP."
+msgstr "진짜 개소리 같은 상황이네."
+
+#: deathforth/blurb/blurbdeck.df:33
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I agree, "
+msgstr "동감이야, "
+
+#: deathforth/blurb/blurbdeck.df:43
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Maybe we should turn back..."
+msgstr "돌아가는 게 좋지 않을까..."
+
+#: deathforth/blurb/blurbdeck.df:46
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Maybe you should shut up!"
+msgstr "너나 입 다무는 게 좋겠다!"
+
+#: deathforth/blurb/blurbdeck.df:55
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I once saw a bodybuilder throw a car at some zombies!"
+msgstr "보디빌더가 좀비들한테 차를 던지는 걸 본 적 있어!"
+
+#: deathforth/blurb/blurbdeck.df:59
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "That makes no sense, "
+msgstr "말이 안 되잖아, "
+
+#: deathforth/blurb/blurbdeck.df:60
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "You're a weirdo!"
+msgstr "이 이상한 놈!"
+
+#: deathforth/blurb/blurbdeck.df:63
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Oh NICE!"
+msgstr "오 멋진데!"
+
+#: deathforth/blurb/blurbdeck.df:70
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "zombies"
+msgstr "좀비"
+
+#: deathforth/blurb/blurbdeck.df:71
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "being dirty"
+msgstr "씻지 못하는 것"
+
+#: deathforth/blurb/blurbdeck.df:72 deathforth/blurb/blurbdeck.df:102
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "the weather"
+msgstr "날씨"
+
+#: deathforth/blurb/blurbdeck.df:73
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "bugs"
+msgstr "벌레"
+
+#: deathforth/blurb/blurbdeck.df:74
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "how everyone is a jerk"
+msgstr "다들 재수 없는 것"
+
+#: deathforth/blurb/blurbdeck.df:75
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "'s dad"
+msgstr "의 아빠"
+
+#: deathforth/blurb/blurbdeck.df:80
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid " whines incessantly about "
+msgstr "의 끝없는 불평: "
+
+#: deathforth/blurb/blurbdeck.df:90
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid " broods about a tragic past....."
+msgstr "은(는) 비극적인 과거를 곱씹는다....."
+
+#: deathforth/blurb/blurbdeck.df:94
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid " does some serious eye rolling."
+msgstr "은(는) 진지하게 눈을 굴린다."
+
+#: deathforth/blurb/blurbdeck.df:100
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "an old pet"
+msgstr "옛날에 키우던 반려동물"
+
+#: deathforth/blurb/blurbdeck.df:101
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Canada"
+msgstr "캐나다"
+
+#: deathforth/blurb/blurbdeck.df:103
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "dinosaurs"
+msgstr "공룡"
+
+#: deathforth/blurb/blurbdeck.df:104
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "the next step in the plan"
+msgstr "계획의 다음 단계"
+
+#: deathforth/blurb/blurbdeck.df:105
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "something funny in the past"
+msgstr "옛날에 있었던 웃긴 일"
+
+#: deathforth/blurb/blurbdeck.df:110
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid " talks about "
+msgstr "의 수다 주제: "
+
+#: deathforth/blurb/blurbdeck.df:119
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Twitter"
+msgstr "트위터"
+
+#: deathforth/blurb/blurbdeck.df:120
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "fast food"
+msgstr "패스트푸드"
+
+#: deathforth/blurb/blurbdeck.df:121
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "email"
+msgstr "이메일"
+
+#: deathforth/blurb/blurbdeck.df:122
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "selfies"
+msgstr "셀카"
+
+#: deathforth/blurb/blurbdeck.df:123
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "celebrity news"
+msgstr "연예 뉴스"
+
+#: deathforth/blurb/blurbdeck.df:124
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "viral videos"
+msgstr "바이럴 영상"
+
+#: deathforth/blurb/blurbdeck.df:125
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "videogame streamers"
+msgstr "게임 스트리머"
+
+#: deathforth/blurb/blurbdeck.df:126
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "the concept of hygiene"
+msgstr "위생이라는 개념"
+
+#: deathforth/blurb/blurbdeck.df:127
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "crudely illustrated fanfiction"
+msgstr "조잡한 그림의 팬픽"
+
+#: deathforth/blurb/blurbdeck.df:128
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "imageboards"
+msgstr "이미지 게시판"
+
+#: deathforth/blurb/blurbdeck.df:129
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "creepypasta"
+msgstr "괴담"
+
+#: deathforth/blurb/blurbdeck.df:132
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Everything will be fine if I can get to Canada."
+msgstr "캐나다에만 가면 다 괜찮아질 거야."
+
+#: deathforth/blurb/blurbdeck.df:133
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Zombies are no problem. Well, maybe a small problem."
+msgstr "좀비는 문제 없어. 뭐, 쬐끔 문제일지도."
+
+#: deathforth/blurb/blurbdeck.df:134
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Rooaaaad triiiiip."
+msgstr "로오오드 트리이이입."
+
+#: deathforth/blurb/blurbdeck.df:135
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Everything smells a lot different than it did before soap became rare."
+msgstr "비누가 귀해진 뒤로 세상 냄새가 많이 달라졌어."
+
+#: deathforth/blurb/blurbdeck.df:136
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Hope I don't run into any more bandits..."
+msgstr "약탈자를 또 만나지 않았으면..."
+
+#: deathforth/blurb/blurbdeck.df:137
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "With civilization gone, I mostly just miss "
+msgstr "문명이 사라진 지금, 제일 그리운 건 "
+
+#: deathforth/blurb/blurbdeck.df:138
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid ""
+"If only we knew about throwing chairs when the zombies first showed up..."
+msgstr "좀비가 처음 나타났을 때 의자 던지기를 알았더라면..."
+
+#: deathforth/blurb/blurbdeck.df:139
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid ""
+"I wonder if I could get strong enough to just throw the car at zombies..."
+msgstr "힘을 키우면 좀비한테 차를 그냥 던질 수 있을까..."
+
+#: deathforth/blurb/blurbdeck.df:140
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Are we there yet?"
+msgstr "아직 멀었어?"
+
+#: deathforth/blurb/blurbdeck.df:141
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Let's hope the car doesn't break down..."
+msgstr "차가 퍼지지 않기를..."
+
+#: deathforth/blurb/blurbdeck.df:142
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I'm just glad we don't have to deal with fast zombies."
+msgstr "빠른 좀비를 상대하지 않아도 되는 게 다행이야."
+
+#: deathforth/blurb/blurbdeck.df:143
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "It's surprising how long a burger or hot dog takes to go bad."
+msgstr "버거나 핫도그가 상하는 데 이렇게 오래 걸릴 줄이야."
+
+#: deathforth/blurb/blurbdeck.df:144
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "This can opener has seen better days."
+msgstr "이 깡통따개도 한물갔네."
+
+#: deathforth/blurb/blurbdeck.df:145
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I can't wait to get out of this car and stretch my legs out."
+msgstr "빨리 차에서 내려서 다리 좀 쭉 펴고 싶다."
+
+#: deathforth/blurb/blurbdeck.df:146
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I wonder how things are further up north?"
+msgstr "북쪽은 사정이 어떨까?"
+
+#: deathforth/blurb/blurbdeck.df:147
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Maybe the Preppers were onto something after all! "
+msgstr "생존주의자들 말이 결국 맞았나 봐! "
+
+#: deathforth/blurb/blurbdeck.df:148
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid ""
+"It's times like this that make we wonder if I should have been a Prepper."
+msgstr "이럴 때마다 나도 생존주의자가 됐어야 했나 싶어."
+
+#: deathforth/blurb/blurbdeck.df:149
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I wonder how bad they have it on the west coast?"
+msgstr "서부 해안은 얼마나 심할까?"
+
+#: deathforth/blurb/blurbdeck.df:151
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Don't forget to check every single toilet for toilet loot."
+msgstr "화장실 변기는 하나도 빠짐없이 뒤져 봐."
+
+#: deathforth/blurb/blurbdeck.df:152
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Hockey sticks are good weapons, no wonder Canada is doing fine."
+msgstr "하키 스틱은 좋은 무기야. 캐나다가 멀쩡한 것도 당연하지."
+
+#: deathforth/blurb/blurbdeck.df:153
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Keep an eye out for a sweeter car."
+msgstr "더 좋은 차가 있나 잘 봐 둬."
+
+#: deathforth/blurb/blurbdeck.df:154
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I want to find a tank to drive around."
+msgstr "탱크를 찾아서 몰고 다니고 싶어."
+
+#: deathforth/blurb/blurbdeck.df:155
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "These roads are awful. Cars don't last long on them."
+msgstr "길 상태가 끔찍해. 이런 길에선 차가 오래 못 버텨."
+
+#: deathforth/blurb/blurbdeck.df:156
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "This car isn't going to last forever."
+msgstr "이 차도 영원히 버티진 못할 거야."
+
+#: deathforth/blurb/blurbdeck.df:157
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I need to save up a lot of ammo if I'm going to make it."
+msgstr "살아남으려면 탄약을 많이 모아 둬야 해."
+
+#: deathforth/blurb/blurbdeck.df:158
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Every day gets me a little closer to Canada."
+msgstr "하루하루 캐나다에 조금씩 가까워지고 있어."
+
+#: deathforth/blurb/blurbdeck.df:159
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Sports sticks like bats and golf clubs are great, until they break."
+msgstr "방망이나 골프채 같은 운동 막대는 좋지. 부러지기 전까진."
+
+#: deathforth/blurb/blurbdeck.df:160
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "It takes a real strong and fit person to use a sledgehammer well."
+msgstr "큰 망치를 제대로 쓰려면 정말 힘세고 튼튼해야 해."
+
+#: deathforth/blurb/blurbdeck.df:161
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Explosives are great until you blow yourself up."
+msgstr "폭발물은 좋지. 자폭하기 전까진."
+
+#: deathforth/blurb/blurbdeck.df:162
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Cans of food are the new money. Cash isn't as nutritious."
+msgstr "통조림이 새로운 화폐야. 현금은 영양가가 없거든."
+
+#: deathforth/blurb/blurbdeck.df:163
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I bet aliens are responsible for these zombies."
+msgstr "이 좀비들은 분명 외계인 짓이야."
+
+#: deathforth/blurb/blurbdeck.df:164
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "Furniture is the natural enemy of the zombie."
+msgstr "가구는 좀비의 천적이야."
+
+#: deathforth/blurb/blurbdeck.df:165
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "When a siege happens, you have to go all out!"
+msgstr "포위전이 시작되면 전력을 다해야 해!"
+
+#: deathforth/blurb/blurbdeck.df:166
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I hate fighting at night. It's best to leave early."
+msgstr "밤에 싸우는 건 싫어. 일찍 떠나는 게 최고야."
+
+#: deathforth/blurb/blurbdeck.df:167
+msgctxt "deathforth/blurb/blurbdeck.df"
+msgid "I hope it doesn't rain. It seems to irritate the zombies."
+msgstr "비가 안 왔으면. 비 오면 좀비들이 예민해지는 것 같아."
+
+#: deathforth/blurb/dull.df:3
+msgctxt "deathforth/blurb/dull.df"
+msgid "Why couldn't it have been a werewolf apocalypse?"
+msgstr "왜 늑대인간 종말이 아니었던 거야?"
+
+#: deathforth/blurb/dull.df:4
+msgctxt "deathforth/blurb/dull.df"
+msgid "At least then there'd be WEREWOLVES."
+msgstr "그랬으면 적어도 늑대인간은 있었을 거 아냐."
+
+#: deathforth/blurb/dull.df:8
+msgctxt "deathforth/blurb/dull.df"
+msgid "If everyone listened to me, we'd be in Canada already!"
+msgstr "다들 내 말만 들었으면 벌써 캐나다에 있었을 거야!"
+
+#: deathforth/blurb/dull.df:9
+msgctxt "deathforth/blurb/dull.df"
+msgid "No one ever listens to me!"
+msgstr "아무도 내 말을 안 들어!"
+
+#: deathforth/blurb/dull.df:11
+msgctxt "deathforth/blurb/dull.df"
+msgid "This wouldn't a happened if we kept Obama out of the White House."
+msgstr "오바마를 백악관에 못 들어가게 했으면 이런 일은 없었을 텐데."
+
+#: deathforth/blurb/dull.df:12
+msgctxt "deathforth/blurb/dull.df"
+msgid "Thanks a lot zombie Obama."
+msgstr "정말 고맙다, 좀비 오바마."
+
+#: deathforth/blurb/dull.df:13
+msgctxt "deathforth/blurb/dull.df"
+msgid "We should try to set the zombies on fire more. Easiest way."
+msgstr "좀비한테 불을 더 질러야 해. 그게 제일 쉬워."
+
+#: deathforth/blurb/dull.df:14
+msgctxt "deathforth/blurb/dull.df"
+msgid "What's with all this zombie stuff?"
+msgstr "이 좀비 소동은 대체 뭐야?"
+
+#: deathforth/blurb/dull.df:15
+msgctxt "deathforth/blurb/dull.df"
+msgid "Why aren't these zombies running fast like in the movies?"
+msgstr "왜 이 좀비들은 영화처럼 빨리 안 뛰어?"
+
+#: deathforth/blurb/dull.df:17
+msgctxt "deathforth/blurb/dull.df"
+msgid "Where are the exploding zombies and the tongue ones?"
+msgstr "터지는 좀비랑 혀 긴 좀비는 어디 있어?"
+
+#: deathforth/blurb/dull.df:18 deathforth/blurb/dull.df:70
+msgctxt "deathforth/blurb/dull.df"
+msgid "Are we there yet?"
+msgstr "아직 멀었어?"
+
+#: deathforth/blurb/dull.df:19
+msgctxt "deathforth/blurb/dull.df"
+msgid "Free healthcare... in Obama's America."
+msgstr "무상 의료... 오바마의 미국에서."
+
+#: deathforth/blurb/dull.df:20
+msgctxt "deathforth/blurb/dull.df"
+msgid "I know what I'm doing, I've played a lot of zombie games."
+msgstr "나만 믿어. 좀비 게임 엄청 해 봤거든."
+
+#: deathforth/blurb/dull.df:21
+msgctxt "deathforth/blurb/dull.df"
+msgid "I don't want to go to Canada! It's too cold!"
+msgstr "캐나다 가기 싫어! 너무 춥단 말이야!"
+
+#: deathforth/blurb/dull.df:23
+msgctxt "deathforth/blurb/dull.df"
+msgid "I could sure go for ANYTHING ELSE right now."
+msgstr "지금은 다른 거라면 뭐든 좋겠다."
+
+#: deathforth/blurb/dull.df:24
+msgctxt "deathforth/blurb/dull.df"
+msgid ""
+"Wasn't the apocalypse supposed to be rad cars, leather, and way less "
+"waiting?"
+msgstr "종말이라면 멋진 차, 가죽옷, 그리고 기다림은 훨씬 적어야 하는 거 아냐?"
+
+#: deathforth/blurb/dull.df:25
+msgctxt "deathforth/blurb/dull.df"
+msgid "Zombies. Blech. So gauche. What is this, 2004?"
+msgstr "좀비라니. 우웩. 촌스러워. 지금이 2004년이야?"
+
+#: deathforth/blurb/dull.df:26
+msgctxt "deathforth/blurb/dull.df"
+msgid "I wish I was playing more videogames and less hiding from zombies."
+msgstr "좀비 피해 숨는 것 말고 게임이나 더 하고 싶다."
+
+#: deathforth/blurb/dull.df:27
+msgctxt "deathforth/blurb/dull.df"
+msgid "I wonder if we can keep one for a pet."
+msgstr "한 마리 키워 볼 수 있을까."
+
+#: deathforth/blurb/dull.df:28
+msgctxt "deathforth/blurb/dull.df"
+msgid "Remember fun? I remember fun. Man, I miss fun."
+msgstr "재미 기억나? 난 기억나. 아, 재미 그립다."
+
+#: deathforth/blurb/dull.df:29
+msgctxt "deathforth/blurb/dull.df"
+msgid "I guess this is forever now. It sure feels like forever."
+msgstr "이제 이게 영원히 가려나 봐. 진짜 영원 같아."
+
+#: deathforth/blurb/dull.df:30
+msgctxt "deathforth/blurb/dull.df"
+msgid "We should ditch the car and find a big zombie we can ride around on."
+msgstr "차는 버리고 큰 좀비를 하나 잡아서 타고 다니자."
+
+#: deathforth/blurb/dull.df:31
+msgctxt "deathforth/blurb/dull.df"
+msgid "None of these zombies has anything interesting to say."
+msgstr "이 좀비들은 하나같이 재미있는 말을 안 해."
+
+#: deathforth/blurb/dull.df:32
+msgctxt "deathforth/blurb/dull.df"
+msgid "What we need is a LOT of chainsaws."
+msgstr "우리한테 필요한 건 전기톱이야. 아주 많이."
+
+#: deathforth/blurb/dull.df:73
+msgctxt "deathforth/blurb/dull.df"
+msgid "NO, STOP ASKING!"
+msgstr "그만 물어봐!"
+
+#: deathforth/blurb/dull.df:82
+msgctxt "deathforth/blurb/dull.df"
+msgid "This wouldn't have happened if Obama..."
+msgstr "오바마만 아니었어도 이런 일은..."
+
+#: deathforth/blurb/dull.df:86
+msgctxt "deathforth/blurb/dull.df"
+msgid "It doesn't matter anymore, "
+msgstr "이제 그런 거 상관없어, "
+
+#: deathforth/blurb/dull.df:87
+msgctxt "deathforth/blurb/dull.df"
+msgid "TALK ABOUT SOMETHING ELSE!"
+msgstr "딴 얘기 좀 해!"
+
+#: deathforth/blurb/dull.df:90
+msgctxt "deathforth/blurb/dull.df"
+msgid "I know! Thanks a lot, Obama!"
+msgstr "그러니까! 정말 고맙다, 오바마!"
+
+#: deathforth/blurb/dull.df:100
+msgctxt "deathforth/blurb/dull.df"
+msgid "This is all just like my online zombie video games!"
+msgstr "이거 완전 내가 하던 온라인 좀비 게임이랑 똑같아!"
+
+#: deathforth/blurb/dull.df:104
+msgctxt "deathforth/blurb/dull.df"
+msgid "I love those games, "
+msgstr "나도 그 게임 좋아해, "
+
+#: deathforth/blurb/dull.df:115
+msgctxt "deathforth/blurb/dull.df"
+msgid ""
+"Next time we stop I want to use the car battery to power my game console!"
+msgstr "다음에 서면 차 배터리로 게임기 돌릴 거야!"
+
+#: deathforth/blurb/dull.df:119
+msgctxt "deathforth/blurb/dull.df"
+msgid "Only if you 1v1 me, "
+msgstr "나랑 1대1 하면 해 줄게, "
+
+#: deathforth/blurb/dull.df:120
+msgctxt "deathforth/blurb/dull.df"
+msgid "No items, no bullcrap."
+msgstr "아이템 없이, 꼼수 없이."
+
+#: deathforth/blurb/dull.df:124
+msgctxt "deathforth/blurb/dull.df"
+msgid "No."
+msgstr "싫어."
+
+#: deathforth/blurb/optimist.df:5
+msgctxt "deathforth/blurb/optimist.df"
+msgid "It actually turned out to be a nice day today!"
+msgstr "오늘 날씨 생각보다 좋은데!"
+
+#: deathforth/blurb/optimist.df:9
+msgctxt "deathforth/blurb/optimist.df"
+msgid "PFFT, WHAT'S SO NICE ABOUT IT?"
+msgstr "흥, 뭐가 그렇게 좋은데?"
+
+#: deathforth/blurb/optimist.df:10
+msgctxt "deathforth/blurb/optimist.df"
+msgid "Ain't nothin' nice about zombies!"
+msgstr "좀비 천지인데 좋을 게 뭐 있어!"
+
+#: deathforth/blurb/optimist.df:13
+msgctxt "deathforth/blurb/optimist.df"
+msgid "You're right! What a nice day for a road trip."
+msgstr "맞아! 로드 트립하기 딱 좋은 날이야."
+
+#: deathforth/blurb/optimist.df:23
+msgctxt "deathforth/blurb/optimist.df"
+msgid "If you close your eyes this cat food almost tastes like tuna!"
+msgstr "눈 감고 먹으면 이 고양이 사료도 거의 참치 맛이야!"
+
+#: deathforth/blurb/optimist.df:27
+msgctxt "deathforth/blurb/optimist.df"
+msgid "If you close your eyes it almost tastes like crap!"
+msgstr "눈 감고 먹으면 거의 똥 맛이네!"
+
+#: deathforth/blurb/optimist.df:38
+msgctxt "deathforth/blurb/optimist.df"
+msgid ""
+"It may be cold in Canada but I'm looking forward to some cool weather "
+"myself!"
+msgstr "캐나다가 춥긴 하겠지만 난 시원한 날씨가 기대돼!"
+
+#: deathforth/blurb/optimist.df:42
+msgctxt "deathforth/blurb/optimist.df"
+msgid "Its not like we have a choice! I hate cold weather!"
+msgstr "선택의 여지가 없잖아! 난 추운 거 싫어!"
+
+#: deathforth/blurb/optimist.df:45
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I agree, Florida can be unbearable at times without air conditioning."
+msgstr "동감이야. 플로리다는 에어컨 없으면 가끔 못 견디겠더라."
+
+#: deathforth/blurb/optimist.df:51
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I feel pretty good about this. I mean, overall."
+msgstr "느낌이 꽤 좋아. 그러니까, 전반적으로."
+
+#: deathforth/blurb/optimist.df:52
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I still feel like the odds are good, here."
+msgstr "그래도 승산은 있다고 봐."
+
+#: deathforth/blurb/optimist.df:53
+msgctxt "deathforth/blurb/optimist.df"
+msgid "Luck is on my side!"
+msgstr "행운은 내 편이야!"
+
+#: deathforth/blurb/optimist.df:54
+msgctxt "deathforth/blurb/optimist.df"
+msgid "The world really isn't so bad. Sure, it could use some improvements..."
+msgstr "세상이 그렇게 나쁘진 않아. 뭐, 개선할 점이 좀 있긴 하지만..."
+
+#: deathforth/blurb/optimist.df:55
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I can feel it, we're going to run into something good!"
+msgstr "느낌이 와, 뭔가 좋은 걸 만날 거야!"
+
+#: deathforth/blurb/optimist.df:57
+msgctxt "deathforth/blurb/optimist.df"
+msgid "This cat food doesn't taste that bad!"
+msgstr "이 고양이 사료 생각보다 맛없지 않은데!"
+
+#: deathforth/blurb/optimist.df:58
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I don't think I could ever get tired of canned meat."
+msgstr "통조림 고기는 절대 질릴 것 같지 않아."
+
+#: deathforth/blurb/optimist.df:59
+msgctxt "deathforth/blurb/optimist.df"
+msgid "If you ignore the zombies it is just like a regular road trip!"
+msgstr "좀비만 빼면 그냥 평범한 로드 트립이야!"
+
+#: deathforth/blurb/optimist.df:60
+msgctxt "deathforth/blurb/optimist.df"
+msgid "This car should have no problems getting to Canada."
+msgstr "이 차라면 캐나다까지 문제없이 갈 거야."
+
+#: deathforth/blurb/optimist.df:61
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I can't wait to meet other survivors on the way to Canada."
+msgstr "캐나다 가는 길에 다른 생존자들을 빨리 만나고 싶어."
+
+#: deathforth/blurb/optimist.df:62
+msgctxt "deathforth/blurb/optimist.df"
+msgid "We should have no problems getting to Canada."
+msgstr "캐나다까지 문제없이 갈 수 있을 거야."
+
+#: deathforth/blurb/optimist.df:63
+msgctxt "deathforth/blurb/optimist.df"
+msgid "It is just smooth sailing from now on!"
+msgstr "이제부턴 순풍에 돛 단 듯 갈 거야!"
+
+#: deathforth/blurb/optimist.df:64
+msgctxt "deathforth/blurb/optimist.df"
+msgid "It couldn't hurt to team up with more survivors."
+msgstr "생존자를 더 모아서 같이 다니는 것도 나쁘지 않지."
+
+#: deathforth/blurb/optimist.df:65
+msgctxt "deathforth/blurb/optimist.df"
+msgid "It's nice having the whole road to yourself."
+msgstr "길을 통째로 전세 낸 기분이라 좋네."
+
+#: deathforth/blurb/optimist.df:66
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I was planning on moving to Canada anyway!"
+msgstr "어차피 캐나다로 이사 갈 생각이었어!"
+
+#: deathforth/blurb/optimist.df:67
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I'm looking forward to the cold Canadian weather."
+msgstr "캐나다의 추운 날씨가 기대돼."
+
+#: deathforth/blurb/optimist.df:68
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I can see myself getting into hockey!"
+msgstr "나 하키에 빠질 것 같아!"
+
+#: deathforth/blurb/optimist.df:69
+msgctxt "deathforth/blurb/optimist.df"
+msgid "No food? At least I'll lose some weight by the time I get to Canada!"
+msgstr "먹을 게 없다고? 캐나다 도착할 때쯤엔 살 좀 빠지겠네!"
+
+#: deathforth/blurb/optimist.df:70
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I never liked all the mosquitoes in Florida anyway."
+msgstr "어차피 플로리다 모기는 싫었어."
+
+#: deathforth/blurb/optimist.df:71
+msgctxt "deathforth/blurb/optimist.df"
+msgid "I never leave home without my trusty can opener!"
+msgstr "내 믿음직한 깡통따개 없이는 절대 집을 안 나서지!"
+
+#: deathforth/blurb/passive.df:4
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe we should just ignore the next city?"
+msgstr "다음 도시는 그냥 지나치는 게 어때?"
+
+#: deathforth/blurb/passive.df:5
+msgctxt "deathforth/blurb/passive.df"
+msgid "I think we have enough supplies already."
+msgstr "물자는 이미 충분한 것 같아."
+
+#: deathforth/blurb/passive.df:9
+msgctxt "deathforth/blurb/passive.df"
+msgid "NO, WE NEED MORE AMMO SO I CAN SHOOT MORE ZOMBIES!"
+msgstr "안 돼, 좀비를 더 쏘려면 탄약이 더 필요해!"
+
+#: deathforth/blurb/passive.df:10
+msgctxt "deathforth/blurb/passive.df"
+msgid "CAN NEVER HAVE ENOUGH BULLETS, CAN NEVER SHOOT ENOUGH ZOMBIES!"
+msgstr "총알은 많을수록 좋고, 좀비는 쏠수록 좋아!"
+
+#: deathforth/blurb/passive.df:13
+msgctxt "deathforth/blurb/passive.df"
+msgid ""
+"That might be for the best, we will see how we're doing on supplies by then."
+msgstr "그게 나을지도. 그때 가서 물자 사정을 보자."
+
+#: deathforth/blurb/passive.df:23
+msgctxt "deathforth/blurb/passive.df"
+msgid ""
+"Maybe I should wait in the car next time we stop in a town to uh, hold the "
+"fort?"
+msgstr "다음에 마을에 들르면 나는 차에서 기다릴까? 어, 그러니까 진지를 지키는 거지."
+
+#: deathforth/blurb/passive.df:27
+msgctxt "deathforth/blurb/passive.df"
+msgid "What? You don't want to go smash some zombies?"
+msgstr "뭐? 좀비 때려잡으러 가기 싫어?"
+
+#: deathforth/blurb/passive.df:28
+msgctxt "deathforth/blurb/passive.df"
+msgid "WHAT'S WRONG WITH YOU? YOU SCARED OR SOMETHING?"
+msgstr "너 왜 그래? 겁먹었어?"
+
+#: deathforth/blurb/passive.df:31
+msgctxt "deathforth/blurb/passive.df"
+msgid "Yeah, sure. Whatever."
+msgstr "그래, 알았어. 맘대로 해."
+
+#: deathforth/blurb/passive.df:39
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe we should turn back..."
+msgstr "돌아가는 게 좋지 않을까..."
+
+#: deathforth/blurb/passive.df:42
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe you should shut up!"
+msgstr "너나 입 다무는 게 좋겠다!"
+
+#: deathforth/blurb/passive.df:52
+msgctxt "deathforth/blurb/passive.df"
+msgid "Could we slow down a little?"
+msgstr "속도 좀 줄여 줄래?"
+
+#: deathforth/blurb/passive.df:56
+msgctxt "deathforth/blurb/passive.df"
+msgid "Could you shut up a little?"
+msgstr "입 좀 다물어 줄래?"
+
+#: deathforth/blurb/passive.df:59
+msgctxt "deathforth/blurb/passive.df"
+msgid "Sure, whatever."
+msgstr "그래, 알았어."
+
+#: deathforth/blurb/passive.df:65
+msgctxt "deathforth/blurb/passive.df"
+msgid "Is this the right way?"
+msgstr "이 길 맞아?"
+
+#: deathforth/blurb/passive.df:66
+msgctxt "deathforth/blurb/passive.df"
+msgid "Well, no use turning back now."
+msgstr "뭐, 이제 와서 돌아갈 순 없지."
+
+#: deathforth/blurb/passive.df:67
+msgctxt "deathforth/blurb/passive.df"
+msgid "Let's try to avoid any unnecessary risks..."
+msgstr "쓸데없는 위험은 피하자..."
+
+#: deathforth/blurb/passive.df:68
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe if we just stay put this whole zombie thing will blow over."
+msgstr "가만히 있으면 이 좀비 사태도 지나가지 않을까."
+
+#: deathforth/blurb/passive.df:69
+msgctxt "deathforth/blurb/passive.df"
+msgid "There's nothing wrong with taking detours if they're safer."
+msgstr "더 안전하다면 돌아가는 것도 나쁘지 않아."
+
+#: deathforth/blurb/passive.df:71
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe we should just pass the next town."
+msgstr "다음 마을은 그냥 지나가는 게 좋겠어."
+
+#: deathforth/blurb/passive.df:72
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe we shouldn't bring much attention to ourselves."
+msgstr "너무 눈에 띄지 않는 게 좋겠어."
+
+#: deathforth/blurb/passive.df:73
+msgctxt "deathforth/blurb/passive.df"
+msgid "Just sneak in, grab what we need, then get out of there."
+msgstr "몰래 들어가서 필요한 것만 챙기고 바로 빠지자."
+
+#: deathforth/blurb/passive.df:74
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe we should slow down a little."
+msgstr "속도 좀 줄이는 게 좋겠어."
+
+#: deathforth/blurb/passive.df:75
+msgctxt "deathforth/blurb/passive.df"
+msgid "Does this seem like a good idea?"
+msgstr "이거 좋은 생각 맞아?"
+
+#: deathforth/blurb/passive.df:76
+msgctxt "deathforth/blurb/passive.df"
+msgid "Couldn't we just go around the zombies?"
+msgstr "좀비를 그냥 돌아서 갈 순 없어?"
+
+#: deathforth/blurb/passive.df:77
+msgctxt "deathforth/blurb/passive.df"
+msgid "Couldn't we all just get along?"
+msgstr "다 같이 사이좋게 지내면 안 될까?"
+
+#: deathforth/blurb/passive.df:78
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe if we leave the zombies alone they'll leave us alone."
+msgstr "좀비를 내버려 두면 그쪽도 우릴 내버려 두지 않을까."
+
+#: deathforth/blurb/passive.df:79
+msgctxt "deathforth/blurb/passive.df"
+msgid "I'd rather not fight if we don't have to."
+msgstr "안 싸워도 되면 안 싸우고 싶어."
+
+#: deathforth/blurb/passive.df:80
+msgctxt "deathforth/blurb/passive.df"
+msgid "Maybe going and shooting everything isn't the best idea?"
+msgstr "전부 쏴 버리는 게 최선은 아닐지도?"
+
+#: deathforth/blurb/passive.df:81
+msgctxt "deathforth/blurb/passive.df"
+msgid "The important thing is getting supplies. We can avoid fights."
+msgstr "중요한 건 물자를 구하는 거야. 싸움은 피할 수 있어."
+
+#: deathforth/blurb/passive.df:82
+msgctxt "deathforth/blurb/passive.df"
+msgid "Sometimes it's worth it to just pay off bandits."
+msgstr "가끔은 약탈자한테 돈을 쥐여 주는 게 나아."
+
+#: deathforth/blurb/passive.df:83
+msgctxt "deathforth/blurb/passive.df"
+msgid "If the car gets too swarmed with zombies, we can abandon it."
+msgstr "차가 좀비한테 너무 둘러싸이면 버리고 가면 돼."
+
+#: deathforth/blurb/passive.df:84
+msgctxt "deathforth/blurb/passive.df"
+msgid "Molotovs are very dangerous! Let's not mess with those."
+msgstr "화염병은 엄청 위험해! 건드리지 말자."
+
+#: deathforth/blurb/passive.df:85
+msgctxt "deathforth/blurb/passive.df"
+msgid "Explosives are just as dangerous to us as they are to zombies."
+msgstr "폭발물은 좀비한테만큼 우리한테도 위험해."
+
+#: deathforth/blurb/pessimist.df:4
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We're never going to make it all the way to Canada!"
+msgstr "우린 절대 캐나다까지 못 갈 거야!"
+
+#: deathforth/blurb/pessimist.df:8
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We can make it. It's definitely possible, "
+msgstr "갈 수 있어. 분명히 가능해, "
+
+#: deathforth/blurb/pessimist.df:19
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Why Canada? There's no way it's going to be any better further north."
+msgstr "왜 캐나다야? 북쪽이라고 더 나을 리가 없잖아."
+
+#: deathforth/blurb/pessimist.df:23
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I'm getting tired of your negative attitude, "
+msgstr "네 부정적인 태도에 질렸어, "
+
+#: deathforth/blurb/pessimist.df:24
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Shut up or get out!"
+msgstr "닥치든지 나가든지 해!"
+
+#: deathforth/blurb/pessimist.df:27
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Maybe you're right, but it might be the best choice we have."
+msgstr "네 말이 맞을지도. 그래도 우리한텐 그게 최선이야."
+
+#: deathforth/blurb/pessimist.df:36
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "This is some BULLCRAP."
+msgstr "진짜 개소리 같은 상황이네."
+
+#: deathforth/blurb/pessimist.df:39
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I agree, "
+msgstr "동감이야, "
+
+#: deathforth/blurb/pessimist.df:48
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "zombies"
+msgstr "좀비"
+
+#: deathforth/blurb/pessimist.df:49
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "being dirty"
+msgstr "씻지 못하는 것"
+
+#: deathforth/blurb/pessimist.df:50
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "the weather"
+msgstr "날씨"
+
+#: deathforth/blurb/pessimist.df:51
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "bugs"
+msgstr "벌레"
+
+#: deathforth/blurb/pessimist.df:52
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "how everyone is a jerk"
+msgstr "다들 재수 없는 것"
+
+#: deathforth/blurb/pessimist.df:53
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "'s dad"
+msgstr "의 아빠"
+
+#: deathforth/blurb/pessimist.df:54
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Mondays"
+msgstr "월요일"
+
+#: deathforth/blurb/pessimist.df:55
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "their weapons"
+msgstr "무기"
+
+#: deathforth/blurb/pessimist.df:56
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "how people smell"
+msgstr "사람들 냄새"
+
+#: deathforth/blurb/pessimist.df:57
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "having to use the bathroom"
+msgstr "화장실 가야 하는 것"
+
+#: deathforth/blurb/pessimist.df:58
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "how long the drive is"
+msgstr "운전이 너무 긴 것"
+
+#: deathforth/blurb/pessimist.df:59
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "having to eat canned food"
+msgstr "통조림만 먹어야 하는 것"
+
+#: deathforth/blurb/pessimist.df:64
+msgctxt "deathforth/blurb/pessimist.df"
+msgid " whines incessantly about "
+msgstr "의 끝없는 불평: "
+
+#: deathforth/blurb/pessimist.df:74
+msgctxt "deathforth/blurb/pessimist.df"
+msgid " broods about a tragic past....."
+msgstr "은(는) 비극적인 과거를 곱씹는다....."
+
+#: deathforth/blurb/pessimist.df:78
+msgctxt "deathforth/blurb/pessimist.df"
+msgid " does some serious eye rolling."
+msgstr "은(는) 진지하게 눈을 굴린다."
+
+#: deathforth/blurb/pessimist.df:83
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I freaking hate Mondays."
+msgstr "월요일 진짜 싫어."
+
+#: deathforth/blurb/pessimist.df:84
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Even in the post-apocalypse, I hate Mondays."
+msgstr "종말이 와도 월요일은 싫어."
+
+#: deathforth/blurb/pessimist.df:85
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Just can't stop thinking about Mondays and how I hate em."
+msgstr "월요일 생각만 하면 싫어 죽겠어."
+
+#: deathforth/blurb/pessimist.df:86
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "UGH! MONDAYS!"
+msgstr "으악! 월요일!"
+
+#: deathforth/blurb/pessimist.df:87
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Hope I don't run into any more Mondays..."
+msgstr "월요일을 또 만나지 않았으면..."
+
+#: deathforth/blurb/pessimist.df:89
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "If it looks too good to be true, it probably is."
+msgstr "너무 좋아 보이면 대개 함정이야."
+
+#: deathforth/blurb/pessimist.df:90
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I have a feeling that going to Canada is a waste of time."
+msgstr "캐나다 가는 건 시간 낭비 같은 기분이 들어."
+
+#: deathforth/blurb/pessimist.df:91
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "Always have a backup weapon, you never know when yours can break."
+msgstr "예비 무기는 꼭 챙겨. 언제 부러질지 모르니까."
+
+#: deathforth/blurb/pessimist.df:92
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I'm just waiting for this car to break down."
+msgstr "이 차 언제 퍼지나 기다리는 중이야."
+
+#: deathforth/blurb/pessimist.df:93
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "This car is a ticking time-bomb."
+msgstr "이 차는 시한폭탄이야."
+
+#: deathforth/blurb/pessimist.df:94
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We will probably run out of gas before we get to Canada."
+msgstr "캐나다 가기 전에 기름이 다 떨어질걸."
+
+#: deathforth/blurb/pessimist.df:95
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I doubt that these tires will hold up for much longer."
+msgstr "이 타이어 오래 못 버틸 것 같아."
+
+#: deathforth/blurb/pessimist.df:96
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I doubt Canada will be any better than here."
+msgstr "캐나다라고 여기보다 나을 것 같진 않아."
+
+#: deathforth/blurb/pessimist.df:97
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We're lost, aren't we?"
+msgstr "우리 길 잃었지?"
+
+#: deathforth/blurb/pessimist.df:98
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "There's no hope for us!"
+msgstr "우린 희망이 없어!"
+
+#: deathforth/blurb/pessimist.df:99
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We shouldn't stop any more, we should keep on driving."
+msgstr "이제 그만 서고 계속 달려야 해."
+
+#: deathforth/blurb/pessimist.df:100
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We're asking for trouble if we keep on stopping in cities."
+msgstr "도시마다 서면 화를 자초하는 거야."
+
+#: deathforth/blurb/pessimist.df:101
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "I bet it is going to be too cold for everyone in Canada."
+msgstr "캐나다는 다들 얼어 죽을 만큼 추울걸."
+
+#: deathforth/blurb/pessimist.df:102
+msgctxt "deathforth/blurb/pessimist.df"
+msgid ""
+"Sure, there won't be as much mosquitoes in Canada but what about grizzly "
+"bears?"
+msgstr "그래, 캐나다엔 모기는 적겠지. 근데 회색곰은?"
+
+#: deathforth/blurb/pessimist.df:103
+msgctxt "deathforth/blurb/pessimist.df"
+msgid "We got to have a plan in case the car breaks down."
+msgstr "차가 퍼질 때를 대비한 계획이 있어야 해."
+
+#: deathforth/blurb/sc/alvis.df:29
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "yeah man lets waigioutahere"
+msgstr "예 맨 여기서 빠지자구"
+
+#: deathforth/blurb/sc/alvis.df:30
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "uuh huh"
+msgstr "어허"
+
+#: deathforth/blurb/sc/alvis.df:31
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "uhuhuh, whoauough"
+msgstr "어허허, 워어우"
+
+#: deathforth/blurb/sc/alvis.df:32
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "thankyouverymuch"
+msgstr "땡큐베리머치"
+
+#: deathforth/blurb/sc/alvis.df:33
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "hey man this zombiebloodgunagetoutofsuede"
+msgstr "헤이 맨 좀비 피 묻으면 스웨이드 망친다구"
+
+#: deathforth/blurb/sc/alvis.df:34
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "uuuh huuuuh huuuuuuh"
+msgstr "어어허 허어어 허어어어"
+
+#: deathforth/blurb/sc/alvis.df:35
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "this aint vegas man"
+msgstr "여긴 베가스가 아니라구 맨"
+
+#: deathforth/blurb/sc/alvis.df:36
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "zuh-huh-zuh-huh-zuh-hombie lo-ove"
+msgstr "좀-허-좀-허-좀-좀비 러-어브"
+
+#: deathforth/blurb/sc/alvis.df:37
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "baby letsplithiscene"
+msgstr "베이비 여기서 뜨자구"
+
+#: deathforth/blurb/sc/alvis.df:38
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "uh-huh-huh"
+msgstr "어-허-허"
+
+#: deathforth/blurb/sc/alvis.df:39
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "sure could go for a peanut butter and banana sandwich right now"
+msgstr "지금 땅콩버터 바나나 샌드위치 땡기네"
+
+#: deathforth/blurb/sc/alvis.df:40
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "a portait done on velvet, now that sounds like my style"
+msgstr "벨벳에 그린 초상화라, 딱 내 스타일이군"
+
+#: deathforth/blurb/sc/alvis.df:41
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "my dry cleaning bills are out of control"
+msgstr "세탁비가 감당이 안 돼"
+
+#: deathforth/blurb/sc/alvis.df:42
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "it's lonely being at the top"
+msgstr "정상의 자리는 외로운 법이지"
+
+#: deathforth/blurb/sc/alvis.df:43
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "uhuhhuh, don't touch the hair"
+msgstr "어허허, 머리는 만지지 마"
+
+#: deathforth/blurb/sc/alvis.df:44
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "...and they'll call it a velvet Alvis, uhhuh"
+msgstr "...그리고 사람들은 그걸 벨벳 알비스라 부르겠지, 어허"
+
+#: deathforth/blurb/sc/alvis.df:45
+msgctxt "deathforth/blurb/sc/alvis.df"
+msgid "uhuh, this ain't Memphis"
+msgstr "어허, 여긴 멤피스가 아냐"
+
+#: deathforth/blurb/sc/anime.df:1
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "I wonder what the rest of LOVE BEAM SQUADRON is doing right now?"
+msgstr "러브 빔 전대 다른 멤버들은 지금 뭐 하고 있을까?"
+
+#: deathforth/blurb/sc/anime.df:2
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "Will senpai ever notice me now that everyone is undead?"
+msgstr "다들 언데드가 됐는데 선배는 이제 날 알아봐 줄까?"
+
+#: deathforth/blurb/sc/anime.df:3
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "None of these zombies are kawaii at all."
+msgstr "이 좀비들은 하나도 카와이하지 않아."
+
+#: deathforth/blurb/sc/anime.df:4
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "Never give up!"
+msgstr "절대 포기하지 마!"
+
+#: deathforth/blurb/sc/anime.df:5
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "Keep it up team! Let's make a difference!"
+msgstr "모두 힘내! 우리가 세상을 바꾸는 거야!"
+
+#: deathforth/blurb/sc/anime.df:6
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "Let's all keep up our positive attitude!"
+msgstr "모두 긍정적인 마음을 잃지 말자!"
+
+#: deathforth/blurb/sc/anime.df:7
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "The power to blow things apart was within you, all along!"
+msgstr "모든 걸 날려 버릴 힘은 처음부터 네 안에 있었어!"
+
+#: deathforth/blurb/sc/anime.df:8
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "I can bet Queen Darkspore is behind all of this."
+msgstr "분명 이건 전부 다크스포어 여왕의 짓이야."
+
+#: deathforth/blurb/sc/anime.df:9
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "Love and Peace!"
+msgstr "러브 앤 피스!"
+
+#: deathforth/blurb/sc/anime.df:10
+msgctxt "deathforth/blurb/sc/anime.df"
+msgid "We'll succeed by the power of my LOVE BEAM!"
+msgstr "내 러브 빔의 힘으로 이겨 낼 거야!"
+
+#: deathforth/blurb/sc/bard.df:1
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I call this next one: 'A Song of Zombos'"
+msgstr "다음 곡의 제목은: '좀보의 노래'"
+
+#: deathforth/blurb/sc/bard.df:2
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid ""
+"Before I was a bard I was a rogue. Before that I threw paper lightning bolts"
+" around."
+msgstr "음유시인이 되기 전엔 도적이었지. 그 전엔 종이 번개를 던지고 다녔고."
+
+#: deathforth/blurb/sc/bard.df:3
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "Live Action Role Play 4 Lyfe"
+msgstr "라이브 액션 롤플레잉 4 라이프"
+
+#: deathforth/blurb/sc/bard.df:4
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "Two finest things in life: my super lute, and super loot."
+msgstr "인생 최고의 두 가지: 내 슈퍼 류트, 그리고 슈퍼 루팅."
+
+#: deathforth/blurb/sc/bard.df:5
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "Do you think Canada has ren faires?"
+msgstr "캐나다에도 중세 축제가 있을까?"
+
+#: deathforth/blurb/sc/bard.df:6
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I hope Canada has knights and castles. It's British, right?"
+msgstr "캐나다에 기사랑 성이 있었으면. 영국 거잖아, 그렇지?"
+
+#: deathforth/blurb/sc/bard.df:7
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I'm feeling a little churlish."
+msgstr "조금 심술이 나는구려."
+
+#: deathforth/blurb/sc/bard.df:8
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I requireth a turkey leg to eat."
+msgstr "칠면조 다리를 먹고 싶노라."
+
+#: deathforth/blurb/sc/bard.df:9
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "Canned food is anachronistic! I want something else to eat!"
+msgstr "통조림은 시대착오적이야! 다른 걸 먹고 싶어!"
+
+#: deathforth/blurb/sc/bard.df:10
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I shall write a song about these adventures."
+msgstr "이 모험에 관한 노래를 지으리라."
+
+#: deathforth/blurb/sc/bard.df:11
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "This song is called: The Ballad of Toilet Loot"
+msgstr "이 노래의 제목은: 변기 전리품의 발라드"
+
+#: deathforth/blurb/sc/bard.df:12
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid ""
+"This next song is a tragic ballad about a man that was too swole to control."
+msgstr "다음 곡은 감당 못 할 만큼 근육이 붙어 버린 한 남자의 비극적인 발라드입니다."
+
+#: deathforth/blurb/sc/bard.df:13
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I want to find a fancy cape I can loot."
+msgstr "털어 갈 만한 멋진 망토를 찾고 싶어."
+
+#: deathforth/blurb/sc/bard.df:14
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid ""
+"I hear Canada is like one enormous Renaissance Faire. All day every day."
+msgstr "캐나다는 거대한 중세 축제 같은 곳이래. 매일, 하루 종일."
+
+#: deathforth/blurb/sc/bard.df:15
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "That last song was called 'Battle of Swole Mountain'."
+msgstr "방금 노래 제목은 '근육 산의 전투'였어."
+
+#: deathforth/blurb/sc/bard.df:16
+msgctxt "deathforth/blurb/sc/bard.df"
+msgid "I hear the King of Canada lives in a real castle."
+msgstr "캐나다 왕은 진짜 성에 산대."
+
+#: deathforth/blurb/sc/beeman.df:1
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "I've got all the powers of a bee!"
+msgstr "나한텐 벌의 모든 힘이 있어!"
+
+#: deathforth/blurb/sc/beeman.df:2
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "Believe in yourself!"
+msgstr "너 자신을 믿어!"
+
+#: deathforth/blurb/sc/beeman.df:3
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "The bees are still around so I think this world can come back."
+msgstr "벌들이 아직 살아 있으니 이 세상도 돌아올 수 있을 거야."
+
+#: deathforth/blurb/sc/beeman.df:4
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid ""
+"Whenever you're alone and scared just remember to keep walking forward."
+msgstr "혼자서 무서울 때는 계속 앞으로 걸어가는 것만 기억해."
+
+#: deathforth/blurb/sc/beeman.df:5
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "It'll get better if we can get a little further down the road!"
+msgstr "길을 조금만 더 가면 나아질 거야!"
+
+#: deathforth/blurb/sc/beeman.df:6
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "One little step at a time..."
+msgstr "한 걸음, 또 한 걸음..."
+
+#: deathforth/blurb/sc/beeman.df:7
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "You can do it if you try."
+msgstr "하면 할 수 있어."
+
+#: deathforth/blurb/sc/beeman.df:8
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "Keep buzzing your wings!"
+msgstr "계속 날갯짓해!"
+
+#: deathforth/blurb/sc/beeman.df:9
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "We'll be in Canada before you know it."
+msgstr "눈 깜짝할 새에 캐나다에 도착할 거야."
+
+#: deathforth/blurb/sc/beeman.df:10
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "I'm a bee!"
+msgstr "나는 벌이다!"
+
+#: deathforth/blurb/sc/beeman.df:11
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "Bees have the powers of nature!"
+msgstr "벌에게는 자연의 힘이 있어!"
+
+#: deathforth/blurb/sc/beeman.df:12
+msgctxt "deathforth/blurb/sc/beeman.df"
+msgid "I don't know how I survived this long, either."
+msgstr "나도 내가 어떻게 지금까지 살아남았는지 모르겠어."
+
+#: deathforth/blurb/sc/boxer.df:1
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "One two... one two..."
+msgstr "원 투... 원 투..."
+
+#: deathforth/blurb/sc/boxer.df:2
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "I'm brutal and ruthless!"
+msgstr "난 잔인하고 무자비해!"
+
+#: deathforth/blurb/sc/boxer.df:3
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "You're not Alexander!"
+msgstr "넌 알렉산더가 아냐!"
+
+#: deathforth/blurb/sc/boxer.df:4
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Float like a butterfly, sting like a bee..."
+msgstr "나비처럼 날아서 벌처럼 쏜다..."
+
+#: deathforth/blurb/sc/boxer.df:5
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Coach, I'm ready for the championship!"
+msgstr "코치님, 챔피언전 준비됐어요!"
+
+#: deathforth/blurb/sc/boxer.df:6
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Speed's what's important, speed wins, speed kills..."
+msgstr "중요한 건 스피드야. 스피드가 이기고, 스피드가 죽인다..."
+
+#: deathforth/blurb/sc/boxer.df:7
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Gotta keep my training up."
+msgstr "훈련을 계속해야 해."
+
+#: deathforth/blurb/sc/boxer.df:8
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Who's sparring with me next?"
+msgstr "다음 스파링 상대 누구야?"
+
+#: deathforth/blurb/sc/boxer.df:9
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Last fight seemed like the other guy was under the weight class..."
+msgstr "지난 시합 상대는 체급이 안 맞았던 것 같은데..."
+
+#: deathforth/blurb/sc/boxer.df:10
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "Stick and move... stick and move..."
+msgstr "치고 빠지고... 치고 빠지고..."
+
+#: deathforth/blurb/sc/boxer.df:11
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "I'm gonna punch that zombie!"
+msgstr "저 좀비한테 한 방 먹여 주지!"
+
+#: deathforth/blurb/sc/boxer.df:12
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "It's all about the footwork!"
+msgstr "중요한 건 풋워크야!"
+
+#: deathforth/blurb/sc/boxer.df:13
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "What would coach have me do right now?"
+msgstr "코치님이라면 지금 나한테 뭘 시켰을까?"
+
+#: deathforth/blurb/sc/boxer.df:14
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "When I get out of this I'm so firing my Promotions Manager."
+msgstr "여기서 살아 나가면 내 프로모터부터 해고할 거야."
+
+#: deathforth/blurb/sc/boxer.df:15
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "This is all my Promotions Manager's fault!"
+msgstr "이게 다 내 프로모터 탓이야!"
+
+#: deathforth/blurb/sc/boxer.df:16
+msgctxt "deathforth/blurb/sc/boxer.df"
+msgid "I remember my first fight with 'Glass-Jaw Joe', I lost. "
+msgstr "'유리턱 조'랑 붙었던 첫 시합이 기억나. 졌지. "
+
+#: deathforth/blurb/sc/catlady.df:1
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "How can anyone be sad when there's so many kitties?"
+msgstr "냥이들이 이렇게 많은데 어떻게 슬플 수가 있어?"
+
+#: deathforth/blurb/sc/catlady.df:2
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "I love my kitties!"
+msgstr "우리 냥이들 사랑해!"
+
+#: deathforth/blurb/sc/catlady.df:3
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "You can never have enough cats!"
+msgstr "고양이는 많을수록 좋아!"
+
+#: deathforth/blurb/sc/catlady.df:4
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "We should take a teensy bit of our food to feed the cats!"
+msgstr "우리 식량 쪼끔만 떼서 고양이들 주자!"
+
+#: deathforth/blurb/sc/catlady.df:5
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Pincher is the rebel of my group of cats!"
+msgstr "핀처는 우리 고양이 무리의 반항아야!"
+
+#: deathforth/blurb/sc/catlady.df:6
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "My cats don't bite those are just kisses!"
+msgstr "우리 애들은 안 물어, 그건 뽀뽀야!"
+
+#: deathforth/blurb/sc/catlady.df:7
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "*Good* people are never allergic to cats."
+msgstr "*좋은* 사람은 고양이 알레르기가 없어."
+
+#: deathforth/blurb/sc/catlady.df:8
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Cats always cheer me up!"
+msgstr "고양이는 언제나 날 기운 나게 해!"
+
+#: deathforth/blurb/sc/catlady.df:9
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "I think I might be queen of the cats!"
+msgstr "아무래도 내가 고양이들의 여왕인가 봐!"
+
+#: deathforth/blurb/sc/catlady.df:10
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Other cat ladies are just *pretenders*."
+msgstr "다른 캣맘들은 다 *가짜*야."
+
+#: deathforth/blurb/sc/catlady.df:11
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Heeeere kitty kitty."
+msgstr "야옹아 이리 오오오렴."
+
+#: deathforth/blurb/sc/catlady.df:12
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Cats are people too!"
+msgstr "고양이도 사람이야!"
+
+#: deathforth/blurb/sc/catlady.df:13
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "I'm suspicious of anyone that doesn't like cats."
+msgstr "고양이 싫어하는 사람은 왠지 수상해."
+
+#: deathforth/blurb/sc/catlady.df:14
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "If my cats don't like you, I don't like you!"
+msgstr "우리 애들이 널 싫어하면 나도 널 싫어해!"
+
+#: deathforth/blurb/sc/catlady.df:15
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "It must be a sign of affection when they vomit on the carpet."
+msgstr "카펫에 토하는 건 애정 표현이 틀림없어."
+
+#: deathforth/blurb/sc/catlady.df:16
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Umm, my cats only eat moist canned food."
+msgstr "음, 우리 애들은 촉촉한 통조림만 먹어."
+
+#: deathforth/blurb/sc/catlady.df:17
+msgctxt "deathforth/blurb/sc/catlady.df"
+msgid "Some of my cats are lactose intolerant."
+msgstr "우리 애들 중 몇몇은 유당불내증이 있어."
+
+#: deathforth/blurb/sc/caveman.df:1
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "I don't understand your crazy future 'chairs'. I get everything else."
+msgstr "너희 미래인들의 '의자'라는 건 이해가 안 돼. 나머진 다 알겠는데."
+
+#: deathforth/blurb/sc/caveman.df:2
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "We didn't have zombos where I'm from. What did you do to get them?"
+msgstr "우리 시대엔 좀보가 없었어. 너희 뭘 했길래 이런 게 생겼어?"
+
+#: deathforth/blurb/sc/caveman.df:3
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "MAYBE I was sleeping in that ice on purpose! Maybe I like ice."
+msgstr "내가 일부러 얼음 속에서 잔 거일 수도 있잖아! 얼음 좋아할 수도 있지."
+
+#: deathforth/blurb/sc/caveman.df:4
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "These zombos are slow, but so is ice and that can sneak up."
+msgstr "좀보들은 느려. 근데 얼음도 느린데 몰래 다가오거든."
+
+#: deathforth/blurb/sc/caveman.df:5
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "I need a bigger weapon."
+msgstr "더 큰 무기가 필요해."
+
+#: deathforth/blurb/sc/caveman.df:6
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "Are talking dinosaurs still around?"
+msgstr "말하는 공룡은 아직 있어?"
+
+#: deathforth/blurb/sc/caveman.df:7
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid ""
+"I speak your language cause I've done time travel once, ice sleep twice."
+msgstr "내가 너희 말을 하는 건 시간 여행 한 번, 얼음 잠 두 번 해 봐서야."
+
+#: deathforth/blurb/sc/caveman.df:8
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "I'm used to this future travel. It happens a lot to me."
+msgstr "미래 여행은 익숙해. 나한텐 자주 있는 일이야."
+
+#: deathforth/blurb/sc/caveman.df:9
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "I'm sure there's a time portal around, somewhere in Canada."
+msgstr "캐나다 어딘가에 분명 시간 포탈이 있을 거야."
+
+#: deathforth/blurb/sc/caveman.df:10
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "Maybe I shouldn't go back to past. I'll just fall asleep in ice again."
+msgstr "과거로 돌아가지 말까. 어차피 또 얼음 속에서 잠들 텐데."
+
+#: deathforth/blurb/sc/caveman.df:11
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid ""
+"For monsters, zombies are real slow. I'm going to get lazy fighting them."
+msgstr "괴물치고 좀비는 너무 느려. 이러다 게을러지겠어."
+
+#: deathforth/blurb/sc/caveman.df:12
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "Dinosaurs were all coated in feathers. They looked ridiculous."
+msgstr "공룡들은 전부 깃털로 덮여 있었어. 엄청 우스꽝스러웠지."
+
+#: deathforth/blurb/sc/caveman.df:13
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "At least I didn't travel to the far far future this time."
+msgstr "그래도 이번엔 너무 먼 미래로 오진 않았네."
+
+#: deathforth/blurb/sc/caveman.df:14
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "I wonder how many others get frozen in ice. I do, all the time."
+msgstr "얼음에 갇히는 사람이 얼마나 될까. 난 맨날 갇히는데."
+
+#: deathforth/blurb/sc/caveman.df:15
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "Running is better than being eaten. Not as good as smashing."
+msgstr "도망치는 게 잡아먹히는 것보다 나아. 때려 부수는 것만은 못하지만."
+
+#: deathforth/blurb/sc/caveman.df:16
+msgctxt "deathforth/blurb/sc/caveman.df"
+msgid "I can't get used to your 'guns' fad. Give me a tree trunk, any day."
+msgstr "너희의 '총' 유행은 적응이 안 돼. 난 언제나 통나무가 좋아."
+
+#: deathforth/blurb/sc/clown.df:1
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "HA HA HA"
+msgstr "하 하 하"
+
+#: deathforth/blurb/sc/clown.df:2
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "HAHAHAHAHA"
+msgstr "하하하하하"
+
+#: deathforth/blurb/sc/clown.df:3
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "HA HA HA HA HA HA HA"
+msgstr "하 하 하 하 하 하 하"
+
+#: deathforth/blurb/sc/clown.df:4
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "HAHAHA! HAHAHAHAHAHA!"
+msgstr "하하하! 하하하하하하!"
+
+#: deathforth/blurb/sc/clown.df:5
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "HAHA, WHAT'S THE MATTER? IT LOOKS LIKE YOU'VE JUST SEEN A CLOWN!"
+msgstr "하하, 왜 그래? 꼭 광대라도 본 표정이네!"
+
+#: deathforth/blurb/sc/clown.df:6
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "*HONK* *HONK*"
+msgstr "*빵* *빵*"
+
+#: deathforth/blurb/sc/clown.df:7
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "HAHA, THIS ISN'T MAKEUP!"
+msgstr "하하, 이건 화장이 아니야!"
+
+#: deathforth/blurb/sc/clown.df:8
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid "THIS IS MY NATURAL HAIR COLOUR! HAHA!"
+msgstr "이건 내 원래 머리색이라고! 하하!"
+
+#: deathforth/blurb/sc/clown.df:23
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " turns a little music box and it plays something creepy."
+msgstr "은(는) 작은 오르골을 돌리고, 오르골에서 소름 끼치는 음악이 흘러나온다."
+
+#: deathforth/blurb/sc/clown.df:24
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " makes a balloon animal but it somehow has a human face."
+msgstr "은(는) 풍선 동물을 만드는데, 어째선지 사람 얼굴이 달려 있다."
+
+#: deathforth/blurb/sc/clown.df:25
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " stares while making eager giggling noises."
+msgstr "은(는) 신나게 킥킥거리며 빤히 쳐다본다."
+
+#: deathforth/blurb/sc/clown.df:26
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " acts generally unsettling at all times."
+msgstr "은(는) 언제나 왠지 모르게 불안감을 준다."
+
+#: deathforth/blurb/sc/clown.df:27
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " starts polishing their oversized shoes."
+msgstr "은(는) 커다란 신발을 닦기 시작한다."
+
+#: deathforth/blurb/sc/clown.df:28
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " removes fake nose to reveal another fake nose."
+msgstr "은(는) 가짜 코를 떼어 내는데, 그 밑에 또 가짜 코가 있다."
+
+#: deathforth/blurb/sc/clown.df:29
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " pulls out a small horn and starts caressing it."
+msgstr "은(는) 작은 나팔을 꺼내 쓰다듬기 시작한다."
+
+#: deathforth/blurb/sc/clown.df:30
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " starts juggling canned food."
+msgstr "은(는) 통조림으로 저글링을 시작한다."
+
+#: deathforth/blurb/sc/clown.df:31
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " starts juggling weapons."
+msgstr "은(는) 무기로 저글링을 시작한다."
+
+#: deathforth/blurb/sc/clown.df:32
+msgctxt "deathforth/blurb/sc/clown.df"
+msgid " whistles carnival songs."
+msgstr "은(는) 서커스 노래를 휘파람으로 분다."
+
+#: deathforth/blurb/sc/cupid.df:1
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "BE MINETH"
+msgstr "내 것이 되어라"
+
+#: deathforth/blurb/sc/cupid.df:2
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "M'LADY"
+msgstr "마이 레이디"
+
+#: deathforth/blurb/sc/cupid.df:3
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "UR A NERD"
+msgstr "넌 찐따"
+
+#: deathforth/blurb/sc/cupid.df:4
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "HUNKY STUD"
+msgstr "섹시 훈남"
+
+#: deathforth/blurb/sc/cupid.df:5
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "STINK DUDE"
+msgstr "냄새나는 놈"
+
+#: deathforth/blurb/sc/cupid.df:6
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "KING DINGUS"
+msgstr "바보 대왕"
+
+#: deathforth/blurb/sc/cupid.df:7
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "POWER BABE"
+msgstr "파워 걸"
+
+#: deathforth/blurb/sc/cupid.df:8
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "DATE HAVER"
+msgstr "애인 있음"
+
+#: deathforth/blurb/sc/cupid.df:9
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "COLD FISH"
+msgstr "냉혈한"
+
+#: deathforth/blurb/sc/cupid.df:10
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "MEGA GUNZ"
+msgstr "근육 빵빵"
+
+#: deathforth/blurb/sc/cupid.df:11
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "ULTRA WAIF"
+msgstr "울트라 말라깽이"
+
+#: deathforth/blurb/sc/cupid.df:12
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "BEE MINE"
+msgstr "꿀벌 해 줘"
+
+#: deathforth/blurb/sc/cupid.df:13
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "BEEF MINE"
+msgstr "소고기 해 줘"
+
+#: deathforth/blurb/sc/cupid.df:14
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "ZING DINGUS"
+msgstr "바보 띵"
+
+#: deathforth/blurb/sc/cupid.df:15
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "ZINC DINKUS"
+msgstr "아연 띵"
+
+#: deathforth/blurb/sc/cupid.df:16
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "REAL MATURE"
+msgstr "참 성숙하네"
+
+#: deathforth/blurb/sc/cupid.df:17
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "ZOMBIES SMELL"
+msgstr "좀비 냄새나"
+
+#: deathforth/blurb/sc/cupid.df:18
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "SMOOTH MOVE"
+msgstr "잘~ 한다"
+
+#: deathforth/blurb/sc/cupid.df:19
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "ROAM ANTS"
+msgstr "로맨틱한 개미"
+
+#: deathforth/blurb/sc/cupid.df:20
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "LOVE CHAINSAW"
+msgstr "사랑의 전기톱"
+
+#: deathforth/blurb/sc/cupid.df:21
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "I LOVE FOOD CANS"
+msgstr "통조림 사랑해"
+
+#: deathforth/blurb/sc/cupid.df:22
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "UR A BUTT"
+msgstr "넌 엉덩이"
+
+#: deathforth/blurb/sc/cupid.df:23
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "COOL IT"
+msgstr "진정해"
+
+#: deathforth/blurb/sc/cupid.df:24
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "SAY IT NOT SPRAY IT"
+msgstr "침 튀기지 마"
+
+#: deathforth/blurb/sc/cupid.df:25
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "BARF"
+msgstr "우웩"
+
+#: deathforth/blurb/sc/cupid.df:26
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "TOO SPICY"
+msgstr "너무 매워"
+
+#: deathforth/blurb/sc/cupid.df:27
+msgctxt "deathforth/blurb/sc/cupid.df"
+msgid "DING STINKUS"
+msgstr "띵 냄새"
+
+#: deathforth/blurb/sc/dog.df:1
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid "BARK!"
+msgstr "멍!"
+
+#: deathforth/blurb/sc/dog.df:2
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid "BARK! BARK!"
+msgstr "멍! 멍!"
+
+#: deathforth/blurb/sc/dog.df:3
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid "WOOF!"
+msgstr "왈!"
+
+#: deathforth/blurb/sc/dog.df:4
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid "AROOO!"
+msgstr "아우우!"
+
+#: deathforth/blurb/sc/dog.df:15
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " looks around in excitement."
+msgstr "은(는) 신나서 두리번거린다."
+
+#: deathforth/blurb/sc/dog.df:16
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " puts its head down."
+msgstr "은(는) 고개를 숙인다."
+
+#: deathforth/blurb/sc/dog.df:17
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " pants."
+msgstr "은(는) 헥헥거린다."
+
+#: deathforth/blurb/sc/dog.df:18
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " puts its head out the window."
+msgstr "은(는) 창밖으로 고개를 내민다."
+
+#: deathforth/blurb/sc/dog.df:19
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " chews on a squeaky toy."
+msgstr "은(는) 삑삑이 장난감을 씹는다."
+
+#: deathforth/blurb/sc/dog.df:20
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " chews on a non-zombie bone."
+msgstr "은(는) 좀비 것이 아닌 뼈다귀를 씹는다."
+
+#: deathforth/blurb/sc/dog.df:21
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " starts drooling."
+msgstr "은(는) 침을 흘리기 시작한다."
+
+#: deathforth/blurb/sc/dog.df:22
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " barks at random wildlife."
+msgstr "은(는) 아무 야생동물한테나 짖는다."
+
+#: deathforth/blurb/sc/dog.df:23
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " barks at a cat."
+msgstr "은(는) 고양이를 보고 짖는다."
+
+#: deathforth/blurb/sc/dog.df:24
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " falls asleep."
+msgstr "은(는) 잠이 든다."
+
+#: deathforth/blurb/sc/dog.df:25
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " starts sniffing air."
+msgstr "은(는) 킁킁 냄새를 맡기 시작한다."
+
+#: deathforth/blurb/sc/dog.df:26
+msgctxt "deathforth/blurb/sc/dog.df"
+msgid " whines."
+msgstr "은(는) 낑낑댄다."
+
+#: deathforth/blurb/sc/dsyp.df:3
+msgctxt "deathforth/blurb/sc/dsyp.df"
+msgid " farts."
+msgstr "은(는) 방귀를 뀐다."
+
+#: deathforth/blurb/sc/dsyp.df:26
+msgctxt "deathforth/blurb/sc/dsyp.df"
+msgid "*fart*"
+msgstr "*뿡*"
+
+#: deathforth/blurb/sc/evilsanta.df:4
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid ""
+"HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO HO "
+"HO HO"
+msgstr "호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호 호"
+
+#: deathforth/blurb/sc/evilsanta.df:7
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "GET OUT OF MY HEAD!"
+msgstr "내 머리에서 나가!"
+
+#: deathforth/blurb/sc/evilsanta.df:16
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid " screams something unintelligible about Christmas."
+msgstr "은(는) 크리스마스에 대해 알아들을 수 없는 비명을 지른다."
+
+#: deathforth/blurb/sc/evilsanta.df:24
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "I WILL JUDGE WHO HAS BEEN NAUGHTY AND WHO HAS BEEN NICE"
+msgstr "누가 나쁜 아이였고 누가 착한 아이였는지 내가 심판하겠다"
+
+#: deathforth/blurb/sc/evilsanta.df:25
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "HO HO HO"
+msgstr "호 호 호"
+
+#: deathforth/blurb/sc/evilsanta.df:26
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "HO HO HO, HO HO HO"
+msgstr "호 호 호, 호 호 호"
+
+#: deathforth/blurb/sc/evilsanta.df:27
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "I WILL DEEM WHO HAS BEEN NICE AND WHO HAS BEEN NAUGHTY"
+msgstr "누가 착한 아이였고 누가 나쁜 아이였는지 내가 판정하겠다"
+
+#: deathforth/blurb/sc/evilsanta.df:28
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "YOU'LL PUT YER EYE OUT KID"
+msgstr "그러다 눈 다친다 꼬마야"
+
+#: deathforth/blurb/sc/evilsanta.df:29
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "THE NICE HAVE BEEN PURGED FROM THIS EARTH AND ONLY THE NAUGHTY REMAIN"
+msgstr "착한 자들은 이 땅에서 숙청되었고 나쁜 자들만 남았도다"
+
+#: deathforth/blurb/sc/evilsanta.df:30
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "THE NAUGHTY WALK THE EARTH AND ONLY I CAN STOP THEM"
+msgstr "나쁜 자들이 땅 위를 활보하니 그들을 막을 자는 나뿐이로다"
+
+#: deathforth/blurb/sc/evilsanta.df:31
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "MAY THE NAUGHTY BE SCOURGED FROM THIS BLIGHTED LAND"
+msgstr "나쁜 자들이 이 저주받은 땅에서 쓸려 나가기를"
+
+#: deathforth/blurb/sc/evilsanta.df:32
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid ""
+"I AM THE JUDGE OF MANKIND AND ONE DAY, ONLY I SHALL REMAIN ON THIS EARTH"
+msgstr "나는 인류의 심판자이며 언젠가 이 땅에는 나만이 남으리라"
+
+#: deathforth/blurb/sc/evilsanta.df:33
+msgctxt "deathforth/blurb/sc/evilsanta.df"
+msgid "I LIKE MILK AND COOKIES"
+msgstr "우유랑 쿠키 좋아"
+
+#: deathforth/blurb/sc/fireproof.df:1
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "Zombies sure are flammable."
+msgstr "좀비는 참 잘 타."
+
+#: deathforth/blurb/sc/fireproof.df:2
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "Burn it all down!"
+msgstr "전부 불태워 버려!"
+
+#: deathforth/blurb/sc/fireproof.df:3
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "I burnt my pinky finger on a frying pan once so I wear this suit now."
+msgstr "한번은 프라이팬에 새끼손가락을 데여서 그 뒤로 이 옷을 입고 다녀."
+
+#: deathforth/blurb/sc/fireproof.df:4
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "When people get set on fire it's not really MY fault, it's theirs."
+msgstr "사람들한테 불이 붙는 건 사실 내 잘못이 아니야. 걔네 잘못이지."
+
+#: deathforth/blurb/sc/fireproof.df:5
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "This suit protects me from fire and also super spicy hot sauce."
+msgstr "이 옷은 불도 막아 주고 엄청 매운 핫소스도 막아 줘."
+
+#: deathforth/blurb/sc/fireproof.df:6
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "My favorite strategy is throwing a molotov and then standing in it."
+msgstr "내가 제일 좋아하는 전략은 화염병을 던지고 그 안에 서 있는 거야."
+
+#: deathforth/blurb/sc/fireproof.df:7
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid ""
+"You can get more mileage out of a blowtorch if you set furniture on fire."
+msgstr "가구에 불을 붙이면 토치를 더 알뜰하게 쓸 수 있어."
+
+#: deathforth/blurb/sc/fireproof.df:8
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "I always liked burning things! Now it's just more socially acceptable."
+msgstr "난 원래 불 지르는 걸 좋아했어! 이제 사회적으로 좀 더 용인될 뿐이지."
+
+#: deathforth/blurb/sc/fireproof.df:9
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid ""
+"If only had easy to purchase flamethrowers before the zombocalypse happened."
+msgstr "좀비 종말 전에 화염방사기를 쉽게 살 수 있었다면 좋았을 텐데."
+
+#: deathforth/blurb/sc/fireproof.df:10
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "The flamethrower is the best weapon."
+msgstr "화염방사기가 최고의 무기야."
+
+#: deathforth/blurb/sc/fireproof.df:11
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "I like fire axes because they remind me of fire."
+msgstr "소방 도끼가 좋아. 불이 생각나거든."
+
+#: deathforth/blurb/sc/fireproof.df:12
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid ""
+"If I get enough molotovs, I could take care of the zombies. All of them."
+msgstr "화염병만 충분하면 좀비는 내가 처리할 수 있어. 전부 다."
+
+#: deathforth/blurb/sc/fireproof.df:13
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "Is it hot in here or is it just my bulky firesuit?"
+msgstr "여기가 더운 거야, 아니면 내 두꺼운 방화복 때문이야?"
+
+#: deathforth/blurb/sc/fireproof.df:14
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "I refuse to take off this suit, ever. A fire can happen at any time."
+msgstr "이 옷은 절대 안 벗을 거야. 불은 언제든 날 수 있으니까."
+
+#: deathforth/blurb/sc/fireproof.df:15
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "Gas is the most precious resource, because flamethrowers use gas."
+msgstr "기름이 가장 귀한 자원이야. 화염방사기에 기름이 들어가니까."
+
+#: deathforth/blurb/sc/fireproof.df:16
+msgctxt "deathforth/blurb/sc/fireproof.df"
+msgid "I wonder how flammable Canada is."
+msgstr "캐나다는 얼마나 잘 탈까."
+
+#: deathforth/blurb/sc/gigaguy.df:1
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "pew pew pew pew pew"
+msgstr "퓨 퓨 퓨 퓨 퓨"
+
+#: deathforth/blurb/sc/gigaguy.df:2
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I love wearing tights!"
+msgstr "난 쫄쫄이 입는 게 좋아!"
+
+#: deathforth/blurb/sc/gigaguy.df:3
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "It's not costumed play! It's costumed business!"
+msgstr "이건 코스튬 플레이가 아냐! 코스튬 비즈니스라고!"
+
+#: deathforth/blurb/sc/gigaguy.df:4
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "If I could find some evil robots to fight, I could steal their powers."
+msgstr "사악한 로봇들을 찾아서 싸우면 그 능력을 빼앗을 수 있을 텐데."
+
+#: deathforth/blurb/sc/gigaguy.df:5
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "voopvoopvoopvoopvoop BOOM"
+msgstr "뷰웅뷰웅뷰웅뷰웅뷰웅 쾅"
+
+#: deathforth/blurb/sc/gigaguy.df:6
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I have a confession: I just make all the blaster noises with my mouth."
+msgstr "고백할 게 있어: 블래스터 소리 전부 내 입으로 내는 거야."
+
+#: deathforth/blurb/sc/gigaguy.df:7
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I misplaced my robot dog."
+msgstr "로봇 개를 어디 뒀더라."
+
+#: deathforth/blurb/sc/gigaguy.df:8
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "Watch out for instant kill spike pits."
+msgstr "즉사 가시 구덩이 조심해."
+
+#: deathforth/blurb/sc/gigaguy.df:9
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I can't carry anything because my tights don't have pockets."
+msgstr "쫄쫄이에 주머니가 없어서 아무것도 못 들어."
+
+#: deathforth/blurb/sc/gigaguy.df:10
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "If this was a robot apocalypse, I'd be king right now."
+msgstr "이게 로봇 종말이었으면 지금쯤 내가 왕이었을 텐데."
+
+#: deathforth/blurb/sc/gigaguy.df:11
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "No more conventions to videogame cosplay at..."
+msgstr "이제 게임 코스프레할 행사도 없네..."
+
+#: deathforth/blurb/sc/gigaguy.df:12
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I made this Giga Guster myself out of felt and some plastic."
+msgstr "이 기가 거스터는 펠트랑 플라스틱으로 직접 만든 거야."
+
+#: deathforth/blurb/sc/gigaguy.df:13
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I don't want to stain this costume any more than it is now."
+msgstr "이 코스튬을 지금보다 더 더럽히고 싶지 않아."
+
+#: deathforth/blurb/sc/gigaguy.df:14
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "Let's find DR DWIGHT so I can finally upgrade my dash."
+msgstr "닥터 드와이트를 찾아서 드디어 대시를 업그레이드하자."
+
+#: deathforth/blurb/sc/gigaguy.df:15
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "Where the heck is the jump button?"
+msgstr "점프 버튼은 대체 어디 있는 거야?"
+
+#: deathforth/blurb/sc/gigaguy.df:16
+msgctxt "deathforth/blurb/sc/gigaguy.df"
+msgid "I'd feel more at ease if I could find an extra life."
+msgstr "1UP을 찾으면 좀 더 마음이 놓일 텐데."
+
+#: deathforth/blurb/sc/gnomey.df:3 deathforth/blurb/sc/gnomey.df:5
+msgctxt "deathforth/blurb/sc/gnomey.df"
+msgid "*PAID ADVERTISEMENT*"
+msgstr "*유료 광고*"
+
+#: deathforth/blurb/sc/gnomey.df:4
+msgctxt "deathforth/blurb/sc/gnomey.df"
+msgid "Download PUNCH QUEST on the app store for free, today!!!"
+msgstr "오늘 앱스토어에서 PUNCH QUEST를 무료로 다운로드하세요!!!"
+
+#: deathforth/blurb/sc/gnomey.df:9
+msgctxt "deathforth/blurb/sc/gnomey.df"
+msgid "Try HITTING zombies with a WEAPON."
+msgstr "좀비를 무기로 때려 보세요."
+
+#: deathforth/blurb/sc/gnomey.df:10
+msgctxt "deathforth/blurb/sc/gnomey.df"
+msgid "Hushed legends tell of ULTRA HATS, crafted by the gnome gods."
+msgstr "노움 신들이 빚어낸 울트라 모자에 관한 전설이 은밀히 전해진다."
+
+#: deathforth/blurb/sc/gnomey.df:11
+msgctxt "deathforth/blurb/sc/gnomey.df"
+msgid "All life descended from gnomes! Deal with it!"
+msgstr "모든 생명은 노움에서 비롯되었다! 받아들여!"
