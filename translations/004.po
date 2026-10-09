@@ -263,7 +263,7 @@ msgstr "RPG 모드"
 #: deathforth/carstats.df:735
 msgctxt "deathforth/carstats.df"
 msgid "4 Jerks Scepter Mode"
-msgstr "네 얼간이 셉터 모드"
+msgstr "네 얼간이 홀 모드"
 
 #: deathforth/carstats.df:739
 msgctxt "deathforth/carstats.df"

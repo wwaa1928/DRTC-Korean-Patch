@@ -1666,7 +1666,7 @@ msgid ""
 " buys a parking meter? It's very heavy.\r\n"
 "\t"
 msgstr ""
-"은(는) 주차 요금기를 산다? 아주 무겁다.\r\n"
+"은(는) 주차 미터기를 산다? 아주 무겁다.\r\n"
 "\t"
 
 #: deathforth/events/trade/weapons.df:310
@@ -1769,7 +1769,7 @@ msgstr "화염병 8개 - 식량 15개"
 #: deathforth/events/trade/weapons.df:346
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Parking meter for 10 food"
-msgstr "주차 요금기 - 식량 10개"
+msgstr "주차 미터기 - 식량 10개"
 
 #: deathforth/events/trade/weapons.df:349
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2105,7 +2105,7 @@ msgstr "중세 도끼 - 식량 20개"
 #: deathforth/events/trade/weapons.df:504
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Electric Guitar for 10 food"
-msgstr "일렉트릭 기타 - 식량 10개"
+msgstr "일렉 기타 - 식량 10개"
 
 #: deathforth/events/trade/weapons.df:507
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2689,7 +2689,7 @@ msgstr "에게 최고의 무기인 "
 #: deathforth/events/trade/weapons.df:824
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Mega Maul."
-msgstr "메가 몰을 준다."
+msgstr "메가 대형 망치를 준다."
 
 #: deathforth/events/trade/weapons.df:827
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2719,7 +2719,7 @@ msgstr "오늘만! 둔기가 한가득!"
 #: deathforth/events/trade/weapons.df:841
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "MEGA MAUL"
-msgstr "메가 몰"
+msgstr "메가 대형 망치"
 
 #: deathforth/events/trade/weapons.df:841
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2822,7 +2822,7 @@ msgstr " - 식량 8개!"
 #: deathforth/events/trade/weapons.df:885
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Mega Maul for 16 food"
-msgstr "메가 몰 - 식량 16개"
+msgstr "메가 대형 망치 - 식량 16개"
 
 #: deathforth/events/trade/weapons.df:889
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2895,7 +2895,7 @@ msgstr "에게 최고의 무기인 "
 #: deathforth/events/trade/weapons.df:923
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Bardiche."
-msgstr "바르디시를 준다."
+msgstr "바르디슈를 준다."
 
 #: deathforth/events/trade/weapons.df:926
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2909,7 +2909,7 @@ msgstr ""
 #: deathforth/events/trade/weapons.df:932
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "BARDICHE"
-msgstr "바르디시"
+msgstr "바르디슈"
 
 #: deathforth/events/trade/weapons.df:933
 msgctxt "deathforth/events/trade/weapons.df"
@@ -3015,7 +3015,7 @@ msgstr "에게 당구 큐대를 준다."
 #: deathforth/events/trade/weapons.df:989
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Bardiche for 25 food"
-msgstr "바르디시 - 식량 25개"
+msgstr "바르디슈 - 식량 25개"
 
 #: deathforth/events/trade/weapons.df:992
 msgctxt "deathforth/events/trade/weapons.df"

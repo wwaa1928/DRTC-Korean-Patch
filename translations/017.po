@@ -66,7 +66,7 @@ msgstr "아직도 이 코스튬에 갇혀 있어! 도와줘!"
 #: deathforth/events/finale/epilogue-check.df:254
 msgctxt "deathforth/events/finale/epilogue-check.df"
 msgid "DON'T HAVE COW MAN"
-msgstr "소란 떨지 마, 친구"
+msgstr "쫄지 마 인마"
 
 #: deathforth/events/finale/epilogue-check.df:256
 msgctxt "deathforth/events/finale/epilogue-check.df"
@@ -111,7 +111,7 @@ msgstr "100% 미국식 할 수 있다 정신의 또 한 번의 승리!"
 #: deathforth/events/finale/epilogue-check.df:264
 msgctxt "deathforth/events/finale/epilogue-check.df"
 msgid "My log says this is a good place to stay."
-msgstr "내 항해 일지에 따르면 여긴 머물기 좋은 곳이다."
+msgstr "내 통나무가 그러는데 여긴 머물기 좋은 곳이래."
 
 #: deathforth/events/finale/epilogue-check.df:265
 msgctxt "deathforth/events/finale/epilogue-check.df"
@@ -1258,7 +1258,7 @@ msgstr "은(는) 거의 아무것도 안 했다. 그냥 평범한 녀석이니�
 #: deathforth/events/finale/epilogue-check.df:602
 msgctxt "deathforth/events/finale/epilogue-check.df"
 msgid "found a new home in the local Pukeymon shelter.*"
-msgstr "은(는) 동네 푸키몬 보호소에서 새 보금자리를 찾았다.*"
+msgstr "은(는) 동네 퓨키몬 보호소에서 새 보금자리를 찾았다.*"
 
 #: deathforth/events/finale/epilogue-check.df:604
 msgctxt "deathforth/events/finale/epilogue-check.df"
@@ -1465,7 +1465,7 @@ msgstr "칼아아아아아아아아아아아아아아아아아아아아아아아
 #: deathforth/events/finale/epilogue-check.df:645
 msgctxt "deathforth/events/finale/epilogue-check.df"
 msgid "Secret Tip: Look for the Well of Wishes in the Crypt of Decay!"
-msgstr "비밀 팁: 부패의 지하실에서 소원의 우물을 찾아봐!"
+msgstr "비밀 팁: 부패의 납골당에서 소원의 우물을 찾아봐!"
 
 #: deathforth/events/finale/epilogue-check.df:647
 msgctxt "deathforth/events/finale/epilogue-check.df"
@@ -1756,7 +1756,7 @@ msgstr "폴리비우스"
 #: deathforth/events/inner/arcadeloc.df:17
 msgctxt "deathforth/events/inner/arcadeloc.df"
 msgid "DEATHSPLOSIONAL"
-msgstr "데스플로전"
+msgstr "데스플로저널"
 
 #: deathforth/events/inner/arcadeloc.df:18
 msgctxt "deathforth/events/inner/arcadeloc.df"

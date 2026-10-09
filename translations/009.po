@@ -638,7 +638,7 @@ msgstr "은(는) 그 뒤 시킨다: "
 #: deathforth/events/common/car1.df:178
 msgctxt "deathforth/events/common/car1.df"
 msgid " remove the tiny hula girl from the engine. Aww!"
-msgstr "에게 엔진에서 작은 훌라 인형을 떼라고. 아잉!"
+msgstr "에게 엔진에서 작은 훌라 인형을 떼라고. 아쉬워라!"
 
 #: deathforth/events/common/car1.df:186
 msgctxt "deathforth/events/common/car1.df"

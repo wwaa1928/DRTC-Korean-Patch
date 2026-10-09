@@ -2324,7 +2324,7 @@ msgstr "파이프 폭탄 5개"
 #: deathforth/events/trade/trader-camp-region12.df:30
 msgctxt "deathforth/events/trade/trader-camp-region12.df"
 msgid "Aluminum Bat"
-msgstr "알루미늄 야구방망이"
+msgstr "알루미늄 배트"
 
 #: deathforth/events/trade/trader-camp-region12.df:31
 msgctxt "deathforth/events/trade/trader-camp-region12.df"
@@ -2344,7 +2344,7 @@ msgstr "화염병 9개"
 #: deathforth/events/trade/trader-camp-region12.df:42
 msgctxt "deathforth/events/trade/trader-camp-region12.df"
 msgid "Mega Maul"
-msgstr "메가 몰"
+msgstr "메가 대형 망치"
 
 #: deathforth/events/trade/trader-camp-region12.df:43
 msgctxt "deathforth/events/trade/trader-camp-region12.df"
@@ -2675,7 +2675,7 @@ msgstr "좀비는 괜찮은데 유령은 못 견디겠어"
 #: deathforth/events/trade/trader-camp-shared.df:166
 msgctxt "deathforth/events/trade/trader-camp-shared.df"
 msgid "The Well of Wishes hides in the Crypt of Decay"
-msgstr "소원의 우물은 부패의 지하묘지에 숨어 있어"
+msgstr "소원의 우물은 부패의 납골당에 숨어 있어"
 
 #: deathforth/events/trade/trader-camp-shared.df:167
 msgctxt "deathforth/events/trade/trader-camp-shared.df"

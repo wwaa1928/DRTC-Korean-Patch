@@ -486,7 +486,7 @@ msgstr "자리를 만들려면 일행에서 누군가 빼야 한다:"
 #: deathforth/events/sc/cyoa-screcruit3.df:241
 msgctxt "deathforth/events/sc/cyoa-screcruit3.df"
 msgid "Ninja Strike 3: Third Strike"
-msgstr "닌자 스트라이크 3: 써드 스트라이크"
+msgstr "닌자 스트라이크 3: 서드 스트라이크"
 
 #: deathforth/events/sc/cyoa-screcruit3.df:246
 msgctxt "deathforth/events/sc/cyoa-screcruit3.df"
@@ -2650,7 +2650,7 @@ msgstr "이(가) 일행을 떠났다."
 #: deathforth/events/sc/omentum.df:26
 msgctxt "deathforth/events/sc/omentum.df"
 msgid "Pukeymon?"
-msgstr "푸키몬?"
+msgstr "퓨키몬?"
 
 #: deathforth/events/sc/omentum.df:27
 msgctxt "deathforth/events/sc/omentum.df"
@@ -2696,7 +2696,7 @@ msgstr "축하합니다! "
 #: deathforth/events/sc/omentum.df:45
 msgctxt "deathforth/events/sc/omentum.df"
 msgid "'s Pukeymon evolved! It looks stronger than before."
-msgstr "의 푸키몬이 진화했다! 전보다 강해 보인다."
+msgstr "의 퓨키몬이 진화했다! 전보다 강해 보인다."
 
 #: deathforth/events/sc/omentum.df:54
 msgctxt "deathforth/events/sc/omentum.df"
@@ -2726,14 +2726,14 @@ msgstr " 훈련 방식도, "
 #: deathforth/events/sc/omentum.df:64
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " Pukeymon is going."
-msgstr " 푸키몬의 성장도."
+msgstr " 퓨키몬의 성장도."
 
 #: deathforth/events/sc/omentum.df:66
 msgctxt "deathforth/events/sc/omentum.df"
 msgid ""
 " withdraws it back into its Pukeyball, and wanders off somewhere, never to "
 "be seen again."
-msgstr "는 푸키몬을 푸키볼로 돌려보내고 어딘가로 떠나 다시는 보이지 않는다."
+msgstr "는 퓨키몬을 퓨키볼로 돌려보내고 어딘가로 떠나 다시는 보이지 않는다."
 
 #: deathforth/events/sc/omentum.df:68
 msgctxt "deathforth/events/sc/omentum.df"

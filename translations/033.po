@@ -323,7 +323,7 @@ msgstr "오리건 트레일도 해 봐!!"
 #: deathforth/weapondef/Sycamore_repo.df:3947
 msgctxt "deathforth/weapondef/Sycamore_repo.df"
 msgid "CHECK THE CRYPT OF DECAY"
-msgstr "부패의 지하실도 둘러봐!!"
+msgstr "부패의 납골당도 둘러봐!!"
 
 #: deathforth/weapondef/Sycamore_repo.df:3948
 msgctxt "deathforth/weapondef/Sycamore_repo.df"
@@ -608,3 +608,398 @@ msgstr "+1 좀보 포인트!"
 msgctxt "deathforth/zombopoints.df"
 msgid "Perks transferred over!"
 msgstr "특전 이전 완료!"
+
+#: deathforth/events/arqregion.df:13
+msgctxt "deathforth/events/arqregion.df"
+msgid "JOHNNY"
+msgstr "조니"
+
+#: deathforth/events/block/sharedcitylayout.df:73
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "APOCALYPSE COFFEE"
+msgstr "종말 커피"
+
+#: deathforth/events/block/sharedcitylayout.df:59
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "BARK! BARK!"
+msgstr "멍! 멍!"
+
+#: deathforth/events/block/sharedcitylayout.df:33
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "BOILED POTATOES"
+msgstr "삶은 감자"
+
+#: deathforth/events/block/sharedcitylayout.df:62
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "BOOKATORIUM"
+msgstr "북토리움"
+
+#: deathforth/events/block/sharedcitylayout.df:37
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "BURGS LAND"
+msgstr "버거 랜드"
+
+#: deathforth/events/block/sharedcitylayout.df:63
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "BUTTVILLE POLICE"
+msgstr "버트빌 경찰서"
+
+#: deathforth/events/block/sharedcitylayout.df:52
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "CAMPER'S DEPOT"
+msgstr "캠퍼 용품점"
+
+#: deathforth/events/block/sharedcitylayout.df:25
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "CHILLIN' VILLAINS LAW"
+msgstr "칠링 빌런즈 법률사무소"
+
+#: deathforth/events/block/sharedcitylayout.df:36
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "CURRY-TO-GO"
+msgstr "카레 포장"
+
+#: deathforth/events/block/sharedcitylayout.df:26
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "DAD & SONS"
+msgstr "아빠와 아들들"
+
+#: deathforth/events/block/sharedcitylayout.df:24
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "DINKUS & SLOAN"
+msgstr "딩커스 & 슬론"
+
+#: deathforth/events/block/sharedcitylayout.df:64
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "E-Z-CLINIC"
+msgstr "이지 클리닉"
+
+#: deathforth/events/block/sharedcitylayout.df:53
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "ERNIE'S HARDWARE"
+msgstr "어니 철물점"
+
+#: deathforth/events/block/sharedcitylayout.df:49
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "FUD-E-MEYERS"
+msgstr "푸디마이어스"
+
+#: deathforth/events/block/sharedcitylayout.df:76
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "FURNITURARIUM"
+msgstr "가구토리움"
+
+#: deathforth/events/block/sharedcitylayout.df:58
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "Fred's Fort"
+msgstr "프레드의 요새"
+
+#: deathforth/events/block/sharedcitylayout.df:47
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "GUN*STOP"
+msgstr "총기*상점"
+
+#: deathforth/events/block/sharedcitylayout.df:60
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "HELP ME"
+msgstr "살려줘"
+
+#: deathforth/events/block/sharedcitylayout.df:28
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "IniTech"
+msgstr "이니테크"
+
+#: deathforth/events/block/sharedcitylayout.df:54
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "JUST UMBRELLAS"
+msgstr "우산만 팝니다"
+
+#: deathforth/events/block/sharedcitylayout.df:48
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "KARATE-SHOP"
+msgstr "가라테-상점"
+
+#: deathforth/events/block/sharedcitylayout.df:35
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "MEAT & ETC"
+msgstr "고기 & 기타"
+
+#: deathforth/events/block/sharedcitylayout.df:46
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "MOE'S PUB"
+msgstr "모의 술집"
+
+#: deathforth/events/block/sharedcitylayout.df:67
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "MUSCLE! BOMB!! GYM!!"
+msgstr "근육! 폭탄!! 체육관!!"
+
+#: deathforth/events/block/sharedcitylayout.df:75
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "QUARTER-EATER ARCADE"
+msgstr "동전 먹는 오락실"
+
+#: deathforth/events/block/sharedcitylayout.df:57
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "SAFE HERE!"
+msgstr "여기 안전!"
+
+#: deathforth/events/block/sharedcitylayout.df:55
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "SMALLGRENS DRUG"
+msgstr "스몰그린 약국"
+
+#: deathforth/events/block/sharedcitylayout.df:34
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "SPAGHETTI ONLY"
+msgstr "스파게티 전문"
+
+#: deathforth/events/block/sharedcitylayout.df:51
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "SPORTS&JORTS"
+msgstr "스포츠&청반바지"
+
+#: deathforth/events/block/sharedcitylayout.df:56
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "SUPERSPORTING"
+msgstr "슈퍼스포팅"
+
+#: deathforth/events/block/sharedcitylayout.df:27
+msgctxt "deathforth/events/block/sharedcitylayout.df"
+msgid "iOmniTeleCorpCo"
+msgstr "i옴니텔레콥코"
+
+#: deathforth/events/city/building-pick-layout.df:70
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "-PET-STUFF-"
+msgstr "-애완용품-"
+
+#: deathforth/events/city/building-pick-layout.df:92
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "APOCALYPSE COFFEE"
+msgstr "종말 커피"
+
+#: deathforth/events/city/building-pick-layout.df:78
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "BARK! BARK!"
+msgstr "멍! 멍!"
+
+#: deathforth/events/city/building-pick-layout.df:38
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "BOILED POTATOES"
+msgstr "삶은 감자"
+
+#: deathforth/events/city/building-pick-layout.df:81
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "BOOKATORIUM"
+msgstr "북토리움"
+
+#: deathforth/events/city/building-pick-layout.df:42
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "BURGS LAND"
+msgstr "버거 랜드"
+
+#: deathforth/events/city/building-pick-layout.df:82
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "BUTTVILLE POLICE"
+msgstr "버트빌 경찰서"
+
+#: deathforth/events/city/building-pick-layout.df:71
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "CAMPER'S DEPOT"
+msgstr "캠퍼 용품점"
+
+#: deathforth/events/city/building-pick-layout.df:30
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "CHILLIN' VILLAINS LAW"
+msgstr "칠링 빌런즈 법률사무소"
+
+#: deathforth/events/city/building-pick-layout.df:53
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "CONJECTURAL TECHNOLOGIES"
+msgstr "추측공학 연구소"
+
+#: deathforth/events/city/building-pick-layout.df:41
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "CURRY-TO-GO"
+msgstr "카레 포장"
+
+#: deathforth/events/city/building-pick-layout.df:31
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "DAD & SONS"
+msgstr "아빠와 아들들"
+
+#: deathforth/events/city/building-pick-layout.df:60
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "DEPARTMENT OF MOTOR VEHICLES"
+msgstr "차량관리국"
+
+#: deathforth/events/city/building-pick-layout.df:29
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "DINKUS & SLOAN"
+msgstr "딩커스 & 슬론"
+
+#: deathforth/events/city/building-pick-layout.df:83
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "E-Z-CLINIC"
+msgstr "이지 클리닉"
+
+#: deathforth/events/city/building-pick-layout.df:72
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "ERNIE'S HARDWARE"
+msgstr "어니 철물점"
+
+#: deathforth/events/city/building-pick-layout.df:67
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "FUD-E-MEYERS"
+msgstr "푸디마이어스"
+
+#: deathforth/events/city/building-pick-layout.df:95
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "FURNITURARIUM"
+msgstr "가구토리움"
+
+#: deathforth/events/city/building-pick-layout.df:77
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "Fred's Fort"
+msgstr "프레드의 요새"
+
+#: deathforth/events/city/building-pick-layout.df:65
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "GUN*STOP"
+msgstr "총기*상점"
+
+#: deathforth/events/city/building-pick-layout.df:79
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "HELP ME"
+msgstr "살려줘"
+
+#: deathforth/events/city/building-pick-layout.df:33
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "IniTech"
+msgstr "이니테크"
+
+#: deathforth/events/city/building-pick-layout.df:54
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "JUST TESTING U"
+msgstr "그냥 테스트 중"
+
+#: deathforth/events/city/building-pick-layout.df:73
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "JUST UMBRELLAS"
+msgstr "우산만 팝니다"
+
+#: deathforth/events/city/building-pick-layout.df:66
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "KARATE-SHOP"
+msgstr "가라테-상점"
+
+#: deathforth/events/city/building-pick-layout.df:55
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "KiND oF A*LOT*O COMiCS"
+msgstr "꽤*많은*만화"
+
+#: deathforth/events/city/building-pick-layout.df:40
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "MEAT & ETC"
+msgstr "고기 & 기타"
+
+#: deathforth/events/city/building-pick-layout.df:64
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "MOE'S PUB"
+msgstr "모의 술집"
+
+#: deathforth/events/city/building-pick-layout.df:86
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "MUSCLE! BOMB!! GYM!!"
+msgstr "근육! 폭탄!! 체육관!!"
+
+#: deathforth/events/city/building-pick-layout.df:56
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "NUTZ '4' T0YZ"
+msgstr "넛츠 '4' 토이즈"
+
+#: deathforth/events/city/building-pick-layout.df:94
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "QUARTER-EATER ARCADE"
+msgstr "동전 먹는 오락실"
+
+#: deathforth/events/city/building-pick-layout.df:76
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "SAFE HERE!"
+msgstr "여기 안전!"
+
+#: deathforth/events/city/building-pick-layout.df:74
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "SMALLGRENS DRUG"
+msgstr "스몰그린 약국"
+
+#: deathforth/events/city/building-pick-layout.df:39
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "SPAGHETTI ONLY"
+msgstr "스파게티 전문"
+
+#: deathforth/events/city/building-pick-layout.df:69
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "SPORTS & JORTS"
+msgstr "스포츠 & 청반바지"
+
+#: deathforth/events/city/building-pick-layout.df:75
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "SUPERSPORTING"
+msgstr "슈퍼스포팅"
+
+#: deathforth/events/city/building-pick-layout.df:57
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "THE ANIME STORE"
+msgstr "애니 상점"
+
+#: deathforth/events/city/building-pick-layout.df:59
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "TOILET HEAVEN"
+msgstr "변기 천국"
+
+#: deathforth/events/city/building-pick-layout.df:58
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "W*Y*K STATION"
+msgstr "W*Y*K 방송국"
+
+#: deathforth/events/city/building-pick-layout.df:32
+msgctxt "deathforth/events/city/building-pick-layout.df"
+msgid "iOmniTeleCorpCo"
+msgstr "i옴니텔레콥코"
+
+#: deathforth/events/city/region-layout.df:120
+msgctxt "deathforth/events/city/region-layout.df"
+msgid " FRICKTON P.D."
+msgstr " 프릭턴 경찰서"
+
+#: deathforth/events/city/region-layout.df:114
+msgctxt "deathforth/events/city/region-layout.df"
+msgid "BUTTBURG HIGH"
+msgstr "버트버그 고등학교"
+
+#: deathforth/events/city/region-layout.df:105
+msgctxt "deathforth/events/city/region-layout.df"
+msgid "JOE'S DINER"
+msgstr "조의 식당"
+
+#: deathforth/events/city/region-layout.df:99
+msgctxt "deathforth/events/city/region-layout.df"
+msgid "MOE'S PUB"
+msgstr "모의 술집"
+
+#: deathforth/events/city/region-layout.df:78
+msgctxt "deathforth/events/city/region-layout.df"
+msgid "MUSCLE! BOMB!! GYM!!"
+msgstr "근육! 폭탄!! 체육관!!"
+
+#: deathforth/events/city/region/special-lots.df:56
+msgctxt "deathforth/events/city/region/special-lots.df"
+msgid "SHOP & GO"
+msgstr "샵 & 고"
+
+#: deathforth/events/exterior/farm.df:280
+msgctxt "deathforth/events/exterior/farm.df"
+msgid "BUTTVILLE POLICE"
+msgstr "버트빌 경찰서"

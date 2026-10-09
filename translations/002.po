@@ -765,7 +765,7 @@ msgstr "도로 보수하던 중이었는데..."
 #: deathforth/blurb/sc/mandible.df:74
 msgctxt "deathforth/blurb/sc/mandible.df"
 msgid "Construction? More like funstruction."
-msgstr "공사? 아니, 재미사지."
+msgstr "공사? 아니, 꿀잼 공사지."
 
 #: deathforth/blurb/sc/mandible.df:75
 msgctxt "deathforth/blurb/sc/mandible.df"
@@ -987,7 +987,7 @@ msgstr "왕년엔 총을 아홉 자루씩 들고 다녔다고!"
 msgctxt "deathforth/blurb/sc/moody.df"
 msgid ""
 "I get more plasms ammo by cramming batteries and gum wrappers into my gun."
-msgstr "총에 건전지랑 껌 종이를 쑤셔 넣으면 플라즈마 탄약이 더 생겨."
+msgstr "총에 건전지랑 껌 종이를 쑤셔 넣으면 플라스마 탄약이 더 생겨."
 
 #: deathforth/blurb/sc/moody.df:13
 msgctxt "deathforth/blurb/sc/moody.df"
@@ -1516,7 +1516,7 @@ msgstr "우린 왜 여기 있지? 고통받으려고?"
 #: deathforth/blurb/sc/omentum.df:241
 msgctxt "deathforth/blurb/sc/omentum.df"
 msgid "Remind me to never breathe ever again after this is over."
-msgstr "이거 끝나면 다시는 숨도 안 쉬게 날 말려 줘."
+msgstr "이거 끝나면 다시는 숨도 쉬지 말라고 나한테 꼭 말해 줘."
 
 #: deathforth/blurb/sc/omentum.df:242
 msgctxt "deathforth/blurb/sc/omentum.df"

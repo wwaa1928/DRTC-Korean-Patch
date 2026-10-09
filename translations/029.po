@@ -26,7 +26,7 @@ msgstr "저격 소총 - 식량 25"
 #: deathforth/events/trade/weapons.df:1058
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Quiet Shotgun for 30 food"
-msgstr "저소음 산탄총 - 식량 30"
+msgstr "조용한 산탄총 - 식량 30"
 
 #: deathforth/events/trade/weapons.df:1070
 msgctxt "deathforth/events/trade/weapons.df"
@@ -48,7 +48,7 @@ msgid ""
 " buys a can of Healing Spray!\r\n"
 "\t"
 msgstr ""
-"은(는) 회복 스프레이 한 통을 산다!\r\n"
+"은(는) 치료 스프레이 한 통을 산다!\r\n"
 "\t"
 
 #: deathforth/events/trade/weapons.df:1077
@@ -103,7 +103,7 @@ msgstr "에게 손전등을 공짜로 준다."
 #: deathforth/events/trade/weapons.df:1107
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Healing Spray for 6 food"
-msgstr "회복 스프레이 - 식량 6"
+msgstr "치료 스프레이 - 식량 6"
 
 #: deathforth/events/trade/weapons.df:1110
 msgctxt "deathforth/events/trade/weapons.df"

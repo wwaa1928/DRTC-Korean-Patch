@@ -404,12 +404,12 @@ msgstr "수류탄 1개 - 식량 4"
 #: deathforth/events/trade/oldtrade.df:512
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " farts right in front of the shotgun guy."
-msgstr "은(는) 샷건 남자 바로 앞에서 방귀를 뀐다."
+msgstr "은(는) 산탄총 남자 바로 앞에서 방귀를 뀐다."
 
 #: deathforth/events/trade/oldtrade.df:514
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " tells the shotgun guy to "
-msgstr "은(는) 샷건 남자에게 말한다: "
+msgstr "은(는) 산탄총 남자에게 말한다: "
 
 #: deathforth/events/trade/oldtrade.df:514
 #: deathforth/events/trade/oldtrade.df:593
@@ -453,12 +453,12 @@ msgstr "에게 자기 것을 건넨다: "
 #: deathforth/events/trade/oldtrade.df:520
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "automatic shotgun and a bunch of shells!"
-msgstr "자동 샷건과 산탄 한 무더기!"
+msgstr "자동 산탄총과 산탄 한 무더기!"
 
 #: deathforth/events/trade/oldtrade.df:520
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "rifled slug shotgun and a bunch of shells!"
-msgstr "슬러그 샷건과 산탄 한 무더기!"
+msgstr "슬러그 산탄총과 산탄 한 무더기!"
 
 #: deathforth/events/trade/oldtrade.df:524
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -501,7 +501,7 @@ msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ""
 ". It's a one of a kind custom shotgun! Every shot is a massive blast of "
 "zombie splattering."
-msgstr ". 세상에 하나뿐인 커스텀 샷건이다! 한 발 한 발이 좀비를 산산이 터뜨리는 거대한 폭발이다."
+msgstr ". 세상에 하나뿐인 커스텀 산탄총이다! 한 발 한 발이 좀비를 산산이 터뜨리는 거대한 폭발이다."
 
 #: deathforth/events/trade/oldtrade.df:536
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -510,7 +510,7 @@ msgid ""
 "buckshot. A skilled shooter could destroy a solid line of zombies with each "
 "shot!"
 msgstr ""
-"은(는) 슬러그 샷건을 산다. 산탄 대신 무겁고 단단한 슬러그를 쏜다. 숙련된 사수라면 한 발에 좀비 한 줄을 통째로 날려 버릴 수 "
+"은(는) 슬러그 산탄총을 산다. 산탄 대신 무겁고 단단한 슬러그를 쏜다. 숙련된 사수라면 한 발에 좀비 한 줄을 통째로 날려 버릴 수 "
 "있다!"
 
 #: deathforth/events/trade/oldtrade.df:541
@@ -518,17 +518,17 @@ msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ""
 " buys an automatic shotgun. This weapon fires way faster than a normal "
 "shotgun, though the power of a single shot is a little weaker."
-msgstr "은(는) 자동 샷건을 산다. 보통 샷건보다 훨씬 빨리 쏘지만, 한 발의 위력은 조금 약하다."
+msgstr "은(는) 자동 산탄총을 산다. 보통 산탄총보다 훨씬 빨리 쏘지만, 한 발의 위력은 조금 약하다."
 
 #: deathforth/events/trade/oldtrade.df:546
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " buys a shotgun. The peddler throws in some shells for free!"
-msgstr "은(는) 샷건을 산다. 행상인이 산탄을 덤으로 좀 준다!"
+msgstr "은(는) 산탄총을 산다. 행상인이 산탄을 덤으로 좀 준다!"
 
 #: deathforth/events/trade/oldtrade.df:551
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Shotgun Peddler"
-msgstr "샷건 행상인"
+msgstr "산탄총 행상인"
 
 #: deathforth/events/trade/oldtrade.df:552
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -544,7 +544,7 @@ msgstr ""
 #: deathforth/events/trade/oldtrade.df:554
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "SHOTGUNS FOR SALE! SHOTGUNS FOR SAAAALE!"
-msgstr "샷건 팝니다! 샷건 팝니다아아아!"
+msgstr "산탄총 팝니다! 산탄총 팝니다아아아!"
 
 #: deathforth/events/trade/oldtrade.df:557
 #: deathforth/events/trade/oldtrade.df:812
@@ -563,7 +563,7 @@ msgstr "살 식량이 부족하다! 행상인은 불쌍해서 "
 #: deathforth/events/trade/oldtrade.df:560
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " some free shotgun shells."
-msgstr "에게 샷건 탄약을 공짜로 좀 준다."
+msgstr "에게 산탄총 탄약을 공짜로 좀 준다."
 
 #: deathforth/events/trade/oldtrade.df:563
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -573,12 +573,12 @@ msgstr "BIG DAWG - 식량 50"
 #: deathforth/events/trade/oldtrade.df:566
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Slug Shotgun for 40 food"
-msgstr "슬러그 샷건 - 식량 40"
+msgstr "슬러그 산탄총 - 식량 40"
 
 #: deathforth/events/trade/oldtrade.df:569
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Autoshotty for 30 food"
-msgstr "자동 샷건 - 식량 30"
+msgstr "자동 산탄총 - 식량 30"
 
 #: deathforth/events/trade/oldtrade.df:572
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -588,7 +588,7 @@ msgstr "산탄 75발 - 식량 15"
 #: deathforth/events/trade/oldtrade.df:575
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Shotgun for 10 food"
-msgstr "샷건 - 식량 10"
+msgstr "산탄총 - 식량 10"
 
 #: deathforth/events/trade/oldtrade.df:578
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -643,7 +643,7 @@ msgstr ""
 #: deathforth/events/trade/oldtrade.df:598
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " a scoped hunting rifle and an "
-msgstr "에게 조준경 달린 사냥총과 "
+msgstr "에게 조준경 달린 사냥용 소총과 "
 
 #: deathforth/events/trade/oldtrade.df:598
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -705,7 +705,7 @@ msgid ""
 " buys a high powered hunting rifle. The collector gives you a great price on it, as she already has several.\r\n"
 "\t"
 msgstr ""
-"은(는) 고성능 사냥총을 산다. 수집가는 이미 여러 자루가 있어서 아주 싸게 넘겨준다.\r\n"
+"은(는) 고성능 사냥용 소총을 산다. 수집가는 이미 여러 자루가 있어서 아주 싸게 넘겨준다.\r\n"
 "\t"
 
 #: deathforth/events/trade/oldtrade.df:615
@@ -713,7 +713,7 @@ msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ""
 "The great thing about hunting rifles is that one shot can splat a lot of "
 "zombies. My record is 7 in one shot!"
-msgstr "사냥총의 좋은 점은 한 발로 좀비를 여럿 터뜨릴 수 있다는 거야. 내 기록은 한 발에 7마리!"
+msgstr "사냥용 소총의 좋은 점은 한 발로 좀비를 여럿 터뜨릴 수 있다는 거야. 내 기록은 한 발에 7마리!"
 
 #: deathforth/events/trade/oldtrade.df:620
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -793,7 +793,7 @@ msgstr "미니건 - 식량 65"
 #: deathforth/events/trade/oldtrade.df:650
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Hunting Rifle for 20 food"
-msgstr "사냥총 - 식량 20"
+msgstr "사냥용 소총 - 식량 20"
 
 #: deathforth/events/trade/oldtrade.df:653
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1386,7 +1386,7 @@ msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ""
 " buys an automatic shotgun. NOW we're talking! You're set until you run out "
 "of shells for it."
-msgstr "은(는) 자동 샷건을 산다. 이제야 말이 통하네! 산탄이 떨어질 때까지는 든든하다."
+msgstr "은(는) 자동 산탄총을 산다. 이제야 말이 통하네! 산탄이 떨어질 때까지는 든든하다."
 
 #: deathforth/events/trade/oldtrade.df:919
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1420,7 +1420,7 @@ msgstr "화염방사기 - 식량 40"
 #: deathforth/events/trade/oldtrade.df:936
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Auto-Shotgun for 25 food"
-msgstr "자동 샷건 - 식량 25"
+msgstr "자동 산탄총 - 식량 25"
 
 #: deathforth/events/trade/oldtrade.df:939
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1437,7 +1437,7 @@ msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ""
 " buys a shotgun. What a classic choice! This weapon is good in the hands of "
 "nearly anyone."
-msgstr "은(는) 샷건을 산다. 고전적인 선택이다! 거의 누가 써도 좋은 무기다."
+msgstr "은(는) 산탄총을 산다. 고전적인 선택이다! 거의 누가 써도 좋은 무기다."
 
 #: deathforth/events/trade/oldtrade.df:952
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1480,7 +1480,7 @@ msgstr "이(가) 좋은 물건을 보여 달라고 요구한다"
 #: deathforth/events/trade/oldtrade.df:977
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Shotgun for 5 food"
-msgstr "샷건 - 식량 5"
+msgstr "산탄총 - 식량 5"
 
 #: deathforth/events/trade/oldtrade.df:980
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1963,7 +1963,7 @@ msgstr ""
 #: deathforth/events/trade/oldtrade.df:1271
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " robs the shotgun shell merchant. "
-msgstr "은(는) 샷건 탄약 상인을 턴다. "
+msgstr "은(는) 산탄총 탄약 상인을 턴다. "
 
 #: deathforth/events/trade/oldtrade.df:1277
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1973,7 +1973,7 @@ msgstr "은(는) 끝맺지도 못한다: "
 #: deathforth/events/trade/oldtrade.df:1277
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " sentence before the merchant whips out a shotgun and starts blasting."
-msgstr " 말을. 상인이 샷건을 꺼내 쏘기 시작했기 때문이다."
+msgstr " 말을. 상인이 산탄총을 꺼내 쏘기 시작했기 때문이다."
 
 #: deathforth/events/trade/oldtrade.df:1283
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1998,7 +1998,7 @@ msgstr " 남은 식량을 전부 산탄으로 바꾼다."
 #: deathforth/events/trade/oldtrade.df:1303
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "Shotgun Shell Stand"
-msgstr "샷건 탄약 가판대"
+msgstr "산탄총 탄약 가판대"
 
 #: deathforth/events/trade/oldtrade.df:1304
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -2018,7 +2018,7 @@ msgstr "에는 줄이 그어져 있고, 그 위에 "
 #: deathforth/events/trade/oldtrade.df:1304
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "SHOTGUN SHELLS"
-msgstr "샷건 탄약"
+msgstr "산탄총 탄약"
 
 #: deathforth/events/trade/oldtrade.df:1304
 msgctxt "deathforth/events/trade/oldtrade.df"

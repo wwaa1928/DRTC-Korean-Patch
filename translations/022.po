@@ -1503,7 +1503,7 @@ msgstr " 힘만으로. 대부분에겐 자살 행위다. 들소는 위험한 동
 #: deathforth/events/stomach/sycamore_events.df:28
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "BERSERRRRRKKKKKKKKKKKK!!!"
-msgstr "광포오오오오오오오오오화!!!"
+msgstr "버서어어어어어어커어어어어!!!"
 
 #: deathforth/events/stomach/sycamore_events.df:32
 msgctxt "deathforth/events/stomach/sycamore_events.df"

@@ -11,7 +11,7 @@ msgstr ""
 #: deathforth/events/trade/rare.df:537
 msgctxt "deathforth/events/trade/rare.df"
 msgid "You will find true love on the Death Road! Shortly after that you will"
-msgstr "운명의 길에서 진정한 사랑을 만날 거야! 그리고 얼마 뒤 넌 "
+msgstr "데스 로드에서 진정한 사랑을 만날 거야! 그리고 얼마 뒤 넌 "
 
 #: deathforth/events/trade/rare.df:538
 msgctxt "deathforth/events/trade/rare.df"
@@ -67,7 +67,7 @@ msgctxt "deathforth/events/trade/rare.df"
 msgid ""
 "The Well of Wishes hides in the Crypt of Decay! You won't find it though, "
 "you'll"
-msgstr "부패의 지하실에 소원의 우물이 숨어 있어! 넌 못 찾겠지만. 넌 "
+msgstr "부패의 납골당에 소원의 우물이 숨어 있어! 넌 못 찾겠지만. 넌 "
 
 #: deathforth/events/trade/rare.df:548
 msgctxt "deathforth/events/trade/rare.df"
@@ -461,7 +461,7 @@ msgstr "은(는) 해골 기사에게 말한다. "
 #: deathforth/events/trade/rare.df:760
 msgctxt "deathforth/events/trade/rare.df"
 msgid "COOL IT."
-msgstr "입 닥쳐."
+msgstr "진정해."
 
 #: deathforth/events/trade/rare.df:763
 msgctxt "deathforth/events/trade/rare.df"
@@ -485,7 +485,7 @@ msgstr "그가 합류하겠다고 우긴다. 자리를 만들려면 누구를 �
 #: deathforth/events/trade/rare.df:777
 msgctxt "deathforth/events/trade/rare.df"
 msgid "YOU COOLETH IT! YOU COOLETH IT!!"
-msgstr "그대나 닥치거라! 그대나 닥치거라!!"
+msgstr "그대나 진정하거라! 그대나 진정하거라!!"
 
 #: deathforth/events/trade/rare.df:777
 msgctxt "deathforth/events/trade/rare.df"
@@ -585,7 +585,7 @@ msgstr " 완벽한 평온을 이해하고 "
 #: deathforth/events/trade/rare.df:824
 msgctxt "deathforth/events/trade/rare.df"
 msgid "SOUND SLEEPER"
-msgstr "깊은 잠"
+msgstr "꿀잠러"
 
 #: deathforth/events/trade/rare.df:824
 msgctxt "deathforth/events/trade/rare.df"
@@ -831,7 +831,7 @@ msgctxt "deathforth/events/trade/rare.df"
 msgid ""
 "You can't afford anything. The nerd gives you a pukeyball as a consolation "
 "prize."
-msgstr "아무것도 살 수 없다. 너드가 위로의 선물로 푸키볼을 준다."
+msgstr "아무것도 살 수 없다. 너드가 위로의 선물로 퓨키볼을 준다."
 
 #: deathforth/events/trade/rare.df:935
 msgctxt "deathforth/events/trade/rare.df"
@@ -881,7 +881,7 @@ msgstr "거래할 마지막 기회다! 행운을 빈다!"
 #: deathforth/events/trade/shuffler.df:120
 msgctxt "deathforth/events/trade/shuffler.df"
 msgid "Trading on the Death Road"
-msgstr "죽음의 길에서 거래하기"
+msgstr "데스 로드에서 거래하기"
 
 #: deathforth/events/trade/shuffler.df:122
 msgctxt "deathforth/events/trade/shuffler.df"
@@ -969,7 +969,7 @@ msgctxt "deathforth/events/trade/shuffler.df"
 msgid ""
 " continues making progress along the Death Road. As long as one person "
 "remains alive, the dream of Canada lives on."
-msgstr "은(는) 죽음의 길에서 계속 전진한다. 한 사람이라도 살아 있는 한, 캐나다의 꿈도 살아 있다."
+msgstr "은(는) 데스 로드에서 계속 전진한다. 한 사람이라도 살아 있는 한, 캐나다의 꿈도 살아 있다."
 
 #: deathforth/events/trade/shuffler.df:163
 msgctxt "deathforth/events/trade/shuffler.df"
@@ -1740,7 +1740,7 @@ msgstr "낫 팔기 - 식량 3"
 #: deathforth/events/trade/supplies.df:842
 msgctxt "deathforth/events/trade/supplies.df"
 msgid "Sell Zweihander - 11 food"
-msgstr "츠바이헨더 팔기 - 식량 11"
+msgstr "츠바이핸더 팔기 - 식량 11"
 
 #: deathforth/events/trade/supplies.df:843
 msgctxt "deathforth/events/trade/supplies.df"
@@ -1750,7 +1750,7 @@ msgstr "외계 광선총 팔기 - 식량 15"
 #: deathforth/events/trade/supplies.df:844
 msgctxt "deathforth/events/trade/supplies.df"
 msgid "Sell Snubnose - 1 food"
-msgstr "스너브노즈 팔기 - 식량 1"
+msgstr "단총신 리볼버 팔기 - 식량 1"
 
 #: deathforth/events/trade/supplies.df:845
 msgctxt "deathforth/events/trade/supplies.df"
@@ -1765,7 +1765,7 @@ msgstr "전술 창 팔기 - 식량 2"
 #: deathforth/events/trade/supplies.df:847
 msgctxt "deathforth/events/trade/supplies.df"
 msgid "Sell Aluminum Bat - 1 food"
-msgstr "알루미늄 야구 방망이 팔기 - 식량 1"
+msgstr "알루미늄 배트 팔기 - 식량 1"
 
 #: deathforth/events/trade/supplies.df:848
 msgctxt "deathforth/events/trade/supplies.df"
@@ -1810,7 +1810,7 @@ msgstr "글라디우스 팔기 - 식량 3"
 #: deathforth/events/trade/supplies.df:856
 msgctxt "deathforth/events/trade/supplies.df"
 msgid "Sell Hunting Rifle - 3 food"
-msgstr "사냥 소총 팔기 - 식량 3"
+msgstr "사냥용 소총 팔기 - 식량 3"
 
 #: deathforth/events/trade/supplies.df:857
 msgctxt "deathforth/events/trade/supplies.df"
@@ -1955,7 +1955,7 @@ msgstr "너클 팔기 - 식량 1"
 #: deathforth/events/trade/supplies.df:886
 msgctxt "deathforth/events/trade/supplies.df"
 msgid "Sell the Whammer - 3 food"
-msgstr "워머 팔기 - 식량 3"
+msgstr "해머 팔기 - 식량 3"
 
 #: deathforth/events/trade/supplies.df:887
 msgctxt "deathforth/events/trade/supplies.df"
@@ -2090,7 +2090,7 @@ msgstr "무거운 황금 도끼 팔기 - 식량 20"
 #: deathforth/events/trade/supplies.df:917
 msgctxt "deathforth/events/trade/supplies.df"
 msgid "Sell Duck Hunter - 7 food"
-msgstr "오리 사냥꾼 팔기 - 식량 7"
+msgstr "덕헌터 팔기 - 식량 7"
 
 #: deathforth/events/trade/supplies.df:918
 msgctxt "deathforth/events/trade/supplies.df"

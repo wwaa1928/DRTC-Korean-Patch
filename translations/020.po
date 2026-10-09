@@ -353,7 +353,7 @@ msgstr "를 두고 간다"
 #: deathforth/events/rareloc/region/city-rangers.df:12
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
 msgid "Danger Ranger: Pink"
-msgstr "데인저 레인저: Pink"
+msgstr "데인저 레인저: 핑크"
 
 #: deathforth/events/rareloc/region/city-rangers.df:13
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
@@ -372,7 +372,7 @@ msgstr ""
 #: deathforth/events/rareloc/region/city-rangers.df:22
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
 msgid "Danger Ranger: Orange"
-msgstr "데인저 레인저: Orange"
+msgstr "데인저 레인저: 오렌지"
 
 #: deathforth/events/rareloc/region/city-rangers.df:23
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
@@ -386,7 +386,7 @@ msgstr ""
 #: deathforth/events/rareloc/region/city-rangers.df:32
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
 msgid "Danger Ranger: Green"
-msgstr "데인저 레인저: Green"
+msgstr "데인저 레인저: 그린"
 
 #: deathforth/events/rareloc/region/city-rangers.df:33
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
@@ -400,7 +400,7 @@ msgstr ""
 #: deathforth/events/rareloc/region/city-rangers.df:42
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
 msgid "Danger Ranger: Blue"
-msgstr "데인저 레인저: Blue"
+msgstr "데인저 레인저: 블루"
 
 #: deathforth/events/rareloc/region/city-rangers.df:43
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"

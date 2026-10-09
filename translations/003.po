@@ -1483,7 +1483,7 @@ msgstr "장어 통조림 먹을래?"
 #: deathforth/blurb/syca_sc/merenja.df:8
 msgctxt "deathforth/blurb/syca_sc/merenja.df"
 msgid "That's ADMIRAL Merenja Raven, to you."
-msgstr "나는 메렌자 레이븐 제독이시다."
+msgstr "나한텐 메렌자 레이븐 '제독님'이라고 불러."
 
 #: deathforth/blurb/syca_sc/merenja.df:9
 msgctxt "deathforth/blurb/syca_sc/merenja.df"
@@ -2025,7 +2025,7 @@ msgstr "페르담트!"
 #: deathforth/blurb/syca_sc/swiss.df:10
 msgctxt "deathforth/blurb/syca_sc/swiss.df"
 msgid "I sleep in the armour too, in case there's a ruffian with a flintlock."
-msgstr "부싯돌 총 든 불한당이 있을지 몰라서 갑옷 입고 자."
+msgstr "수발총 든 불한당이 있을지 몰라서 갑옷 입고 자."
 
 #: deathforth/blurb/syca_sc/swiss.df:11
 msgctxt "deathforth/blurb/syca_sc/swiss.df"
@@ -2086,7 +2086,7 @@ msgstr "이 갑옷은 파편엔 좋은데. 좀비한텐 꽝이야."
 #: deathforth/blurb/syca_sc/zeus.df:1
 msgctxt "deathforth/blurb/syca_sc/zeus.df"
 msgid "MAN SUPPOSES...ZEUS DISPOSES."
-msgstr "인간은 계획하고... 제우스는 처리한다."
+msgstr "계획은 인간이 세우고... 결정은 제우스가 한다."
 
 #: deathforth/blurb/syca_sc/zeus.df:2
 msgctxt "deathforth/blurb/syca_sc/zeus.df"

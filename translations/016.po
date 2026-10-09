@@ -612,7 +612,7 @@ msgstr "사기 일행 모드 클리어"
 #: deathforth/events/finale/end-of-the-road.df:217
 msgctxt "deathforth/events/finale/end-of-the-road.df"
 msgid "Quick Death Mode completed"
-msgstr "빠른 죽음 모드 클리어"
+msgstr "퀵 데스 모드 클리어"
 
 #: deathforth/events/finale/end-of-the-road.df:229
 #: deathforth/events/finale/end-of-the-road.df:239
@@ -733,7 +733,7 @@ msgstr "사기 일행 연승: "
 #: deathforth/events/finale/end-of-the-road.df:393
 msgctxt "deathforth/events/finale/end-of-the-road.df"
 msgid "Quick Death Win Streak: "
-msgstr "빠른 죽음 연승: "
+msgstr "퀵 데스 연승: "
 
 #: deathforth/events/finale/end-of-the-road.df:397
 msgctxt "deathforth/events/finale/end-of-the-road.df"
@@ -858,7 +858,7 @@ msgstr "사기 일행 모드 클리어!"
 #: deathforth/events/finale/end-of-the-road.df:504
 msgctxt "deathforth/events/finale/end-of-the-road.df"
 msgid "QUICK DEATH MODE COMPLETE!"
-msgstr "빠른 죽음 모드 클리어!"
+msgstr "퀵 데스 모드 클리어!"
 
 #: deathforth/events/finale/end-of-the-road.df:508
 msgctxt "deathforth/events/finale/end-of-the-road.df"

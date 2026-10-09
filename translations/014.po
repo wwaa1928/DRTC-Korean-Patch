@@ -264,7 +264,7 @@ msgid ""
 " buys the Lever-Action!\r\n"
 "\t"
 msgstr ""
-"은(는) 레버 액션을 산다!\r\n"
+"은(는) 레버액션을 산다!\r\n"
 "\t"
 
 #: deathforth/events/common/PANCREAS.df:567
@@ -366,7 +366,7 @@ msgid ""
 "\tKukri: A knife that maims zombs, slowing them!"
 msgstr ""
 "덕헌터: 계속 튕기는 산탄총!\r\n"
-"\t레버 액션: 레버가 젖혀진 직후에 쏘면 훨씬 빨리 쏜다!\r\n"
+"\t레버액션: 레버가 젖혀진 직후에 쏘면 훨씬 빨리 쏜다!\r\n"
 "\t돌트 빅 아이언: 빨리 쏘게 만드는 권총!\r\n"
 "\t버프 배너: 미니 치명타를 주는 지원 무기!\r\n"
 "\t쿠크리: 좀비를 불구로 만들어 느리게 하는 칼!"
@@ -379,7 +379,7 @@ msgstr "식량이 다 떨어졌다! 상인은 "
 #: deathforth/events/common/PANCREAS.df:616
 msgctxt "deathforth/events/common/PANCREAS.df"
 msgid " an old snubnose pistol as a consolation prize."
-msgstr "에게 위로 선물로 낡은 스너브노즈 권총을 준다."
+msgstr "에게 위로 선물로 낡은 단총신 권총을 준다."
 
 #: deathforth/events/common/PANCREAS.df:618
 msgctxt "deathforth/events/common/PANCREAS.df"
@@ -394,7 +394,7 @@ msgstr "덕헌터 - 식량 30"
 #: deathforth/events/common/PANCREAS.df:623
 msgctxt "deathforth/events/common/PANCREAS.df"
 msgid "Lever-Action for 20 food"
-msgstr "레버 액션 - 식량 20"
+msgstr "레버액션 - 식량 20"
 
 #: deathforth/events/common/PANCREAS.df:626
 msgctxt "deathforth/events/common/PANCREAS.df"
@@ -1497,7 +1497,7 @@ msgstr "흠... 다가올 전투를 위해 이 회복 아이템을 사 뒀는데.
 #: deathforth/events/common/STOMACH.df:925
 msgctxt "deathforth/events/common/STOMACH.df"
 msgid "Magus gives the group 2 healing sprays!"
-msgstr "마구스가 일행에게 힐링 스프레이 2개를 준다!"
+msgstr "마구스가 일행에게 치료 스프레이 2개를 준다!"
 
 #: deathforth/events/common/STOMACH.df:926
 msgctxt "deathforth/events/common/STOMACH.df"

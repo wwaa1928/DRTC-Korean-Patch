@@ -960,7 +960,7 @@ msgstr "문이 단단히 닫혀 있다. 비틀어 열 도구가 필요하다. �
 #: deathforth/events/rareloc/comicstore.df:4
 msgctxt "deathforth/events/rareloc/comicstore.df"
 msgid "The Spandex League"
-msgstr "쫄쫄이 리그"
+msgstr "스판덱스 리그"
 
 #: deathforth/events/rareloc/comicstore.df:6
 msgctxt "deathforth/events/rareloc/comicstore.df"
@@ -1068,7 +1068,7 @@ msgstr "운전면허증에 어떤 이름을 넣을까?"
 #: deathforth/events/rareloc/dmv.df:64
 msgctxt "deathforth/events/rareloc/dmv.df"
 msgid "A License... to Drive"
-msgstr "운전면허... 그건 운전하라고 있는 것"
+msgstr "면허... 운전할 면허"
 
 #: deathforth/events/rareloc/dmv.df:65
 msgctxt "deathforth/events/rareloc/dmv.df"

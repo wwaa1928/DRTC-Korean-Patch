@@ -1439,7 +1439,7 @@ msgstr "응원용 손"
 
 msgctxt "Pukeyball"
 msgid "Pukeyball"
-msgstr "토사물볼"
+msgstr "퓨키볼"
 
 msgctxt "Blue Robot"
 msgid "Blue Robot"
@@ -1547,7 +1547,7 @@ msgstr "돌트 빅 아이언"
 
 msgctxt "Duckhunter"
 msgid "Duckhunter"
-msgstr "오리 사냥총"
+msgstr "덕헌터"
 
 msgctxt "Medical Satchel"
 msgid "Medical Satchel"
@@ -1723,7 +1723,7 @@ msgstr "쌍절곤 2"
 
 msgctxt "Sunder"
 msgid "Sunder"
-msgstr "선더"
+msgstr "가르기"
 
 msgctxt "Firecrackers"
 msgid "Firecrackers"
@@ -1844,3 +1844,227 @@ msgstr "잡동사니."
 msgctxt "DELETE existing '%s' character?"
 msgid "DELETE existing '%s' character?"
 msgstr "기존 '%s' 캐릭터를 삭제할까요?"
+
+msgctxt "'palm"
+msgid "'palm"
+msgstr "네이팜"
+
+msgctxt "Air horn"
+msgid "Air horn"
+msgstr "에어 혼"
+
+msgctxt "Anchor"
+msgid "Anchor"
+msgstr "닻"
+
+msgctxt "Arrows"
+msgid "Arrows"
+msgstr "화살"
+
+msgctxt "Banner"
+msgid "Banner"
+msgstr "버프 배너"
+
+msgctxt "Battery"
+msgid "Battery"
+msgstr "배터리"
+
+msgctxt "Bolts"
+msgid "Bolts"
+msgstr "볼트"
+
+msgctxt "Butane"
+msgid "Butane"
+msgstr "부탄"
+
+msgctxt "Cobalt Flail"
+msgid "Cobalt Flail"
+msgstr "코발트 도리깨"
+
+msgctxt "Crossbow"
+msgid "Crossbow"
+msgstr "석궁"
+
+msgctxt "Defibrillator"
+msgid "Defibrillator"
+msgstr "제세동기"
+
+msgctxt "Devil Fork"
+msgid "Devil Fork"
+msgstr "악마의 삼지창"
+
+msgctxt "Dinkjitzu"
+msgid "Dinkjitzu"
+msgstr "얼간이주짓수"
+
+msgctxt "Dynamite"
+msgid "Dynamite"
+msgstr "다이너마이트"
+
+msgctxt "EHZER beam"
+msgid "EHZER beam"
+msgstr "레이저빔"
+
+msgctxt "Fishing Harpoon"
+msgid "Fishing Harpoon"
+msgstr "낚시 작살"
+
+msgctxt "Flail"
+msgid "Flail"
+msgstr "도리깨"
+
+msgctxt "Flintlock Pistol"
+msgid "Flintlock Pistol"
+msgstr "수발식 권총"
+
+msgctxt "Flintlock Rifle"
+msgid "Flintlock Rifle"
+msgstr "수발식 소총"
+
+msgctxt "Foldable Chair"
+msgid "Foldable Chair"
+msgstr "접이식 의자"
+
+msgctxt "Fragment"
+msgid "Fragment"
+msgstr "파편"
+
+msgctxt "Freeze Ray"
+msgid "Freeze Ray"
+msgstr "냉동 광선"
+
+msgctxt "Future Katana"
+msgid "Future Katana"
+msgstr "미래 카타나"
+
+msgctxt "Future Machine Gun"
+msgid "Future Machine Gun"
+msgstr "미래 기관총"
+
+msgctxt "Future Revolver"
+msgid "Future Revolver"
+msgstr "미래 리볼버"
+
+msgctxt "Gallons"
+msgid "Gallons"
+msgstr "갤런"
+
+msgctxt "Gigantic Repair Manual"
+msgid "Gigantic Repair Manual"
+msgstr "거대한 수리 설명서"
+
+msgctxt "Healing Spray"
+msgid "Healing Spray"
+msgstr "치료 스프레이"
+
+msgctxt "Heat Ray"
+msgid "Heat Ray"
+msgstr "열 광선"
+
+msgctxt "Hexblade"
+msgid "Hexblade"
+msgstr "헥스블레이드"
+
+msgctxt "Kama"
+msgid "Kama"
+msgstr "카마"
+
+msgctxt "Longbow"
+msgid "Longbow"
+msgstr "장궁"
+
+msgctxt "Macuahuitl"
+msgid "Macuahuitl"
+msgstr "마쿠아우이틀"
+
+msgctxt "Marbelle"
+msgid "Marbelle"
+msgstr "마르벨"
+
+msgctxt "Mic Stand"
+msgid "Mic Stand"
+msgstr "마이크 스탠드"
+
+msgctxt "Mortar"
+msgid "Mortar"
+msgstr "박격포"
+
+msgctxt "Naginata"
+msgid "Naginata"
+msgstr "나기나타"
+
+msgctxt "Naval Mines"
+msgid "Naval Mines"
+msgstr "기뢰"
+
+msgctxt "Quadbarrel"
+msgid "Quadbarrel"
+msgstr "쿼드배럴"
+
+msgctxt "Quarterstaff"
+msgid "Quarterstaff"
+msgstr "육척봉"
+
+msgctxt "Rally"
+msgid "Rally"
+msgstr "집결"
+
+msgctxt "Rend"
+msgid "Rend"
+msgstr "찢기"
+
+msgctxt "Rockets"
+msgid "Rockets"
+msgstr "로켓"
+
+msgctxt "Scorching Ray"
+msgid "Scorching Ray"
+msgstr "작열 광선"
+
+msgctxt "Sheet Metal"
+msgid "Sheet Metal"
+msgstr "철판"
+
+msgctxt "Shells"
+msgid "Shells"
+msgstr "유탄"
+
+msgctxt "Shots"
+msgid "Shots"
+msgstr "포탄"
+
+msgctxt "Slam Punch"
+msgid "Slam Punch"
+msgstr "슬램 펀치"
+
+msgctxt "Slingshot"
+msgid "Slingshot"
+msgstr "새총"
+
+msgctxt "Stones"
+msgid "Stones"
+msgstr "돌멩이"
+
+msgctxt "Tai Chi"
+msgid "Tai Chi"
+msgstr "태극권"
+
+msgctxt "Tonfa"
+msgid "Tonfa"
+msgstr "톤파"
+
+msgctxt "Wakizashi"
+msgid "Wakizashi"
+msgstr "와키자시"
+
+msgctxt "Water Cannon"
+msgid "Water Cannon"
+msgstr "물대포"
+
+msgctxt "flashlight"
+msgid "flashlight"
+msgstr "손전등"
+
+msgctxt "Slingshot "
+msgid "Slingshot "
+msgstr "새총 "

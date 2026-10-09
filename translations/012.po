@@ -529,7 +529,7 @@ msgstr "손 교체 수술을 하는 대신, "
 msgctxt "deathforth/events/common/common5.df"
 msgid ""
 " loots all the medical supplies in the room. There's even a Healing Spray!"
-msgstr "은(는) 방에 있는 의약품을 몽땅 챙긴다. 힐링 스프레이까지 있다!"
+msgstr "은(는) 방에 있는 의약품을 몽땅 챙긴다. 치료 스프레이까지 있다!"
 
 #: deathforth/events/common/common5.df:904
 msgctxt "deathforth/events/common/common5.df"
@@ -618,7 +618,7 @@ msgstr "은(는) 하나 남은 어린이 세트 장난감을 발견한다. 좋�
 #: deathforth/events/common/common6.df:46
 msgctxt "deathforth/events/common/common6.df"
 msgid "PUKEYBALL found!"
-msgstr "푸키볼 발견!"
+msgstr "퓨키볼 발견!"
 
 #: deathforth/events/common/common6.df:50
 msgctxt "deathforth/events/common/common6.df"
@@ -2784,7 +2784,7 @@ msgctxt "deathforth/events/common/cyoa-k-newbie.df"
 msgid ""
 "If you have enough healing sprays and your dead character isn't too far "
 "gone, you can revive them!"
-msgstr "힐링 스프레이가 충분하고 죽은 캐릭터가 너무 오래되지 않았다면, 되살릴 수 있다!"
+msgstr "치료 스프레이가 충분하고 죽은 캐릭터가 너무 오래되지 않았다면, 되살릴 수 있다!"
 
 #: deathforth/events/common/cyoa-k-newbie.df:113
 msgctxt "deathforth/events/common/cyoa-k-newbie.df"

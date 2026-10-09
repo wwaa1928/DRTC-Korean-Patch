@@ -775,7 +775,7 @@ msgstr "게임 모드가 해금됐다!"
 #: deathforth/events/unlock/ztown-npc.df:256
 msgctxt "deathforth/events/unlock/ztown-npc.df"
 msgid "TELL THE OTHER SYCAMORE, IF I SEE HIM, I AM GOING TO VAPORISE HIM."
-msgstr "다른 시커모어한테 전해. 눈에 띄면 증발시켜 버린다고!!"
+msgstr "다른 시카모어한테 전해. 눈에 띄면 증발시켜 버린다고!!"
 
 #: deathforth/events/unlock/ztown-npc.df:257
 msgctxt "deathforth/events/unlock/ztown-npc.df"
@@ -844,7 +844,7 @@ msgstr "*그노트*"
 #: deathforth/events/unlock/ztown-npc.df:561
 msgctxt "deathforth/events/unlock/ztown-npc.df"
 msgid "Professor Sycamore"
-msgstr "시커모어 교수"
+msgstr "시카모어 교수"
 
 #: deathforth/events/unlock/ztown-npc.df:562
 msgctxt "deathforth/events/unlock/ztown-npc.df"
@@ -857,8 +857,8 @@ msgid ""
 "--- Professor Sycamore\r\n"
 "\tCreator of: Death Road to Sycamore"
 msgstr ""
-"--- 시커모어 교수\r\n"
-"\t제작: 데스 로드 투 시커모어"
+"--- 시카모어 교수\r\n"
+"\t제작: 데스 로드 투 시카모어"
 
 #: deathforth/events/unlock/ztown-npc.df:565
 msgctxt "deathforth/events/unlock/ztown-npc.df"
@@ -880,7 +880,7 @@ msgstr "손도끼 마피아가 물고기 머리를 보내 줬어! 참 친절하�
 #: deathforth/events/unlock/ztown-npc.df:568
 msgctxt "deathforth/events/unlock/ztown-npc.df"
 msgid "SICK-ERMORE"
-msgstr "시커모어 말고 아파모어"
+msgstr "시카모어 말고 아파모어"
 
 #: deathforth/events/unlock/ztown-npc.df:572
 msgctxt "deathforth/events/unlock/ztown-npc.df"
@@ -1108,7 +1108,7 @@ msgstr "1.25 * 3 = 3.75, 소수점을 버리면 -> 좀비에게 피해 3."
 #: deathforth/events/unlock/ztown-npc.df:634
 msgctxt "deathforth/events/unlock/ztown-npc.df"
 msgid "On every mode except MUTATION EXTREME, zombies have 5 HP."
-msgstr "극한 돌연변이를 제외한 모든 모드에서 좀비의 HP는 5다."
+msgstr "돌연변이 익스트림을 제외한 모든 모드에서 좀비의 HP는 5다."
 
 #: deathforth/events/unlock/ztown-npc.df:686
 msgctxt "deathforth/events/unlock/ztown-npc.df"
@@ -1585,7 +1585,7 @@ msgstr "이 관통은 발사 속도가 느린 소총에 있다. 예를 들면...
 msgctxt "deathforth/events/unlock/ztown-npc.df"
 msgid ""
 "Cowboy Rifle, Hunting Rifle, Sniper Rifle, M.O.A.R, Slug Shotgun, Mamba"
-msgstr "카우보이 소총, 사냥 소총, 저격 소총, M.O.A.R, 슬러그 산탄총, 맘바"
+msgstr "카우보이 소총, 사냥용 소총, 저격 소총, M.O.A.R, 슬러그 산탄총, 맘바"
 
 #: deathforth/events/unlock/ztown-npc.df:773
 msgctxt "deathforth/events/unlock/ztown-npc.df"
@@ -2119,7 +2119,7 @@ msgstr "   K*E*P*A 모드: "
 #: deathforth/game-info.df:81
 msgctxt "deathforth/game-info.df"
 msgid "Quick Death: "
-msgstr "빠른 죽음: "
+msgstr "퀵 데스: "
 
 #: deathforth/game-info.df:82
 msgctxt "deathforth/game-info.df"
@@ -2129,12 +2129,12 @@ msgstr "   사기 일행: "
 #: deathforth/game-info.df:84
 msgctxt "deathforth/game-info.df"
 msgid "Four Jerks: "
-msgstr "얼간이 넷: "
+msgstr "네 얼간이: "
 
 #: deathforth/game-info.df:85
 msgctxt "deathforth/game-info.df"
 msgid "   Four Jerks EX: "
-msgstr "   얼간이 넷 EX: "
+msgstr "   네 얼간이 EX: "
 
 #: deathforth/game-info.df:87
 msgctxt "deathforth/game-info.df"
@@ -2593,7 +2593,7 @@ msgstr "친숙한 캐릭터 "
 #: deathforth/gamemodes.df:339
 msgctxt "deathforth/gamemodes.df"
 msgid "EXTREME"
-msgstr "극한"
+msgstr "익스트림"
 
 #: deathforth/gamemodes.df:294
 msgctxt "deathforth/gamemodes.df"

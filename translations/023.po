@@ -1018,7 +1018,7 @@ msgstr "은(는) 차로 경찰서 벽을 뚫고 들어간다! 잔해가 사방�
 #: deathforth/events/stomach/sycamore_events.df:948
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits are terrified and begin to flee! "
-msgstr "도적들은 겁에 질려 달아나기 시작한다! "
+msgstr "약탈자들은 겁에 질려 달아나기 시작한다! "
 
 #: deathforth/events/stomach/sycamore_events.df:948
 #: deathforth/events/stomach/sycamore_events.df:1144
@@ -1057,7 +1057,7 @@ msgstr "은(는) 그게 진짜 먹혔다는 게 믿기지 않는다!"
 #: deathforth/events/stomach/sycamore_events.df:966
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits let the group go without fuss!"
-msgstr "도적들은 순순히 일행을 보내 준다!"
+msgstr "약탈자들은 순순히 일행을 보내 준다!"
 
 #: deathforth/events/stomach/sycamore_events.df:963
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1093,7 +1093,7 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 "The cop bandits look confused at one another momentarily and then start "
 "blasting! The group is caught in a bad spot!"
-msgstr "경찰 도적들은 잠깐 어리둥절하게 서로를 보더니 총을 쏘기 시작한다! 일행은 곤란한 처지에 빠진다!"
+msgstr "경찰 약탈자들은 잠깐 어리둥절하게 서로를 보더니 총을 쏘기 시작한다! 일행은 곤란한 처지에 빠진다!"
 
 #: deathforth/events/stomach/sycamore_events.df:979
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1127,7 +1127,7 @@ msgstr "오, 새로 오신 서장님이시군요! 몰라봬서 죄송합니다. 
 #: deathforth/events/stomach/sycamore_events.df:985
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits deem that "
-msgstr "도적들은 "
+msgstr "약탈자들은 "
 
 #: deathforth/events/stomach/sycamore_events.df:985
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1137,7 +1137,7 @@ msgstr "을(를) 새 서장으로 모시기로 한다! 무기를 잔뜩 넘겨�
 #: deathforth/events/stomach/sycamore_events.df:990
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "CHROME SHOTGUN GET! MACHINEPISTOL GET!"
-msgstr "크롬 샷건 획득! 기관권총 획득!"
+msgstr "크롬 산탄총 획득! 기관권총 획득!"
 
 #: deathforth/events/stomach/sycamore_events.df:995
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1174,17 +1174,17 @@ msgstr "몇 시간 동안, "
 #: deathforth/events/stomach/sycamore_events.df:1004
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " and the bandits point guns at one another awkwardly with some noises."
-msgstr "와(과) 도적들은 어색하게 소리를 내며 서로 총을 겨눈다."
+msgstr "와(과) 약탈자들은 어색하게 소리를 내며 서로 총을 겨눈다."
 
 #: deathforth/events/stomach/sycamore_events.df:1008
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " is so patient that the bandits become bored and retreat! "
-msgstr "은(는) 너무나 참을성이 강해서 도적들이 지루해져 물러난다! "
+msgstr "은(는) 너무나 참을성이 강해서 약탈자들이 지루해져 물러난다! "
 
 #: deathforth/events/stomach/sycamore_events.df:1008
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " passes the cop bandits for free!"
-msgstr "은(는) 경찰 도적들을 공짜로 지나간다!"
+msgstr "은(는) 경찰 약탈자들을 공짜로 지나간다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1014
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1206,7 +1206,7 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 " comes across what seems to be a police station. As soon as they enter, cop "
 "bandits encircle them!"
-msgstr "은(는) 경찰서처럼 보이는 곳을 발견한다. 들어서자마자 경찰 도적들이 둘러싼다!"
+msgstr "은(는) 경찰서처럼 보이는 곳을 발견한다. 들어서자마자 경찰 약탈자들이 둘러싼다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1045
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1218,7 +1218,7 @@ msgstr "모두 허름한 훔친 제복 차림으로, 뒤집힌 탁자 뒤에서 
 #: deathforth/events/stomach/sycamore_events.df:1046
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandit cops demand all your spare weapons and ammunition."
-msgstr "경찰 도적들이 남는 무기와 탄약을 전부 내놓으라고 요구한다."
+msgstr "경찰 약탈자들이 남는 무기와 탄약을 전부 내놓으라고 요구한다."
 
 #: deathforth/events/stomach/sycamore_events.df:1049
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1260,7 +1260,7 @@ msgstr "은(는) 언제나 화재에 대비하고 있다! 불탄 건물들을 �
 #: deathforth/events/stomach/sycamore_events.df:1111
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits weapons are extinguished! "
-msgstr "도적들의 무기가 꺼졌다! "
+msgstr "약탈자들의 무기가 꺼졌다! "
 
 #: deathforth/events/stomach/sycamore_events.df:1111
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1272,17 +1272,17 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 " extinguished their special campfire! The bandits attack, but at a "
 "disadvantage."
-msgstr "이(가) 그들의 특별한 모닥불을 꺼 버렸다! 도적들이 공격하지만, 불리한 상태다."
+msgstr "이(가) 그들의 특별한 모닥불을 꺼 버렸다! 약탈자들이 공격하지만, 불리한 상태다."
 
 #: deathforth/events/stomach/sycamore_events.df:1124
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " recognises the bandits as fellow pyromaniacs!"
-msgstr "은(는) 도적들이 같은 방화광이라는 걸 알아본다!"
+msgstr "은(는) 약탈자들이 같은 방화광이라는 걸 알아본다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1126
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " and the bandits get lost in a conversation about"
-msgstr "와(과) 도적들은 대화에 푹 빠진다. 주제는"
+msgstr "와(과) 약탈자들은 대화에 푹 빠진다. 주제는"
 
 #: deathforth/events/stomach/sycamore_events.df:1126
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1294,7 +1294,7 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 "In the midst of this conversation, the bandits completely forget about "
 "robbing! They give everyone an honorary molotov."
-msgstr "대화 도중 도적들은 강도질을 까맣게 잊는다! 모두에게 명예 화염병을 하나씩 준다."
+msgstr "대화 도중 약탈자들은 강도질을 까맣게 잊는다! 모두에게 명예 화염병을 하나씩 준다."
 
 #: deathforth/events/stomach/sycamore_events.df:1130
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1309,22 +1309,22 @@ msgstr "난데없이, "
 #: deathforth/events/stomach/sycamore_events.df:1140
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " runs up to a bandit and hurls him away like a bowling ball!"
-msgstr "이(가) 도적 하나에게 달려가 볼링공처럼 집어던진다!"
+msgstr "이(가) 약탈자 하나에게 달려가 볼링공처럼 집어던진다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1142
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "Then, as the bandits are still in shock, "
-msgstr "도적들이 아직 충격에 빠진 사이, "
+msgstr "약탈자들이 아직 충격에 빠진 사이, "
 
 #: deathforth/events/stomach/sycamore_events.df:1142
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " picks up another bandit and slams them down onto their back!"
-msgstr "는 다른 도적을 들어 올려 등부터 메다꽂는다!"
+msgstr "는 다른 약탈자를 들어 올려 등부터 메다꽂는다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1144
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits are terrified! They back away slowly from the carnage. "
-msgstr "도적들은 겁에 질렸다! 참상에서 천천히 물러난다. "
+msgstr "약탈자들은 겁에 질렸다! 참상에서 천천히 물러난다. "
 
 #: deathforth/events/stomach/sycamore_events.df:1166
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1355,7 +1355,7 @@ msgstr " 연습한 듯 불을 뿜는다!"
 #: deathforth/events/stomach/sycamore_events.df:1172
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits are extremely impressed! "
-msgstr "도적들은 엄청나게 감탄한다! "
+msgstr "약탈자들은 엄청나게 감탄한다! "
 
 #: deathforth/events/stomach/sycamore_events.df:1172
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1367,7 +1367,7 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 " makes a high pitched squeal, almost too high pitched to hear. The bandits "
 "process this."
-msgstr "은(는) 들릴락 말락 한 높은 소리로 끽 하고 소리친다. 도적들이 그 뜻을 곱씹는다."
+msgstr "은(는) 들릴락 말락 한 높은 소리로 끽 하고 소리친다. 약탈자들이 그 뜻을 곱씹는다."
 
 #: deathforth/events/stomach/sycamore_events.df:1186
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1379,13 +1379,13 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 "The bandits feel guilty for their trail of destruction! They resolve to make"
 " things right!"
-msgstr "도적들은 자신들이 남긴 파괴의 흔적에 죄책감을 느낀다! 잘못을 바로잡기로 다짐한다!"
+msgstr "약탈자들은 자신들이 남긴 파괴의 흔적에 죄책감을 느낀다! 잘못을 바로잡기로 다짐한다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1197
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid ""
 "This message is highly antithetical to the bandit's philosophy! They torch "
-msgstr "이 말은 도적들의 철학에 정면으로 반한다! 그들은 복수로 "
+msgstr "이 말은 약탈자들의 철학에 정면으로 반한다! 그들은 복수로 "
 
 #: deathforth/events/stomach/sycamore_events.df:1197
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1405,7 +1405,7 @@ msgstr "불타 버린 마을을 탐색하던 중, "
 #: deathforth/events/stomach/sycamore_events.df:1220
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " is ambushed by a group of bandits!"
-msgstr "은(는) 도적 무리에게 매복당한다!"
+msgstr "은(는) 약탈자 무리에게 매복당한다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1221
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1417,7 +1417,7 @@ msgstr "모두 불붙은 화염방사기, 횃불, 조그만 라이터를 들고 
 #: deathforth/events/stomach/sycamore_events.df:1222
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "The bandits demand all your gas and spare weapons!"
-msgstr "도적들이 기름과 남는 무기를 전부 내놓으라고 요구한다!"
+msgstr "약탈자들이 기름과 남는 무기를 전부 내놓으라고 요구한다!"
 
 #: deathforth/events/stomach/sycamore_events.df:1230
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1477,17 +1477,17 @@ msgstr "리볼버"
 #: deathforth/events/stomach/sycamore_events.df:1289
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "SHOTGUN"
-msgstr "샷건"
+msgstr "산탄총"
 
 #: deathforth/events/stomach/sycamore_events.df:1290
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "CHROME SHOTGUN"
-msgstr "크롬 샷건"
+msgstr "크롬 산탄총"
 
 #: deathforth/events/stomach/sycamore_events.df:1291
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "HUNTING RIFLE"
-msgstr "사냥총"
+msgstr "사냥용 소총"
 
 #: deathforth/events/stomach/sycamore_events.df:1292
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -2207,7 +2207,7 @@ msgstr ". 누구도 자기한테서 떼어 낼 수 없다고 말한다."
 #: deathforth/events/trade/camp-recruit.df:62
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid "RAMBEUX: FIRST BUTT"
-msgstr "램보: 퍼스트 엉덩이"
+msgstr "람보: 퍼스트 엉덩이"
 
 #: deathforth/events/trade/camp-recruit.df:65
 msgctxt "deathforth/events/trade/camp-recruit.df"

@@ -38,7 +38,7 @@ msgstr "그래."
 #: deathforth/events/trade/camp-recruit.df:349
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid "Yarrrrrr!"
-msgstr "요호호!"
+msgstr "야르르르르르!"
 
 #: deathforth/events/trade/camp-recruit.df:349
 msgctxt "deathforth/events/trade/camp-recruit.df"
@@ -68,7 +68,7 @@ msgstr ""
 #: deathforth/events/trade/camp-recruit.df:362
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid "Yarr!"
-msgstr "야호!"
+msgstr "야르!"
 
 #: deathforth/events/trade/camp-recruit.df:364
 msgctxt "deathforth/events/trade/camp-recruit.df"
@@ -283,7 +283,7 @@ msgstr "캐나다까지 쏴서 뚫고 가자! 두 발씩!"
 #: deathforth/events/trade/camp-recruit.df:500
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid "Super Shotgun"
-msgstr "슈퍼 샷건"
+msgstr "슈퍼 산탄총"
 
 #: deathforth/events/trade/camp-recruit.df:502
 msgctxt "deathforth/events/trade/camp-recruit.df"
@@ -298,7 +298,7 @@ msgid ""
 "Have shotgun, will travel.\r\n"
 "\tRecruit me and I'll show you how many zombies I can splat in one shot!"
 msgstr ""
-"샷건만 있으면 어디든 간다.\r\n"
+"산탄총만 있으면 어디든 간다.\r\n"
 "\t날 영입하면 한 방에 좀비를 몇 마리나 터뜨리는지 보여 주지!"
 
 #: deathforth/events/trade/camp-recruit.df:509
@@ -408,7 +408,7 @@ msgstr "드디어, CharBro 패러디"
 #: deathforth/events/trade/camp-recruit.df:574
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid "This extremely buff man claims to be a 'Stamp User', though "
-msgstr "이 엄청나게 우람한 남자는 자기가 '스탬프 사용자'라고 주장하지만, "
+msgstr "이 엄청나게 우람한 남자는 자기가 '스탠드 사용자'라고 주장하지만, "
 
 #: deathforth/events/trade/camp-recruit.df:574
 msgctxt "deathforth/events/trade/camp-recruit.df"
@@ -2178,7 +2178,7 @@ msgstr "총알 24 - 10 "
 #: deathforth/events/trade/gnomey.df:128
 msgctxt "deathforth/events/trade/gnomey.df"
 msgid "15 shotgun ammo - 10 "
-msgstr "샷건 탄약 15 - 10 "
+msgstr "산탄총 탄약 15 - 10 "
 
 #: deathforth/events/trade/gnomey.df:129
 msgctxt "deathforth/events/trade/gnomey.df"
@@ -2213,7 +2213,7 @@ msgstr "총알 36 - 20 "
 #: deathforth/events/trade/gnomey.df:139
 msgctxt "deathforth/events/trade/gnomey.df"
 msgid "22 shotgun ammo - 20 "
-msgstr "샷건 탄약 22 - 20 "
+msgstr "산탄총 탄약 22 - 20 "
 
 #: deathforth/events/trade/gnomey.df:140
 msgctxt "deathforth/events/trade/gnomey.df"
@@ -2233,12 +2233,12 @@ msgstr "카우보이 소총 - 20 "
 #: deathforth/events/trade/gnomey.df:143
 msgctxt "deathforth/events/trade/gnomey.df"
 msgid "Dolt Revolver - 20 "
-msgstr "멍청이 리볼버 - 20 "
+msgstr "돌트 리볼버 - 20 "
 
 #: deathforth/events/trade/gnomey.df:144
 msgctxt "deathforth/events/trade/gnomey.df"
 msgid "Shotgun - 20 "
-msgstr "샷건 - 20 "
+msgstr "산탄총 - 20 "
 
 #: deathforth/events/trade/gnomey.df:145
 msgctxt "deathforth/events/trade/gnomey.df"
@@ -2268,7 +2268,7 @@ msgstr "총알 48 - 30 "
 #: deathforth/events/trade/gnomey.df:154
 msgctxt "deathforth/events/trade/gnomey.df"
 msgid "30 shotgun ammo - 30 "
-msgstr "샷건 탄약 30 - 30 "
+msgstr "산탄총 탄약 30 - 30 "
 
 #: deathforth/events/trade/gnomey.df:155
 msgctxt "deathforth/events/trade/gnomey.df"
@@ -2283,7 +2283,7 @@ msgstr "무작위 희귀 동료! - 30 "
 #: deathforth/events/trade/gnomey.df:157
 msgctxt "deathforth/events/trade/gnomey.df"
 msgid "Sledgehammer - 30 "
-msgstr "슬레지해머 - 30 "
+msgstr "큰 망치 - 30 "
 
 #: deathforth/events/trade/gnomey.df:158
 msgctxt "deathforth/events/trade/gnomey.df"
@@ -2527,7 +2527,7 @@ msgstr "식량 "
 #: deathforth/events/trade/oldtrade.df:420
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " food for group training"
-msgstr "을 주고 일행 전체 훈련"
+msgstr "개를 주고 일행 전체 훈련"
 
 #: deathforth/events/trade/oldtrade.df:92
 #: deathforth/events/trade/oldtrade.df:192

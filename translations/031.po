@@ -168,7 +168,7 @@ msgstr ""
 #: deathforth/gamemodes.df:403
 msgctxt "deathforth/gamemodes.df"
 msgid "SEVERE WEATHER MODE"
-msgstr "악천후 모드"
+msgstr "극한 날씨 모드"
 
 #: deathforth/gamemodes.df:404
 msgctxt "deathforth/gamemodes.df"
@@ -464,12 +464,12 @@ msgstr "위험 물질"
 #: deathforth/locplan.df:21
 msgctxt "deathforth/locplan.df"
 msgid "Danger Rangers"
-msgstr "위험 순찰대"
+msgstr "데인저 레인저"
 
 #: deathforth/locplan.df:22
 msgctxt "deathforth/locplan.df"
 msgid "Kung Fu Master"
-msgstr "쿵푸 고수"
+msgstr "쿵후 고수"
 
 #: deathforth/locplan.df:23
 msgctxt "deathforth/locplan.df"
@@ -494,7 +494,7 @@ msgstr "사악한 집"
 #: deathforth/locplan.df:27
 msgctxt "deathforth/locplan.df"
 msgid "Mystery Factory"
-msgstr "수상한 공장"
+msgstr "정체불명 공장"
 
 #: deathforth/locplan.df:28
 msgctxt "deathforth/locplan.df"
@@ -519,7 +519,7 @@ msgstr "콘크리트 벙커"
 #: deathforth/locplan.df:32
 msgctxt "deathforth/locplan.df"
 msgid "Ominous Labs"
-msgstr "불길한 연구소"
+msgstr "수상한 연구소"
 
 #: deathforth/locplan.df:33
 msgctxt "deathforth/locplan.df"
@@ -529,7 +529,7 @@ msgstr "으스스한 묘지"
 #: deathforth/locplan.df:34
 msgctxt "deathforth/locplan.df"
 msgid "Raging Inferno"
-msgstr "거센 불길"
+msgstr "맹렬한 화염"
 
 #: deathforth/locplan.df:35
 msgctxt "deathforth/locplan.df"
@@ -539,7 +539,7 @@ msgstr "고딕 농장"
 #: deathforth/locplan.df:36
 msgctxt "deathforth/locplan.df"
 msgid "Haunted Mansion"
-msgstr "유령 저택"
+msgstr "유령의 저택"
 
 #: deathforth/locplan.df:37
 msgctxt "deathforth/locplan.df"
@@ -1000,7 +1000,7 @@ msgstr "새로운 장소 3곳"
 #: deathforth/locplan.df:233
 msgctxt "deathforth/locplan.df"
 msgid "Embarking on the Death Road"
-msgstr "죽음의 길에 오르다"
+msgstr "데스 로드에 오르다"
 
 #: deathforth/locplan.df:234
 msgctxt "deathforth/locplan.df"
@@ -1014,7 +1014,7 @@ msgid ""
 "\t\tIn order to survive the Death Road, you'll need to hoard as many supplies as you can! You will also need to find ways to train and grow your team."
 msgstr ""
 "은(는) 근처에서 물자를 챙기기로 한다.\r\n"
-"\t\t죽음의 길에서 살아남으려면 최대한 많은 물자를 모아야 한다! 동료를 훈련하고 성장시킬 방법도 찾아야 한다."
+"\t\t데스 로드에서 살아남으려면 최대한 많은 물자를 모아야 한다! 동료를 훈련하고 성장시킬 방법도 찾아야 한다."
 
 #: deathforth/mission-events-human.df:8 deathforth/mission-events-human.df:241
 msgctxt "deathforth/mission-events-human.df"
@@ -1699,7 +1699,7 @@ msgstr "꾸우우웩!"
 #: deathforth/mission-events-human.df:192
 msgctxt "deathforth/mission-events-human.df"
 msgid "*GNOOOOORT*"
-msgstr "*꾸우우우울*"
+msgstr "*그노오오오오트*"
 
 #: deathforth/mission-events-human.df:193
 msgctxt "deathforth/mission-events-human.df"
