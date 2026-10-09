@@ -191,12 +191,12 @@ msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ""
 "She responds to this by digging into her pockets for a bolt, then throwing "
 "it at "
-msgstr "그녀는 대답 대신 주머니를 뒤져 볼트를 꺼내 던진다. 대상은 "
+msgstr "그녀는 대답 대신 주머니를 뒤져 볼트를 꺼내 "
 
 #: deathforth/events/trade/oldtrade.df:398
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid ". She continues doing this, not saying a word, until "
-msgstr ". 한마디도 없이 계속 던진다. 결국 "
+msgstr "에게 던진다. 한마디도 없이 계속 던진다. 결국 "
 
 #: deathforth/events/trade/oldtrade.df:406
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -1968,12 +1968,12 @@ msgstr "은(는) 산탄총 탄약 상인을 턴다. "
 #: deathforth/events/trade/oldtrade.df:1277
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " doesn't even get to finish "
-msgstr "은(는) 끝맺지도 못한다: "
+msgstr "은(는) "
 
 #: deathforth/events/trade/oldtrade.df:1277
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " sentence before the merchant whips out a shotgun and starts blasting."
-msgstr " 말을. 상인이 산탄총을 꺼내 쏘기 시작했기 때문이다."
+msgstr " 말을 끝맺지도 못한다. 상인이 산탄총을 꺼내 쏘기 시작했기 때문이다."
 
 #: deathforth/events/trade/oldtrade.df:1283
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -2143,7 +2143,7 @@ msgstr "은(는) 병원을 털려고 한다. 수많은 방어자들이 자기들
 #: deathforth/events/trade/oldtrade.df:1463
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " gets a check-up, but there's nothing wrong with "
-msgstr "은(는) 검진을 받지만, 아무 이상이 없다: "
+msgstr "은(는) 검진을 받지만, 아무 이상이 없다. 건강 그 자체인 "
 
 #: deathforth/events/trade/oldtrade.df:1465
 #: deathforth/events/trade/oldtrade.df:1481
@@ -2154,7 +2154,7 @@ msgstr "은(는) 치료받는다: "
 #: deathforth/events/trade/oldtrade.df:1465
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " wounds."
-msgstr " 상처를."
+msgstr " 상처."
 
 #: deathforth/events/trade/oldtrade.df:1478
 msgctxt "deathforth/events/trade/oldtrade.df"
@@ -2427,7 +2427,7 @@ msgstr ""
 #: deathforth/events/trade/rare.df:102
 msgctxt "deathforth/events/trade/rare.df"
 msgid "The witch seizes "
-msgstr "마녀가 붙잡는다: "
+msgstr "마녀에게 붙잡힌 "
 
 #: deathforth/events/trade/rare.df:103
 msgctxt "deathforth/events/trade/rare.df"
@@ -2516,12 +2516,12 @@ msgstr "유전자 업그레이드"
 #: deathforth/events/trade/rare.df:150
 msgctxt "deathforth/events/trade/rare.df"
 msgid " enters the machine and gets blasted by "
-msgstr "은(는) 기계에 들어가 맞는다: "
+msgstr "은(는) 기계에 들어가 "
 
 #: deathforth/events/trade/rare.df:150
 msgctxt "deathforth/events/trade/rare.df"
 msgid "COSMIC RAYS"
-msgstr "우주 광선"
+msgstr "우주 광선을 맞는다"
 
 #: deathforth/events/trade/rare.df:150
 msgctxt "deathforth/events/trade/rare.df"

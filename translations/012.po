@@ -311,14 +311,12 @@ msgctxt "deathforth/events/common/common5.df"
 msgid ""
 "!\r\n"
 "\tIt fuses to "
-msgstr ""
-"!\r\n"
-"\t무기가 손에 달라붙어 버린다: "
+msgstr "!\r\n\t무기가 "
 
 #: deathforth/events/common/common5.df:785
 msgctxt "deathforth/events/common/common5.df"
 msgid " hands, preventing the use of any other weapon!"
-msgstr " 손에. 이제 다른 무기는 쓸 수 없다!"
+msgstr " 손에 달라붙어 버린다. 이제 다른 무기는 쓸 수 없다!"
 
 #: deathforth/events/common/common5.df:789
 msgctxt "deathforth/events/common/common5.df"
@@ -478,12 +476,12 @@ msgstr "이(가) 수술 준비를 하려고 방을 정리한다."
 #: deathforth/events/common/common5.df:880
 msgctxt "deathforth/events/common/common5.df"
 msgid " loses "
-msgstr "은(는) 잃는다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common5.df:880
 msgctxt "deathforth/events/common/common5.df"
 msgid " boring old hand and gets a "
-msgstr " 지루하고 낡은 손을. 그리고 얻는다: "
+msgstr " 지루하고 낡은 손을 잃고, 대신 얻는다: "
 
 #: deathforth/events/common/common5.df:880
 msgctxt "deathforth/events/common/common5.df"
@@ -1192,12 +1190,12 @@ msgstr "은(는) 차에 쓸 부품과 고철을 챙긴다. "
 #: deathforth/events/common/common6.df:295
 msgctxt "deathforth/events/common/common6.df"
 msgid " is terrible at this, and manages to bust up "
-msgstr "는 이런 데 영 소질이 없어서 망가뜨린다: "
+msgstr "는 이런 데 영 소질이 없어서 "
 
 #: deathforth/events/common/common6.df:295
 msgctxt "deathforth/events/common/common6.df"
 msgid " hands!"
-msgstr " 손을!"
+msgstr " 손만 망가뜨린다!"
 
 #: deathforth/events/common/common6.df:299
 msgctxt "deathforth/events/common/common6.df"
@@ -1614,13 +1612,13 @@ msgstr "은(는) "
 #: deathforth/events/common/cyoa-dailymedic.df:211
 msgctxt "deathforth/events/common/cyoa-dailymedic.df"
 msgid " sleeves and starts tending to "
-msgstr " 소매를 걷어붙이고 돌보기 시작한다: "
+msgstr " 소매를 걷어붙이고 "
 
 #: deathforth/events/common/cyoa-dailymedic.df:156
 #: deathforth/events/common/cyoa-dailymedic.df:211
 msgctxt "deathforth/events/common/cyoa-dailymedic.df"
 msgid " wounds."
-msgstr " 상처를."
+msgstr " 상처를 돌보기 시작한다."
 
 #: deathforth/events/common/cyoa-dailymedic.df:161
 msgctxt "deathforth/events/common/cyoa-dailymedic.df"
@@ -1639,7 +1637,7 @@ msgstr "은(는) 도우려 하지만, 의약품이 부족하다."
 #: deathforth/events/common/cyoa-dailymedic.df:292
 msgctxt "deathforth/events/common/cyoa-dailymedic.df"
 msgid " treats all of "
-msgstr "은(는) 남김없이 치료한다: "
+msgstr "은(는) 남김없이 "
 
 #: deathforth/events/common/cyoa-dailymedic.df:186
 #: deathforth/events/common/cyoa-dailymedic.df:188
@@ -1647,13 +1645,13 @@ msgstr "은(는) 남김없이 치료한다: "
 #: deathforth/events/common/cyoa-dailymedic.df:294
 msgctxt "deathforth/events/common/cyoa-dailymedic.df"
 msgid " wounds! "
-msgstr " 상처! "
+msgstr " 상처를 치료한다! "
 
 #: deathforth/events/common/cyoa-dailymedic.df:188
 #: deathforth/events/common/cyoa-dailymedic.df:294
 msgctxt "deathforth/events/common/cyoa-dailymedic.df"
 msgid " treats some of "
-msgstr "은(는) 일부 치료한다: "
+msgstr "은(는) 일부나마 "
 
 #: deathforth/events/common/cyoa-dailymedic.df:192
 #: deathforth/events/common/cyoa-dailymedic.df:298
@@ -1870,12 +1868,12 @@ msgstr "은(는) 늘 편집증적이라 좀비에 놀라지 않고 가볍게 피
 #: deathforth/events/common/cyoa-example-7types.df:164
 msgctxt "deathforth/events/common/cyoa-example-7types.df"
 msgid "Unfortunately the zombie found "
-msgstr "안타깝게도 좀비가 먼저 찾아냈다: "
+msgstr "안타깝게도 좀비가 먼저 "
 
 #: deathforth/events/common/cyoa-example-7types.df:164
 msgctxt "deathforth/events/common/cyoa-example-7types.df"
 msgid " first."
-msgstr "."
+msgstr "을(를) 찾아냈다."
 
 #: deathforth/events/common/cyoa-example-7types.df:169
 msgctxt "deathforth/events/common/cyoa-example-7types.df"
@@ -2186,7 +2184,7 @@ msgctxt "deathforth/events/common/cyoa-example-7types.df"
 msgid ""
 " COMPLETELY flips out and starts flinging stuff at zombies followed by "
 "stomping on them. It's both effective and very therapeutic for "
-msgstr "은(는) 완전히 폭주해서 좀비에게 물건을 마구 던지고 짓밟는다. 효과도 좋고, 이 사람에겐 아주 좋은 치료가 된다: "
+msgstr "은(는) 완전히 폭주해서 좀비에게 물건을 마구 던지고 짓밟는다. 효과도 좋고, 속도 후련하다. 제대로 힐링한 "
 
 #: deathforth/events/common/cyoa-example-7types.df:403
 msgctxt "deathforth/events/common/cyoa-example-7types.df"

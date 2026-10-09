@@ -279,7 +279,7 @@ msgstr "<EMPTY>"
 #: deathforth/events/common/cyoa-k-newbie.df:418
 msgctxt "deathforth/events/common/cyoa-k-newbie.df"
 msgid " starts the journey to Canada, they meet their neighbor, "
-msgstr "은(는) 캐나다로 떠나는 길에 이웃을 만난다: "
+msgstr "은(는) 캐나다로 떠나는 길에 이웃과 마주친다. 바로 "
 
 #: deathforth/events/common/cyoa-k-newbie.df:419
 msgctxt "deathforth/events/common/cyoa-k-newbie.df"
@@ -1123,9 +1123,7 @@ msgctxt "deathforth/events/common/MANDIBLE.df"
 msgid ""
 " pulls into the garage, and several expert mechanics start working their MAGIC.\r\n"
 "\tYou can tell these are experts because they are wearing "
-msgstr ""
-"은(는) 정비소로 들어가고, 전문 정비공 여럿이 마법을 부리기 시작한다.\r\n"
-"\t이들이 전문가라는 걸 알 수 있는 건 이걸 입고 있어서다: "
+msgstr "은(는) 정비소로 들어가고, 전문 정비공 여럿이 마법을 부리기 시작한다.\r\n\t이들이 전문가라는 증거는 바로 "
 
 #: deathforth/events/common/MANDIBLE.df:9
 msgctxt "deathforth/events/common/MANDIBLE.df"
@@ -1595,9 +1593,7 @@ msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 "\r\n"
 "\t\t\tThe bandits all focus their weapons on "
-msgstr ""
-"\r\n"
-"\t\t\t약탈자들이 전부 무기를 겨눈다: "
+msgstr "\r\n\t\t\t약탈자들의 무기가 일제히 한 사람을 향한다. 바로 "
 
 #: deathforth/events/common/OMENTUM.df:167
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -1856,7 +1852,7 @@ msgstr " '제3의 눈'"
 #: deathforth/events/common/OMENTUM.df:302
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ", granting a temporary moment of "
-msgstr "이 열리고, 잠시 이것이 생긴다: "
+msgstr "이 열린다. 잠시나마 얻은 능력은 "
 
 #: deathforth/events/common/OMENTUM.df:302
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -1998,14 +1994,14 @@ msgstr "은(는) 개에게 다가간다."
 #: deathforth/events/common/OMENTUM.df:368
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid " uses every bit of "
-msgstr "은(는) 총동원한다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/OMENTUM.df:368
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 " DOG PSYCHOLOGY. This involves picking up some garbage off the ground, "
 "acting really excited about it, and then stepping away from the garbage."
-msgstr " 개 심리학을. 바닥에서 쓰레기를 주워 들고, 엄청 신난 척하다가, 쓰레기에서 물러나는 기술이다."
+msgstr " 개 심리학을 총동원한다. 바닥에서 쓰레기를 주워 들고, 엄청 신난 척하다가, 쓰레기에서 물러나는 기술이다."
 
 #: deathforth/events/common/OMENTUM.df:369
 #: deathforth/events/common/OMENTUM.df:381
@@ -2047,7 +2043,7 @@ msgstr "는 늙은 개와 뛰놀며 둘 다 아주 즐겁고 운동도 제대로
 #: deathforth/events/common/OMENTUM.df:377
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid " completely forgets about the "
-msgstr "은(는) 까맣게 잊어버린다: "
+msgstr "은(는) 까맣게 잊어버린다. 깜빡한 건 "
 
 #: deathforth/events/common/OMENTUM.df:380
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -2386,16 +2382,14 @@ msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 " expertly picks apart the mob's shouted accusations. The angry mob "
 "apologizes for saying mean things, and then beats "
-msgstr "는 군중의 고함 섞인 비난을 능숙하게 하나하나 반박한다. 성난 군중은 심한 말을 한 걸 사과하고, 그다음 두들겨 팬다: "
+msgstr "는 군중의 고함 섞인 비난을 능숙하게 하나하나 반박한다. 성난 군중은 심한 말을 한 걸 사과하고, 그다음 "
 
 #: deathforth/events/common/OMENTUM.df:534
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 " up for being a know-it-all.\r\n"
 "\t\t"
-msgstr ""
-"을(를). 잘난 척했다는 이유로.\r\n"
-"\t\t"
+msgstr "을(를) 두들겨 팬다. 잘난 척했다는 이유로.\r\n\t\t"
 
 #: deathforth/events/common/OMENTUM.df:535
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -2453,7 +2447,7 @@ msgstr "축하한다, 내 수수께끼를 풀었구나! "
 #: deathforth/events/common/OMENTUM.df:565
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid "The cat then mauls "
-msgstr "그러고는 고양이가 할퀸다: "
+msgstr "그러고는 고양이가 마구 할퀸다. 피해자는 "
 
 #: deathforth/events/common/OMENTUM.df:565
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -2651,7 +2645,7 @@ msgstr "은(는) 잠시 비밀 메시지를 풀어 보려 한다. 그러다 "
 #: deathforth/events/common/OMENTUM.df:666
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid " frowns and halfheartedly writes "
-msgstr "는 인상을 쓰고 대충 적는다: "
+msgstr "는 인상을 쓰고 대충 휘갈긴다: "
 
 #: deathforth/events/common/OMENTUM.df:666
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -2661,7 +2655,7 @@ msgstr "진정해!"
 #: deathforth/events/common/OMENTUM.df:666
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid " on one of the pieces of paper."
-msgstr " 종이 한 장에."
+msgstr " (종이 한 장에)"
 
 #: deathforth/events/common/OMENTUM.df:667
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -2822,7 +2816,7 @@ msgstr "멍청이-두! 너에게 멍청이-두!"
 #: deathforth/events/common/OMENTUM.df:767
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid "They change "
-msgstr "마을 사람들이 강제 변신으로 바꿔 버린다: "
+msgstr "마을 사람들이 강제로 꾸며 주겠다며 "
 
 #: deathforth/events/common/OMENTUM.df:767
 msgctxt "deathforth/events/common/OMENTUM.df"
@@ -2832,33 +2826,31 @@ msgstr "의 헤어스타일"
 #: deathforth/events/common/OMENTUM.df:767
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid " in a forced makeover. This seems mildly irritating!"
-msgstr ". 살짝 짜증 난다!"
+msgstr "을 바꿔 버린다. 살짝 짜증 난다!"
 
 #: deathforth/events/common/OMENTUM.df:770
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid "The villagers sentence "
-msgstr "마을 사람들은 선고한다: "
+msgstr "마을 사람들은 "
 
 #: deathforth/events/common/OMENTUM.df:770
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 " to a week of hard labor in the Toilet Paper Factory!\r\n"
 "\t\tIt's grueling work, but at least they feed you. It's also good exercise!"
-msgstr ""
-"에게 화장지 공장 강제 노동 일주일!\r\n"
-"\t\t고된 일이지만, 적어도 밥은 준다. 운동도 된다!"
+msgstr "에게 화장지 공장 강제 노동 일주일을 선고한다!\r\n\t\t고된 일이지만, 적어도 밥은 준다. 운동도 된다!"
 
 #: deathforth/events/common/OMENTUM.df:775
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid "The villagers present "
-msgstr "마을 사람들이 선물한다: "
+msgstr "마을 사람들이 "
 
 #: deathforth/events/common/OMENTUM.df:775
 msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 " with a tasteful gift basket! They don't want to do this, but they have to "
 "absolutely follow the will of "
-msgstr "에게 고상한 선물 바구니를! 하고 싶진 않지만, 무조건 따라야 하는 뜻이 있다: "
+msgstr "에게 고상한 선물 바구니를 준다! 하고 싶진 않지만, 무조건 따라야 한다. "
 
 #: deathforth/events/common/OMENTUM.df:775
 #: deathforth/events/common/OMENTUM.df:780
@@ -2872,9 +2864,7 @@ msgctxt "deathforth/events/common/OMENTUM.df"
 msgid ""
 "\r\n"
 "\t\tIt's delightful!"
-msgstr ""
-"\r\n"
-"\t\t기쁘다!"
+msgstr "의 뜻이니까.\r\n\t\t기쁘다!"
 
 #: deathforth/events/common/OMENTUM.df:778
 msgctxt "deathforth/events/common/OMENTUM.df"

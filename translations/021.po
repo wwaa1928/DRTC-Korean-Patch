@@ -425,14 +425,12 @@ msgctxt "deathforth/events/sc/cyoa-screcruit3.df"
 msgid ""
 " is its mother!\r\n"
 "\t\tIt starts following "
-msgstr ""
-"이(가) 자기 엄마라고 생각한다!\r\n"
-"\t\t칠면조가 따라다니기 시작한다: "
+msgstr "이(가) 자기 엄마라고 생각한다!\r\n\t\t칠면조가 "
 
 #: deathforth/events/sc/cyoa-screcruit3.df:203
 msgctxt "deathforth/events/sc/cyoa-screcruit3.df"
 msgid " around."
-msgstr " 뒤를 졸졸."
+msgstr "를 졸졸 따라다니기 시작한다."
 
 #: deathforth/events/sc/cyoa-screcruit3.df:208
 msgctxt "deathforth/events/sc/cyoa-screcruit3.df"
@@ -676,9 +674,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit4.df"
 msgid ""
 " a woman, already swarmed into a corner.\r\n"
 "\tIt looks hopeless, then she suddenly turns into an "
-msgstr ""
-" 이미 구석에 몰린 여자를 마주친다.\r\n"
-"\t가망 없어 보였는데, 그녀가 갑자기 이것으로 변신한다: "
+msgstr " 이미 구석에 몰린 여자를 마주친다.\r\n\t가망 없어 보였는데, 그녀가 갑자기 "
 
 #: deathforth/events/sc/cyoa-screcruit4.df:63
 msgctxt "deathforth/events/sc/cyoa-screcruit4.df"
@@ -690,9 +686,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit4.df"
 msgid ""
 ".\r\n"
 "\tThe zombies don't have a chance against this."
-msgstr ""
-".\r\n"
-"\t좀비들은 상대가 안 된다."
+msgstr "(으)로 변신한다.\r\n\t좀비들은 상대가 안 된다."
 
 #: deathforth/events/sc/cyoa-screcruit4.df:65
 #: deathforth/events/sc/cyoa-screcruit4.df:138
@@ -1072,10 +1066,7 @@ msgid ""
 " spots a hitchhiker near the road.\r\n"
 "\tHe wields a goofy enormous sword. It's obvious that it is way too big to swing effectively.\r\n"
 "\tThe man is also Level 1, Level 2 at best. He'll need some serious powerleveling if he's going to fight "
-msgstr ""
-"은(는) 길가의 히치하이커를 발견한다.\r\n"
-"\t우스꽝스럽게 거대한 검을 들고 있다. 제대로 휘두르기엔 너무 크다는 게 뻔하다.\r\n"
-"\t남자는 레벨 1, 잘해야 레벨 2다. 이 게임 끝에서 이 녀석과 싸우려면 레벨을 엄청 올려야 한다: "
+msgstr "은(는) 길가의 히치하이커를 발견한다.\r\n\t우스꽝스럽게 거대한 검을 들고 있다. 제대로 휘두르기엔 너무 크다는 게 뻔하다.\r\n\t남자는 레벨 1, 잘해야 레벨 2다. 이 게임 끝에서 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:19
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1085,7 +1076,7 @@ msgstr "궁극의 초월한 비자로-크랭코어"
 #: deathforth/events/sc/cyoa-screcruit5.df:19
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid " at the end of this game."
-msgstr "."
+msgstr "와(과) 싸우려면 레벨을 엄청 올려야 한다."
 
 #: deathforth/events/sc/cyoa-screcruit5.df:20
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1191,16 +1182,14 @@ msgstr "해피 아메리카 데이"
 #: deathforth/events/sc/cyoa-screcruit5.df:52
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid " appears! He's the living personifaction of "
-msgstr "이(가) 나타났다! 그는 이것의 살아 있는 화신이다: "
+msgstr "이(가) 나타났다! 그는 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:52
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid ""
 ", which ceased existing years ago.\r\n"
 "\tYou feel "
-msgstr ""
-". 몇 년 전에 없어진 나라다.\r\n"
-"\t기분이 "
+msgstr "의 살아 있는 화신이다. 몇 년 전에 없어진 나라다.\r\n\t기분이 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:53
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1245,7 +1234,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid ""
 "Someone has filled your car full of hockey sticks! This must be some sort of"
 " "
-msgstr "누군가 차에 하키 스틱을 가득 채워 놨다! 이건 분명 이런 장난이다: "
+msgstr "누군가 차에 하키 스틱을 가득 채워 놨다! 이건 분명 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:64
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1257,9 +1246,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid ""
 " prank!\r\n"
 "\tSomething stirs in the giant nest of hockey sticks. A large rodent pokes its head out of the pile."
-msgstr ""
-" 장난!\r\n"
-"\t거대한 하키 스틱 둥지에서 뭔가 꿈틀댄다. 커다란 설치류가 더미에서 고개를 내민다."
+msgstr " 장난이다!\r\n\t거대한 하키 스틱 둥지에서 뭔가 꿈틀댄다. 커다란 설치류가 더미에서 고개를 내민다."
 
 #: deathforth/events/sc/cyoa-screcruit5.df:68
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1274,7 +1261,7 @@ msgstr "밸런타인데이: 이번엔 개인적인 일이다"
 #: deathforth/events/sc/cyoa-screcruit5.df:74
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid " is here! He's the living personifaction of "
-msgstr "이(가) 왔다! 그는 이것의 살아 있는 화신이다: "
+msgstr "이(가) 왔다! 그는 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:74
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1286,9 +1273,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid ""
 ". Just like the sort you see on those little heart-shaped chalk candies.\r\n"
 "\tYou feel "
-msgstr ""
-". 하트 모양 분필 사탕에 적힌 딱 그런 로맨스.\r\n"
-"\t기분이 "
+msgstr "의 살아 있는 화신이다. 하트 모양 분필 사탕에 적힌 딱 그런 로맨스.\r\n\t기분이 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:75
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1564,12 +1549,12 @@ msgstr "오바마"
 #: deathforth/events/sc/cyoa-screcruit5.df:157
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid " loses "
-msgstr "은(는) 잃는다: "
+msgstr "은(는) "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:157
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid " boring old hand and gets a "
-msgstr " 지루하고 낡은 손을. 그리고 얻는다: "
+msgstr " 지루하고 낡은 손을 잃고, 대신 얻는다: "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:157
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1623,7 +1608,7 @@ msgstr "핼러윈이다!"
 #: deathforth/events/sc/cyoa-screcruit5.df:180
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid " Get ready for a "
-msgstr " 준비해라, "
+msgstr " 이제 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:180
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1635,9 +1620,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid ""
 " experience!\r\n"
 "\tYou can pick from the following list of "
-msgstr ""
-" 체험을!\r\n"
-"\t다음 목록에서 고를 수 있다: "
+msgstr " 체험을 할 준비를 해라!\r\n\t다음 목록에서 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:181
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
@@ -1647,12 +1630,12 @@ msgstr "장난"
 #: deathforth/events/sc/cyoa-screcruit5.df:181
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid ", or go for the safe, delicious, but boring option of a "
-msgstr ", 아니면 안전하고 맛있지만 지루한 선택지인 "
+msgstr "을 고르거나, 안전하고 맛있지만 지루한 선택지인 "
 
 #: deathforth/events/sc/cyoa-screcruit5.df:181
 msgctxt "deathforth/events/sc/cyoa-screcruit5.df"
 msgid "TREAT."
-msgstr "사탕."
+msgstr "사탕을 고를 수 있다."
 
 #: deathforth/events/sc/cyoa-screcruit5.df:183
 #: deathforth/events/sc/cyoa-screcruit5.df:184
@@ -2104,26 +2087,24 @@ msgstr ""
 #: deathforth/events/sc/lnk.df:22 deathforth/events/sc/lnk.df:34
 msgctxt "deathforth/events/sc/lnk.df"
 msgid " got the "
-msgstr "이(가) 얻었다: "
+msgstr "이(가) "
 
 #: deathforth/events/sc/lnk.df:22
 msgctxt "deathforth/events/sc/lnk.df"
 msgid "Heart Container!"
-msgstr "하트 그릇!"
+msgstr "하트 그릇"
 
 #: deathforth/events/sc/lnk.df:22
 msgctxt "deathforth/events/sc/lnk.df"
 msgid ""
 "\r\n"
 "\tMaximum Health has increased!"
-msgstr ""
-"\r\n"
-"\t최대 체력이 증가했다!"
+msgstr "을 얻었다!\r\n\t최대 체력이 증가했다!"
 
 #: deathforth/events/sc/lnk.df:34
 msgctxt "deathforth/events/sc/lnk.df"
 msgid "Sack of Bombs!"
-msgstr "폭탄 자루!"
+msgstr "폭탄 자루"
 
 #: deathforth/events/sc/lnk.df:34
 msgctxt "deathforth/events/sc/lnk.df"
@@ -2131,10 +2112,7 @@ msgid ""
 "\r\n"
 "\tHe can now throw three bombs every mission! \r\n"
 "\tNew bombs will show up in the trunk whenever they're fully used up!"
-msgstr ""
-"\r\n"
-"\t이제 임무마다 폭탄 세 개를 던질 수 있다! \r\n"
-"\t폭탄을 다 쓰면 트렁크에 새 폭탄이 나타난다!"
+msgstr "를 얻었다!\r\n\t이제 임무마다 폭탄 세 개를 던질 수 있다! \r\n\t폭탄을 다 쓰면 트렁크에 새 폭탄이 나타난다!"
 
 #: deathforth/events/sc/lnk.df:43
 msgctxt "deathforth/events/sc/lnk.df"
@@ -2254,14 +2232,12 @@ msgctxt "deathforth/events/sc/madsci.df"
 msgid ""
 " is delivered to her laboratory!\r\n"
 "\t\tShe thanks "
-msgstr ""
-"은(는) 연구소에 무사히 도착했다!\r\n"
-"\t\t그녀가 고마워하는 상대는 "
+msgstr "은(는) 연구소에 무사히 도착했다!\r\n\t\t그녀는 "
 
 #: deathforth/events/sc/madsci.df:18
 msgctxt "deathforth/events/sc/madsci.df"
 msgid " and gives an "
-msgstr ". 그리고 상으로 이걸 준다: "
+msgstr "에게 고마워하며 상으로 "
 
 #: deathforth/events/sc/madsci.df:18
 msgctxt "deathforth/events/sc/madsci.df"
@@ -2271,7 +2247,7 @@ msgstr "과충전 텔레포터"
 #: deathforth/events/sc/madsci.df:18
 msgctxt "deathforth/events/sc/madsci.df"
 msgid " as a reward!"
-msgstr "!"
+msgstr "을(를) 준다!"
 
 #: deathforth/events/sc/madsci.df:19
 msgctxt "deathforth/events/sc/madsci.df"
@@ -2422,7 +2398,7 @@ msgstr "은(는) 지난번 여름 캠프의 즐거운 추억을 잔뜩 떠올린
 #: deathforth/events/sc/mason.df:46
 msgctxt "deathforth/events/sc/mason.df"
 msgid " was going to get up to some "
-msgstr "은(는) 이런 걸 벌이려고 했다: "
+msgstr "은(는) "
 
 #: deathforth/events/sc/mason.df:46
 msgctxt "deathforth/events/sc/mason.df"
@@ -2432,7 +2408,7 @@ msgstr "엉뚱한 짓"
 #: deathforth/events/sc/mason.df:46
 msgctxt "deathforth/events/sc/mason.df"
 msgid " but it looks like he was the one to disappear, for a change."
-msgstr ". 그런데 이번엔 자기가 사라진 것 같다."
+msgstr "을 벌이려고 했다. 그런데 이번엔 자기가 사라진 것 같다."
 
 #: deathforth/events/sc/mason.df:48
 msgctxt "deathforth/events/sc/mason.df"
@@ -2610,17 +2586,17 @@ msgstr "넌 이걸 가질 자격이 없어, 도로 가져갈 거야!"
 #: deathforth/events/sc/omentum.df:12
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " angrily swipes the map "
-msgstr "는 화가 나서 지도를 도로 낚아챈다. "
+msgstr "는 화가 나서 "
 
 #: deathforth/events/sc/omentum.df:12
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " bought from "
-msgstr "이(가) 산 지도다. 판 사람은 "
+msgstr "이(가) "
 
 #: deathforth/events/sc/omentum.df:12
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " and stomps off!"
-msgstr ". 그러고는 쿵쿵대며 떠난다!"
+msgstr "에게서 산 지도를 도로 낚아채고는 쿵쿵대며 떠난다!"
 
 #: deathforth/events/sc/omentum.df:15
 msgctxt "deathforth/events/sc/omentum.df"
@@ -2750,12 +2726,12 @@ msgstr "이제 그만"
 #: deathforth/events/sc/omentum.df:76
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " explodes in a fit of rage, unable to control "
-msgstr "은(는) 분노가 폭발해서 통제하지 못한다: "
+msgstr "은(는) 분노가 폭발한다. "
 
 #: deathforth/events/sc/omentum.df:76
 msgctxt "deathforth/events/sc/omentum.df"
 msgid "self and see any reason."
-msgstr " 자신을. 이성 따윈 없다."
+msgstr " 자신도 통제하지 못하고, 이성 따윈 없다."
 
 #: deathforth/events/sc/omentum.df:78
 msgctxt "deathforth/events/sc/omentum.df"
@@ -2765,19 +2741,19 @@ msgstr "는 총을 마구 쏘며 뛰쳐나가 좀비 떼를 끌어모으고, 다
 #: deathforth/events/sc/omentum.df:80
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " swears profusely at "
-msgstr "는 욕을 퍼붓는다. 대상은 "
+msgstr "는 "
 
 #: deathforth/events/sc/omentum.df:80
 msgctxt "deathforth/events/sc/omentum.df"
 msgid ""
 " before stomping off. This is a family friendly game, so we won't be writing"
 " what "
-msgstr ". 그러고는 쿵쿵대며 떠난다. 가족용 게임이라 적지 않겠다. 무슨 말을 했는지는... "
+msgstr "에게 욕을 퍼붓고는 쿵쿵대며 떠난다. 가족용 게임이라, "
 
 #: deathforth/events/sc/omentum.df:80
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " said."
-msgstr "만 알 거다."
+msgstr "가 한 말은 적지 않겠다."
 
 #: deathforth/events/sc/omentum.df:88
 msgctxt "deathforth/events/sc/omentum.df"
@@ -2817,12 +2793,12 @@ msgstr "가 일행에 영입될 때 말이다."
 #: deathforth/events/sc/omentum.df:92
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " turns the car around and finds "
-msgstr "는 차를 돌려 다시 찾는다: "
+msgstr "는 차를 돌려 다시 "
 
 #: deathforth/events/sc/omentum.df:92
 msgctxt "deathforth/events/sc/omentum.df"
 msgid " home once again!"
-msgstr " 집을!"
+msgstr " 집을 찾는다!"
 
 #: deathforth/events/sc/omentum.df:94
 msgctxt "deathforth/events/sc/omentum.df"

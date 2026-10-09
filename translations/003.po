@@ -2215,7 +2215,7 @@ msgstr "WAYWARD SOULS 1.0 출시!"
 #: deathforth/boot-end.df:33
 msgctxt "deathforth/boot-end.df"
 msgid "Rocketcat Games has finished the 1.0 launch of "
-msgstr "Rocketcat Games가 1.0 출시를 마쳤습니다: "
+msgstr "Rocketcat Games의 1.0 정식 출시 완료: "
 
 #: deathforth/boot-end.df:33 deathforth/boot-end.df:34
 msgctxt "deathforth/boot-end.df"

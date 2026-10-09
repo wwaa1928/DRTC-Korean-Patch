@@ -2483,7 +2483,7 @@ msgstr "는 세트 사이사이 좀비를 막아야 했다. 조심해!"
 #: deathforth/events/inner/gymloc.df:21
 msgctxt "deathforth/events/inner/gymloc.df"
 msgid " takes off most of the weight from the barbell and then starts "
-msgstr "은(는) 바벨에서 무게를 거의 다 빼고 시작한다: "
+msgstr "은(는) 바벨에서 무게를 거의 다 빼고, 거의 빈 봉으로 "
 
 #: deathforth/events/inner/gymloc.df:21
 msgctxt "deathforth/events/inner/gymloc.df"
@@ -2493,7 +2493,7 @@ msgstr "쇠질"
 #: deathforth/events/inner/gymloc.df:21
 msgctxt "deathforth/events/inner/gymloc.df"
 msgid " with the mostly empty bar."
-msgstr ". 거의 빈 봉으로."
+msgstr "을 시작한다."
 
 #: deathforth/events/inner/gymloc.df:23
 msgctxt "deathforth/events/inner/gymloc.df"

@@ -89,7 +89,7 @@ msgstr "칠면조 싸움"
 #: deathforth/events/sc/turkey.df:24
 msgctxt "deathforth/events/sc/turkey.df"
 msgid " pecks at "
-msgstr "은(는) 쪼아 댄다. 대상은 "
+msgstr "은(는) 미친 듯이 꾸룩거리며 "
 
 #: deathforth/events/sc/turkey.df:24
 msgctxt "deathforth/events/sc/turkey.df"
@@ -97,10 +97,7 @@ msgid ""
 " while making frantic gobbling noises!\r\n"
 "\tIt looks like there's no compromise here.\r\n"
 "\tEither the turkey goes or "
-msgstr ""
-". 미친 듯이 꾸룩거리면서!\r\n"
-"\t타협의 여지가 없어 보인다.\r\n"
-"\t칠면조가 떠나든지, 아니면 "
+msgstr "을(를) 쪼아 댄다!\r\n\t타협의 여지가 없어 보인다.\r\n\t칠면조가 떠나든지, 아니면 "
 
 #: deathforth/events/sc/turkey.df:26
 msgctxt "deathforth/events/sc/turkey.df"
@@ -115,12 +112,12 @@ msgstr "칠면조를 없앤다"
 #: deathforth/events/sc/turkey.df:28
 msgctxt "deathforth/events/sc/turkey.df"
 msgid "Kick "
-msgstr "쫓아낸다: "
+msgstr "일행에서 "
 
 #: deathforth/events/sc/turkey.df:28
 msgctxt "deathforth/events/sc/turkey.df"
 msgid " from team"
-msgstr "<EMPTY>"
+msgstr "을(를) 쫓아낸다"
 
 #: deathforth/events/siege/gasbar-region.df:20
 msgctxt "deathforth/events/siege/gasbar-region.df"
@@ -237,12 +234,12 @@ msgstr " 근처에 좀비 떼가 슬금슬금 다가오는 걸 알아챈다. "
 #: deathforth/events/siege/siege1.df:23
 msgctxt "deathforth/events/siege/siege1.df"
 msgid " will have to hold "
-msgstr "은(는) 버텨야 한다: "
+msgstr "은(는) "
 
 #: deathforth/events/siege/siege1.df:23
 msgctxt "deathforth/events/siege/siege1.df"
 msgid " ground for a bit before "
-msgstr " 자리를. 그래야 "
+msgstr " 자리를 잠시 지켜야 한다. 그래야 "
 
 #: deathforth/events/siege/siege1.df:23
 msgctxt "deathforth/events/siege/siege1.df"
@@ -887,7 +884,7 @@ msgstr "야호!"
 #: deathforth/events/stomach/harbour.df:850
 msgctxt "deathforth/events/stomach/harbour.df"
 msgid " mumbles something about "
-msgstr "은(는) 뭔가 웅얼거린다: "
+msgstr "은(는) "
 
 #: deathforth/events/stomach/harbour.df:850
 msgctxt "deathforth/events/stomach/harbour.df"
@@ -907,7 +904,7 @@ msgstr "얼음"
 #: deathforth/events/stomach/harbour.df:850
 msgctxt "deathforth/events/stomach/harbour.df"
 msgid ". A birthday plan turned awry?"
-msgstr ". 생일 계획이 틀어졌나?"
+msgstr "에 대해 뭔가 웅얼거린다. 생일 계획이 틀어졌나?"
 
 #: deathforth/events/stomach/harbour.df:853
 msgctxt "deathforth/events/stomach/harbour.df"

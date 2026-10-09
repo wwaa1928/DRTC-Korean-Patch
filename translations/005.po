@@ -1205,12 +1205,12 @@ msgstr ""
 #: deathforth/cyoa-charstats.df:352
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " accepts "
-msgstr "은(는) 받아들인다: "
+msgstr "은(는) 흔쾌히 "
 
 #: deathforth/cyoa-charstats.df:352 deathforth/cyoa-charstats.df:363
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " to the team!"
-msgstr " 일행 합류!"
+msgstr "을(를) 팀원으로 받아들인다!"
 
 #: deathforth/cyoa-charstats.df:358
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1220,7 +1220,7 @@ msgstr "일행이 꽉 찼다. 자리를 비우려면 누구를 빼야 할까? �
 #: deathforth/cyoa-charstats.df:363
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " recruits "
-msgstr "이(가) 영입한다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:368
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1383,22 +1383,22 @@ msgstr "을(를) 일행에 영입"
 #: deathforth/cyoa-charstats.df:533
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " sizes up "
-msgstr "은(는) 실력을 가늠해 본다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:533
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " skills..."
-msgstr " 실력..."
+msgstr " 실력을 가늠해 본다..."
 
 #: deathforth/cyoa-charstats.df:536
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " judges "
-msgstr "은(는) 인성을 평가해 본다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:536
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " character..."
-msgstr " 인성..."
+msgstr " 인성을 평가해 본다..."
 
 #: deathforth/cyoa-charstats.df:548 deathforth/cyoa-charstats.df:566
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1408,21 +1408,19 @@ msgstr "구출 성공!"
 #: deathforth/cyoa-charstats.df:549 deathforth/cyoa-charstats.df:568
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " catches up with "
-msgstr "이(가) 안전한 곳에서 합류한다: "
+msgstr "은(는) 안전한 곳에서 "
 
 #: deathforth/cyoa-charstats.df:549 deathforth/cyoa-charstats.df:568
 msgctxt "deathforth/cyoa-charstats.df"
 msgid ""
 " at a safe spot.\r\n"
 "\t\t"
-msgstr ""
-"\r\n"
-"\t\t"
+msgstr "와(과) 합류한다.\r\n\t\t"
 
 #: deathforth/cyoa-charstats.df:550
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " offers a reward in thanks for saving "
-msgstr "는 구해 준 답례로 보상을 내민다: "
+msgstr "는 고맙다며 보상을 내민다. 은혜를 갚는 "
 
 #: deathforth/cyoa-charstats.df:554
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1446,12 +1444,12 @@ msgstr ""
 #: deathforth/cyoa-charstats.df:569
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " seems like "
-msgstr "는 "
+msgstr "를 보아하니, "
 
 #: deathforth/cyoa-charstats.df:569
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " wants to stick around!"
-msgstr "가 계속 같이 있고 싶어 하는 것 같다!"
+msgstr "는 계속 함께 다니고 싶은 모양이다!"
 
 #: deathforth/cyoa-charstats.df:571
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1667,37 +1665,37 @@ msgstr "를 마을 밖에서 만나자고."
 #: deathforth/cyoa-charstats.df:675
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " makes a careful diagnosis, and then starts kicking "
-msgstr "은(는) 신중하게 진단한 뒤, 걷어차기 시작한다: "
+msgstr "은(는) 신중하게 진단하더니, "
 
 #: deathforth/cyoa-charstats.df:675
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " on the rump."
-msgstr "의 엉덩이를."
+msgstr "의 엉덩이를 걷어차기 시작한다."
 
 #: deathforth/cyoa-charstats.df:680
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " starts smooshing some food on "
-msgstr "은(는) 음식을 문질러 넣기 시작한다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:680
 msgctxt "deathforth/cyoa-charstats.df"
 msgid "'s mouth as "
-msgstr "의 입에. "
+msgstr "의 입에 음식을 문질러 넣기 시작한다. 정작 "
 
 #: deathforth/cyoa-charstats.df:680 deathforth/cyoa-charstats.df:694
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " sleeps."
-msgstr "가 자는 동안."
+msgstr "는 쿨쿨 자고 있다."
 
 #: deathforth/cyoa-charstats.df:686
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " pokes "
-msgstr "은(는) 쿡쿡 찌른다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:686
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " to wake "
-msgstr "을(를) 깨우려고. "
+msgstr "을(를) 쿡쿡 찔러 깨운다. "
 
 #: deathforth/cyoa-charstats.df:686
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1707,12 +1705,12 @@ msgstr "가 일어나기까지 4시간 내내 쉬지 않고 찔러야 한다."
 #: deathforth/cyoa-charstats.df:694
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " starts licking "
-msgstr "은(는) 핥기 시작한다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:694
 msgctxt "deathforth/cyoa-charstats.df"
 msgid "'s face as "
-msgstr "의 얼굴을. "
+msgstr "의 얼굴을 핥기 시작한다. 정작 "
 
 #: deathforth/cyoa-charstats.df:702
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1763,12 +1761,12 @@ msgstr "근처 건물에 식량이 있을지도..."
 #: deathforth/cyoa-charstats.df:716
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " revives "
-msgstr "이(가) 깨운다: "
+msgstr "이(가) 얼굴을 핥아 "
 
 #: deathforth/cyoa-charstats.df:716
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " via face licking"
-msgstr " (얼굴 핥기로)"
+msgstr "를 깨운다"
 
 #: deathforth/cyoa-charstats.df:718
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1788,7 +1786,7 @@ msgstr "를 4시간 동안 찌르기"
 #: deathforth/cyoa-charstats.df:725 deathforth/cyoa-charstats.df:731
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " starts following "
-msgstr "이(가) 따라오기 시작한다: "
+msgstr "이(가) 졸졸 따라다니기 시작한다. 따라가는 상대는 바로 "
 
 #: deathforth/cyoa-charstats.df:726 deathforth/cyoa-charstats.df:732
 msgctxt "deathforth/cyoa-charstats.df"
@@ -1888,7 +1886,7 @@ msgstr "개는 일단 둔다"
 #: deathforth/cyoa-charstats.df:765
 msgctxt "deathforth/cyoa-charstats.df"
 msgid "The dog wants to follow "
-msgstr "개가 따라가고 싶어 한다: "
+msgstr "개가 따라가고 싶어 하는 상대는 바로 "
 
 #: deathforth/cyoa-charstats.df:774
 msgctxt "deathforth/cyoa-charstats.df"
@@ -2136,12 +2134,12 @@ msgstr "에게 새 머리카락이 났다! 좋아!"
 #: deathforth/cyoa-charstats.df:1288
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " loses "
-msgstr "은(는) 잃는다: "
+msgstr "은(는) "
 
 #: deathforth/cyoa-charstats.df:934
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " hair!"
-msgstr " 머리카락!"
+msgstr " 머리카락을 잃는다!"
 
 #: deathforth/cyoa-charstats.df:940
 msgctxt "deathforth/cyoa-charstats.df"
@@ -2228,7 +2226,7 @@ msgstr "은(는) 개타우로스가 된다: 인간의 상체와 팔을 가진 �
 #: deathforth/cyoa-charstats.df:1016
 msgctxt "deathforth/cyoa-charstats.df"
 msgid "A fly wanders into the machine! Doesn't seem to bother "
-msgstr "파리 한 마리가 기계 안으로 날아든다! 별로 신경 쓰지 않는 것 같다: "
+msgstr "파리 한 마리가 기계 안으로 날아든다! 별로 개의치 않는 듯한 "
 
 #: deathforth/cyoa-charstats.df:1019
 msgctxt "deathforth/cyoa-charstats.df"
@@ -2373,22 +2371,22 @@ msgstr "이(가) 일행을 떠났다!"
 #: deathforth/cyoa-charstats.df:1270
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " primary weapon!"
-msgstr " 주무기!"
+msgstr " 주무기를 잃는다!"
 
 #: deathforth/cyoa-charstats.df:1276
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " secondary weapon!"
-msgstr " 보조 무기!"
+msgstr " 보조 무기를 잃는다!"
 
 #: deathforth/cyoa-charstats.df:1282
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " tertiary weapon!"
-msgstr " 세 번째 무기!"
+msgstr " 세 번째 무기를 잃는다!"
 
 #: deathforth/cyoa-charstats.df:1288
 msgctxt "deathforth/cyoa-charstats.df"
 msgid " weapons!"
-msgstr " 무기들!"
+msgstr " 무기를 모두 잃는다!"
 
 #: deathforth/cyoa-charstats.df:1295
 msgctxt "deathforth/cyoa-charstats.df"

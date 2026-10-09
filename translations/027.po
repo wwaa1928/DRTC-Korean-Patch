@@ -1005,12 +1005,12 @@ msgstr "은(는) 식량이 부족해 활조차 살 수 없다!"
 #: deathforth/events/trade/trader-camp-region-special6.df:201
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
 msgid "The trader takes some pity on "
-msgstr "상인은 딱하게 여겨 "
+msgstr "상인은 "
 
 #: deathforth/events/trade/trader-camp-region-special6.df:201
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
 msgid " and hands out "
-msgstr "에게 준다: "
+msgstr "을(를) 딱하게 여겨 이걸 준다: "
 
 #: deathforth/events/trade/trader-camp-region-special6.df:201
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
@@ -1035,7 +1035,7 @@ msgstr "활과 화살 50개 - 식량 5개"
 #: deathforth/events/trade/trader-camp-region-special6.df:226
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
 msgid "'s name is now "
-msgstr "의 이름은 이제 이거다: "
+msgstr "의 이름은 이제 "
 
 #: deathforth/events/trade/trader-camp-region-special6.df:231
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
@@ -1090,12 +1090,12 @@ msgstr ""
 #: deathforth/events/trade/trader-camp-region-special6.df:270
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
 msgid "Would you like to give "
-msgstr "새 이름을 지어 줄까? 대상: "
+msgstr "<EMPTY>"
 
 #: deathforth/events/trade/trader-camp-region-special6.df:270
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
 msgid " a new name?"
-msgstr "<EMPTY>"
+msgstr "에게 새 이름을 지어 줄까?"
 
 #: deathforth/events/trade/trader-camp-region-special6.df:271
 msgctxt "deathforth/events/trade/trader-camp-region-special6.df"
@@ -2046,12 +2046,12 @@ msgstr "은(는) 식량이 부족해 아무것도 살 수 없다!"
 #: deathforth/events/trade/trader-camp-region-special8.df:243
 msgctxt "deathforth/events/trade/trader-camp-region-special8.df"
 msgid "The trader takes pity on "
-msgstr "상인이 딱하게 여기는 대상은 "
+msgstr "상인은 "
 
 #: deathforth/events/trade/trader-camp-region-special8.df:243
 msgctxt "deathforth/events/trade/trader-camp-region-special8.df"
 msgid " and hands out a "
-msgstr "이다. 선물은 "
+msgstr "을(를) 딱하게 여겨 이걸 준다: "
 
 #: deathforth/events/trade/trader-camp-region-special8.df:243
 msgctxt "deathforth/events/trade/trader-camp-region-special8.df"

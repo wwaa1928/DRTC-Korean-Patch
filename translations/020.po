@@ -28,14 +28,12 @@ msgctxt "deathforth/events/rareloc/rare2.df"
 msgid ""
 " an out of place patch of snow.\r\n"
 "\tWhatever is causing the snow is also "
-msgstr ""
-" 엉뚱한 곳에 쌓인 눈 더미를 발견한다.\r\n"
-"\t눈을 만드는 게 뭐든, 그게 이것도 하고 있다: "
+msgstr " 엉뚱한 곳에 쌓인 눈 더미를 발견한다.\r\n\t눈을 만드는 게 뭐든, 그게 "
 
 #: deathforth/events/rareloc/rare2.df:48
 msgctxt "deathforth/events/rareloc/rare2.df"
 msgid "attracting a lot of zombies!"
-msgstr "좀비를 엄청 끌어모으는 중!"
+msgstr "좀비를 엄청 끌어모으고 있다!"
 
 #: deathforth/events/rareloc/rare2.df:48
 msgctxt "deathforth/events/rareloc/rare2.df"
@@ -145,12 +143,12 @@ msgstr " 역시 그럴 줄 알았어!"
 #: deathforth/events/rareloc/region/alien.df:55
 msgctxt "deathforth/events/rareloc/region/alien.df"
 msgid "The alien pokes "
-msgstr "외계인이 빛나는 손가락으로 쿡 찌른다: "
+msgstr "외계인이 빛나는 손가락으로 "
 
 #: deathforth/events/rareloc/region/alien.df:55
 msgctxt "deathforth/events/rareloc/region/alien.df"
 msgid " with a glowing finger. "
-msgstr ". "
+msgstr "을(를) 쿡 찌른다. "
 
 #: deathforth/events/rareloc/region/alien.df:55
 msgctxt "deathforth/events/rareloc/region/alien.df"
@@ -283,7 +281,7 @@ msgstr "딩크 디포 사무실"
 #: deathforth/events/rareloc/region/city-bruce.df:9
 msgctxt "deathforth/events/rareloc/region/city-bruce.df"
 msgid " starts following "
-msgstr "은(는) 따라오기 시작한다: "
+msgstr "은(는) 졸졸 따라다니기 시작한다. 따라가는 상대는 바로 "
 
 #: deathforth/events/rareloc/region/city-bruce.df:10
 msgctxt "deathforth/events/rareloc/region/city-bruce.df"
@@ -358,16 +356,14 @@ msgstr "데인저 레인저: 핑크"
 #: deathforth/events/rareloc/region/city-rangers.df:13
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
 msgid " says she is glad "
-msgstr "은(는) 와 줘서 기쁘다고 한다. 와 준 사람은 "
+msgstr "은(는) "
 
 #: deathforth/events/rareloc/region/city-rangers.df:13
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
 msgid ""
 " showed up. \r\n"
 "\tShe assumes a martial arts stance!"
-msgstr ""
-". \r\n"
-"\t그녀가 무술 자세를 잡는다!"
+msgstr "이(가) 와 줘서 기쁘다고 한다. \r\n\t그녀가 무술 자세를 잡는다!"
 
 #: deathforth/events/rareloc/region/city-rangers.df:22
 msgctxt "deathforth/events/rareloc/region/city-rangers.df"
@@ -559,12 +555,12 @@ msgstr "한동안 여기서 살아 봤는데, 썩 좋은 생각이 아니었어.
 #: deathforth/events/rareloc/region/hermit.df:9
 msgctxt "deathforth/events/rareloc/region/hermit.df"
 msgid "The hermit teaches "
-msgstr "은둔자가 가르쳐 준다. 배우는 사람은 "
+msgstr "은둔자가 "
 
 #: deathforth/events/rareloc/region/hermit.df:9
 msgctxt "deathforth/events/rareloc/region/hermit.df"
 msgid " some sweet shooting tips, and also gives up the secrets of "
-msgstr ". 끝내주는 사격 요령과 함께 이 비밀도 알려 준다: "
+msgstr "에게 끝내주는 사격 요령을 가르쳐 주고, 이 비밀도 알려 준다: "
 
 #: deathforth/events/rareloc/region/hermit.df:9
 msgctxt "deathforth/events/rareloc/region/hermit.df"
@@ -779,7 +775,7 @@ msgstr "윌 유 카인들리 실패의 기념비"
 #: deathforth/events/rareloc/wyk.df:19
 msgctxt "deathforth/events/rareloc/wyk.df"
 msgid " finds a skeleton. It's moving around, somehow. It reeks of "
-msgstr "은(는) 해골을 발견한다. 어째선지 움직인다. 이런 냄새가 진동한다: "
+msgstr "은(는) 해골을 발견한다. 어째선지 움직인다. 진동하는 냄새는 바로 "
 
 #: deathforth/events/rareloc/wyk.df:19
 msgctxt "deathforth/events/rareloc/wyk.df"
@@ -1218,21 +1214,19 @@ msgstr "서커스가 끝난 뒤"
 #: deathforth/events/sc/clown.df:7
 msgctxt "deathforth/events/sc/clown.df"
 msgid " escapes from the "
-msgstr "은(는) 여기서 탈출한다: "
+msgstr "은(는) "
 
 #: deathforth/events/sc/clown.df:7
 msgctxt "deathforth/events/sc/clown.df"
 msgid "CIRCUS OF DEATH!"
-msgstr "죽음의 서커스!"
+msgstr "죽음의 서커스"
 
 #: deathforth/events/sc/clown.df:7
 msgctxt "deathforth/events/sc/clown.df"
 msgid ""
 "\r\n"
 "\t\tThe car outside was crushed by the clown stampede, and no longer starts. "
-msgstr ""
-"\r\n"
-"\t\t밖에 있던 차는 광대 떼에 짓밟혀 시동이 안 걸린다. "
+msgstr "에서 탈출한다!\r\n\t\t밖에 있던 차는 광대 떼에 짓밟혀 시동이 안 걸린다. "
 
 #: deathforth/events/sc/clown.df:8
 msgctxt "deathforth/events/sc/clown.df"
@@ -1364,9 +1358,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
 msgid ""
 "\r\n"
 "\tSanta loses faith in humanity and and becomes "
-msgstr ""
-"\r\n"
-"\t산타는 인류에 대한 믿음을 잃고 이렇게 된다: "
+msgstr "\r\n\t산타는 인류에 대한 믿음을 잃고 변해 버린다. 이제 그는 "
 
 #: deathforth/events/sc/cyoa-screcruit1.df:55
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
@@ -1419,7 +1411,7 @@ msgstr "의 말에도 일리가 있다. 자리를 만들려면 누군가 빼야 
 #: deathforth/events/sc/cyoa-screcruit1.df:79
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
 msgid " convinces "
-msgstr "은(는) 설득한다. 상대는 "
+msgstr "은(는) "
 
 #: deathforth/events/sc/cyoa-screcruit1.df:79
 #: deathforth/events/sc/cyoa-screcruit1.df:87
@@ -1432,9 +1424,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
 msgid ""
 " that there's no point being the best bodybuilder in the world if there's no one around to appreciate it.\r\n"
 "\t"
-msgstr ""
-". 세상에 감상해 줄 사람이 없다면 세계 최고의 보디빌더가 되어 봤자 소용없다고.\r\n"
-"\t"
+msgstr "을(를) 설득한다. 세상에 감상해 줄 사람이 없다면 세계 최고의 보디빌더가 되어 봤자 소용없다고.\r\n\t"
 
 #: deathforth/events/sc/cyoa-screcruit1.df:80
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
@@ -1449,12 +1439,12 @@ msgstr "어리석구나!"
 #: deathforth/events/sc/cyoa-screcruit1.df:87
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
 msgid " challenges "
-msgstr "은(는) 도전한다: "
+msgstr "은(는) "
 
 #: deathforth/events/sc/cyoa-screcruit1.df:87
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
 msgid " to a flexing contest. What folly!"
-msgstr "에게 근육 자랑 대결을. 어리석기도 하지!"
+msgstr "에게 근육 자랑 대결을 신청한다. 어리석기도 하지!"
 
 #: deathforth/events/sc/cyoa-screcruit1.df:88
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
@@ -1464,7 +1454,7 @@ msgstr "은(는) 단 한 번의 포즈에 대결에서 소멸한다! 승산 따�
 #: deathforth/events/sc/cyoa-screcruit1.df:89
 msgctxt "deathforth/events/sc/cyoa-screcruit1.df"
 msgid "There's nothing left of "
-msgstr "흔적도 남지 않았다: "
+msgstr "흔적도 남지 않았다. 사라져 버린 "
 
 #: deathforth/events/sc/cyoa-screcruit1.df:89
 #: deathforth/events/sc/cyoa-screcruit1.df:110
@@ -1806,7 +1796,7 @@ msgstr ""
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
 msgid ""
 " stuffs himself and his minigun into the car. He outright refuses to put "
-msgstr "은(는) 자신과 미니건을 차에 쑤셔 넣는다. 이걸 트렁크에 넣는 건 단호히 거부한다: "
+msgstr "은(는) 자신과 미니건을 차에 쑤셔 넣는다. "
 
 #: deathforth/events/sc/cyoa-screcruit2.df:25
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
@@ -1816,7 +1806,7 @@ msgstr "버사"
 #: deathforth/events/sc/cyoa-screcruit2.df:25
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
 msgid " in the trunk, and says no one will ever be able to pry it from him."
-msgstr ". 아무도 자기한테서 이걸 떼어 놓을 수 없다고 한다."
+msgstr "을(를) 트렁크에 넣는 건 단호히 거부한다. 아무도 자기한테서 이걸 떼어 놓을 수 없다고 한다."
 
 #: deathforth/events/sc/cyoa-screcruit2.df:30
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
@@ -1861,16 +1851,14 @@ msgstr "음, 누군가는 나가야겠네."
 #: deathforth/events/sc/cyoa-screcruit2.df:49
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
 msgid " She throws her hammer and thunks "
-msgstr " 그녀가 망치를 던져 정통으로 맞힌다: "
+msgstr " 그녀가 망치를 던져 "
 
 #: deathforth/events/sc/cyoa-screcruit2.df:49
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
 msgid ""
 " right in the skull.\r\n"
 "\t\t"
-msgstr ""
-"의 머리를.\r\n"
-"\t\t"
+msgstr "의 머리를 정통으로 맞힌다.\r\n\t\t"
 
 #: deathforth/events/sc/cyoa-screcruit2.df:50
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
@@ -2210,9 +2198,7 @@ msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
 msgid ""
 " spies a hitchhiker. He is wearing a hockey mask and standing still alongside the road, statue-like, staring off at nothing in particular. In one hand he has a chainsaw, in the other a machete.\r\n"
 "\tAs the car gets closer, the hitchhiker turns his head slightly to gaze right at "
-msgstr ""
-"은(는) 히치하이커를 발견한다. 하키 마스크를 쓰고 길가에 조각상처럼 가만히 서서 허공을 응시하고 있다. 한 손엔 전기톱, 다른 손엔 마체테를 들었다.\r\n"
-"\t차가 가까워지자, 히치하이커가 고개를 살짝 돌려 똑바로 쳐다본다: "
+msgstr "은(는) 히치하이커를 발견한다. 하키 마스크를 쓰고 길가에 조각상처럼 가만히 서서 허공을 응시하고 있다. 한 손엔 전기톱, 다른 손엔 마체테를 들었다.\r\n\t차가 가까워지자, 히치하이커가 고개를 살짝 돌린다. 똑바로 쳐다보는 상대는 "
 
 #: deathforth/events/sc/cyoa-screcruit2.df:214
 msgctxt "deathforth/events/sc/cyoa-screcruit2.df"
@@ -2227,7 +2213,7 @@ msgstr "훨씬 더 빨리 달린다"
 #: deathforth/events/sc/cyoa-screcruit3.df:19
 msgctxt "deathforth/events/sc/cyoa-screcruit3.df"
 msgid "The hobbling person sniffs the air for a bit while staring at "
-msgstr "절뚝거리는 사람이 잠시 공기 냄새를 맡으며 쳐다본다: "
+msgstr "절뚝거리는 사람이 잠시 공기 냄새를 킁킁 맡는다. 그러면서 빤히 보는 건 "
 
 #: deathforth/events/sc/cyoa-screcruit3.df:21
 msgctxt "deathforth/events/sc/cyoa-screcruit3.df"

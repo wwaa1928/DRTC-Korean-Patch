@@ -1524,12 +1524,12 @@ msgstr ""
 #: deathforth/events/common/STOMACH.df:935
 msgctxt "deathforth/events/common/STOMACH.df"
 msgid " looks around, confused, glancing at his hands and then back towards "
-msgstr "은(는) 당황한 채 주위를 둘러보고, 자기 손을 내려다봤다가 다시 바라본다: "
+msgstr "은(는) 당황한 채 주위를 둘러보고, 자기 손을 내려다봤다가 다시 "
 
 #: deathforth/events/common/STOMACH.df:935
 msgctxt "deathforth/events/common/STOMACH.df"
 msgid ". He has some kind of staff."
-msgstr ". 그는 지팡이 같은 걸 들고 있다."
+msgstr "을(를) 바라본다. 그는 지팡이 같은 걸 들고 있다."
 
 #: deathforth/events/common/STOMACH.df:936
 msgctxt "deathforth/events/common/STOMACH.df"
@@ -1747,7 +1747,7 @@ msgstr "이(가) 없다. 뭐, 어쩔 수 없지. "
 #: deathforth/events/common/STOMACH.df:1061
 msgctxt "deathforth/events/common/STOMACH.df"
 msgid " was never going to reach "
-msgstr "은(는) 어차피 닿지 못했을 거다: "
+msgstr "은(는) 어차피 "
 
 #: deathforth/events/common/STOMACH.df:1061
 msgctxt "deathforth/events/common/STOMACH.df"
@@ -1757,7 +1757,7 @@ msgstr "이번 캠페인의 끝"
 #: deathforth/events/common/STOMACH.df:1061
 msgctxt "deathforth/events/common/STOMACH.df"
 msgid " anyway."
-msgstr "."
+msgstr "에 닿지 못했을 거다."
 
 #: deathforth/events/common/STOMACH.df:1062
 msgctxt "deathforth/events/common/STOMACH.df"

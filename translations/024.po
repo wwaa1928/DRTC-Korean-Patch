@@ -763,12 +763,12 @@ msgstr "은(는) 차와 기계를 잘 고친다고 주장한다. "
 #: deathforth/events/trade/camp-recruit.df:961
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid " is tamed using DOG PSYCHOLOGY by "
-msgstr "은(는) 개 심리학으로 길들여진다. 길들인 건 "
+msgstr "은(는) 개 심리학에 넘어가 길들여진다. 길들인 사람은 "
 
 #: deathforth/events/trade/camp-recruit.df:961
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid ", who insists on bringing "
-msgstr "(이)다. 그 사람은 "
+msgstr "! 그 사람은 "
 
 #: deathforth/events/trade/camp-recruit.df:961
 msgctxt "deathforth/events/trade/camp-recruit.df"
@@ -1095,21 +1095,19 @@ msgstr ""
 #: deathforth/events/trade/cyoa-k-recruit.df:78
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " robs "
-msgstr "이(가) 털어 버린다: "
+msgstr "은(는) "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:78
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid ""
 ".\r\n"
 "\tThis is probably why your group has just one person in it."
-msgstr ""
-".\r\n"
-"\t아마 이래서 너희 일행이 한 명뿐인 거다."
+msgstr "을(를) 털어 버린다.\r\n\t아마 이래서 너희 일행이 한 명뿐인 거다."
 
 #: deathforth/events/trade/cyoa-k-recruit.df:81
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " convinces the group to rob "
-msgstr "은(는) 일행을 설득해 털기로 한다: "
+msgstr "은(는) 일행을 설득한다. 털 대상은 "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:89
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
@@ -1177,7 +1175,7 @@ msgstr " 와! 완전 찐따네! "
 #: deathforth/events/trade/cyoa-k-recruit.df:106
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " leaves "
-msgstr "은(는) 그냥 두고 떠난다: "
+msgstr "은(는) 그냥 떠난다. 남겨진 "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:111
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
@@ -1188,7 +1186,7 @@ msgstr "식료품점 무단 거주자"
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid ""
 " is about to break into a small, fortified grocery store, but then finds "
-msgstr "은(는) 작고 튼튼하게 막아 둔 식료품점에 막 침입하려다 발견한다: "
+msgstr "은(는) 작고 튼튼하게 막아 둔 식료품점에 막 침입하려는데, "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:119
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
@@ -1365,7 +1363,7 @@ msgstr "은(는) 이게 거짓말이라는 직감이 든다."
 #: deathforth/events/trade/cyoa-k-recruit.df:187
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " knows that something is off about "
-msgstr "은(는) 뭔가 수상하다는 걸 안다: "
+msgstr "은(는) 직감한다. 수상한 사람은 바로 "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:194
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
@@ -1685,12 +1683,12 @@ msgstr ""
 #: deathforth/events/trade/cyoa-k-recruit.df:360
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " lures "
-msgstr "은(는) 식량으로 꾀어낸다: "
+msgstr "은(는) 식량으로 "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:360
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " over with food. "
-msgstr ". "
+msgstr "을(를) 꾀어낸다. "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:360
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
@@ -1752,14 +1750,12 @@ msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid ""
 " is a lightning rod, but for dogs!\r\n"
 "\tA dog approaches "
-msgstr ""
-"은(는) 피뢰침이다. 개 전용!\r\n"
-"\t난데없이 개 한 마리가 다가온다: "
+msgstr "은(는) 피뢰침이다. 개 전용!\r\n\t난데없이 개 한 마리가 "
 
 #: deathforth/events/trade/cyoa-k-recruit.df:386
 msgctxt "deathforth/events/trade/cyoa-k-recruit.df"
 msgid " out of nowhere. It seems eager to join up!"
-msgstr ". 합류하고 싶어 안달 난 것 같다!"
+msgstr "에게 다가온다. 합류하고 싶어 안달 난 것 같다!"
 
 #: deathforth/events/trade/familiar-recruit.df:28
 msgctxt "deathforth/events/trade/familiar-recruit.df"
@@ -1769,12 +1765,12 @@ msgstr "는 아직 "
 #: deathforth/events/trade/familiar-recruit.df:28
 msgctxt "deathforth/events/trade/familiar-recruit.df"
 msgid " yet, and is real busy picking "
-msgstr "을(를) 못 봤다. 지금 한창 파는 중이다: "
+msgstr "을(를) 못 봤다. 지금 한창 "
 
 #: deathforth/events/trade/familiar-recruit.df:28
 msgctxt "deathforth/events/trade/familiar-recruit.df"
 msgid " nose."
-msgstr " 코를."
+msgstr " 코를 파는 중이다."
 
 #: deathforth/events/trade/familiar-recruit.df:29
 msgctxt "deathforth/events/trade/familiar-recruit.df"
@@ -1799,12 +1795,12 @@ msgstr "을(를) 알아채지 못했다."
 #: deathforth/events/trade/familiar-recruit.df:32
 msgctxt "deathforth/events/trade/familiar-recruit.df"
 msgid " is being thrown out by "
-msgstr "는 쫓겨나는 중이다: "
+msgstr "는 "
 
 #: deathforth/events/trade/familiar-recruit.df:32
 msgctxt "deathforth/events/trade/familiar-recruit.df"
 msgid " former group. They seem pretty angry. "
-msgstr " 이전 일행에게서. 꽤 화난 것 같다. "
+msgstr " 이전 일행에게서 쫓겨나는 중이다. 꽤 화난 것 같다. "
 
 #: deathforth/events/trade/familiar-recruit.df:32
 msgctxt "deathforth/events/trade/familiar-recruit.df"
@@ -1865,12 +1861,12 @@ msgstr "는 완전히 혼란스러운 표정으로 지도를 노려보고 있다
 #: deathforth/events/trade/familiar-recruit.df:40
 msgctxt "deathforth/events/trade/familiar-recruit.df"
 msgid " is yelling at some survivors, because they made fun of "
-msgstr "는 생존자 몇에게 소리치고 있다. 그들이 놀렸기 때문이다: "
+msgstr "는 생존자 몇에게 소리치고 있다. 그들이 "
 
 #: deathforth/events/trade/familiar-recruit.df:40
 msgctxt "deathforth/events/trade/familiar-recruit.df"
 msgid " hair."
-msgstr " 머리를."
+msgstr " 머리를 놀렸기 때문이다."
 
 #: deathforth/events/trade/familiar-recruit.df:41
 msgctxt "deathforth/events/trade/familiar-recruit.df"
@@ -2631,12 +2627,12 @@ msgstr ""
 #: deathforth/events/trade/oldtrade.df:118
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid " feels "
-msgstr "는 느낀다: "
+msgstr "는 "
 
 #: deathforth/events/trade/oldtrade.df:118
 msgctxt "deathforth/events/trade/oldtrade.df"
 msgid "GREAT SHAME."
-msgstr "크나큰 수치."
+msgstr "크나큰 수치를 느낀다."
 
 #: deathforth/events/trade/oldtrade.df:125
 msgctxt "deathforth/events/trade/oldtrade.df"

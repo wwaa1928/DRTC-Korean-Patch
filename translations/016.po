@@ -89,9 +89,7 @@ msgctxt "deathforth/events/exterior/region/frozen.df"
 msgid ""
 " doesn't understand the mysterious ways of the future/present, and can't fire guns.\r\n"
 "\tShe is capable of "
-msgstr ""
-"은(는) 미래/현재의 신비한 방식을 이해하지 못하고, 총을 쏠 줄 모른다.\r\n"
-"\t대신 이만큼 키울 수 있다: "
+msgstr "은(는) 미래/현재의 신비한 방식을 이해하지 못하고, 총을 쏠 줄 모른다.\r\n\t대신 "
 
 #: deathforth/events/exterior/region/frozen.df:36
 msgctxt "deathforth/events/exterior/region/frozen.df"
@@ -103,7 +101,7 @@ msgctxt "deathforth/events/exterior/region/frozen.df"
 msgid ""
 " amounts of maximum strength and fitness! She needs several training "
 "sessions to reach her full potential."
-msgstr " 최대 근력과 체력! 잠재력을 다 끌어내려면 훈련을 여러 번 해야 한다."
+msgstr " 최대 근력과 체력까지 키울 수 있다! 잠재력을 다 끌어내려면 훈련을 여러 번 해야 한다."
 
 #: deathforth/events/exterior/region/frozen.df:37
 msgctxt "deathforth/events/exterior/region/frozen.df"
@@ -144,17 +142,17 @@ msgstr ""
 #: deathforth/events/exterior/region/graveyardcar.df:33
 msgctxt "deathforth/events/exterior/region/graveyardcar.df"
 msgid " starts following "
-msgstr "은(는) 따라오기 시작한다: "
+msgstr "은(는) 졸졸 따라다니기 시작한다. 따라가는 상대는 바로 "
 
 #: deathforth/events/exterior/region/graveyardcar.df:34
 msgctxt "deathforth/events/exterior/region/graveyardcar.df"
 msgid " could be useful, if you can get "
-msgstr "는 쓸모 있을지도 모른다. 살려서 여기서 데리고 나갈 수만 있다면: "
+msgstr "는 쓸모가 있을지도 모른다. "
 
 #: deathforth/events/exterior/region/graveyardcar.df:34
 msgctxt "deathforth/events/exterior/region/graveyardcar.df"
 msgid " out of here alive. Or a handy distraction, if you can't."
-msgstr ". 아니면 쓸 만한 미끼라도 되겠지."
+msgstr "를 여기서 살려 데리고 나갈 수만 있다면. 아니면 쓸 만한 미끼라도 되겠지."
 
 #: deathforth/events/exterior/region/graveyardcar.df:41
 msgctxt "deathforth/events/exterior/region/graveyardcar.df"

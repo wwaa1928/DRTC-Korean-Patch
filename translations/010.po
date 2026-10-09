@@ -64,12 +64,12 @@ msgstr "에게 쇠스랑을 받아 낸다!"
 #: deathforth/events/common/common2.df:214
 msgctxt "deathforth/events/common/common2.df"
 msgid " offers "
-msgstr "은(는) 제공한다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common2.df:214
 msgctxt "deathforth/events/common/common2.df"
 msgid " services in fixing things around the farm. "
-msgstr " 실력을 농장 수리에. "
+msgstr " 솜씨로 농장 곳곳을 고쳐 주겠다고 제안한다. "
 
 #: deathforth/events/common/common2.df:216
 msgctxt "deathforth/events/common/common2.df"
@@ -128,12 +128,12 @@ msgstr "몹시 지친다!"
 #: deathforth/events/common/common2.df:251
 msgctxt "deathforth/events/common/common2.df"
 msgid "The farmers noticed "
-msgstr "농부들은 알아봤다: "
+msgstr "농부들은 "
 
 #: deathforth/events/common/common2.df:239
 msgctxt "deathforth/events/common/common2.df"
 msgid "'s unusual strength and gave "
-msgstr "의 남다른 힘을. 그래서 "
+msgstr "의 남다른 힘을 알아보고 "
 
 #: deathforth/events/common/common2.df:239
 #: deathforth/events/common/common2.df:251
@@ -151,7 +151,7 @@ msgstr "은(는) 밭을 갈고 새 작물을 심는 걸 돕는다. 고된 일이
 #: deathforth/events/common/common2.df:251
 msgctxt "deathforth/events/common/common2.df"
 msgid "'s level of fitness and gave "
-msgstr "의 체력을. 그래서 "
+msgstr "의 체력을 알아보고 "
 
 #: deathforth/events/common/common2.df:258
 msgctxt "deathforth/events/common/common2.df"
@@ -210,22 +210,22 @@ msgstr "는 원래 말을 못 하는 존재라서, "
 #: deathforth/events/common/common2.df:283
 msgctxt "deathforth/events/common/common2.df"
 msgid " mostly just licks "
-msgstr "는 주로 핥기만 한다: "
+msgstr "는 그저 "
 
 #: deathforth/events/common/common2.df:283
 msgctxt "deathforth/events/common/common2.df"
 msgid "self. The dingus is really insulted by being made to talk to a "
-msgstr "자신을. 바보는 "
+msgstr " 자신을 핥을 뿐이다. 바보는 "
 
 #: deathforth/events/common/common2.df:283
 msgctxt "deathforth/events/common/common2.df"
 msgid ", but the guards are amused. They let "
-msgstr "한테 말을 걸어야 한다는 게 몹시 모욕적이지만, 경비들은 재밌어한다. 보내 준다: "
+msgstr "한테 말을 걸어야 한다는 게 몹시 모욕적이지만, 경비들은 재밌어한다. 경비들은 "
 
 #: deathforth/events/common/common2.df:283
 msgctxt "deathforth/events/common/common2.df"
 msgid " through!"
-msgstr "을(를)!"
+msgstr "을(를) 통과시켜 준다!"
 
 #: deathforth/events/common/common2.df:286
 msgctxt "deathforth/events/common/common2.df"
@@ -250,7 +250,7 @@ msgstr "은(는) 통과를 허락받는다!"
 #: deathforth/events/common/common2.df:290
 msgctxt "deathforth/events/common/common2.df"
 msgid " really gets along! They mostly exchange "
-msgstr "는 아주 죽이 잘 맞는다! 둘은 주로 주고받는다: "
+msgstr "는 아주 죽이 잘 맞는다! 둘은 서로 "
 
 #: deathforth/events/common/common2.df:290
 #: deathforth/events/common/common2.df:324
@@ -264,7 +264,7 @@ msgstr "'진정해'"
 #: deathforth/events/common/common2.df:290
 msgctxt "deathforth/events/common/common2.df"
 msgid " quips with each other. For an hour. "
-msgstr " 드립을 서로. 한 시간 동안. "
+msgstr " 드립만 주고받는다. 한 시간 동안. "
 
 #: deathforth/events/common/common2.df:290
 msgctxt "deathforth/events/common/common2.df"
@@ -297,27 +297,26 @@ msgstr "은(는) 바리케이드를 통과한다."
 #: deathforth/events/common/common2.df:302
 msgctxt "deathforth/events/common/common2.df"
 msgid " loses "
-msgstr "는 잃는다: "
+msgstr "는 "
 
 #: deathforth/events/common/common2.df:299
 msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " temper right away and knocks him out in one punch. The barricade guards are"
 " impressed by this! One gives a thumbs up. They decide to let "
-msgstr ""
-" 이성을 즉시. 그리고 한 방에 그를 기절시킨다. 바리케이드 경비들이 감탄한다! 한 명은 엄지를 치켜든다. 어쨌든 보내 주기로 한다: "
+msgstr " 이성을 즉시 잃고 한 방에 그를 기절시킨다. 바리케이드 경비들이 감탄한다! 한 명은 엄지를 치켜든다. 어쨌든 "
 
 #: deathforth/events/common/common2.df:299
 msgctxt "deathforth/events/common/common2.df"
 msgid " through, anyway."
-msgstr "을(를)."
+msgstr "을(를) 보내 주기로 한다."
 
 #: deathforth/events/common/common2.df:302
 msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " temper right away and starts screaming. This really spooks the guards, and "
 "they start shooting. "
-msgstr " 이성을 즉시, 그리고 고함을 지르기 시작한다. 경비들이 기겁해서 총을 쏘기 시작한다. "
+msgstr " 이성을 즉시 잃고 고함을 지르기 시작한다. 경비들이 기겁해서 총을 쏘기 시작한다. "
 
 #: deathforth/events/common/common2.df:302
 msgctxt "deathforth/events/common/common2.df"
@@ -327,12 +326,12 @@ msgstr "은(는) 도망쳐야 한다!"
 #: deathforth/events/common/common2.df:306
 msgctxt "deathforth/events/common/common2.df"
 msgid " manages to control "
-msgstr "는 다스린다: "
+msgstr "는 "
 
 #: deathforth/events/common/common2.df:306
 msgctxt "deathforth/events/common/common2.df"
 msgid " temper! "
-msgstr " 성질을! "
+msgstr " 성질을 꾹 참아 낸다! "
 
 #: deathforth/events/common/common2.df:306
 msgctxt "deathforth/events/common/common2.df"
@@ -342,14 +341,14 @@ msgstr "은(는) 조금 더 짜증을 견딘 뒤 바리케이드를 통과한다
 #: deathforth/events/common/common2.df:308
 msgctxt "deathforth/events/common/common2.df"
 msgid " tries to control "
-msgstr "는 다스리려 한다: "
+msgstr "는 "
 
 #: deathforth/events/common/common2.df:308
 msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " temper, but the guy is just too annoying. He runs and tells the guards to "
 "not open the door. "
-msgstr " 성질을. 하지만 그 녀석은 너무 짜증 난다. 그가 달려가 경비들에게 문을 열지 말라고 한다. "
+msgstr " 성질을 다스리려 하지만, 그 녀석은 너무 짜증 난다. 그가 달려가 경비들에게 문을 열지 말라고 한다. "
 
 #: deathforth/events/common/common2.df:308
 msgctxt "deathforth/events/common/common2.df"
@@ -441,12 +440,12 @@ msgstr "친절한 생존자는 조언에 깨달음을 얻고, 자기도 훌륭�
 msgctxt "deathforth/events/common/common2.df"
 msgid ""
 "The friendly survivor appreciates it, and gives a little bit of advice to "
-msgstr "친절한 생존자는 고마워하며 답례로 조언을 조금 해 준다: "
+msgstr "친절한 생존자는 고마워하며 답례로 "
 
 #: deathforth/events/common/common2.df:365
 msgctxt "deathforth/events/common/common2.df"
 msgid " in return."
-msgstr "에게."
+msgstr "에게 조언을 조금 해 준다."
 
 #: deathforth/events/common/common2.df:371
 msgctxt "deathforth/events/common/common2.df"
@@ -485,7 +484,7 @@ msgstr "은(는) 친절한 사람을 손쉽게 턴다. 가진 건 별로 없었�
 #: deathforth/events/common/common2.df:394
 msgctxt "deathforth/events/common/common2.df"
 msgid " starts "
-msgstr "은(는) 시작한다: "
+msgstr "은(는) 그 사람에게 "
 
 #: deathforth/events/common/common2.df:394
 msgctxt "deathforth/events/common/common2.df"
@@ -497,7 +496,7 @@ msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " at the person, and somehow continues to do so for several minutes without "
 "stopping for even a moment."
-msgstr " 그 사람에게. 그리고 어째선지 몇 분 동안 한순간도 멈추지 않는다."
+msgstr " 뀌기 시작한다. 그리고 어째선지 몇 분 동안 한순간도 멈추지 않는다."
 
 #: deathforth/events/common/common2.df:396
 msgctxt "deathforth/events/common/common2.df"
@@ -521,17 +520,17 @@ msgstr "그는 감격한다. 이 모든 게 예언대로이며, 선택받은 자
 #: deathforth/events/common/common2.df:403
 msgctxt "deathforth/events/common/common2.df"
 msgid "He stares at "
-msgstr "그는 빤히 쳐다본다: "
+msgstr "그는 말없이 "
 
 #: deathforth/events/common/common2.df:403
 msgctxt "deathforth/events/common/common2.df"
 msgid ", without speaking, until "
-msgstr "을(를) 말없이. 결국 "
+msgstr "을(를) 빤히 쳐다본다. 결국 "
 
 #: deathforth/events/common/common2.df:403
 msgctxt "deathforth/events/common/common2.df"
 msgid " leaves."
-msgstr "이(가) 떠날 때까지."
+msgstr "이(가) 떠날 때까지 쭉."
 
 #: deathforth/events/common/common2.df:409
 msgctxt "deathforth/events/common/common2.df"
@@ -576,14 +575,14 @@ msgstr "은(는) 여자의 다친 다리를 치료해 보려 한다."
 #: deathforth/events/common/common2.df:487
 msgctxt "deathforth/events/common/common2.df"
 msgid " uses "
-msgstr "는 발휘한다: "
+msgstr "는 "
 
 #: deathforth/events/common/common2.df:427
 msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " medical expertise to quickly fix up her leg! She appreciates the help and "
 "gives what she can spare!"
-msgstr " 의학 전문 지식을. 금세 다리를 고쳐 준다! 그녀는 고마워하며 내줄 수 있는 걸 준다!"
+msgstr " 의학 지식을 발휘해 금세 다리를 고쳐 준다! 그녀는 고마워하며 내줄 수 있는 걸 준다!"
 
 #: deathforth/events/common/common2.df:430
 msgctxt "deathforth/events/common/common2.df"
@@ -700,7 +699,7 @@ msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " car knowledge to quickly repair it! He appreciates the help and gives some "
 "supplies!"
-msgstr " 자동차 지식으로 금세 고친다! 그는 고마워하며 물자를 좀 준다!"
+msgstr " 자동차 지식을 발휘해 금세 고친다! 그는 고마워하며 물자를 좀 준다!"
 
 #: deathforth/events/common/common2.df:490
 msgctxt "deathforth/events/common/common2.df"
@@ -750,12 +749,12 @@ msgstr " 그가 보상을 내민다!"
 #: deathforth/events/common/common2.df:510
 msgctxt "deathforth/events/common/common2.df"
 msgid "He starts yelling at "
-msgstr "그가 고함치기 시작한다: "
+msgstr "그가 "
 
 #: deathforth/events/common/common2.df:510
 msgctxt "deathforth/events/common/common2.df"
 msgid " until "
-msgstr "에게. "
+msgstr "에게 고함을 질러 댄다. 결국 "
 
 #: deathforth/events/common/common2.df:510
 msgctxt "deathforth/events/common/common2.df"
@@ -889,12 +888,12 @@ msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " tries to fortify some things, but the efforts didn't seem to help much "
 "against the vicious bandit attack. The wounded settlers accuse "
-msgstr "는 이것저것 보강해 보지만 잔혹한 약탈자 습격엔 별 도움이 안 된 것 같다. 다친 정착민들은 비난한다: "
+msgstr "는 이것저것 보강해 보지만 잔혹한 약탈자 습격엔 별 도움이 안 된 것 같다. 다친 정착민들은 "
 
 #: deathforth/events/common/common2.df:594
 msgctxt "deathforth/events/common/common2.df"
 msgid " of wasting their time, and refuse to give the reward."
-msgstr "이(가) 시간만 낭비하게 했다고, 그리고 보상을 거부한다."
+msgstr "이(가) 시간만 낭비하게 했다고 비난하며, 보상을 거부한다."
 
 #: deathforth/events/common/common2.df:599
 msgctxt "deathforth/events/common/common2.df"
@@ -955,12 +954,12 @@ msgstr ": 내가 처리할게"
 #: deathforth/events/common/common2.df:615
 msgctxt "deathforth/events/common/common2.df"
 msgid " spends some time "
-msgstr "은(는) 시간을 보낸다: "
+msgstr "은(는) 한동안 "
 
 #: deathforth/events/common/common2.df:615
 msgctxt "deathforth/events/common/common2.df"
 msgid "just chillin'"
-msgstr "그냥 빈둥대면서"
+msgstr "그냥 빈둥댄다"
 
 #: deathforth/events/common/common2.df:620
 msgctxt "deathforth/events/common/common2.df"
@@ -990,7 +989,7 @@ msgstr "초건강"
 #: deathforth/events/common/common2.df:639
 msgctxt "deathforth/events/common/common2.df"
 msgid " teaches "
-msgstr "은(는) 가르친다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common2.df:630
 #: deathforth/events/common/common2.df:639
@@ -1001,7 +1000,7 @@ msgstr "에게 "
 #: deathforth/events/common/common2.df:630
 msgctxt "deathforth/events/common/common2.df"
 msgid " knows about emergency medical care and semi-painless dentistry."
-msgstr "가 아는 응급 의료와 덜 아픈 치과 치료를."
+msgstr "가 아는 응급 의료와 덜 아픈 치과 치료를 가르쳐 준다."
 
 #: deathforth/events/common/common2.df:632
 #: deathforth/events/common/common2.df:641
@@ -1013,17 +1012,17 @@ msgstr "는 그에 대해 아는 게 별로 없다! 완전히 쓸모없는 수�
 msgctxt "deathforth/events/common/common2.df"
 msgid ""
 " knows about car repair and other ways to accidentally mess up machinery."
-msgstr "가 아는 자동차 수리와 실수로 기계를 망가뜨리는 다른 방법들을."
+msgstr "가 아는 자동차 수리와, 실수로 기계를 망가뜨리는 다른 방법들을 가르쳐 준다."
 
 #: deathforth/events/common/common2.df:648
 msgctxt "deathforth/events/common/common2.df"
 msgid " reveals "
-msgstr "은(는) 드러낸다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common2.df:648
 msgctxt "deathforth/events/common/common2.df"
 msgid " TRUE ESSENCE."
-msgstr " 진정한 본질을."
+msgstr " 진정한 본질을 드러낸다."
 
 #: deathforth/events/common/common2.df:654
 msgctxt "deathforth/events/common/common2.df"
@@ -1101,12 +1100,12 @@ msgstr "은(는) 기름 60으로 화염병 6개를 만든다! 확실히 차이�
 #: deathforth/events/common/common3.df:18
 msgctxt "deathforth/events/common/common3.df"
 msgid " takes 6 empty bottles with "
-msgstr "은(는) 빈 병 6개를 챙긴다: "
+msgstr "은(는) 빈 병 6개를 "
 
 #: deathforth/events/common/common3.df:18
 msgctxt "deathforth/events/common/common3.df"
 msgid ". They might come in handy?"
-msgstr ". 쓸모가 있을지도?"
+msgstr "의 짐에 챙긴다. 쓸모가 있을지도?"
 
 #: deathforth/events/common/common3.df:22
 msgctxt "deathforth/events/common/common3.df"
@@ -1198,12 +1197,12 @@ msgstr "는 쉽게 완성해서 파이프 폭탄 6개를 얻는다."
 #: deathforth/events/common/common3.df:64
 msgctxt "deathforth/events/common/common3.df"
 msgid " manages to not blow "
-msgstr "는 운 좋게 날려 버리지 않는다: "
+msgstr "는 운 좋게도 "
 
 #: deathforth/events/common/common3.df:64
 msgctxt "deathforth/events/common/common3.df"
 msgid "self up, partially by luck. "
-msgstr "자신을. "
+msgstr " 자신을 날려 버리지 않는다. "
 
 #: deathforth/events/common/common3.df:64
 msgctxt "deathforth/events/common/common3.df"
@@ -1290,12 +1289,12 @@ msgstr "은(는) 그를 다리 밖으로 던지는 데 성공한다!"
 #: deathforth/events/common/common3.df:98
 msgctxt "deathforth/events/common/common3.df"
 msgid "It's no use! The armored man just socks "
-msgstr "소용없다! 갑옷 남자가 후려친다: "
+msgstr "소용없다! 갑옷 남자가 권투 글러브로 "
 
 #: deathforth/events/common/common3.df:98
 msgctxt "deathforth/events/common/common3.df"
 msgid " with his boxing gloves! "
-msgstr "을(를) 권투 글러브로! "
+msgstr "을(를) 후려칠 뿐이다! "
 
 #: deathforth/events/common/common3.df:99
 msgctxt "deathforth/events/common/common3.df"
@@ -1402,7 +1401,7 @@ msgctxt "deathforth/events/common/common3.df"
 msgid ""
 "The armored man continues staring straight forward. It's not clear if he "
 "even heard "
-msgstr "갑옷 남자는 계속 정면만 응시한다. 들은 건지조차 모르겠다: "
+msgstr "갑옷 남자는 계속 정면만 응시한다. 들었는지조차 알 수 없다. 머쓱해진 "
 
 #: deathforth/events/common/common3.df:144
 msgctxt "deathforth/events/common/common3.df"
@@ -1453,12 +1452,12 @@ msgstr ""
 #: deathforth/events/common/common3.df:164
 msgctxt "deathforth/events/common/common3.df"
 msgid " wasn't paying attention the whole time, and gets more drawn into "
-msgstr "은(는) 내내 딴생각을 하다가 더 깊이 빠져든다: "
+msgstr "은(는) 내내 딴생각을 하더니 "
 
 #: deathforth/events/common/common3.df:164
 msgctxt "deathforth/events/common/common3.df"
 msgid " own little world."
-msgstr " 작은 세계에."
+msgstr " 작은 세계에 더 깊이 빠져든다."
 
 #: deathforth/events/common/common3.df:169
 msgctxt "deathforth/events/common/common3.df"
@@ -1509,19 +1508,17 @@ msgctxt "deathforth/events/common/common3.df"
 msgid ""
 "\r\n"
 "\t\tHe blasts "
-msgstr ""
-"\r\n"
-"\t\t그가 몰아붙인다: "
+msgstr "\r\n\t\t그가 "
 
 #: deathforth/events/common/common3.df:179
 msgctxt "deathforth/events/common/common3.df"
 msgid " with a "
-msgstr "을(를) "
+msgstr "에게 "
 
 #: deathforth/events/common/common3.df:179
 msgctxt "deathforth/events/common/common3.df"
 msgid "DEVASTATINGLY INSIGHTFUL RANT!"
-msgstr "파괴적으로 통찰력 있는 독설로!"
+msgstr "파괴적으로 통찰력 있는 독설을 퍼붓는다!"
 
 #: deathforth/events/common/common3.df:179
 msgctxt "deathforth/events/common/common3.df"
@@ -1567,7 +1564,7 @@ msgctxt "deathforth/events/common/common3.df"
 msgid ""
 " runs away! The cantankerous man chases them for quite awhile, delivering "
 "some "
-msgstr "은(는) 도망친다! 성질 고약한 남자가 꽤 오래 쫓아오며 퍼붓는다: "
+msgstr "은(는) 도망친다! 성질 고약한 남자가 꽤 오래 쫓아오며 "
 
 #: deathforth/events/common/common3.df:202
 msgctxt "deathforth/events/common/common3.df"
@@ -1577,7 +1574,7 @@ msgstr "불꽃 튀는 독설을"
 #: deathforth/events/common/common3.df:202
 msgctxt "deathforth/events/common/common3.df"
 msgid " before "
-msgstr ". 결국 "
+msgstr " 퍼붓는다. 결국 "
 
 #: deathforth/events/common/common3.df:202
 msgctxt "deathforth/events/common/common3.df"
@@ -1670,12 +1667,12 @@ msgstr "은(는) 벌에게 말한다: "
 #: deathforth/events/common/common3.df:245
 msgctxt "deathforth/events/common/common3.df"
 msgid "The bee flies right into "
-msgstr "벌이 날아 들어간다: "
+msgstr "벌이 날아서 "
 
 #: deathforth/events/common/common3.df:245
 msgctxt "deathforth/events/common/common3.df"
 msgid "'s mouth! "
-msgstr "의 입속으로! "
+msgstr "의 입속으로 쏙 들어간다! "
 
 #: deathforth/events/common/common3.df:245
 msgctxt "deathforth/events/common/common3.df"
@@ -1700,17 +1697,17 @@ msgstr "는 어째선지 벌을 눈치채지 못했다. "
 #: deathforth/events/common/common3.df:252
 msgctxt "deathforth/events/common/common3.df"
 msgid " follows "
-msgstr "은(는) 따른다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common3.df:252
 msgctxt "deathforth/events/common/common3.df"
 msgid " example and also ignore"
-msgstr " 본보기를. 그리고 무시한다: "
+msgstr " 본보기를 따라"
 
 #: deathforth/events/common/common3.df:252
 msgctxt "deathforth/events/common/common3.df"
 msgid " the bee."
-msgstr " 벌을."
+msgstr " 벌을 무시한다."
 
 #: deathforth/events/common/common3.df:253
 msgctxt "deathforth/events/common/common3.df"
@@ -1743,12 +1740,12 @@ msgstr ""
 #: deathforth/events/common/common3.df:507
 msgctxt "deathforth/events/common/common3.df"
 msgid " uses "
-msgstr "은(는) 발휘한다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common3.df:270
 msgctxt "deathforth/events/common/common3.df"
 msgid " lightning fast reflexes to trap the bee in a glass jar."
-msgstr " 번개 같은 반사 신경을. 벌을 유리병에 가둔다."
+msgstr " 번개 같은 반사 신경으로 벌을 유리병에 가둔다."
 
 #: deathforth/events/common/common3.df:271
 msgctxt "deathforth/events/common/common3.df"
@@ -1775,37 +1772,33 @@ msgstr "벌 소동!"
 #: deathforth/events/common/common3.df:279
 msgctxt "deathforth/events/common/common3.df"
 msgid "A bee keeps harassing "
-msgstr "벌 한 마리가 계속 괴롭힌다: "
+msgstr "벌 한 마리가 계속 "
 
 #: deathforth/events/common/common3.df:279
 msgctxt "deathforth/events/common/common3.df"
 msgid ""
 "!\r\n"
 "\t\tIt takes forever for it to leave. If you only had a car, you would surely have been protected from bees!"
-msgstr ""
-"을(를)!\r\n"
-"\t\t떠나는 데 한참 걸린다. 차만 있었어도 벌로부터 보호받을 수 있었을 텐데!"
+msgstr "을(를) 괴롭힌다!\r\n\t\t떠나는 데 한참 걸린다. 차만 있었어도 벌로부터 보호받을 수 있었을 텐데!"
 
 #: deathforth/events/common/common3.df:282
 msgctxt "deathforth/events/common/common3.df"
 msgid ""
 "A bee flies into the car! Even with a window open, it doesn't leave. It "
 "keeps flying right into "
-msgstr "벌이 차 안으로 들어왔다! 창문을 열어 둬도 안 나간다. 계속 달려든다: "
+msgstr "벌이 차 안으로 들어왔다! 창문을 열어 둬도 안 나간다. 계속 "
 
 #: deathforth/events/common/common3.df:282
 msgctxt "deathforth/events/common/common3.df"
 msgid "'s face"
-msgstr "의 얼굴로"
+msgstr "의 얼굴"
 
 #: deathforth/events/common/common3.df:282
 msgctxt "deathforth/events/common/common3.df"
 msgid ""
 "!\r\n"
 "\tThis could be the biggest challenge, yet!"
-msgstr ""
-"!\r\n"
-"\t지금까지 중 최대의 난관일지도 모른다!"
+msgstr "로 달려든다!\r\n\t지금까지 중 최대의 난관일지도 모른다!"
 
 #: deathforth/events/common/common3.df:284
 msgctxt "deathforth/events/common/common3.df"
@@ -1850,25 +1843,25 @@ msgstr "은(는) 분위기를 띄우려고 말을 꺼낸다."
 #: deathforth/events/common/common3.df:318
 msgctxt "deathforth/events/common/common3.df"
 msgid " makes "
-msgstr "는 낸다: "
+msgstr "는 "
 
 #: deathforth/events/common/common3.df:318
 msgctxt "deathforth/events/common/common3.df"
 msgid " noises. It's a decent enough distraction from the weather!"
-msgstr " 소리를. 날씨에서 주의를 돌리기엔 그럭저럭 괜찮다!"
+msgstr " 소리를 낸다. 날씨에서 주의를 돌리기엔 그럭저럭 괜찮다!"
 
 #: deathforth/events/common/common3.df:321
 #: deathforth/events/common/common3.df:378
 #: deathforth/events/common/common3.df:409
 msgctxt "deathforth/events/common/common3.df"
 msgid " tells "
-msgstr "은(는) 말한다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common3.df:321
 #: deathforth/events/common/common3.df:378
 msgctxt "deathforth/events/common/common3.df"
 msgid " to "
-msgstr "에게 "
+msgstr "에게 말한다: "
 
 #: deathforth/events/common/common3.df:321
 msgctxt "deathforth/events/common/common3.df"
@@ -1889,12 +1882,12 @@ msgstr "이건 전혀 안 먹힌다."
 #: deathforth/events/common/common3.df:557
 msgctxt "deathforth/events/common/common3.df"
 msgid " loses "
-msgstr "는 잃는다: "
+msgstr "는 "
 
 #: deathforth/events/common/common3.df:330
 msgctxt "deathforth/events/common/common3.df"
 msgid " temper and starts venting about the weather! "
-msgstr " 이성을. 그리고 날씨에 대해 울분을 토한다! "
+msgstr " 이성을 잃고 날씨에 대해 울분을 토한다! "
 
 #: deathforth/events/common/common3.df:330
 msgctxt "deathforth/events/common/common3.df"
@@ -1909,12 +1902,12 @@ msgstr "은(는) 그 독설을 견뎌야 한다."
 #: deathforth/events/common/common3.df:334
 msgctxt "deathforth/events/common/common3.df"
 msgid " manages to distract "
-msgstr "는 주의를 돌리는 데 성공한다: "
+msgstr "는 "
 
 #: deathforth/events/common/common3.df:334
 msgctxt "deathforth/events/common/common3.df"
 msgid " from the crappy weather!"
-msgstr "의 관심을 구린 날씨에서!"
+msgstr "의 관심을 구린 날씨에서 돌리는 데 성공한다!"
 
 #: deathforth/events/common/common3.df:337
 msgctxt "deathforth/events/common/common3.df"
@@ -1935,12 +1928,12 @@ msgstr "우울한 날씨 속 여행"
 #: deathforth/events/common/common3.df:346
 msgctxt "deathforth/events/common/common3.df"
 msgid "The weather is gray and dingy and it's really getting "
-msgstr "날씨가 잿빛에 칙칙해서 정말 우울하게 만든다: "
+msgstr "날씨가 잿빛에 칙칙해서 "
 
 #: deathforth/events/common/common3.df:346
 msgctxt "deathforth/events/common/common3.df"
 msgid " down. "
-msgstr ". "
+msgstr "을(를) 정말 우울하게 만든다. "
 
 #: deathforth/events/common/common3.df:350
 msgctxt "deathforth/events/common/common3.df"
@@ -1980,12 +1973,12 @@ msgstr "진짜 범인이었을까? 누가 알겠는가..."
 #: deathforth/events/common/common3.df:375
 msgctxt "deathforth/events/common/common3.df"
 msgid " emits a "
-msgstr "은(는) 뀐다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common3.df:375
 msgctxt "deathforth/events/common/common3.df"
 msgid "VERY CLEAR SECOND FART."
-msgstr "아주 확실한 두 번째 방귀를."
+msgstr "아주 확실한 두 번째 방귀를 뀐다."
 
 #: deathforth/events/common/common3.df:376
 msgctxt "deathforth/events/common/common3.df"
@@ -2000,12 +1993,12 @@ msgstr "초조한 식은땀"
 #: deathforth/events/common/common3.df:379
 msgctxt "deathforth/events/common/common3.df"
 msgid " roll down "
-msgstr "이 흘러내린다: "
+msgstr "이 "
 
 #: deathforth/events/common/common3.df:379
 msgctxt "deathforth/events/common/common3.df"
 msgid "'s face. Yet nothing can be proven!"
-msgstr "의 얼굴을. 하지만 증거는 없다!"
+msgstr "의 얼굴을 타고 흘러내린다. 하지만 증거는 없다!"
 
 #: deathforth/events/common/common3.df:385
 msgctxt "deathforth/events/common/common3.df"
@@ -2121,22 +2114,22 @@ msgstr "은(는) 열쇠를 걸고 악어와 씨름한다!"
 #: deathforth/events/common/common3.df:431
 msgctxt "deathforth/events/common/common3.df"
 msgid "The gator is bested by "
-msgstr "악어가 당해 낼 수 없다: "
+msgstr "악어는 "
 
 #: deathforth/events/common/common3.df:431
 msgctxt "deathforth/events/common/common3.df"
 msgid "'s raw strength! It spits out the keys."
-msgstr "의 순수한 힘을! 악어가 열쇠를 뱉는다."
+msgstr "의 순수한 힘을 당해 내지 못한다! 악어가 열쇠를 뱉는다."
 
 #: deathforth/events/common/common3.df:433
 msgctxt "deathforth/events/common/common3.df"
 msgid "The gator wins and ends up taking a huge chomp out of "
-msgstr "악어가 이기고 크게 한 입 물어뜯는다: "
+msgstr "악어가 이기고 "
 
 #: deathforth/events/common/common3.df:433
 msgctxt "deathforth/events/common/common3.df"
 msgid "! It drops the keys."
-msgstr "을(를)! 그러고는 열쇠를 떨군다."
+msgstr "을(를) 크게 한 입 물어뜯는다! 그러고는 열쇠를 떨군다."
 
 #: deathforth/events/common/common3.df:438
 msgctxt "deathforth/events/common/common3.df"
@@ -2148,27 +2141,27 @@ msgstr "은(는) 악어를 쫓아다니다 도망치다 하면서 열쇠를 떨�
 #: deathforth/events/common/common3.df:440
 msgctxt "deathforth/events/common/common3.df"
 msgid "The gator is tired out by "
-msgstr "악어가 지친다: "
+msgstr "악어는 "
 
 #: deathforth/events/common/common3.df:440
 msgctxt "deathforth/events/common/common3.df"
 msgid "'s energy! The keys eventually slip out of its mouth."
-msgstr "의 에너지에! 결국 열쇠가 입에서 미끄러져 나온다."
+msgstr "의 에너지에 지쳐 버린다! 결국 열쇠가 입에서 미끄러져 나온다."
 
 #: deathforth/events/common/common3.df:442
 msgctxt "deathforth/events/common/common3.df"
 msgid "The gator lunges in and chomps "
-msgstr "악어가 달려들어 문다: "
+msgstr "악어가 "
 
 #: deathforth/events/common/common3.df:442
 msgctxt "deathforth/events/common/common3.df"
 msgid " when "
-msgstr "을(를). "
+msgstr "을(를) 노린다. "
 
 #: deathforth/events/common/common3.df:442
 msgctxt "deathforth/events/common/common3.df"
 msgid " gets tired! The gator drops the keys."
-msgstr "가 지친 틈에! 악어가 열쇠를 떨군다."
+msgstr "가 지친 틈에 달려들어 문다! 악어가 열쇠를 떨군다."
 
 #: deathforth/events/common/common3.df:447
 msgctxt "deathforth/events/common/common3.df"
@@ -2178,12 +2171,12 @@ msgstr "은(는) 악어를 쏜다!"
 #: deathforth/events/common/common3.df:449
 msgctxt "deathforth/events/common/common3.df"
 msgid "The gator is blasted by "
-msgstr "악어가 맞는다: "
+msgstr "악어가 "
 
 #: deathforth/events/common/common3.df:449
 msgctxt "deathforth/events/common/common3.df"
 msgid "'s good aiming! It drops the car keys."
-msgstr "의 정확한 조준에! 차 열쇠를 떨군다."
+msgstr "의 정확한 조준에 맞는다! 차 열쇠를 떨군다."
 
 #: deathforth/events/common/common3.df:452
 msgctxt "deathforth/events/common/common3.df"
@@ -2231,7 +2224,7 @@ msgstr "은(는) "
 #: deathforth/events/common/common3.df:471
 msgctxt "deathforth/events/common/common3.df"
 msgid " the keys laying inside a "
-msgstr "열쇠를 발견한다. 위치는 "
+msgstr " 열쇠를 발견한다. 그런데 열쇠가 있는 곳은 "
 
 #: deathforth/events/common/common3.df:471
 msgctxt "deathforth/events/common/common3.df"
@@ -2313,7 +2306,7 @@ msgstr "은(는) 그 모든 함정에 대비하고 있어서 부상을 피한다
 #: deathforth/events/common/common3.df:499
 msgctxt "deathforth/events/common/common3.df"
 msgid " blunders right through. Most of the traps hit "
-msgstr "는 그냥 막무가내로 돌진한다. 함정 대부분이 덮친다: "
+msgstr "는 그냥 막무가내로 돌진한다. 함정 대부분에 걸려드는 "
 
 #: deathforth/events/common/common3.df:499
 msgctxt "deathforth/events/common/common3.df"
@@ -2343,17 +2336,17 @@ msgstr "은(는) 부상을 피한다!"
 #: deathforth/events/common/common3.df:507
 msgctxt "deathforth/events/common/common3.df"
 msgid " experience with mechanical stuff to reason out where "
-msgstr " 기계 경험을 살려 추론한다. "
+msgstr " 기계 경험을 살려 상상해 본다. "
 
 #: deathforth/events/common/common3.df:507
 msgctxt "deathforth/events/common/common3.df"
 msgid " would put traps if "
-msgstr "라면 함정을 어디에 둘지. 만약 "
+msgstr "는 함정을 어디에 둘까? 만약 "
 
 #: deathforth/events/common/common3.df:507
 msgctxt "deathforth/events/common/common3.df"
 msgid " was some kind of nut. "
-msgstr "가 미친놈이라면. "
+msgstr "가 미친놈이라면 말이다. "
 
 #: deathforth/events/common/common3.df:507
 msgctxt "deathforth/events/common/common3.df"
@@ -2449,12 +2442,12 @@ msgstr "는 잔뜩 겁을 먹는다. "
 #: deathforth/events/common/common3.df:543
 msgctxt "deathforth/events/common/common3.df"
 msgid " sees a tiny mouse and then starts "
-msgstr "은(는) 작은 생쥐를 보고 시작한다: "
+msgstr "은(는) 작은 생쥐를 보고 "
 
 #: deathforth/events/common/common3.df:543
 msgctxt "deathforth/events/common/common3.df"
 msgid "shrieking like a Youtuber"
-msgstr "유튜버처럼 비명 지르기를"
+msgstr "유튜버처럼 비명을 지르기 시작한다"
 
 #: deathforth/events/common/common3.df:546
 msgctxt "deathforth/events/common/common3.df"
@@ -2497,7 +2490,7 @@ msgstr "가 찾은 물자를. 그리고 빠져나온다!"
 #: deathforth/events/common/common3.df:557
 msgctxt "deathforth/events/common/common3.df"
 msgid " calm and runs out of there, claiming there was no loot!"
-msgstr " 침착함을. 그리고 뛰쳐나와서 물자가 없었다고 우긴다!"
+msgstr " 침착함을 잃고 뛰쳐나와서 물자가 없었다고 우긴다!"
 
 #: deathforth/events/common/common3.df:564
 msgctxt "deathforth/events/common/common3.df"
@@ -2563,12 +2556,12 @@ msgstr "은(는) 신중함은 내던지고 계속 달리기로 한다."
 #: deathforth/events/common/common3.df:595
 msgctxt "deathforth/events/common/common3.df"
 msgid " strains "
-msgstr "은(는) 부릅뜬다: "
+msgstr "은(는) "
 
 #: deathforth/events/common/common3.df:595
 msgctxt "deathforth/events/common/common3.df"
 msgid " eyes and manages to narrowly avoid crashing into anything!"
-msgstr " 눈을. 그리고 가까스로 충돌을 피한다!"
+msgstr " 눈을 부릅뜨고 가까스로 충돌을 피한다!"
 
 #: deathforth/events/common/common3.df:598
 msgctxt "deathforth/events/common/common3.df"

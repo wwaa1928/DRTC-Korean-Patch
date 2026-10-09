@@ -235,7 +235,7 @@ msgstr "말로 해, 침 튀기지 말고"
 #: deathforth/events/trade/training.df:64
 msgctxt "deathforth/events/trade/training.df"
 msgid " to the firearms coach."
-msgstr " . 사격 강사에게 하는 말이다."
+msgstr " — 사격 강사에게 한 말이다."
 
 #: deathforth/events/trade/training.df:67
 msgctxt "deathforth/events/trade/training.df"
@@ -428,12 +428,12 @@ msgstr ""
 #: deathforth/events/trade/training.df:117
 msgctxt "deathforth/events/trade/training.df"
 msgid " feels "
-msgstr "는 느낀다: "
+msgstr "는 "
 
 #: deathforth/events/trade/training.df:117
 msgctxt "deathforth/events/trade/training.df"
 msgid "GREAT SHAME."
-msgstr "극심한 수치심."
+msgstr "극심한 수치심을 느낀다."
 
 #: deathforth/events/trade/training.df:124
 msgctxt "deathforth/events/trade/training.df"
@@ -493,7 +493,7 @@ msgstr "은(는) 근력 트레이너에게 엄청 큰 방귀를 뀐다."
 #: deathforth/events/trade/training.df:164
 msgctxt "deathforth/events/trade/training.df"
 msgid " to the strength trainer."
-msgstr " . 근력 트레이너에게 하는 말이다."
+msgstr " — 근력 트레이너에게 한 말이다."
 
 #: deathforth/events/trade/training.df:167
 msgctxt "deathforth/events/trade/training.df"
@@ -507,14 +507,12 @@ msgctxt "deathforth/events/trade/training.df"
 msgid ""
 "\r\n"
 "\t\tHe takes "
-msgstr ""
-"\r\n"
-"\t\t그가 수제자로 받아들이는 대상은 "
+msgstr "\r\n\t\t그는 "
 
 #: deathforth/events/trade/training.df:168
 msgctxt "deathforth/events/trade/training.df"
 msgid " on as his top student, to get HUGE at a mind destroying pace!"
-msgstr "이다. 정신이 무너질 속도로 거대해지는 훈련이 시작된다!"
+msgstr "을(를) 수제자로 받아들인다. 정신이 무너질 속도로 거대해지는 훈련이 시작된다!"
 
 #: deathforth/events/trade/training.df:170
 msgctxt "deathforth/events/trade/training.df"
@@ -635,7 +633,7 @@ msgstr "은(는) 체력 강사에게 높은 소리로 방귀를 뀐다."
 #: deathforth/events/trade/training.df:243
 msgctxt "deathforth/events/trade/training.df"
 msgid " to the fitness instructor."
-msgstr " . 체력 강사에게 하는 말이다."
+msgstr " — 체력 강사에게 한 말이다."
 
 #: deathforth/events/trade/training.df:246
 msgctxt "deathforth/events/trade/training.df"
@@ -683,12 +681,12 @@ msgstr ""
 #: deathforth/events/trade/training.df:251
 msgctxt "deathforth/events/trade/training.df"
 msgid " is so embarassed by this that "
-msgstr "은(는) 너무 창피해한다. 결국 "
+msgstr "은(는) 너무 창피해서 "
 
 #: deathforth/events/trade/training.df:251
 msgctxt "deathforth/events/trade/training.df"
 msgid " forced to leave the camp."
-msgstr "은(는) 야영지를 떠나야 한다."
+msgstr " 결국 야영지를 떠날 수밖에 없다."
 
 #: deathforth/events/trade/training.df:256
 msgctxt "deathforth/events/trade/training.df"
@@ -781,7 +779,7 @@ msgstr "은(는) 기묘한 동물 목소리로 침 튀기지 말고 말로 하�
 #: deathforth/events/trade/training.df:320
 msgctxt "deathforth/events/trade/training.df"
 msgid " to the overalls man."
-msgstr " . 멜빵 작업복 남자에게 하는 말이다."
+msgstr " — 멜빵 작업복 남자에게 한 말이다."
 
 #: deathforth/events/trade/training.df:323
 msgctxt "deathforth/events/trade/training.df"
@@ -889,7 +887,7 @@ msgstr "은(는) 정비사에게 엄청 크고 낮은 방귀를 뀐다."
 #: deathforth/events/trade/training.df:386
 msgctxt "deathforth/events/trade/training.df"
 msgid " to the mechanic."
-msgstr " . 정비사에게 하는 말이다."
+msgstr " — 정비사에게 한 말이다."
 
 #: deathforth/events/trade/training.df:389
 msgctxt "deathforth/events/trade/training.df"
@@ -906,12 +904,12 @@ msgctxt "deathforth/events/trade/training.df"
 msgid ""
 "She responds to this by digging into her pockets for a bolt, then throwing "
 "it at "
-msgstr "그녀는 주머니에서 볼트를 꺼내 던지는 것으로 대답한다. 표적: "
+msgstr "그녀는 대답 대신 주머니에서 볼트를 꺼내 "
 
 #: deathforth/events/trade/training.df:391
 msgctxt "deathforth/events/trade/training.df"
 msgid ". She continues doing this, not saying a word, until "
-msgstr ". 아무 말도 없이 계속 던진다. 결국 "
+msgstr "에게 던진다. 아무 말도 없이 계속 던진다. 결국 "
 
 #: deathforth/events/trade/training.df:399
 msgctxt "deathforth/events/trade/training.df"
@@ -1554,7 +1552,7 @@ msgstr "진정해"
 #: deathforth/events/trade/weapons.df:277
 msgctxt "deathforth/events/trade/weapons.df"
 msgid " by farting! Amazing!"
-msgstr " . 방귀로! 놀랍다!"
+msgstr " — 그것도 방귀로! 놀랍다!"
 
 #: deathforth/events/trade/weapons.df:279
 msgctxt "deathforth/events/trade/weapons.df"
@@ -2843,16 +2841,14 @@ msgstr "장도리 - 식량 2개"
 msgctxt "deathforth/events/trade/weapons.df"
 msgid ""
 "The polearm trader twirls his spear around and then throws it right into "
-msgstr "장병기 상인이 창을 빙빙 돌리더니 곧장 던진다. 표적: "
+msgstr "장병기 상인이 창을 빙빙 돌리더니 곧장 "
 
 #: deathforth/events/trade/weapons.df:910
 msgctxt "deathforth/events/trade/weapons.df"
 msgid ""
 "!\r\n"
 "\t\tNice! Free spear!"
-msgstr ""
-"!\r\n"
-"\t\t좋다! 공짜 창이다!"
+msgstr "에게 던진다!\r\n\t\t좋다! 공짜 창이다!"
 
 #: deathforth/events/trade/weapons.df:916
 msgctxt "deathforth/events/trade/weapons.df"

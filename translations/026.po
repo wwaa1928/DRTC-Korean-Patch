@@ -1210,8 +1210,7 @@ msgctxt "deathforth/events/trade/supplies.df"
 msgid ""
 " grabs a few boxes of bullets, then runs. The scavenger was lying about not "
 "using firearms, and sends some extra bullets towards "
-msgstr ""
-"은(는) 탄약 상자 몇 개를 집어 들고 달아난다. 수집가는 총을 안 쓴다고 거짓말한 것이었다. 추가 탄약을 직접 날려 보낸다. 상대는 "
+msgstr "은(는) 탄약 상자 몇 개를 집어 들고 달아난다. 수집가는 총을 안 쓴다고 거짓말한 것이었다. 추가 탄약이 날아든다. 과녁은 "
 
 #: deathforth/events/trade/supplies.df:147
 msgctxt "deathforth/events/trade/supplies.df"
@@ -2741,7 +2740,7 @@ msgstr "은(는) 근력 훈련으로 잔뜩 의욕이 넘친다!"
 #: deathforth/events/trade/trader-camp-region-special3.df:98
 msgctxt "deathforth/events/trade/trader-camp-region-special3.df"
 msgid " has reached the limits of what training can do for "
-msgstr "은(는) 더는 훈련으로 강해질 수 없다. 한계에 도달한 사람은 "
+msgstr "은(는) 한계에 도달했다. 더는 훈련으로 강해질 수 없는 "
 
 #: deathforth/events/trade/trader-camp-region-special3.df:53
 msgctxt "deathforth/events/trade/trader-camp-region-special3.df"

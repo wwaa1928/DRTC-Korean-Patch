@@ -176,14 +176,14 @@ msgctxt "deathforth/events/camp/camp3.df"
 msgid ""
 " patches it up a little. The moose is too confused by this gesture of "
 "kindness to maul "
-msgstr "는 상처를 조금 치료해 준다. 무스는 이 친절에 너무 어리둥절해서 공격하지 못한다: "
+msgstr "는 상처를 조금 치료해 준다. 무스는 이 친절에 너무 어리둥절해서 차마 공격하지 못한다. 덕분에 무사한 "
 
 #: deathforth/events/camp/camp3.df:337
 msgctxt "deathforth/events/camp/camp3.df"
 msgid ""
 " doesn't know much about caring for a moose and ends up angering it! The "
 "moose flings out a hard kick to "
-msgstr "는 무스를 돌보는 법을 잘 몰라서 오히려 화나게 만든다! 무스가 세게 걷어찬다: "
+msgstr "는 무스를 돌보는 법을 잘 몰라서 오히려 화나게 만든다! 무스가 매서운 발길질을 날린다. 맞은 건 "
 
 #: deathforth/events/camp/camp3.df:341
 msgctxt "deathforth/events/camp/camp3.df"
@@ -218,12 +218,12 @@ msgstr "이(가) 챙길 수 있는 만큼 챙긴다."
 #: deathforth/events/camp/camp3.df:349
 msgctxt "deathforth/events/camp/camp3.df"
 msgid " whiffs the shot! The moose is not happy about this, and stomps "
-msgstr "는 빗맞힌다! 무스는 이게 마음에 안 드는지, 짓밟아 버린다: "
+msgstr "는 빗맞힌다! 무스는 이게 마음에 안 드는지, "
 
 #: deathforth/events/camp/camp3.df:349
 msgctxt "deathforth/events/camp/camp3.df"
 msgid " up real bad."
-msgstr "를 아주 제대로."
+msgstr "를 아주 제대로 짓밟아 버린다."
 
 #: deathforth/events/camp/camp3.df:353
 msgctxt "deathforth/events/camp/camp3.df"
@@ -243,12 +243,12 @@ msgstr "는 이 무의미한 대결에서 이긴다! 자연에 대한 승리다.
 msgctxt "deathforth/events/camp/camp3.df"
 msgid ""
 " doesn't win! In a blatant disregard for wrestling rules, the moose crushes "
-msgstr "는 지고 만다! 레슬링 규칙을 대놓고 무시하며, 무스가 짓밟는다: "
+msgstr "는 지고 만다! 레슬링 규칙을 대놓고 무시하며, 무스가 "
 
 #: deathforth/events/camp/camp3.df:358
 msgctxt "deathforth/events/camp/camp3.df"
 msgid " with its hooves."
-msgstr "를 발굽으로."
+msgstr "를 발굽으로 짓밟는다."
 
 #: deathforth/events/camp/camp3.df:363
 msgctxt "deathforth/events/camp/camp3.df"
@@ -260,16 +260,14 @@ msgctxt "deathforth/events/camp/camp3.df"
 msgid ""
 "In the morning, there's a moose outside the camp! It looks injured, and is "
 "just glaring at "
-msgstr "아침이 되자 야영지 밖에 무스가 있다! 다친 것 같은데, 노려보기만 한다: "
+msgstr "아침이 되자 야영지 밖에 무스가 있다! 다친 것 같은데, "
 
 #: deathforth/events/camp/camp3.df:364
 msgctxt "deathforth/events/camp/camp3.df"
 msgid ""
 ".\r\n"
 "\tEven injured, a moose is a really powerful creature. Probably best to not mess with it."
-msgstr ""
-".\r\n"
-"\t다쳤다 해도 무스는 아주 강한 동물이다. 건드리지 않는 게 좋겠다."
+msgstr "을(를) 노려보고만 있다.\r\n\t다쳤다 해도 무스는 아주 강한 동물이다. 건드리지 않는 게 좋겠다."
 
 #: deathforth/events/camp/camp3.df:366
 msgctxt "deathforth/events/camp/camp3.df"
@@ -915,16 +913,14 @@ msgstr "은(는) 다시 잠들 수 있다."
 #: deathforth/events/car/walkdecks/camp1.df:120
 msgctxt "deathforth/events/car/walkdecks/camp1.df"
 msgid " calmly retrieves one of "
-msgstr "은(는) 침착하게 꺼낸다: "
+msgstr "은(는) 차분히 "
 
 #: deathforth/events/car/walkdecks/camp1.df:120
 msgctxt "deathforth/events/car/walkdecks/camp1.df"
 msgid ""
 " weapons and then calmy shoots the bear with it. No big deal!\r\n"
 "\t"
-msgstr ""
-" 무기 하나를. 그리고 침착하게 곰을 쏜다. 별일 아니다!\r\n"
-"\t"
+msgstr " 무기 하나를 꺼내 침착하게 곰을 쏜다. 별일 아니다!\r\n\t"
 
 #: deathforth/events/car/walkdecks/camp1.df:121
 msgctxt "deathforth/events/car/walkdecks/camp1.df"
@@ -1155,12 +1151,12 @@ msgstr "걷다가, "
 #: deathforth/events/car/walkdecks/walk1.df:10
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " stubs "
-msgstr "은(는) 찧는다: "
+msgstr "은(는) "
 
 #: deathforth/events/car/walkdecks/walk1.df:10
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " toe badly. It's not a big deal, but it is really annoying."
-msgstr " 발가락을 세게. 큰일은 아니지만 엄청 짜증 난다."
+msgstr " 발가락을 세게 찧는다. 큰일은 아니지만 엄청 짜증 난다."
 
 #: deathforth/events/car/walkdecks/walk1.df:15
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
@@ -1170,12 +1166,12 @@ msgstr "밑 빠진 가방"
 #: deathforth/events/car/walkdecks/walk1.df:17
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " doesn't notice a hole in "
-msgstr "은(는) 구멍을 못 알아챈다: "
+msgstr "은(는) "
 
 #: deathforth/events/car/walkdecks/walk1.df:17
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " backpack."
-msgstr " 가방에 난."
+msgstr " 가방에 구멍이 난 걸 알아채지 못한다."
 
 #: deathforth/events/car/walkdecks/walk1.df:20
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
@@ -1971,26 +1967,24 @@ msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid ""
 "The bandits are intimidated at the thought of losing their livelihood, so "
 "they let "
-msgstr "약탈자들은 생계를 잃을까 봐 겁을 먹고, 지나가게 해 준다: "
+msgstr "약탈자들은 생계를 잃을까 봐 겁을 먹고, "
 
 #: deathforth/events/car/walkdecks/walk1.df:297
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid ""
 " pass.\r\n"
 "\t\tOnce "
-msgstr ""
-".\r\n"
-"\t\t"
+msgstr "을(를) 지나가게 해 준다.\r\n\t\t"
 
 #: deathforth/events/car/walkdecks/walk1.df:298
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " crosses the bridge, "
-msgstr "는 다리를 건너자, "
+msgstr "가 다리를 다 건너자, 이번엔 "
 
 #: deathforth/events/car/walkdecks/walk1.df:298
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " lights it on fire."
-msgstr "는 다리에 불을 지른다."
+msgstr "가 다리에 불을 지른다."
 
 #: deathforth/events/car/walkdecks/walk1.df:303
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
@@ -2004,12 +1998,12 @@ msgstr ""
 #: deathforth/events/car/walkdecks/walk1.df:304
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " lack of stuff and crappy attitude, so they toss "
-msgstr " 빈털터리 신세와 나쁜 태도에 짜증이 나서 던져 버린다: "
+msgstr " 빈털터리 신세와 나쁜 태도에 짜증이 나서 "
 
 #: deathforth/events/car/walkdecks/walk1.df:304
 msgctxt "deathforth/events/car/walkdecks/walk1.df"
 msgid " over the bridge. It's not a bad fall."
-msgstr "를 다리 밖으로. 높이는 별로 안 된다."
+msgstr "를 다리 밖으로 던져 버린다. 높이는 별로 안 된다."
 
 #: deathforth/events/car/walkdecks/walk1.df:306
 msgctxt "deathforth/events/car/walkdecks/walk1.df"

@@ -2068,3 +2068,419 @@ msgstr "손전등"
 msgctxt "Slingshot "
 msgid "Slingshot "
 msgstr "새총 "
+
+msgctxt "Assault Shotgun"
+msgid "Assault Shotgun"
+msgstr "돌격 산탄총"
+
+msgctxt "Bardiche"
+msgid "Bardiche"
+msgstr "바르디슈"
+
+msgctxt "Bash"
+msgid "Bash"
+msgstr "후려치기"
+
+msgctxt "Big frickin' log"
+msgid "Big frickin' log"
+msgstr "겁나 큰 통나무"
+
+msgctxt "Blowtorch XL"
+msgid "Blowtorch XL"
+msgstr "토치 XL"
+
+msgctxt "Bomb Skull"
+msgid "Bomb Skull"
+msgstr "해골 폭탄"
+
+msgctxt "Bonesaw"
+msgid "Bonesaw"
+msgstr "뼈톱"
+
+msgctxt "Branch Trimmer"
+msgid "Branch Trimmer"
+msgstr "가지치기 낫"
+
+msgctxt "Brass Knucks"
+msgid "Brass Knucks"
+msgstr "황동 너클"
+
+msgctxt "Cacerola"
+msgid "Cacerola"
+msgstr "냄비"
+
+msgctxt "Captain's Cannon"
+msgid "Captain's Cannon"
+msgstr "선장의 대포"
+
+msgctxt "Cavalry Sabre"
+msgid "Cavalry Sabre"
+msgstr "기병도"
+
+msgctxt "Chainsaw Hand"
+msgid "Chainsaw Hand"
+msgstr "전기톱 손"
+
+msgctxt "Cold Steel Greatsword"
+msgid "Cold Steel Greatsword"
+msgstr "콜드 스틸 대검"
+
+msgctxt "Cowboy Dagger"
+msgid "Cowboy Dagger"
+msgstr "카우보이 단검"
+
+msgctxt "Cupid's Bow"
+msgid "Cupid's Bow"
+msgstr "큐피드의 활"
+
+msgctxt "Dagger"
+msgid "Dagger"
+msgstr "단검"
+
+msgctxt "Ded9"
+msgid "Ded9"
+msgstr "데드9"
+
+msgctxt "Double-barrel shotgun"
+msgid "Double-barrel shotgun"
+msgstr "쌍열 산탄총"
+
+msgctxt "Dragonslayer"
+msgid "Dragonslayer"
+msgstr "드래곤슬레이어"
+
+msgctxt "E-Jackhammer"
+msgid "E-Jackhammer"
+msgstr "전동 착암기"
+
+msgctxt "Earthquaker"
+msgid "Earthquaker"
+msgstr "어스퀘이커"
+
+msgctxt "Fairy Bat"
+msgid "Fairy Bat"
+msgstr "요정 방망이"
+
+msgctxt "Farmer's Shotgun"
+msgid "Farmer's Shotgun"
+msgstr "농부의 산탄총"
+
+msgctxt "Fire poker"
+msgid "Fire poker"
+msgstr "부지깽이"
+
+msgctxt "Firelunk Greatsword"
+msgid "Firelunk Greatsword"
+msgstr "파이어렁크 대검"
+
+msgctxt "Giant Club"
+msgid "Giant Club"
+msgstr "거대 몽둥이"
+
+msgctxt "Gladius"
+msgid "Gladius"
+msgstr "글라디우스"
+
+msgctxt "Goat Butt"
+msgid "Goat Butt"
+msgstr "염소 박치기"
+
+msgctxt "Golden Axe"
+msgid "Golden Axe"
+msgstr "황금 도끼"
+
+msgctxt "Golden Knife"
+msgid "Golden Knife"
+msgstr "황금 칼"
+
+msgctxt "Golden Pistol"
+msgid "Golden Pistol"
+msgstr "황금 권총"
+
+msgctxt "Golden Scalpel"
+msgid "Golden Scalpel"
+msgstr "황금 메스"
+
+msgctxt "Golden Spear"
+msgid "Golden Spear"
+msgstr "황금 창"
+
+msgctxt "Green Turret Gun"
+msgid "Green Turret Gun"
+msgstr "초록 포탑 총"
+
+msgctxt "Guster Sword"
+msgid "Guster Sword"
+msgstr "거스터 소드"
+
+msgctxt "Halberd"
+msgid "Halberd"
+msgstr "할버드"
+
+msgctxt "Halberd Slash"
+msgid "Halberd Slash"
+msgstr "할버드 베기"
+
+msgctxt "Halberd Thrust"
+msgid "Halberd Thrust"
+msgstr "할버드 찌르기"
+
+msgctxt "Haunted Butter Knife"
+msgid "Haunted Butter Knife"
+msgstr "귀신 들린 버터 나이프"
+
+msgctxt "Haunted Fork"
+msgid "Haunted Fork"
+msgstr "귀신 들린 포크"
+
+msgctxt "Haunted Spoon"
+msgid "Haunted Spoon"
+msgstr "귀신 들린 숟가락"
+
+msgctxt "Heavy Golden Axe"
+msgid "Heavy Golden Axe"
+msgstr "무거운 황금 도끼"
+
+msgctxt "Hoe"
+msgid "Hoe"
+msgstr "괭이"
+
+msgctxt "Hot poker"
+msgid "Hot poker"
+msgstr "달군 부지깽이"
+
+msgctxt "KO Boomer"
+msgid "KO Boomer"
+msgstr "KO 부머"
+
+msgctxt "LIL' DAWG"
+msgid "LIL' DAWG"
+msgstr "리틀 도그"
+
+msgctxt "Ladder"
+msgid "Ladder"
+msgstr "사다리"
+
+msgctxt "Lady's Log"
+msgid "Lady's Log"
+msgstr "숙녀의 통나무"
+
+msgctxt "Log"
+msgid "Log"
+msgstr "통나무"
+
+msgctxt "Lute"
+msgid "Lute"
+msgstr "류트"
+
+msgctxt "Masterkey"
+msgid "Masterkey"
+msgstr "마스터키"
+
+msgctxt "Mazer Pistol"
+msgid "Mazer Pistol"
+msgstr "메이저 권총"
+
+msgctxt "Mega Maul"
+msgid "Mega Maul"
+msgstr "메가 대형 망치"
+
+msgctxt "MegaKnight Blade"
+msgid "MegaKnight Blade"
+msgstr "메가나이트 검"
+
+msgctxt "Modded Ded9"
+msgid "Modded Ded9"
+msgstr "개조 데드9"
+
+msgctxt "Moody Chainsaw"
+msgid "Moody Chainsaw"
+msgstr "무디의 전기톱"
+
+msgctxt "Moody Launcher"
+msgid "Moody Launcher"
+msgstr "무디의 발사기"
+
+msgctxt "Nugssercut"
+msgid "Nugssercut"
+msgstr "너그서컷"
+
+msgctxt "Oar"
+msgid "Oar"
+msgstr "노"
+
+msgctxt "Off-brand Plasms Rifle"
+msgid "Off-brand Plasms Rifle"
+msgstr "짝퉁 플라스마 소총"
+
+msgctxt "Old Lance"
+msgid "Old Lance"
+msgstr "낡은 랜스"
+
+msgctxt "Pewter's Shotgun"
+msgid "Pewter's Shotgun"
+msgstr "퓨터의 산탄총"
+
+msgctxt "Pickaxe"
+msgid "Pickaxe"
+msgstr "곡괭이"
+
+msgctxt "Pig Butt"
+msgid "Pig Butt"
+msgstr "돼지 박치기"
+
+msgctxt "Pirate Cutlass"
+msgid "Pirate Cutlass"
+msgstr "해적 커틀러스"
+
+msgctxt "Poleaxe"
+msgid "Poleaxe"
+msgstr "폴액스"
+
+msgctxt "Pool cue"
+msgid "Pool cue"
+msgstr "당구 큐대"
+
+msgctxt "Poolcue Spear"
+msgid "Poolcue Spear"
+msgstr "큐대 창"
+
+msgctxt "Pro's Pool Cue"
+msgid "Pro's Pool Cue"
+msgstr "프로의 당구 큐대"
+
+msgctxt "Quiet Shotgun"
+msgid "Quiet Shotgun"
+msgstr "조용한 산탄총"
+
+msgctxt "Rat bite"
+msgid "Rat bite"
+msgstr "쥐 이빨"
+
+msgctxt "Red Turret Gun"
+msgid "Red Turret Gun"
+msgstr "빨간 포탑 총"
+
+msgctxt "Robo Upper"
+msgid "Robo Upper"
+msgstr "로보 어퍼"
+
+msgctxt "SWAT Shotgun"
+msgid "SWAT Shotgun"
+msgstr "SWAT 산탄총"
+
+msgctxt "Sai"
+msgid "Sai"
+msgstr "사이"
+
+msgctxt "Saw"
+msgid "Saw"
+msgstr "톱"
+
+msgctxt "Scythe"
+msgid "Scythe"
+msgstr "큰 낫"
+
+msgctxt "Shogun's Blade"
+msgid "Shogun's Blade"
+msgstr "쇼군의 검"
+
+msgctxt "Sickle"
+msgid "Sickle"
+msgstr "낫"
+
+msgctxt "Silenced Pistol"
+msgid "Silenced Pistol"
+msgstr "소음 권총"
+
+msgctxt "Skateboard"
+msgid "Skateboard"
+msgstr "스케이트보드"
+
+msgctxt "Skull Hammer"
+msgid "Skull Hammer"
+msgstr "해골 망치"
+
+msgctxt "Sniper Rifle"
+msgid "Sniper Rifle"
+msgstr "저격 소총"
+
+msgctxt "Snow shovel"
+msgid "Snow shovel"
+msgstr "눈삽"
+
+msgctxt "Solar Mazer"
+msgid "Solar Mazer"
+msgstr "솔라 메이저"
+
+msgctxt "Spiked Bat"
+msgid "Spiked Bat"
+msgstr "가시 방망이"
+
+msgctxt "Sports Horn"
+msgid "Sports Horn"
+msgstr "응원 나팔"
+
+msgctxt "Steel Pike"
+msgid "Steel Pike"
+msgstr "강철 장창"
+
+msgctxt "Stick Boot"
+msgid "Stick Boot"
+msgstr "막대기 장화"
+
+msgctxt "Sturdy Cleaver"
+msgid "Sturdy Cleaver"
+msgstr "튼튼한 식칼"
+
+msgctxt "Super Sumo"
+msgid "Super Sumo"
+msgstr "슈퍼 스모"
+
+msgctxt "Survival Knife"
+msgid "Survival Knife"
+msgstr "생존용 칼"
+
+msgctxt "Switchblade"
+msgid "Switchblade"
+msgstr "잭나이프"
+
+msgctxt "TactiCop Lite(TM)"
+msgid "TactiCop Lite(TM)"
+msgstr "택티캅 라이트(TM)"
+
+msgctxt "Tactical Spear"
+msgid "Tactical Spear"
+msgstr "전술 창"
+
+msgctxt "Tennis racket"
+msgid "Tennis racket"
+msgstr "테니스 라켓"
+
+msgctxt "The Grim Reaper"
+msgid "The Grim Reaper"
+msgstr "사신"
+
+msgctxt "The Whammer"
+msgid "The Whammer"
+msgstr "해머"
+
+msgctxt "ULTIMATE LOG"
+msgid "ULTIMATE LOG"
+msgstr "궁극의 통나무"
+
+msgctxt "Weak Claw"
+msgid "Weak Claw"
+msgstr "약한 발톱"
+
+msgctxt "Witch's Broom"
+msgid "Witch's Broom"
+msgstr "마녀의 빗자루"
+
+msgctxt "Wooden Club"
+msgid "Wooden Club"
+msgstr "나무 몽둥이"
+
+msgctxt "blowtorch"
+msgid "blowtorch"
+msgstr "토치"
