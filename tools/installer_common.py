@@ -175,6 +175,15 @@ def json_bytes(value):
     return (json.dumps(value,ensure_ascii=False,indent=2)+'\n').encode('utf-8')
 
 
+def write_installation_record(root,record_path,record):
+    """Keep a discoverable installation record, including incomplete rollbacks."""
+    atomic_write(record_path,json_bytes(record))
+    state={'schema':1,'installation_id':record['installation_id'],
+           'game_root':str(root),'backup_root':record['backup_root'],
+           'manifest_sha256':file_sha(record_path)}
+    atomic_write(target(root,STATE_FILE),json_bytes(state))
+
+
 def atomic_write(path,data):
     temp=path.parent/('.drtc-ko-'+uuid.uuid4().hex+'.tmp')
     try:
@@ -314,36 +323,40 @@ def install(game,payload_root,backup_root=None,apply=False,_fail_after=None):
             data=patched if change['path']=='prog.exe' else target(payload,change['payload_source']).read_bytes()
             if sha(data)!=change['installed_sha256']:raise ValueError('Payload changed during installation.')
             if change['path']=='prog.exe':assert_not_running(root)
-            atomic_write(path,data);applied.append(change)
+            # Register before replacing: Ctrl+C can arrive after os.replace
+            # succeeds but before the caller receives its return value.
+            applied.append(change);atomic_write(path,data)
             if file_sha(path)!=change['installed_sha256']:raise ValueError('Installed file verification failed.')
             if _fail_after is not None and len(applied)>=_fail_after:raise OSError('Injected test failure')
         record['status']='installed';record['created_directories']=sorted(created)
-        atomic_write(record_path,json_bytes(record))
-        state={'schema':1,'installation_id':token,'game_root':str(root),'backup_root':str(backup),
-               'manifest_sha256':file_sha(record_path)}
-        atomic_write(target(root,STATE_FILE),json_bytes(state))
+        write_installation_record(root,record_path,record)
         result.update({'status':'installed','backup_verified':True,'manifest':str(record_path)})
         return result
-    except Exception as error:
+    except (Exception,KeyboardInterrupt) as error:
         failures=[]
         for change in reversed(applied):
             try:
                 path=target(root,change['path'])
-                if not path.is_file() or file_sha(path)!=change['installed_sha256']:
+                current=file_sha(path) if path.is_file() else None
+                if current==change['original_sha256']:continue
+                if current!=change['installed_sha256']:
                     raise ValueError('Changed externally during rollback; preserved for manual review.')
                 if change['original_sha256'] is None:path.unlink()
                 else:atomic_write(path,target(original_root,change['path']).read_bytes())
-            except Exception as rollback_error:failures.append(f'{change["path"]}: {rollback_error}')
-        state_path=target(root,STATE_FILE)
-        if state_path.exists():
-            try:
-                if read_json(state_path).get('installation_id')==token:state_path.unlink()
-            except Exception as state_error:failures.append(str(state_error))
+            except (Exception,KeyboardInterrupt) as rollback_error:failures.append(f'{change["path"]}: {rollback_error}')
         try:remove_empty_dirs(root,created)
-        except Exception as directory_error:failures.append(str(directory_error))
+        except (Exception,KeyboardInterrupt) as directory_error:failures.append(str(directory_error))
         record.update({'status':'rollback-incomplete' if failures else 'rolled-back','created_directories':sorted(created),
                        'error':str(error),'rollback_errors':failures})
-        atomic_write(record_path,json_bytes(record))
+        if failures:
+            write_installation_record(root,record_path,record)
+        else:
+            atomic_write(record_path,json_bytes(record))
+            state_path=target(root,STATE_FILE)
+            if state_path.exists():
+                if read_json(state_path).get('installation_id')!=token:
+                    raise ValueError('Installation state changed externally; preserved.') from error
+                state_path.unlink()
         raise ValueError(f'Installation failed: {error}. Rollback: {record["status"]}. Backup: {backup}. '+ '; '.join(failures)) from error
     finally:
         release_lock(root,token)
@@ -354,14 +367,15 @@ def uninstall(game,apply=False,_fail_after=None):
     if target(root,LOCK_FILE).exists():raise ValueError('An operation lock already exists.')
     state_path=target(root,STATE_FILE)
     if not state_path.is_file():raise ValueError('No Korean patch installation record in this game folder.')
-    state_data=state_path.read_bytes();state=json.loads(state_data)
+    state=json.loads(state_path.read_bytes())
     if state.get('schema')!=1 or Path(state['game_root']).resolve()!=root:raise ValueError('Installation root does not match the record.')
     backup=Path(state['backup_root']).resolve(strict=True)
     if backup==root or backup.is_relative_to(root) or root.is_relative_to(backup):raise ValueError('Unsafe backup root in record.')
     record_path=backup/BACKUP_MANIFEST
     if file_sha(record_path)!=state['manifest_sha256']:raise ValueError('Backup installation manifest changed.')
     record=read_json(record_path)
-    if record.get('status')!='installed' or record.get('installation_id')!=state['installation_id']:
+    prior_status=record.get('status')
+    if prior_status not in {'installed','rollback-incomplete'} or record.get('installation_id')!=state['installation_id']:
         raise ValueError('Invalid installation record state.')
     original_root=backup/'original'
     if tree(original_root)!=(record['original_files'],record['original_directories']):
@@ -371,6 +385,7 @@ def uninstall(game,apply=False,_fail_after=None):
         path=target(root,change['path']);validate_hash(change['installed_sha256'])
         current=file_sha(path) if path.is_file() else None
         if current is None and change['original_sha256'] is None:continue
+        if prior_status=='rollback-incomplete' and current==change['original_sha256']:continue
         if current!=change['installed_sha256']:
             raise ValueError(f'Installed file was modified or removed; removal refused: {change["path"]}')
         if change['original_sha256'] is not None:
@@ -388,28 +403,32 @@ def uninstall(game,apply=False,_fail_after=None):
             path=target(root,change['path'])
             if not path.is_file() or file_sha(path)!=change['installed_sha256']:
                 raise ValueError(f'Concurrent modification: {change["path"]}')
+            applied.append(change)
             if change['original_sha256'] is None:path.unlink()
             else:atomic_write(path,target(original_root,change['path']).read_bytes())
-            applied.append(change)
             if _fail_after is not None and len(applied)>=_fail_after:raise OSError('Injected test failure')
-        state_path.unlink()
+        # Directory cleanup can fail too; keep the installed record until it
+        # has succeeded so the exception handler can restore a retryable state.
+        remove_empty_dirs(root,record['created_directories'])
         record['status']='uninstalled';record['removed_at']=datetime.datetime.now().astimezone().isoformat()
         atomic_write(record_path,json_bytes(record))
-        remove_empty_dirs(root,record['created_directories'])
+        state_path.unlink()
         result['status']='uninstalled';return result
-    except Exception as error:
+    except (Exception,KeyboardInterrupt) as error:
         failures=[]
         for change in reversed(applied):
             try:
                 path=target(root,change['path'])
                 expected=change['original_sha256'];current=file_sha(path) if path.is_file() else None
+                if current==change['installed_sha256']:continue
                 if current!=expected:raise ValueError('Changed externally during rollback; preserved.')
                 make_parents(root,path,created);atomic_write(path,originals[change['path']])
-            except Exception as rollback_error:failures.append(f'{change["path"]}: {rollback_error}')
-        if not failures:
-            record['status']='installed';record.pop('removed_at',None)
-            atomic_write(record_path,json_bytes(record))
-            state['manifest_sha256']=file_sha(record_path);atomic_write(state_path,json_bytes(state))
+            except (Exception,KeyboardInterrupt) as rollback_error:failures.append(f'{change["path"]}: {rollback_error}')
+        record['status']='rollback-incomplete' if failures else prior_status
+        record.pop('removed_at',None)
+        record['error']=str(error);record['rollback_errors']=failures
+        write_installation_record(root,record_path,record)
         raise ValueError(f'Removal failed: {error}; rollback errors: {failures}; backup: {backup}') from error
     finally:
         release_lock(root,token)
+

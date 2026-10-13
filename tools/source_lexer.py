@@ -86,10 +86,11 @@ def classify_literal(item, after):
         return 'review-debug-error'
     if re.search(r'(?i)(?:\.(?:df|txt|png|mp3|dll|exe|zip)|[\\/](?:gfx|data|deathforth|rooms)/)', text) and '\n' not in text:
         return 'review-path-or-identifier'
-    if re.match(rb'\s+(?:evaluate|\$load|load|parse|\$=|str>|>str)\b', after):
+    if re.match(rb'\s+(?:evaluate|\$load|load|parse|\$=|str>|>str)(?=\s|$)', after):
         return 'review-code-or-identifier'
     if len(text) > 150 and sum(c.isalpha() for c in text) / len(text) < .18:
         return 'review-map-or-code'
     return 'text-candidate'
+
 
 
