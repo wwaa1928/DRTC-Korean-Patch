@@ -13,7 +13,8 @@
 
 ## 0. 시작하기 전에 확인하실 것
 
-- **윈도우**에서만 된답니다. 맥, 리눅스, 스팀덱은 아쉽게도 모시지 못하는 것이와요
+- **윈도우**와 **스팀덱(Proton)** 에서 된답니다. 맥은 아쉽게도 모시지 못하는 것이와요
+  - 스팀덱이나 리눅스라면 아래 1~5번 대신 [스팀덱에서 깔기](#스팀덱에서-깔기-실험적)를 따라 하시와요
 - **스팀 정품**이어야 한답니다
 - 게임이 **최신 버전**이고 **다른 모드가 깔려 있지 않아야** 하는 것이와요
   - 지원하는 빌드는 `24936165` 단 하나뿐이랍니다
@@ -147,6 +148,74 @@ python install.py --game-root "C:\Program Files (x86)\Steam\steamapps\common\Dea
 
 ---
 
+## 스팀덱에서 깔기 (실험적)
+
+스팀덱에서는 리눅스판 대신 **윈도우판을 Proton으로** 돌려야 한답니다. 한글을 띄우는 모드 로더가 윈도우 전용이라 그런 것이와요.
+설치 프로그램은 스팀덱에서도 똑같이 검증·백업하고 깔지만, **Proton 위에서 로더가 실제로 도는지는 아직 충분히 시험하지 못했답니다.** 되든 안 되든 [Issues](../../issues)에 알려 주시면 큰 도움이 되는 것이와요.
+
+모든 작업은 **데스크톱 모드**에서 한답니다. 전원 버튼을 길게 누르고 → `데스크톱 모드로 전환`을 고르시와요. 키보드와 마우스를 꽂아 두시면 한결 수월하답니다.
+
+### D-1. 게임을 윈도우판으로 바꾸기
+
+1. 스팀에서 Death Road to Canada를 오른쪽 클릭 → **속성** → **호환성**으로 가시와요
+2. **`특정 Steam Play 호환성 도구 강제 사용`**을 체크하고 Proton을 고르시와요. 가장 최신 Proton이면 된답니다
+3. 스팀이 윈도우판을 내려받을 때까지 기다리시와요
+4. 다 받으면 **속성 → 설치된 파일 → 게임 파일 무결성 검사**를 한 번 해 두시와요
+
+**앞으로도 이 체크는 풀지 마시와요.** 풀면 스팀이 리눅스판으로 되돌리면서 패치가 망가진답니다. 리눅스판으로 돌아가고 싶으시다면 [D-6](#d-6-스팀덱에서-지우기)으로 먼저 지운 다음 푸시와요.
+
+### D-2. 패치와 로더 받기
+
+1. 위 [2번](#2-한글패치-받기)처럼 이 페이지에서 ZIP을 받아, 파일 관리자(Dolphin)에서 오른쪽 클릭 → **압축 풀기**를 하시와요. `~/DRTC-KO` 같은 곳이 좋답니다
+2. 위 [3번](#3-모드-로더-받기)처럼 로더 **V202.0**을 받아 `~/DRTC-Loader` 같은 곳에 푸시와요
+   - 압축 파일이면 Dolphin에서 오른쪽 클릭 → **압축 풀기** 또는 Ark로 여시면 된답니다
+   - 실행형(.exe) 압축이라 풀리지 않으면 윈도우 PC에서 풀어 `1.MOD LOADER` 폴더만 USB 등으로 옮겨 오셔도 괜찮사와요
+   - 마찬가지로 **`prog_Patch.exe`는 실행하지 마시와요**
+
+### D-3. 경로 확인
+
+- **게임 폴더**: 스팀에서 게임 오른쪽 클릭 → 관리 → 로컬 파일 보기. 보통은 이렇답니다
+  - 본체: `~/.local/share/Steam/steamapps/common/Death Road to Canada`
+  - SD카드: `/run/media/` 아래의 `steamapps/common/Death Road to Canada`
+- **로더 폴더**: `dr2c-gadget.dll`이 바로 보이는 `1.MOD LOADER` 폴더
+- Dolphin에서 폴더를 연 채로 **Ctrl+L**을 누르면 위쪽에 경로가 나오니 복사해 두시와요
+
+### D-4. 터미널 열기와 부품 설치 (처음 한 번만)
+
+1. Dolphin에서 **패치 폴더**를 연 다음 **F4**를 누르시면 아래에 터미널이 열린답니다 (또는 빈 곳 오른쪽 클릭 → 터미널 열기)
+2. 스팀덱의 시스템 영역은 건드리지 않도록, 패치 전용 파이썬 환경을 하나 만들어 쓰는 것이와요. 아래를 한 줄씩 넣으시와요
+
+```bash
+python3 -m venv ~/drtc-venv
+~/drtc-venv/bin/python -m pip install -r requirements.txt
+```
+
+`Successfully installed`가 뜨면 된답니다. 붙여넣기는 **Ctrl+Shift+V**인 것이와요.
+
+### D-5. 설치
+
+**게임은 꺼 두시와요.** 경로에 띄어쓰기가 있으니 반드시 따옴표로 감싸시와요.
+
+```bash
+~/drtc-venv/bin/python install.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --loader-root "$HOME/DRTC-Loader/1.MOD LOADER" --check
+```
+
+`{ "mode": "install", ... }`이 뜨면 끝의 `--check`를 `--apply`로 바꿔 다시 돌리시와요. 백업은 윈도우와 똑같이 게임 폴더 옆에 생긴답니다.
+다 되면 게임 모드로 돌아가 평소처럼 켜시면 되는 것이와요. 오류가 나면 [7번 오류 모음](#7-오류가-뜨면)은 스팀덱에서도 그대로 통한답니다.
+
+### D-6. 스팀덱에서 지우기
+
+**Proton 체크를 풀기 전에** 패치 폴더의 터미널에서 지우시와요.
+
+```bash
+~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --check
+~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --apply
+```
+
+이미 체크를 풀어 버리셨다면 다시 Proton을 강제하고 무결성 검사까지 마친 뒤에는 패치 파일이 사라져 있을 테니, 백업 폴더와 게임 폴더의 `.drtc_ko_install.json`을 지우고 새로 까시면 된답니다.
+
+---
+
 ## 6. 삭제하는 법
 
 영어판으로 돌아가고 싶으시다면 **게임을 끄고** 5-1처럼 패치 폴더에서 명령창을 여시와요.
@@ -186,7 +255,8 @@ python uninstall.py --game-root "게임 폴더" --apply
 | `Remove the existing Korean patch...` / `An installation record ... already exists` | 이미 깔려 있는 것이와요. 6번으로 지우고 다시 까시와요 |
 | `Backup root must be a new, nonexistent folder` | `--backup-root`로 잡은 폴더가 이미 있는 것이와요. 없는 이름으로 바꾸시와요 |
 | `No Korean patch installation record` (삭제할 때) | 이 게임 폴더에는 패치가 깔려 있지 않은 것이와요. 경로가 맞는지 확인하시와요 |
-| `This installer requires Windows` | 윈도우에서만 된답니다. 이것만큼은 저도 어쩔 도리가 없사와요 |
+| `This installer requires Windows or Linux` | 윈도우와 스팀덱(리눅스)에서만 된답니다. 맥만큼은 저도 어쩔 도리가 없사와요 |
+| `A prog.exe is running ... cannot be verified` (스팀덱) | 다른 `prog.exe`가 켜져 있는 것이와요. 스팀에서 실행 중인 게임을 모두 끄고 다시 하시와요 |
 
 여기 없는 오류가 뜬다면 [Issues](../../issues)에 빨간 `ERROR:` 줄을 복사해 올려 주시와요.
 다만 오류에 그대 컴퓨터의 사용자 이름 같은 것이 찍혀 있다면 그 부분은 가리고 올리시와요.
@@ -230,7 +300,7 @@ PR은 언제든 너그럽게 받아 드리겠사와요.
 python -m unittest discover -s tests -v
 ```
 
-게임 파일 없이 임시 파일로 설치·삭제 중단, 불완전 롤백 후 재시도, 외부 수정 보호와 비교 문자열 분류를 검사한답니다. 실제 게임 실행과 Windows 프로세스 검사는 별도로 확인해야 하는 것이와요.
+게임 파일 없이 임시 파일로 설치·삭제 중단, 불완전 롤백 후 재시도, 외부 수정 보호, 비교 문자열 분류와 가짜 `/proc`으로 Proton 실행 감지를 검사한답니다. 실제 게임 실행과 Windows 프로세스 검사는 별도로 확인해야 하는 것이와요.
 
 ### 설치 없이 한글 모드만 만들어 보기
 
