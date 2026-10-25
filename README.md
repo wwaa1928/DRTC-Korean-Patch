@@ -151,7 +151,7 @@ python install.py --game-root "C:\Program Files (x86)\Steam\steamapps\common\Dea
 ## 스팀덱과 리눅스에서 깔기 (실험적)
 
 스팀덱에서는 리눅스판 대신 **윈도우판을 Proton으로** 돌려야 한답니다. 한글을 띄우는 모드 로더가 윈도우 전용이라 그런 것이와요.
-설치 프로그램은 스팀덱에서도 똑같이 검증·백업하고 깔지만, **Proton 위에서 로더가 실제로 도는지는 아직 충분히 시험하지 못했답니다.** 되든 안 되든 [Issues](../../issues)에 알려 주시면 큰 도움이 되는 것이와요.
+설치 프로그램은 스팀덱에서도 똑같이 검증·백업하고 깔며, 설치부터 삭제까지는 리눅스에서 가짜 게임 폴더로 시험을 마쳤사와요. 하지만 **Proton 위에서 로더가 실제로 돌아 한글이 뜨는지는 아직 충분히 시험하지 못했답니다.** 되든 안 되든 [Issues](../../issues)에 알려 주시면 큰 도움이 되는 것이와요.
 
 일반 리눅스 PC도 방법은 똑같사와요. 아래를 따라 하시되 [일반 리눅스라면](#일반-리눅스라면)에 적힌 차이만 챙기시면 된답니다.
 리눅스판 게임(네이티브)이나 스팀이 아닌 곳(GOG 등)에서 산 게임은 모시지 못하는 것이와요.
@@ -223,13 +223,22 @@ python3 -m venv ~/drtc-venv
 ~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --apply
 ```
 
-이미 체크를 풀어 버리셨다면 다시 Proton을 강제하고 무결성 검사까지 마친 뒤에는 패치 파일이 사라져 있을 테니, 백업 폴더와 게임 폴더의 `.drtc_ko_install.json`을 지우고 새로 까시면 된답니다.
+이미 체크를 풀어 버리셨다면 리눅스판 파일이 덮어써져서 `uninstall.py`가 안전을 위해 멈춘답니다. 이때는 이렇게 하시와요.
+
+1. 다시 Proton을 강제하고 **게임 파일 무결성 검사**까지 마치시와요. `prog.exe`와 영어 스크립트가 원래대로 돌아온답니다
+2. 무결성 검사는 스팀이 모르는 파일까지 지워 주지는 않사와요. 게임 폴더에 남은 아래 패치 파일을 직접 지우시와요
+   - `.drtc_ko_install.json` (숨김 파일이라 Dolphin에서 **Ctrl+H**를 눌러야 보인답니다)
+   - `dr2c-gadget.dll`, `dr2c-gadget.config`
+   - `mods` 폴더 안의 `DRTC_KO`, `dr2c-mod-loader` (그러고 `mods`가 비었다면 `mods`도)
+3. 예전 백업 폴더(`Death Road to Canada_KO_backup_날짜`)는 더 쓸 일이 없으니 지우셔도 된답니다
+4. 그다음 D-5부터 새로 까시와요
 
 ---
 
 ## 6. 삭제하는 법
 
 영어판으로 돌아가고 싶으시다면 **게임을 끄고** 5-1처럼 패치 폴더에서 명령창을 여시와요.
+스팀덱이나 리눅스라면 여기 대신 [D-6](#d-6-스팀덱리눅스에서-지우기)을 따르시와요.
 
 먼저 검사부터 하시와요. 아무것도 바뀌지 않는답니다.
 
@@ -267,7 +276,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 | `Backup root must be a new, nonexistent folder` | `--backup-root`로 잡은 폴더가 이미 있는 것이와요. 없는 이름으로 바꾸시와요 |
 | `No Korean patch installation record` (삭제할 때) | 이 게임 폴더에는 패치가 깔려 있지 않은 것이와요. 경로가 맞는지 확인하시와요 |
 | `This installer requires Windows or Linux` | 윈도우와 스팀덱·리눅스에서만 된답니다. 맥만큼은 저도 어쩔 도리가 없사와요 |
-| `A prog.exe is running ... cannot be verified` (스팀덱·리눅스) | 다른 `prog.exe`가 켜져 있는 것이와요. 스팀에서 실행 중인 게임을 모두 끄고 다시 하시와요 |
+| `A prog.exe is running ... cannot be verified` (스팀덱·리눅스) | `prog.exe`가 켜져 있는데 어느 게임인지 확인할 수 없는 것이와요. Proton이 이 게임을 이렇게 보여 줄 때도 있사와요. 스팀에서 실행 중인 게임을 모두 끄고 다시 하시와요 |
 
 여기 없는 오류가 뜬다면 [Issues](../../issues)에 빨간 `ERROR:` 줄을 복사해 올려 주시와요.
 다만 오류에 그대 컴퓨터의 사용자 이름 같은 것이 찍혀 있다면 그 부분은 가리고 올리시와요.
