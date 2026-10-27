@@ -205,7 +205,7 @@ def build(source, inventory, summary, po_paths, atlas_path, language_json, outpu
             ko[key]=t
             applied_native+=1
     ko['ko.Language.Name']='한국어'
-    ko['ko.Language.Contributors.List']='DRTC Korean Patch contributors'
+    ko['ko.Language.Contributors.List']='wwaa1928, wwwwwwwoooo'
     lang['string_literal']['ko']=ko
     lang['selected_lang']='ko'
     # Do not overwrite stale generated script assets without detecting them.
@@ -230,7 +230,7 @@ def build(source, inventory, summary, po_paths, atlas_path, language_json, outpu
     if license_file.is_file():
         shutil.copy2(license_file,output/'Galmuri-LICENSE.txt')
     manifest={'name':'DRTC_KO','version':'0.2.0','description':'현재 영어 DeathForth 원문에서 생성한 한국어 리소스',
-              'author':'DRTC Korean Patch contributors','dr2cRuntime':'resources-only','type':'commonjs','main':'index.js'}
+              'author':'wwaa1928, wwwwwwwoooo','dr2cRuntime':'resources-only','type':'commonjs','main':'index.js'}
     (output/'package.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),'utf-8')
     (output/'index.js').write_text('// Resource-only package; hooks are supplied by the installed V202.0 loader.\n','utf-8')
     record={'source_df_hashes_verified':len(hashes),'translated_script_entries':len(translations),

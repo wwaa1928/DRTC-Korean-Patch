@@ -4,7 +4,7 @@
 
 - **Galmuri11 BDF and Hangul-only atlas overlay**: https://github.com/quiple/galmuri — SIL Open Font License 1.1. The unmodified notice is in `licenses/Galmuri-OFL.txt`. The overlay derives only from Galmuri glyphs and does not contain the externally downloaded Japanese atlas.
 - **pefile and ordlookup**: https://github.com/erocarrera/pefile — MIT. The unmodified notice is in `vendor/pefile-LICENSE.txt`. Public author details in the source and license are retained.
-- **Korean PO translations and local build/install tools**: DRTC Korean Patch contributors. English `msgid` values identify the corresponding text in the user's game; ownership of game text remains with the game rights holders.
+- **Korean PO translations and local build/install tools**: Copyright © 2026 wwaa1928, wwwwwwwoooo. All rights reserved; see the 저작권 section of `README.md`. English `msgid` values identify the corresponding text in the user's game; ownership of game text remains with the game rights holders.
 
 ## Referenced; obtained separately
 
