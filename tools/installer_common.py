@@ -93,8 +93,48 @@ def validate_hash(value):
 
 def assert_not_running(root):
     """Read process executable paths, without UI control or launching the game."""
-    if os.name != 'nt':
-        raise ValueError('This installer requires Windows.')
+    if os.name == 'nt':
+        return _assert_not_running_windows(root)
+    if sys.platform.startswith('linux'):
+        return _assert_not_running_linux(root, Path('/proc'))
+    raise ValueError('This installer requires Windows or Linux (Steam Deck + Proton).')
+
+
+def _wine_argument_path(argument):
+    """Map a Proton/Wine command-line path to a host path when it is unambiguous."""
+    if argument.startswith('/'):
+        return Path(argument)
+    if re.match(r'[Zz]:[\\/]', argument):
+        return Path('/'+argument[3:].replace('\\', '/'))
+    return None
+
+
+def _assert_not_running_linux(root, proc):
+    """Proton runs prog.exe under Wine; find it in /proc command lines."""
+    expected = target(root, 'prog.exe')
+    for entry in proc.iterdir():
+        if not entry.name.isdigit():
+            continue
+        try:
+            arguments = (entry/'cmdline').read_bytes().split(b'\0')
+        except OSError:
+            continue  # exited while scanning, or not ours to read
+        for raw in arguments:
+            argument = raw.decode('utf-8', 'surrogateescape')
+            if re.split(r'[\\/]', argument)[-1].lower() != 'prog.exe':
+                continue
+            host = _wine_argument_path(argument)
+            if host is None:
+                raise ValueError(f'A prog.exe is running (PID {entry.name}) and its folder cannot be verified; close it first.')
+            try:
+                folder = host.parent.resolve()
+            except OSError:
+                continue
+            if folder == expected.parent:  # Wine file names are case-insensitive
+                raise ValueError(f'The target game is running (PID {entry.name}); close it first.')
+
+
+def _assert_not_running_windows(root):
     from ctypes import wintypes as w
     class ProcessEntry(ctypes.Structure):
         _fields_ = [('dwSize',w.DWORD),('cntUsage',w.DWORD),('th32ProcessID',w.DWORD),

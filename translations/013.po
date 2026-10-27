@@ -938,7 +938,7 @@ msgctxt "deathforth/events/common/LIVER.df"
 msgid ""
 "TRANSLATORS NOTE: PLEASE DONATE SO I CAN CONTINUE MY TRANSLATIONS AND ALSO "
 "BUY A NEW MALL KATANA"
-msgstr "역자 주: 번역을 계속하고 새 쇼핑몰 카타나도 살 수 있게 후원 부탁드립니다"
+msgstr "역자 주: 번역을 계속하고 새 쇼핑몰 카타나도 살 수 있게 후원 부탁드립니다. 한글 역자 주: 본 영애는 후원 따위 받지 않사와요"
 
 #: deathforth/events/common/LIVER.df:67
 msgctxt "deathforth/events/common/LIVER.df"
