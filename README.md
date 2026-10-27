@@ -353,6 +353,15 @@ python make_hangul_atlas.py --bdf fonts/Galmuri11.bdf --output "<새 오버레�
 
 ---
 
+## 저작권
+
+- **Death Road to Canada**의 대사, 그림, 음악, 이름과 로고 등 게임에 관한 모든 권리는 원 저작권자이신 **Rocketcat Games**와 **Madgarden**께 있는 것이와요
+- 이 저장소에는 게임 파일이 한 조각도 들어 있지 않사와요. 번역 파일의 영어 `msgid`는 그대 컴퓨터의 게임에서 해당 문장을 찾아내기 위한 표시일 뿐이고, 그 원문의 권리 역시 원 저작권자께 있답니다
+- 한글 번역문과 설치 도구는 **DRTC Korean Patch contributors**가 만든 것이와요. 다만 번역문은 원작을 바탕으로 한 2차적 저작물이라 원 저작권자의 권리보다 앞설 수 없답니다
+- 이 패치는 **무료**로 나누는 것이와요. 판매하거나 유료 콘텐츠에 끼워 파는 일은 허락하지 않겠사와요
+- 다른 곳에 소개하실 때는 이 저장소 주소를 알려 주시와요. 게임 파일, 백업, 모드 로더 배포본, 생성된 `.df` 파일은 어떤 경우에도 함께 올려서는 아니 되는 것이와요
+- 폰트, 로더, 라이브러리처럼 다른 분들이 만드신 것은 각자의 라이선스를 따른답니다. 아래 크레딧과 `THIRD_PARTY_NOTICES.md`를 보시와요
+
 ## 크레딧 / 라이선스
 
 - 번역과 도구: **DRTC Korean Patch contributors**
@@ -362,7 +371,7 @@ python make_hangul_atlas.py --bdf fonts/Galmuri11.bdf --output "<새 오버레�
 - [Frida](https://frida.re/): 로더가 쓰는 후킹 기반. Frida 바이너리는 여기 없사와요. 라이선스는 [원 프로젝트](https://github.com/frida/frida/blob/main/COPYING)에서 확인하시와요
 - [pefile / Ero Carrera](https://github.com/erocarrera/pefile): 실행 파일 패치용. 고지는 `vendor/pefile-LICENSE.txt`
 
-다른 분들의 이름과 공개 연락처는 원래 라이선스 고지이므로 그대로 두었사와요. 게임과 원문의 권리는 원 저작권자께 있는 것이와요. 자세한 것은 `THIRD_PARTY_NOTICES.md`를 보시와요.
+다른 분들의 이름과 공개 연락처는 원래 라이선스 고지이므로 그대로 두었사와요. 자세한 것은 `THIRD_PARTY_NOTICES.md`를 보시와요.
 
 ## 주의
 
