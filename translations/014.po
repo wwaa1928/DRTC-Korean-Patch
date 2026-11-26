@@ -448,15 +448,6 @@ msgstr ""
 "이 남자는 프로 운동선수 같은 체격과 태도를 지녔다. 보자마자 다트나 당구를 치는 사람이라는 걸 바로 알 수 있다.\r\n"
 "\t어쩌면 볼링일 수도 있고."
 
-#: deathforth/events/common/PANCREAS.df:714
-msgctxt "deathforth/events/common/PANCREAS.df"
-msgid ""
-"This character gets stamina and power bonuses for hitting zombies at the "
-"furthest tip of his melee range! He also has a 10% chance of getting "
-"explosive results from his tip attacks!"
-msgstr ""
-"이 캐릭터는 근접 사거리 맨 끝으로 좀비를 맞히면 스태미나와 위력 보너스를 받는다! 끝부분 공격은 10% 확률로 폭발하기도 한다!"
-
 #: deathforth/events/common/PANCREAS.df:716
 #: deathforth/events/common/PANCREAS.df:742
 #: deathforth/events/common/PANCREAS.df:765
@@ -1511,35 +1502,10 @@ msgctxt "deathforth/events/common/STOMACH.df"
 msgid "DOGS OF THE APIARY 2...WAIT, NO"
 msgstr "양봉장의 개들 2... 아니, 잠깐"
 
-#: deathforth/events/common/STOMACH.df:934
-msgctxt "deathforth/events/common/STOMACH.df"
-msgid ""
-"When the group exits their car for a break, heavenly music plays. White "
-"flashes in their eyes. In front of them, some sort of green-goblin looking "
-"magic thing materialises."
-msgstr ""
-"일행이 쉬려고 차에서 내리자, 천상의 음악이 흐른다. 눈앞에 하얀 빛이 번쩍인다. 그들 앞에 초록 고블린처럼 생긴 마법적인 무언가가 "
-"나타난다."
-
-#: deathforth/events/common/STOMACH.df:935
-msgctxt "deathforth/events/common/STOMACH.df"
-msgid " looks around, confused, glancing at his hands and then back towards "
-msgstr "은(는) 당황한 채 주위를 둘러보고, 자기 손을 내려다봤다가 다시 "
-
-#: deathforth/events/common/STOMACH.df:935
-msgctxt "deathforth/events/common/STOMACH.df"
-msgid ". He has some kind of staff."
-msgstr "을(를) 바라본다. 그는 지팡이 같은 걸 들고 있다."
-
 #: deathforth/events/common/STOMACH.df:936
 msgctxt "deathforth/events/common/STOMACH.df"
 msgid "SOOOOO, THAT WAS DEATH. INTER-EST-ING. Oh, hello friends!"
 msgstr "그러니까아아, 그게 죽음이었군. 흥-미-롭-군. 아, 안녕 친구들!"
-
-#: deathforth/events/common/STOMACH.df:937
-msgctxt "deathforth/events/common/STOMACH.df"
-msgid "It's not everyday somebody on the road respawns in front of you."
-msgstr "길에서 누가 눈앞에 리스폰하는 일은 흔치 않다."
 
 #: deathforth/events/common/STOMACH.df:938
 msgctxt "deathforth/events/common/STOMACH.df"

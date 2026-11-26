@@ -1,11 +1,13 @@
 """Linux/Proton running-game detection against a fake /proc tree."""
 from pathlib import Path
+import sys
 import tempfile
 import unittest
 
 from tools import installer_common as common
 
 
+@unittest.skipUnless(sys.platform.startswith('linux'), 'Requires Linux path resolution for Proton.')
 class LinuxProcessTests(unittest.TestCase):
     def setUp(self):
         self.temp=tempfile.TemporaryDirectory()

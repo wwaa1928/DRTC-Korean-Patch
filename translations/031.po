@@ -273,23 +273,6 @@ msgctxt "deathforth/gamemodes.df"
 msgid "MUTATION "
 msgstr "돌연변이 "
 
-#: deathforth/gamemodes.df:446
-msgctxt "deathforth/gamemodes.df"
-msgid ""
-"They're back - and they're MEGABUFF. \r\n"
-"\t\t> 15 days, 1x zombies \r\n"
-"\t\t> As days pass, zombs become resistant...\r\n"
-"\t\t> Zombies gain fire resist, mass and grapple strengh!\r\n"
-"\t\t> Winning raises max ZP by 5! \r\n"
-"\t\t> Cruel bandits"
-msgstr ""
-"놈들이 돌아왔다. 엄청 빵빵해져서. \r\n"
-"\t\t> 15일, 좀비 1배 \r\n"
-"\t\t> 날이 갈수록 좀비의 저항력이 높아진다...\r\n"
-"\t\t> 화염 저항, 무게, 붙잡는 힘이 늘어난다!\r\n"
-"\t\t> 승리하면 최대 좀보 포인트가 5 늘어난다! \r\n"
-"\t\t> 잔혹한 약탈자"
-
 #: deathforth/gamemodes.df:455
 msgctxt "deathforth/gamemodes.df"
 msgid ""

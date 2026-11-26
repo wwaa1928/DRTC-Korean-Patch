@@ -266,11 +266,14 @@ def release_lock(root,token):
 def load_payload(payload_root):
     root=Path(payload_root).resolve(strict=True)
     manifest=read_json(root/'manifest.json')
-    if manifest.get('schema')!=1 or manifest.get('game_build')!='24936165' or manifest.get('original_exe_sha256')!=ORIGINAL_EXE:
+    shipped = read_json(Path(__file__).resolve().parent.parent/'data/expected_source.json')
+    if (
+        manifest.get('schema') != 1
+        or manifest.get('game_build') != shipped['game_build']
+        or manifest.get('original_exe_sha256') != ORIGINAL_EXE
+    ):
         raise ValueError('Unsupported/malformed payload manifest.')
     expected=manifest.get('source_sha256',{})
-    if len(expected)!=562:raise ValueError('Expected 562 verified English scripts.')
-    shipped=read_json(Path(__file__).resolve().parent.parent/'data/expected_source.json')
     if expected!=shipped.get('source_sha256'):
         raise ValueError('Payload source hashes differ from the shipped supported-build inventory.')
     for rel,h in expected.items():

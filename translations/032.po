@@ -1437,19 +1437,6 @@ msgstr ""
 "\t\t+ 침착함이 높아 아주 차분하다\r\n"
 "\t\t+ 사격 1점 추가"
 
-#: deathforth/perkdef.df:2518
-msgctxt "deathforth/perkdef.df"
-msgid ""
-"Always thinking of others! Somehow not zombie food yet.\r\n"
-"\t\t+ 2 points more medical! Great Attitude\r\n"
-"\t\t+ Can go one over maximum for medical skill!!\r\n"
-"\t\t- May be an act"
-msgstr ""
-"언제나 남들을 생각한다! 신기하게 아직 좀비 밥이 안 됐다.\r\n"
-"\t\t+ 의술 2점 추가! 훌륭한 태도\r\n"
-"\t\t+ 의술 기술이 상한을 1점 넘을 수 있다!!\r\n"
-"\t\t- 연기일 수도 있다"
-
 #: deathforth/perkdef.df:2524
 msgctxt "deathforth/perkdef.df"
 msgid ""
@@ -1656,17 +1643,6 @@ msgstr ""
 "\t\t+ 근력, 체력, 사격에 2점\r\n"
 "\t\t+ 위 능력치가 상한을 1점 넘을 수 있다!!\r\n"
 "\t\t- 한 번에 무기를 딱 하나만 들 수 있다!!"
-
-#: deathforth/perkdef.df:2623
-msgctxt "deathforth/perkdef.df"
-msgid ""
-"If a zombie falls down, you can pick it up!\r\n"
-"\t\t+ Throw or slam carried zombies!\r\n"
-"\t\t- Boring personality"
-msgstr ""
-"좀비가 쓰러지면 들어 올릴 수 있다!\r\n"
-"\t\t+ 든 좀비를 던지거나 메친다!\r\n"
-"\t\t- 지루한 성격"
 
 #: deathforth/perkdef.df:2628
 msgctxt "deathforth/perkdef.df"

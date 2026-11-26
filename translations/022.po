@@ -970,11 +970,6 @@ msgctxt "deathforth/events/stomach/harbour.df"
 msgid "It's the harbour master key."
 msgstr "항구 관리소 열쇠다."
 
-#: deathforth/events/stomach/mate_siege.df:695
-msgctxt "deathforth/events/stomach/mate_siege.df"
-msgid "YIPPEE!"
-msgstr "야호!"
-
 #: deathforth/events/stomach/multistory.df:27
 msgctxt "deathforth/events/stomach/multistory.df"
 msgid "The Way Out"
@@ -1334,25 +1329,6 @@ msgctxt "deathforth/events/stomach/parking_lot_test.df"
 msgid " talks back and forth for a moment, before finally convincing him."
 msgstr "은(는) 잠시 실랑이를 벌이다가, 결국 그를 설득한다."
 
-#: deathforth/events/stomach/parking_lot_test.df:249
-msgctxt "deathforth/events/stomach/parking_lot_test.df"
-msgid ""
-"The group is full.\r\n"
-"\t\t\tWho would you like to replace to make room for "
-msgstr ""
-"일행이 꽉 찼다.\r\n"
-"\t\t\t이 사람 자리를 만들려면 누구를 뺄까: "
-
-#: deathforth/events/stomach/parking_lot_test.df:254
-msgctxt "deathforth/events/stomach/parking_lot_test.df"
-msgid " accepts "
-msgstr "은(는) "
-
-#: deathforth/events/stomach/parking_lot_test.df:254
-msgctxt "deathforth/events/stomach/parking_lot_test.df"
-msgid " to the team!"
-msgstr "을(를) 일행으로 받아들인다!"
-
 #: deathforth/events/stomach/parking_lot_test.df:261
 msgctxt "deathforth/events/stomach/parking_lot_test.df"
 msgid "DIGGY DIGGY HOLE...DIINKY DINKY HOLE"
@@ -1523,15 +1499,6 @@ msgstr "가 꽤 강하긴 해도, 몇 톤짜리 들소 떼만큼 강할 순 없�
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "...but "
 msgstr "...하지만 "
-
-#: deathforth/events/stomach/sycamore_events.df:34
-msgctxt "deathforth/events/stomach/sycamore_events.df"
-msgid ""
-" is built different. As hardy and manical as any bison, they tear through "
-"the horde one-by-one, suplexing and batting away several of the herd's "
-"members."
-msgstr ""
-"은(는) 차원이 다르다. 여느 들소만큼 튼튼하고 미쳐 날뛰며, 무리를 하나씩 찢어발기고, 여러 마리를 수플렉스로 꽂고 쳐 날린다."
 
 #: deathforth/events/stomach/sycamore_events.df:35
 msgctxt "deathforth/events/stomach/sycamore_events.df"

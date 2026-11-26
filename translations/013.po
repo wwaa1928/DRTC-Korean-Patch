@@ -77,22 +77,8 @@ msgstr "패치 노트: "
 
 #: deathforth/events/common/cyoa-k-newbie.df:239
 msgctxt "deathforth/events/common/cyoa-k-newbie.df"
-msgid "TRACHEA"
-msgstr "TRACHEA"
-
-#: deathforth/events/common/cyoa-k-newbie.df:239
-msgctxt "deathforth/events/common/cyoa-k-newbie.df"
 msgid " Update:"
 msgstr " 업데이트"
-
-#: deathforth/events/common/cyoa-k-newbie.df:240
-msgctxt "deathforth/events/common/cyoa-k-newbie.df"
-msgid ""
-"Anime Fan has been reworked. If you have paranoid, oblivious or irritating chars, they can help the Anime Fan char resist their curse!\r\n"
-"\tAI now loots floor loot much more effectively (subject to conditions). There are also two new personalities - tinker & agile!"
-msgstr ""
-"애니 팬이 개편됐다. 편집증, 눈치 없음, 짜증 유발 캐릭터가 있으면 애니 팬 캐릭터가 저주에 저항하도록 도울 수 있다!\r\n"
-"\tAI가 이제 바닥 전리품을 훨씬 잘 줍는다(조건부). 새 성격도 두 가지 추가됐다 - 손재주꾼 & 날렵함!"
 
 #: deathforth/events/common/cyoa-k-newbie.df:242
 msgctxt "deathforth/events/common/cyoa-k-newbie.df"

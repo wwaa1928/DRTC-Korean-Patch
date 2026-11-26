@@ -17,7 +17,8 @@
   - 스팀덱이나 리눅스라면 아래 1~5번 대신 [스팀덱과 리눅스에서 깔기](#스팀덱과-리눅스에서-깔기-실험적)를 따르시와요
 - **스팀 정품**이어야 한답니다
 - 게임이 **최신 버전**이고 **다른 모드가 깔려 있지 않아야** 하는 것이와요
-  - 지원하는 빌드는 `24936165` 단 하나뿐이랍니다
+  - 지원하는 빌드는 **UVULA `26825145`**랍니다
+  - TRACHEA `24936165`를 쓰신다면 [이전 한글패치](https://github.com/wwaa1928/DRTC-Korean-Patch/tree/bba45fd69301bbf9183fe4b00cbdcc4fceac937f)를 받으시와요
   - 버전이 다르거나 다른 모드가 파일을 건드려 놓았다면 설치 프로그램이 멈춘답니다. 맞지 않는 파일에 억지로 설치하지 않도록 해 둔 것이니, 오류가 떴다고 덜컥 겁부터 먹지 마시와요
 - 예전에 이 패치를 깐 적이 있으시다면 [6번 삭제](#6-삭제하는-법)부터 마치고 오시와요. 두 번 덮는다고 두 배로 한글이 되는 것은 아니랍니다
 
@@ -51,7 +52,7 @@
 
 한글을 화면에 띄우려면 **모드 로더**가 따로 필요하답니다. 일본어 패치를 만드신 분의 배포본은 재배포가 금지되어 있어 함께 넣어 드릴 수 없사와요. 한 번에 챙겨 드리지 못하는 것은 저도 아쉽지만, 남의 배포 규칙까지 제 뜻대로 할 수는 없는 법이랍니다. 아래에서 직접 받아 오시와요.
 
-1. [ハム님 일본어 패치 배포 페이지](https://arkwright1.blog.fc2.com/blog-entry-1576.html)에서 **V202.0**을 받으시와요
+1. [ハム님 일본어 패치 배포 페이지](https://arkwright1.blog.fc2.com/blog-entry-1576.html)에서 **V204.0**을 받으시와요. 이미 V202.0 로더가 있다면 그대로 쓰셔도 돼요
 2. **게임 폴더가 아닌 다른 곳**에 풀어 두시와요. `C:\DRTC-Loader` 같은 곳이면 충분하답니다
    - 실행하면 압축이 풀리는 파일이라면 그냥 실행하시되, 풀 위치만 게임 폴더 바깥으로 잡아 주시와요
 3. 풀린 것 가운데 **`1.MOD LOADER`** 폴더를 찾으시와요
@@ -170,7 +171,7 @@ python install.py --game-root "C:\Program Files (x86)\Steam\steamapps\common\Dea
 ### D-2. 패치와 로더 받기
 
 1. 위 [2번](#2-한글패치-받기)처럼 이 페이지에서 ZIP을 받아, 파일 관리자(Dolphin)에서 오른쪽 클릭 → **압축 풀기**를 하시와요. `~/DRTC-KO` 같은 곳이 좋답니다
-2. 위 [3번](#3-모드-로더-받기)처럼 로더 **V202.0**을 받아 `~/DRTC-Loader` 같은 곳에 압축을 풀어 두시와요
+2. 위 [3번](#3-모드-로더-받기)처럼 로더 **V204.0 또는 V202.0**을 받아 `~/DRTC-Loader` 같은 곳에 압축을 풀어 두시와요
    - 압축 파일이면 Dolphin에서 오른쪽 클릭 → **압축 풀기**를 하시거나 Ark로 여시와요
    - 실행형(.exe) 압축이라 풀리지 않는다면 윈도우 PC에서 풀어 `1.MOD LOADER` 폴더만 USB 등으로 옮겨 오셔도 괜찮사와요
    - 이쪽에서도 **`prog_Patch.exe`는 실행하지 마시와요**
@@ -271,7 +272,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 | `Game root must be the folder containing prog.exe` | 게임 폴더 경로를 잘못 고르셨답니다. `prog.exe`가 **바로** 들어 있는 폴더를 지정하시와요. 비슷한 이름만 보고 고르지 마시고, 4번에서 다시 확인하시와요 |
 | `Unsupported prog.exe SHA-256` | 게임 버전이 다르거나, `prog_Patch.exe`를 이미 실행하셨거나, 다른 모드가 파일을 바꾼 것이랍니다. 스팀에서 게임 오른쪽 클릭 → 속성 → 설치된 파일 → **게임 파일 무결성 검사**를 하고 다시 실행하시와요. 그래도 같은 오류가 뜬다면 스팀 업데이트로 지원 버전과 달라졌을 수 있답니다. 저도 당장 맞춰 드리고 싶지만, 패치가 갱신될 때까지 조금만 기다려 주시와요 |
 | `Unsupported/modified English script` | 영어 스크립트가 지원하는 원본과 다르답니다. 위처럼 무결성 검사를 하시와요. 바탕이 달라지면 제가 준비한 번역도 그대로 얹을 수 없답니다 |
-| `Loader SHA-256 mismatch or missing file` | 로더 폴더를 잘못 고르셨거나, 버전이 다르거나, 파일이 빠졌거나 바뀐 것이랍니다. `dr2c-gadget.dll`이 **바로** 들어 있는 `1.MOD LOADER` 폴더인지, V202.0을 받은 그대로 두셨는지 3번에서 확인하시와요 |
+| `Loader SHA-256 mismatch or missing file` | 로더 폴더를 잘못 고르셨거나, 버전이 다르거나, 파일이 빠졌거나 바뀐 것이랍니다. `dr2c-gadget.dll`이 **바로** 들어 있는 `1.MOD LOADER` 폴더인지, V204.0 또는 V202.0을 받은 그대로 두셨는지 3번에서 확인하시와요 |
 | `Download the loader into a separate folder outside the game` | 로더 폴더를 게임 폴더 안에 넣으셨답니다. 한곳에 모아 두고 싶은 마음은 접어 두시고, 게임 폴더 바깥으로 옮기시와요 |
 | `Remove the existing Korean patch...` / `An installation record ... already exists` | 기존 패치나 설치 기록이 남아 있답니다. 6번에 따라 먼저 지운 뒤 다시 설치하시와요. 설치 기록만 슬쩍 지워서 통과할 생각은 거두시와요 |
 | `Backup root must be a new, nonexistent folder` | `--backup-root`로 지정한 폴더가 이미 있답니다. 아직 없는 새 폴더 이름으로 바꾸시와요. 다른 파일이 든 곳에 백업까지 밀어 넣게 두지는 않겠사와요 |
@@ -305,7 +306,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 
 ### 번역 파일
 
-- `translations/001.po` ~ `033.po`가 대사, `native-ko.po`가 UI 번역이랍니다
+- `translations/001.po` ~ `034.po`가 대사와 이벤트·메뉴, `native-ko.po`가 로더 UI 번역이랍니다
 - `msgctxt`는 게임 안의 파일 경로랍니다
 - 비어 있는 번역과 fuzzy는 영어로 나오고, `<EMPTY>`는 빈 문자열로 바뀐답니다
 - 게임이 비교용으로 쓰는 문자열(캐릭터 이름, 특성 이름 등)과 native UI 키는 일부러 영어로 두었사와요
@@ -321,7 +322,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 python -m unittest discover -s tests -v
 ```
 
-게임 파일 없이 임시 파일로 설치·삭제 중단, 불완전 롤백 후 재시도, 외부 수정 보호, 비교 문자열 분류, 그리고 가짜 `/proc`을 이용한 Proton 실행 감지까지 검사한답니다. 다만 실제 게임 실행과 Windows 프로세스 검사까지 대신해 주지는 않으니, 그 둘은 따로 확인해야 마땅하답니다.
+게임 파일 없이 임시 파일로 설치·삭제 중단, 불완전 롤백 후 재시도, 외부 수정 보호, 비교 문자열 분류, 로더 검증을 검사한답니다. Linux에서는 가짜 `/proc`으로 Proton 실행 감지도 검사한답니다. 실제 게임 실행과 Windows 프로세스 검사는 별도로 확인하시와요.
 
 ### 설치 없이 한글 모드만 만들어 보기
 
@@ -378,7 +379,7 @@ python make_hangul_atlas.py --bdf fonts/Galmuri11.bdf --output "<새 오버레�
 - 번역과 도구: **wwaa1928**, **wwwwwwwoooo**
 - [Galmuri / quiple](https://github.com/quiple/galmuri): 한글 폰트랍니다. SIL OFL 1.1 원문은 `licenses/Galmuri-OFL.txt`에 있사와요
 - [sevenshape / dr2c-mod-loader](https://github.com/sevenshape/dr2c-mod-loader): 다국어 표시와 resources-only 모드 방식의 바탕이랍니다. ISC 고지는 `licenses/sevenshape-ISC.txt`에 있사와요. 로더 배포본은 각자 받아 주시와요
-- [ハム님 일본어 패치](https://arkwright1.blog.fc2.com/blog-entry-1576.html): V202.0 구조를 참고했사와요. 일본어 번역이나 배포본은 들어 있지 않답니다
+- [ハム님 일본어 패치](https://arkwright1.blog.fc2.com/blog-entry-1576.html) V204.0과 V202.0의 로더 구조를 참고했사와요. UVULA 이벤트와 캐릭터 대사는 V204.0 심플판으로 문맥을 확인했답니다
 - [Frida](https://frida.re/): 로더가 쓰는 후킹 기반이랍니다. Frida 바이너리는 여기에 포함되지 않사와요. 라이선스는 [원 프로젝트](https://github.com/frida/frida/blob/main/COPYING)에서 확인하시와요
 - [pefile / Ero Carrera](https://github.com/erocarrera/pefile): 실행 파일 패치에 쓰인답니다. 고지는 `vendor/pefile-LICENSE.txt`에 있사와요
 

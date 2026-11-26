@@ -20,7 +20,7 @@ def prepare_payload(game,loader,payload):
             rel=path.relative_to(payload).as_posix()
             entries.append({'source':rel,'target':'mods/'+rel,'sha256':common.file_sha(path)})
     expected=common.read_json(RELEASE_ROOT/'data/expected_source.json')
-    manifest={'schema':1,'game_build':'24936165','original_exe_sha256':common.ORIGINAL_EXE,
+    manifest={'schema':1,'game_build':expected['game_build'],'original_exe_sha256':common.ORIGINAL_EXE,
         'patched_exe_sha256':common.PATCHED_EXE,'source_sha256':expected['source_sha256'],'files':entries}
     (payload/'manifest.json').write_bytes(common.json_bytes(manifest))
     return record
@@ -85,7 +85,7 @@ class _Art(argparse.Action):
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--game-root',type=Path,required=True)
-    parser.add_argument('--loader-root',type=Path,required=True,help='Unmodified, user-downloaded V202.0 loader folder.')
+    parser.add_argument('--loader-root',type=Path,required=True,help='Unmodified V204.0 or V202.0 loader folder.')
     parser.add_argument('--backup-root',type=Path,help='New nonexistent directory; defaults to a timestamped game sibling.')
     mode=parser.add_mutually_exclusive_group()
     mode.add_argument('--apply',action='store_true',help='Install after a verified full backup.')

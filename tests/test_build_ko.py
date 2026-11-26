@@ -4,11 +4,12 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
+from unittest.mock import patch
 
 from PIL import Image
 import polib
 
-from build_ko import build
+import build_ko
 
 
 class BuildClassificationTests(unittest.TestCase):
@@ -29,13 +30,35 @@ class BuildClassificationTests(unittest.TestCase):
             atlas=base/'font.png';Image.new('RGBA',(3072,3072),(255,255,255,255)).save(atlas)
             language=base/'lang.json'
             language.write_text(json.dumps({'string_literal':{'en':{}}}),encoding='utf-8')
-            result=build(source,None,summary,[po_path],atlas,language,base/'output')
+            result=build_ko.build(source,None,summary,[po_path],atlas,language,base/'output')
             generated=(base/'output/assets/dr2c'/rel).read_text(encoding='utf-8')
             self.assertIn('"Foo" $=',generated)
             self.assertIn('"Convert" str>',generated)
             self.assertIn('"\uc778\uc0ac" print',generated)
             self.assertEqual(result['translated_script_entries'],1)
             self.assertEqual({row['source'] for row in result['ignored_translations']},{'Foo','Convert'})
+
+
+class LoaderVerificationTests(unittest.TestCase):
+    def test_compatible_language_files_return_the_verified_digest(self):
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            loader = root / 'loader'
+            relative = 'mods/dr2c-mod-loader/assets/lang.json'
+            path = loader / relative
+            path.parent.mkdir(parents=True)
+            variants = [b'V204.0 language file', b'V202.0 language file']
+            hashes = [hashlib.sha256(value).hexdigest() for value in variants]
+            data = root / 'data'
+            data.mkdir()
+            (data / 'loader_files.json').write_text(json.dumps({'files': {relative: hashes}}), encoding='utf-8')
+            with patch.object(build_ko, 'RELEASE_ROOT', root), patch.object(build_ko, 'LOADER_PATHS', {relative}):
+                for value, digest in zip(variants, hashes):
+                    path.write_bytes(value)
+                    self.assertEqual(build_ko.verified_loader(loader), (loader.resolve(), {relative: digest}))
+                path.write_bytes(b'modified language file')
+                with self.assertRaisesRegex(ValueError, 'Loader SHA-256 mismatch'):
+                    build_ko.verified_loader(loader)
 
 
 if __name__=='__main__':unittest.main()

@@ -1494,11 +1494,6 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "MACHINEPISTOL"
 msgstr "기관권총"
 
-#: deathforth/events/stomach/sycamore_events.df:1293
-msgctxt "deathforth/events/stomach/sycamore_events.df"
-msgid "SOME WOOD"
-msgstr "나무 조금"
-
 #: deathforth/events/stomach/sycamore_events.df:1294
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "EMPTY BRANDY BOTTLE"
@@ -1524,20 +1519,10 @@ msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "METAL PIPE"
 msgstr "쇠파이프"
 
-#: deathforth/events/stomach/sycamore_events.df:1299
-msgctxt "deathforth/events/stomach/sycamore_events.df"
-msgid "TIRE IRON"
-msgstr "타이어 렌치"
-
 #: deathforth/events/stomach/sycamore_events.df:1306
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid " inserts "
 msgstr "은(는) "
-
-#: deathforth/events/stomach/sycamore_events.df:1306
-msgctxt "deathforth/events/stomach/sycamore_events.df"
-msgid "8 food"
-msgstr "식량 8"
 
 #: deathforth/events/stomach/sycamore_events.df:1306
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -1702,16 +1687,6 @@ msgstr ""
 msgctxt "deathforth/events/stomach/sycamore_events.df"
 msgid "It seems to have some kind of food insertion system."
 msgstr "무슨 식량 투입 장치 같은 게 달려 있다."
-
-#: deathforth/events/stomach/sycamore_events.df:1391
-msgctxt "deathforth/events/stomach/sycamore_events.df"
-msgid "PRICE: 8 FOOD || WEAPON: PROBABLY"
-msgstr "가격: 식량 8 || 무기: 아마도"
-
-#: deathforth/events/stomach/sycamore_events.df:1394
-msgctxt "deathforth/events/stomach/sycamore_events.df"
-msgid "Deposit food - 8 food"
-msgstr "식량 투입 - 식량 8"
 
 #: deathforth/events/stomach/sycamore_events.df:1397
 msgctxt "deathforth/events/stomach/sycamore_events.df"
@@ -2071,13 +2046,6 @@ msgid ""
 "update, they'll be found in camps instead."
 msgstr "새 캐릭터를 무료로 써 보세요! 지금은 여기서 만날 수 있지만, 새 업데이트에서는 캠프에서 만나게 됩니다."
 
-#: deathforth/events/testregion.df:25
-msgctxt "deathforth/events/testregion.df"
-msgid ""
-"First Mate can leap with the SWAP button, 6s cooldown! Attack while midair "
-"for serious AoE damage! Also: anchor."
-msgstr "일등항해사는 교체 버튼으로 도약할 수 있습니다(쿨다운 6초)! 공중에서 공격하면 강력한 범위 피해! 그리고: 닻."
-
 #: deathforth/events/testregion.df:27 deathforth/events/testregion.df:37
 #: deathforth/events/testregion.df:47 deathforth/events/testregion.df:57
 #: deathforth/events/testregion.df:67
@@ -2091,42 +2059,6 @@ msgstr "일단 둔다"
 msgctxt "deathforth/events/testregion.df"
 msgid "Hire them"
 msgstr "고용한다"
-
-#: deathforth/events/testregion.df:35
-msgctxt "deathforth/events/testregion.df"
-msgid ""
-"This character can protect your teammates and has a strong knockdown-execute"
-" halberd combo. Thrust to knockdown, then slash to instakill."
-msgstr ""
-"이 캐릭터는 동료를 보호할 수 있고, 강력한 넘어뜨리기-처형 미늘창 콤보가 있습니다. 찌르기로 넘어뜨리고, 베기로 즉사시키세요."
-
-#: deathforth/events/testregion.df:45
-msgctxt "deathforth/events/testregion.df"
-msgid ""
-"This character is really good at modifying the car! Use less fuel AND travel"
-" faster!"
-msgstr "이 캐릭터는 차 개조에 아주 능합니다! 연료는 덜 쓰고 더 빨리 달립니다!"
-
-#: deathforth/events/testregion.df:54 deathforth/events/testregion.df:64
-msgctxt "deathforth/events/testregion.df"
-msgid ""
-"Try out the new character for free! You can find them here, but in the new "
-"update, they'll be on the road instead."
-msgstr "새 캐릭터를 무료로 써 보세요! 지금은 여기서 만날 수 있지만, 새 업데이트에서는 길에서 만나게 됩니다."
-
-#: deathforth/events/testregion.df:55
-msgctxt "deathforth/events/testregion.df"
-msgid ""
-"This character can multishot with any firearm! Their melee attacks also "
-"kneecap enemies. Steal food and people's knees!"
-msgstr "이 캐릭터는 어떤 총기로든 다중 사격이 가능합니다! 근접 공격은 적의 무릎도 박살 냅니다. 음식과 사람들의 무릎을 훔치세요!"
-
-#: deathforth/events/testregion.df:65
-msgctxt "deathforth/events/testregion.df"
-msgid ""
-"IDK if I'll keep this char. They're mainly a ragdoll physics experiment; "
-"they explode ragdoll-style when bitten."
-msgstr "이 캐릭터를 유지할지는 모르겠어요. 주로 래그돌 물리 실험용이라, 물리면 래그돌처럼 폭발합니다."
 
 #: deathforth/events/trade/camp-recruit.df:14
 msgctxt "deathforth/events/trade/camp-recruit.df"

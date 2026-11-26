@@ -236,40 +236,6 @@ msgctxt "deathforth/events/common/TRACHEA.df"
 msgid " resolves to find and get revenge on the menace!"
 msgstr "은(는) 그 원수를 찾아내 복수하기로 결심한다!"
 
-#: deathforth/events/common/TRACHEA.df:760
-msgctxt "deathforth/events/common/TRACHEA.df"
-msgid "LOST ON THE ROCKS"
-msgstr "암초 위에서 길을 잃다"
-
-#: deathforth/events/common/TRACHEA.df:763
-msgctxt "deathforth/events/common/TRACHEA.df"
-msgid "As "
-msgstr "<EMPTY>"
-
-#: deathforth/events/common/TRACHEA.df:763
-msgctxt "deathforth/events/common/TRACHEA.df"
-msgid ""
-" drives along, the road becomes increasingly wet. Rain emerges from the "
-"clouds."
-msgstr "이(가) 달리는 동안, 길이 점점 젖어 간다. 구름에서 비가 쏟아진다."
-
-#: deathforth/events/common/TRACHEA.df:764
-msgctxt "deathforth/events/common/TRACHEA.df"
-msgid ""
-"Over the course of several minutes, the water level rises rapidly. Huge "
-"waves start to form! Many zombies flood inward, carried by the currents."
-msgstr "몇 분 사이에 물이 빠르게 불어난다. 거대한 파도가 일기 시작한다! 수많은 좀비가 물살에 실려 밀려든다."
-
-#: deathforth/events/common/TRACHEA.df:765
-msgctxt "deathforth/events/common/TRACHEA.df"
-msgid " is very quiet as all of this unfolds."
-msgstr "은(는) 이 모든 일이 벌어지는 동안 아주 조용하다."
-
-#: deathforth/events/common/TRACHEA.df:770
-msgctxt "deathforth/events/common/TRACHEA.df"
-msgid "Endure The Flood"
-msgstr "홍수를 버텨 낸다"
-
 #: deathforth/events/common/TRACHEA.df:878
 msgctxt "deathforth/events/common/TRACHEA.df"
 msgid "raaaWWWRRRRRR!!!!!!"

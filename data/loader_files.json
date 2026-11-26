@@ -1,5 +1,5 @@
 {
-  "reference": "V202.0 loader folder downloaded by the user; not redistributed here",
+  "reference": "V204.0 or V202.0 loader folder downloaded by the user",
   "files": {
     "dr2c-gadget.config": "00120b9a439b0480c4ab6fc2284264795a1c0199bca9b8e70b36c0c152f0042f",
     "dr2c-gadget.dll": "948ecc43d135e9269f6754f3594b0ffea44c5c787fa56f11816cb6309a4d8f32",
@@ -8,6 +8,9 @@
     "mods/dr2c-mod-loader/main.js": "c8348bedda7b9bf44c55d0290b9ea0478dd79bd2b3a01ae223f9adf1e4adfe65",
     "mods/dr2c-mod-loader/package.json": "85c3bed4ed291dc2bd4d492b1231a6d327d922f12b678595d9c248f7cdf04066",
     "mods/dr2c-mod-loader/assets/font_ucs2_12x12.png": "0fc6dc27ecfbf827074735840653a31cdc3b73581d180459102ea755212efd39",
-    "mods/dr2c-mod-loader/assets/lang.json": "fda89d5a674877edafe7d521df4de0b77c8599385e99d1da354f257fc95cda23"
+    "mods/dr2c-mod-loader/assets/lang.json": [
+      "b1121eb1b6174b44616ac327074403d568af3e12ca0176930229156c6edb8c66",
+      "fda89d5a674877edafe7d521df4de0b77c8599385e99d1da354f257fc95cda23"
+    ]
   }
 }
