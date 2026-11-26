@@ -229,10 +229,11 @@ def build(source, inventory, summary, po_paths, atlas_path, language_json, outpu
     license_file=Path(__file__).parent/'licenses/Galmuri-OFL.txt'
     if license_file.is_file():
         shutil.copy2(license_file,output/'Galmuri-LICENSE.txt')
-    manifest={'name':'DRTC_KO','version':'0.2.0','description':'현재 영어 DeathForth 원문에서 생성한 한국어 리소스',
+    version = json.loads((release/'package.json').read_text('utf-8'))['version']
+    manifest={'name':'DRTC_KO','version':version,'description':'현재 영어 DeathForth 원문에서 생성한 한국어 리소스',
               'author':'wwaa1928, wwwwwwwoooo','dr2cRuntime':'resources-only','type':'commonjs','main':'index.js'}
     (output/'package.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),'utf-8')
-    (output/'index.js').write_text('// Resource-only package; hooks are supplied by the installed V202.0 loader.\n','utf-8')
+    (output/'index.js').write_text('// Resource-only package; hooks are supplied by the installed mod loader.\n','utf-8')
     record={'source_df_hashes_verified':len(hashes),'translated_script_entries':len(translations),
             'replaced_literal_occurrences':sum(len(v) for v in replacements.values()),'generated_df_files':len(changed),
             'native_po_entries_applied':applied_native,'blank_or_fuzzy_translations':'keep English',
@@ -258,15 +259,23 @@ def verified_loader(loader_root):
     root=Path(loader_root).resolve(strict=True)
     if not root.is_dir() or is_link(root):
         raise ValueError('Loader root must be a regular directory.')
-    definition=json.loads((RELEASE_ROOT/'data/loader_files.json').read_text('utf-8'))['files']
+    definition = json.loads((RELEASE_ROOT/'data/loader_files.json').read_text('utf-8'))['files']
     if set(definition)!=LOADER_PATHS:
         raise ValueError('Unexpected loader file inventory.')
-    for rel,expected in definition.items():
-        validate_hash(expected)
-        p=target(root,rel)
-        if not p.is_file() or file_sha(p)!=expected:
-            raise ValueError(f'Loader SHA-256 mismatch or missing file: {rel}; use the unmodified V202.0 loader folder.')
-    return root,definition
+    verified = {}
+    for rel, expected in definition.items():
+        allowed_hashes = (expected,) if isinstance(expected, str) else expected
+        for digest in allowed_hashes:
+            validate_hash(digest)
+        path = target(root, rel)
+        actual = file_sha(path) if path.is_file() else None
+        if actual not in allowed_hashes:
+            raise ValueError(
+                f'Loader SHA-256 mismatch or missing file: {rel}; '
+                'use the unmodified V204.0 or V202.0 loader folder.'
+            )
+        verified[rel] = actual
+    return root, verified
 
 
 def merge_hangul(base_path,output):
@@ -299,7 +308,7 @@ def build_local(game_root,loader_root,output):
         atlas=Path(folder)/'font.png'
         merge_hangul(loader/'mods/dr2c-mod-loader/assets/font_ucs2_12x12.png',atlas)
         return build(source,None,RELEASE_ROOT/'data/expected_source.json',
-            [RELEASE_ROOT/'translations'/f'{n:03}.po' for n in range(1,34)],
+            [RELEASE_ROOT/'translations'/f'{n:03}.po' for n in range(1,35)],
             atlas,loader/'mods/dr2c-mod-loader/assets/lang.json',output,
             native_po=RELEASE_ROOT/'translations/native-ko.po')
 

@@ -2348,11 +2348,6 @@ msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
 msgid "Recruit her later"
 msgstr "나중에 영입하기"
 
-#: deathforth/events/trade/trader-camp-region-special1.df:98
-msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
-msgid "Recruit her! - 20 food"
-msgstr "그녀 영입! - 식량 20"
-
 #: deathforth/events/trade/trader-camp-region-special1.df:102
 msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
 msgid "The Science of Shopping"
@@ -2384,16 +2379,6 @@ msgstr "순간이동 장치 사기 - 식량 5"
 msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
 msgid "Buy Mazer Pistol - 12 food"
 msgstr "메이저 권총 사기 - 식량 12"
-
-#: deathforth/events/trade/trader-camp-region-special1.df:117
-msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
-msgid "Recruit her to team - 20 food"
-msgstr "그녀 영입 - 식량 20"
-
-#: deathforth/events/trade/trader-camp-region-special1.df:119
-msgctxt "deathforth/events/trade/trader-camp-region-special1.df"
-msgid "Recruit her to team! - 20 food"
-msgstr "그녀 영입! - 식량 20"
 
 #: deathforth/events/trade/trader-camp-region-special2.df:17
 #: deathforth/events/trade/trader-camp-region-special2.df:24

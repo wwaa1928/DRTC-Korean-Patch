@@ -2100,16 +2100,6 @@ msgctxt "deathforth/events/trade/weapons.df"
 msgid "Medieval Axe for 20 food"
 msgstr "중세 도끼 - 식량 20개"
 
-#: deathforth/events/trade/weapons.df:504
-msgctxt "deathforth/events/trade/weapons.df"
-msgid "Electric Guitar for 10 food"
-msgstr "일렉 기타 - 식량 10개"
-
-#: deathforth/events/trade/weapons.df:507
-msgctxt "deathforth/events/trade/weapons.df"
-msgid "Fire Axe for 6 food"
-msgstr "소방 도끼 - 식량 6개"
-
 #: deathforth/events/trade/weapons.df:510
 msgctxt "deathforth/events/trade/weapons.df"
 msgid "Hatchet for 3 food"

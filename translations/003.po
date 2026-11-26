@@ -1415,16 +1415,6 @@ msgctxt "deathforth/blurb/syca_sc/loyal.df"
 msgid "We should raise an army to get to Canada!"
 msgstr "캐나다에 가려면 군대를 모아야 해!"
 
-#: deathforth/blurb/syca_sc/loyal.df:108
-msgctxt "deathforth/blurb/syca_sc/loyal.df"
-msgid "Yeah, "
-msgstr "그래, "
-
-#: deathforth/blurb/syca_sc/loyal.df:108
-msgctxt "deathforth/blurb/syca_sc/loyal.df"
-msgid "! More people to rob!"
-msgstr "! 털어먹을 사람이 늘겠네!"
-
 #: deathforth/blurb/syca_sc/loyal.df:111
 msgctxt "deathforth/blurb/syca_sc/loyal.df"
 msgid "Heck yeah! Who's gonna stop us?"
@@ -2276,11 +2266,6 @@ msgstr "*경고: 뇌우!*"
 msgctxt "deathforth/boot-end.df"
 msgid "*WARNING: Slippery Ice!*"
 msgstr "*경고: 미끄러운 빙판!*"
-
-#: deathforth/boot-end.df:323
-msgctxt "deathforth/boot-end.df"
-msgid "*Don't Rush!*"
-msgstr "*서두르지 마세요!*"
 
 #: deathforth/boot-end.df:330
 msgctxt "deathforth/boot-end.df"

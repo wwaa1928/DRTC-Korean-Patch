@@ -292,11 +292,6 @@ msgid ""
 "AUGH THEY'RE GONNA HAV' TO GLUE YOU BACK TOGETHER...in the nearest hospital."
 msgstr "으아 너 접착제로 다시 붙여야겠다... 가까운 병원에서."
 
-#: deathforth/events/finale/epilogue-check.df:307
-msgctxt "deathforth/events/finale/epilogue-check.df"
-msgid "The reward of Honour...is making it to Canada."
-msgstr "명예의 보상은... 캐나다에 도착하는 것이다."
-
 #: deathforth/events/finale/epilogue-check.df:308
 msgctxt "deathforth/events/finale/epilogue-check.df"
 msgid ""

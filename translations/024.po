@@ -184,16 +184,6 @@ msgstr ""
 "\t평소라면 더 수상했겠지만, 이런 건 이제 익숙하다.\r\n"
 "\t그는 플라스틱 통 팔로 역동적인 포즈를 취한다."
 
-#: deathforth/events/trade/camp-recruit.df:441
-msgctxt "deathforth/events/trade/camp-recruit.df"
-msgid "Recruit him - 20 food"
-msgstr "그를 영입한다 - 식량 20"
-
-#: deathforth/events/trade/camp-recruit.df:443
-msgctxt "deathforth/events/trade/camp-recruit.df"
-msgid "You need 20 food to recruit him to the party."
-msgstr "그를 일행으로 영입하려면 식량 20이 필요하다."
-
 #: deathforth/events/trade/camp-recruit.df:450
 msgctxt "deathforth/events/trade/camp-recruit.df"
 msgid "Bee strong, bee loyal."
