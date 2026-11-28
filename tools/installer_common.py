@@ -86,6 +86,11 @@ def tree(root):
     return dict(sorted(files.items())), sorted(directories)
 
 
+def allowed_hashes(value):
+    """Return the accepted SHA-256 values of a pinned entry (one hash or a list)."""
+    return (value,) if isinstance(value, str) else tuple(value)
+
+
 def validate_hash(value):
     if not isinstance(value, str) or not re.fullmatch('[0-9a-f]{64}', value):
         raise ValueError('Malformed SHA-256 in manifest.')
@@ -276,10 +281,10 @@ def load_payload(payload_root):
     expected=manifest.get('source_sha256',{})
     if expected!=shipped.get('source_sha256'):
         raise ValueError('Payload source hashes differ from the shipped supported-build inventory.')
-    for rel,h in expected.items():
+    for rel,value in expected.items():
         if not safe_relative(rel).startswith('deathforth/') or not rel.endswith('.df'):
             raise ValueError('Unexpected source-script path.')
-        validate_hash(h)
+        for h in allowed_hashes(value):validate_hash(h)
     entries=manifest.get('files',[]);names=set()
     for entry in entries:
         rel=safe_relative(entry['target']);src=safe_relative(entry['source'])
@@ -311,7 +316,7 @@ def preflight(game,payload_root,backup_root=None):
     original=target(root,'prog.exe').read_bytes();patched=patch_bytes(original)
     for rel,expected in definition['source_sha256'].items():
         p=target(root,rel)
-        if not p.is_file() or file_sha(p)!=expected:
+        if not p.is_file() or file_sha(p) not in allowed_hashes(expected):
             raise ValueError(f'Unsupported/modified English script: {rel}')
     snapshot,dirs=tree(root)
     stamp=datetime.datetime.now().strftime('%Y%m%d_%H%M%S')

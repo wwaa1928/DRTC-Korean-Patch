@@ -9,6 +9,7 @@ import sys
 sys.dont_write_bytecode=True
 import polib
 from tools.source_lexer import lex_literals, classify_literal
+from tools.installer_common import allowed_hashes
 from PIL import Image
 
 FORMAT = re.compile(r"(?<!\d)%(?:\d+\$)?[-+#0']*(?:\d+|\*)?(?:\.(?:\d+|\*))?(?:hh|h|ll|l|j|z|t|L)?[diuoxXfFeEgGaAcspn%]")
@@ -98,12 +99,14 @@ def build(source, inventory, summary, po_paths, atlas_path, language_json, outpu
         if output==protected_root or output.is_relative_to(protected_root) or protected_root.is_relative_to(output):
             raise ValueError('Output must not overlap the game or release folder.')
     hashes=json.loads(summary.read_text('utf-8'))['source_sha256']
-    original={}
+    original={};variants=set()
     for rel,expected in hashes.items():
         safe_relative(rel)
         b=(source/rel).read_bytes()
-        if hashlib.sha256(b).hexdigest()!=expected:
+        digest,allowed=hashlib.sha256(b).hexdigest(),allowed_hashes(expected)
+        if digest not in allowed:
             raise ValueError(f'Source SHA-256 mismatch: {rel}; no output written.')
+        if digest!=allowed[0]:variants.add(rel)
         original[rel]=b
     if inventory is None:
         quoted_words={m.group(1) for b in original.values() for m in re.finditer(rb'(?m)^[ \t]*:[ \t]+("[^"\s]+)(?=\s|$)',b)}
@@ -156,6 +159,10 @@ def build(source, inventory, summary, po_paths, atlas_path, language_json, outpu
             eligible=[x for x in index.get(key,[]) if x['category']=='text-candidate' and not technical_row(x)]
             if index.get(key) and not eligible:
                 ignored.append({'path':rel,'source':e.msgid,'reason':'technical literal'})
+                continue
+            if not eligible and rel in variants:
+                # Keep lines this game version lacks in English, e.g. Windows-only perk text in the Linux perkdef.df.
+                ignored.append({'path':rel,'source':e.msgid,'reason':'not in this game version'})
                 continue
             if not eligible:
                 raise ValueError(f'Unknown or technical source: {rel}/{e.msgid!r}')
@@ -240,7 +247,7 @@ def build(source, inventory, summary, po_paths, atlas_path, language_json, outpu
             'empty_sentinel_entries':empty_entries,'compared_string_block_count':len(compared),
             'native_string_block_count':len(native_ids),'ignored_translations':ignored,
             'whitespace_edges_restored':adjusted_edges,
-            'files':[{'path':rel,'source_sha256':hashes[rel],'output_sha256':hashlib.sha256(b).hexdigest()} for rel,b in changed.items()]}
+            'files':[{'path':rel,'source_sha256':hashlib.sha256(original[rel]).hexdigest(),'output_sha256':hashlib.sha256(b).hexdigest()} for rel,b in changed.items()]}
     return record
 
 
@@ -264,12 +271,12 @@ def verified_loader(loader_root):
         raise ValueError('Unexpected loader file inventory.')
     verified = {}
     for rel, expected in definition.items():
-        allowed_hashes = (expected,) if isinstance(expected, str) else expected
-        for digest in allowed_hashes:
+        allowed = allowed_hashes(expected)
+        for digest in allowed:
             validate_hash(digest)
         path = target(root, rel)
         actual = file_sha(path) if path.is_file() else None
-        if actual not in allowed_hashes:
+        if actual not in allowed:
             raise ValueError(
                 f'Loader SHA-256 mismatch or missing file: {rel}; '
                 'use the unmodified V204.0 or V202.0 loader folder.'
