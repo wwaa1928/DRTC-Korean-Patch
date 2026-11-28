@@ -117,16 +117,18 @@ def _wine_argument_path(argument):
 
 
 def _assert_not_running_linux(root, proc):
-    """Find native prog-linux by /proc/PID/exe and Proton's prog.exe in /proc command lines."""
+    """Find native prog-linux by the /proc/PID/exe file and Proton's prog.exe in /proc command lines."""
     expected, native = target(root, 'prog.exe'), target(root, LINUX_EXE)
+    native = native.stat() if native.exists() else None
     for entry in proc.iterdir():
         if not entry.name.isdigit():
             continue
         try:
-            running = Path(os.readlink(entry/'exe'))
+            # Compare files, not paths: Flatpak Steam shows its sandbox path in the exe link.
+            running = native is not None and os.path.samestat(os.stat(entry/'exe'), native)
         except OSError:
-            running = None  # kernel thread, or another user's process
-        if running == native:
+            running = False  # kernel thread, or another user's process
+        if running:
             raise ValueError(f'The target game is running (PID {entry.name}); close it first.')
         try:
             arguments = (entry/'cmdline').read_bytes().split(b'\0')

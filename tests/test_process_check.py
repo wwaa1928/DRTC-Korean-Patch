@@ -34,7 +34,15 @@ class LinuxProcessTests(unittest.TestCase):
         self.check()
 
     def test_native_linux_game_is_detected(self):
+        (self.game/'prog-linux').write_bytes(b'fixture')
         self.process(50,'./prog-linux').joinpath('exe').symlink_to(self.game/'prog-linux')
+        with self.assertRaisesRegex(ValueError,'target game is running'):self.check()
+
+    def test_native_linux_game_under_another_path_is_detected(self):
+        """Flatpak Steam: the exe link names the sandbox path, a second path to the same game file."""
+        (self.game/'prog-linux').write_bytes(b'fixture')
+        sandbox=self.base/'sandbox';sandbox.symlink_to(self.game)
+        self.process(51,'./prog-linux').joinpath('exe').symlink_to(sandbox/'prog-linux')
         with self.assertRaisesRegex(ValueError,'target game is running'):self.check()
 
     def test_proton_launcher_unix_path_is_detected(self):
