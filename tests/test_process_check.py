@@ -1,4 +1,4 @@
-"""Linux/Proton running-game detection against a fake /proc tree."""
+"""Linux running-game detection (native and Proton) against a fake /proc tree."""
 from pathlib import Path
 import sys
 import tempfile
@@ -21,6 +21,7 @@ class LinuxProcessTests(unittest.TestCase):
     def process(self,pid,*arguments):
         folder=self.proc/str(pid);folder.mkdir()
         (folder/'cmdline').write_bytes(b'\0'.join(a.encode() for a in arguments)+b'\0')
+        return folder
 
     def check(self):
         common._assert_not_running_linux(self.game,self.proc)
@@ -29,7 +30,12 @@ class LinuxProcessTests(unittest.TestCase):
         self.process(10,'/usr/bin/steam','-silent')
         self.process(11,str(self.base/'Other Game'/'prog.exe'))
         (self.proc/'12').mkdir()  # exited: no cmdline left
+        self.process(13,'./prog-linux').joinpath('exe').symlink_to(self.base/'Other Game'/'prog-linux')
         self.check()
+
+    def test_native_linux_game_is_detected(self):
+        self.process(50,'./prog-linux').joinpath('exe').symlink_to(self.game/'prog-linux')
+        with self.assertRaisesRegex(ValueError,'target game is running'):self.check()
 
     def test_proton_launcher_unix_path_is_detected(self):
         self.process(20,'python3','/proton','waitforexitandrun',str(self.game/'prog.exe'))

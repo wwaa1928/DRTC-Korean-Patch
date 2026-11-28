@@ -9,6 +9,8 @@ import pefile
 
 ORIGINAL_EXE = 'aba4ff1b8ea669b8831d4085c8703c46bdb98e80ddaf35f02bad111637cea105'
 PATCHED_EXE = '454833646ec28a7fffb46cb5bf8dcf16faf7a967915dc3404860141d11035f36'
+LINUX_EXE = 'prog-linux'
+LINUX_EXE_SHA256 = '4f0c2beee9ea9b617522642f79b814095a75a4e562279353b8760b3b0a93016f'
 STATE_FILE = '.drtc_ko_install.json'
 LOCK_FILE = '.drtc_ko_install.lock'
 BACKUP_MANIFEST = 'installation_manifest.json'
@@ -60,8 +62,8 @@ def target(root, relative):
 
 def game_root(path):
     root = Path(path).expanduser().resolve(strict=True)
-    if root == Path(root.anchor) or not root.is_dir() or not (root/'prog.exe').is_file():
-        raise ValueError('Game root must be the folder containing prog.exe.')
+    if root == Path(root.anchor) or not root.is_dir() or not any((root/name).is_file() for name in ('prog.exe', LINUX_EXE)):
+        raise ValueError('Game root must be the folder containing prog.exe or prog-linux.')
     if is_link(root):
         raise ValueError('Game root must not be a reparse point/symlink.')
     return root
@@ -115,11 +117,17 @@ def _wine_argument_path(argument):
 
 
 def _assert_not_running_linux(root, proc):
-    """Proton runs prog.exe under Wine; find it in /proc command lines."""
-    expected = target(root, 'prog.exe')
+    """Find native prog-linux by /proc/PID/exe and Proton's prog.exe in /proc command lines."""
+    expected, native = target(root, 'prog.exe'), target(root, LINUX_EXE)
     for entry in proc.iterdir():
         if not entry.name.isdigit():
             continue
+        try:
+            running = Path(os.readlink(entry/'exe'))
+        except OSError:
+            running = None  # kernel thread, or another user's process
+        if running == native:
+            raise ValueError(f'The target game is running (PID {entry.name}); close it first.')
         try:
             arguments = (entry/'cmdline').read_bytes().split(b'\0')
         except OSError:
@@ -212,6 +220,17 @@ def patch_bytes(before):
     return bytes(after)
 
 
+def executable(root):
+    """Return the verified game executable and its patched bytes, or None for prog-linux, which needs no patch."""
+    if not (root/'prog.exe').exists():
+        data = target(root, LINUX_EXE).read_bytes()
+        if sha(data) != LINUX_EXE_SHA256:
+            raise ValueError('Unsupported prog-linux SHA-256.')
+        return data, None
+    data = target(root, 'prog.exe').read_bytes()
+    return data, patch_bytes(data)
+
+
 def read_json(path):
     return json.loads(path.read_text('utf-8'))
 
@@ -275,7 +294,7 @@ def load_payload(payload_root):
     if (
         manifest.get('schema') != 1
         or manifest.get('game_build') != shipped['game_build']
-        or manifest.get('original_exe_sha256') != ORIGINAL_EXE
+        or manifest.get('original_exe_sha256') not in (ORIGINAL_EXE, LINUX_EXE_SHA256)
     ):
         raise ValueError('Unsupported/malformed payload manifest.')
     expected=manifest.get('source_sha256',{})
@@ -285,23 +304,25 @@ def load_payload(payload_root):
         if not safe_relative(rel).startswith('deathforth/') or not rel.endswith('.df'):
             raise ValueError('Unexpected source-script path.')
         for h in allowed_hashes(value):validate_hash(h)
+    native=manifest['original_exe_sha256']==LINUX_EXE_SHA256
     entries=manifest.get('files',[]);names=set()
     for entry in entries:
         rel=safe_relative(entry['target']);src=safe_relative(entry['source'])
         if rel.casefold() in names:raise ValueError('Duplicate payload target.')
         names.add(rel.casefold());validate_hash(entry['sha256'])
-        if rel in {'prog.exe',STATE_FILE,LOCK_FILE,'steam_appid.txt'} or rel.startswith('deathforth/'):
+        if rel in {'prog.exe',LINUX_EXE,STATE_FILE,LOCK_FILE,'steam_appid.txt'} or rel.startswith('deathforth/'):
             raise ValueError(f'Forbidden payload target: {rel}')
         if not (src.startswith('loader/') or src.startswith('DRTC_KO/')):
             raise ValueError('Payload source must be loader/ or DRTC_KO/.')
         if src.startswith('loader/') and rel!=src[len('loader/'):]:
             raise ValueError('Loader file layout must preserve its relative paths.')
-        if src.startswith('DRTC_KO/') and rel!='mods/'+src:
-            raise ValueError('Korean resources must install only into mods/DRTC_KO/.')
+        overlay=native and src.startswith('DRTC_KO/assets/') and rel=='mods/dr2c-mod-loader/'+src[len('DRTC_KO/'):]
+        if src.startswith('DRTC_KO/') and rel!='mods/'+src and not overlay:
+            raise ValueError('Korean resources must install only into mods/DRTC_KO/, or the loader assets on native Linux.')
         p=target(root,src)
         if not p.is_file() or file_sha(p)!=entry['sha256']:
             raise ValueError(f'Payload file SHA-256 mismatch: {src}')
-    if not {'dr2c-gadget.dll','dr2c-gadget.config','mods/dr2c-mod-loader/index.js','mods/drtc_ko/package.json'}<=names:
+    if not {'dr2c-gadget.so' if native else 'dr2c-gadget.dll','dr2c-gadget.config','mods/dr2c-mod-loader/index.js','mods/drtc_ko/package.json'}<=names:
         raise ValueError('Required loader/Korean mod payload files are missing.')
     return root,manifest
 
@@ -313,7 +334,9 @@ def preflight(game,payload_root,backup_root=None):
     payload,definition=load_payload(payload_root)
     if payload==root or payload.is_relative_to(root) or root.is_relative_to(payload):
         raise ValueError('Payload and game folders must not overlap.')
-    original=target(root,'prog.exe').read_bytes();patched=patch_bytes(original)
+    original,patched=executable(root)
+    if sha(original)!=definition['original_exe_sha256']:
+        raise ValueError('Payload was prepared for another game executable.')
     for rel,expected in definition['source_sha256'].items():
         p=target(root,rel)
         if not p.is_file() or file_sha(p) not in allowed_hashes(expected):
@@ -333,7 +356,7 @@ def preflight(game,payload_root,backup_root=None):
         old=snapshot.get(rel,{}).get('sha256')
         if old!=entry['sha256']:
             changes.append({'path':rel,'original_sha256':old,'installed_sha256':entry['sha256'],'payload_source':entry['source']})
-    changes.append({'path':'prog.exe','original_sha256':ORIGINAL_EXE,'installed_sha256':PATCHED_EXE,'payload_source':None})
+    if patched:changes.append({'path':'prog.exe','original_sha256':ORIGINAL_EXE,'installed_sha256':PATCHED_EXE,'payload_source':None})
     return root,payload,backup,definition,snapshot,dirs,changes,patched
 
 
@@ -342,7 +365,7 @@ def install(game,payload_root,backup_root=None,apply=False,_fail_after=None):
     result={'mode':'install','apply':apply,'game_root':str(root),'backup_root':str(backup),'game_build':definition['game_build'],
             'original_files':len(snapshot),'original_bytes':sum(v['size'] for v in snapshot.values()),
             'changed_files':sum(c['original_sha256'] is not None for c in changes),'added_files':sum(c['original_sha256'] is None for c in changes),
-            'patched_exe_sha256':PATCHED_EXE}
+            'patched_exe_sha256':PATCHED_EXE if patched else None}
     if not apply:return result
     backup.mkdir(parents=True,exist_ok=False)
     original_root=backup/'original';original_root.mkdir()
