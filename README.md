@@ -225,7 +225,7 @@ Proton 없이 리눅스판에 한글을 띄우는 방법이랍니다. 스팀덱�
 3. 스팀에서 게임 오른쪽 클릭 → **속성** → **일반** → **실행 옵션**에 아래 한 줄을 넣으시와요. 이 줄이 없으면 영어로 뜬답니다. 한 줄 빼먹고 패치가 고장 났다며 본 영애를 찾지는 마시와요
 
    ```bash
-   LD_PRELOAD="$LD_PRELOAD:dr2c-gadget.so" %command%
+   LD_PRELOAD="$LD_PRELOAD:\$ORIGIN/dr2c-gadget.so" %command%
    ```
 
 4. 지울 때는 D-6 명령을 그대로 쓰시고, 실행 옵션도 비우시와요
