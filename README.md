@@ -286,7 +286,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 | `The target game is running` / `close it first` | 게임이 아직 켜져 있답니다. 끄시라 일렀지, 창만 뒤로 숨기시란 뜻은 아니었사와요. 완전히 종료한 뒤 다시 실행하시와요 |
 | `Game root must be the folder containing prog.exe or prog-linux` | 게임 폴더 경로를 잘못 고르셨답니다. `prog.exe`(리눅스판은 `prog-linux`)가 **바로** 들어 있는 폴더를 지정하시와요. 비슷한 이름만 보고 고르지 마시고, 4번에서 다시 확인하시와요 |
 | `Unsupported prog.exe SHA-256` / `Unsupported prog-linux SHA-256` | 게임 버전이 다르거나, `prog_Patch.exe`를 이미 실행하셨거나, 다른 모드가 파일을 바꾼 것이랍니다. 스팀에서 게임 오른쪽 클릭 → 속성 → 설치된 파일 → **게임 파일 무결성 검사**를 하고 다시 실행하시와요. 그래도 같은 오류가 뜬다면 스팀 업데이트로 지원 버전과 달라졌을 수 있답니다. 저도 당장 맞춰 드리고 싶지만, 패치가 갱신될 때까지 조금만 기다려 주시와요 |
-| `urlopen error` / `Frida gadget SHA-256 mismatch` (리눅스판) | Frida gadget을 받지 못했거나 다른 파일을 고르신 것이랍니다. 인터넷 연결을 확인하고 다시 실행하시거나, [리눅스판 그대로 쓰기](#리눅스판-그대로-쓰기)의 파일을 받아 `--frida-gadget`으로 지정하시와요 |
+| `urlopen error` / `HTTP Error` / `Frida gadget SHA-256 mismatch` (리눅스판) | Frida gadget을 받지 못했거나 다른 파일을 고르신 것이랍니다. 인터넷 연결을 확인하고 다시 실행하시거나, [리눅스판 그대로 쓰기](#리눅스판-그대로-쓰기)의 파일을 받아 `--frida-gadget`으로 지정하시와요 |
 | `Unsupported/modified English script` | 영어 스크립트가 지원하는 원본과 다르답니다. 위처럼 무결성 검사를 하시와요. 바탕이 달라지면 제가 준비한 번역도 그대로 얹을 수 없답니다 |
 | `Loader SHA-256 mismatch or missing file` | 로더 폴더를 잘못 고르셨거나, 버전이 다르거나, 파일이 빠졌거나 바뀐 것이랍니다. `dr2c-gadget.dll`이 **바로** 들어 있는 `1.MOD LOADER` 폴더인지, V204.0 또는 V202.0을 받은 그대로 두셨는지 3번에서 확인하시와요 |
 | `Download the loader into a separate folder outside the game` | 로더 폴더를 게임 폴더 안에 넣으셨답니다. 한곳에 모아 두고 싶은 마음은 접어 두시고, 게임 폴더 바깥으로 옮기시와요 |
