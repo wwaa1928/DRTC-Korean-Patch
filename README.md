@@ -13,7 +13,7 @@
 
 ## 0. 시작하기 전에 확인하실 것
 
-- **윈도우**와 **스팀덱·리눅스**(Proton)에서 쓸 수 있답니다. 다만 스팀덱·리눅스 쪽은 아직 실험 단계이고, 맥은 지원하지 못한답니다. 모두 챙겨 드리고 싶어도 의욕만으로 될 일은 아니었사와요
+- **윈도우**와 **스팀덱·리눅스**(Proton 또는 리눅스판)에서 쓸 수 있답니다. 다만 스팀덱·리눅스 쪽은 아직 실험 단계이고, 맥은 지원하지 못한답니다. 모두 챙겨 드리고 싶어도 의욕만으로 될 일은 아니었사와요
   - 스팀덱이나 리눅스라면 아래 1~5번 대신 [스팀덱과 리눅스에서 깔기](#스팀덱과-리눅스에서-깔기-실험적)를 따르시와요
 - **스팀 정품**이어야 한답니다
 - 게임이 **최신 버전**이고 **다른 모드가 깔려 있지 않아야** 하는 것이와요
@@ -151,11 +151,11 @@ python install.py --game-root "C:\Program Files (x86)\Steam\steamapps\common\Dea
 
 ## 스팀덱과 리눅스에서 깔기 (실험적)
 
-스팀덱에서는 리눅스판 대신 **윈도우판을 Proton으로** 실행해야 한답니다. 한글을 띄우는 모드 로더가 윈도우 전용이기 때문인 것이와요.
+스팀덱과 리눅스에서는 윈도우판을 **Proton으로** 돌리셔도 되고, **리눅스판 그대로** 쓰셔도 된답니다. 리눅스판이라면 아래를 따르시되 [리눅스판 그대로 쓰기](#리눅스판-그대로-쓰기)에 적힌 차이를 챙기시와요.
 설치 프로그램은 이쪽에서도 검증·백업을 거쳐 설치하도록 만들었고, 리눅스에서 가짜 게임 폴더로 설치부터 삭제까지 시험을 마쳤사와요. 다만 **Proton 위에서 로더가 실제로 돌아 한글이 뜨는지는 아직 충분히 시험하지 못했답니다.** 자신 있게 권해 드리고 싶어도 확인하지 못한 것까지 장담하는 것은 제 자존심이 허락하지 않사와요. 잘 되든 막히든 [Issues](../../issues)에 알려 주시면 제가 다음 확인을 하는 데 큰 도움이 된답니다.
 
 일반 리눅스 PC도 방법은 같답니다. 아래를 따르시되 [일반 리눅스라면](#일반-리눅스라면)에 적힌 차이만 챙기시와요.
-리눅스판 게임(네이티브)이나 스팀이 아닌 곳(GOG 등)에서 산 게임은 지원하지 않으니, 시작 전에 꼭 확인하시와요.
+스팀이 아닌 곳(GOG 등)에서 산 게임은 지원하지 않으니, 시작 전에 꼭 확인하시와요.
 
 스팀덱에서는 모든 작업을 **데스크톱 모드**에서 진행하시와요. 전원 버튼을 길게 누르고 → `데스크톱 모드로 전환`을 고르시와요. 키보드와 마우스를 꽂아 두시면 한결 수월하답니다. 작은 화면과 씨름하는 끈기까지 시험할 생각은 없사와요.
 
@@ -179,8 +179,8 @@ python install.py --game-root "C:\Program Files (x86)\Steam\steamapps\common\Dea
 ### D-3. 경로 확인
 
 - **게임 폴더**: 스팀에서 게임 오른쪽 클릭 → 관리 → 로컬 파일 보기를 누르시와요. 보통 경로는 아래와 같답니다
-  - 본체: `~/.local/share/Steam/steamapps/common/Death Road to Canada`
-  - SD카드: `/run/media/` 아래의 `steamapps/common/Death Road to Canada`
+  - 본체: `~/.local/share/Steam/steamapps/common/DeathRoadToCanada`
+  - SD카드: `/run/media/` 아래의 `steamapps/common/DeathRoadToCanada`
 - **로더 폴더**: `dr2c-gadget.dll`이 바로 보이는 `1.MOD LOADER` 폴더랍니다
 - Dolphin에서 폴더를 연 채로 **Ctrl+L**을 누르면 위쪽에 경로가 나오니 복사해 두시와요
 
@@ -198,10 +198,10 @@ python3 -m venv ~/drtc-venv
 
 ### D-5. 설치
 
-**게임은 완전히 꺼 두시와요.** 경로에 띄어쓰기가 있으니 반드시 따옴표로 감싸시와요. 보기 좋게 정리한다며 따옴표를 빼 버리는 것은 사양하겠사와요.
+**게임은 완전히 꺼 두시와요.** 경로에 띄어쓰기가 있을 수 있으니 반드시 따옴표로 감싸시와요. 보기 좋게 정리한다며 따옴표를 빼 버리는 것은 사양하겠사와요.
 
 ```bash
-~/drtc-venv/bin/python install.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --loader-root "$HOME/DRTC-Loader/1.MOD LOADER" --check
+~/drtc-venv/bin/python install.py --game-root "$HOME/.local/share/Steam/steamapps/common/DeathRoadToCanada" --loader-root "$HOME/DRTC-Loader/1.MOD LOADER" --check
 ```
 
 `{ "mode": "install", ... }`이 뜨면 끝의 `--check`를 `--apply`로 바꿔 다시 돌리시와요. 백업은 윈도우와 똑같이 게임 폴더 옆에 생긴답니다.
@@ -212,16 +212,31 @@ python3 -m venv ~/drtc-venv
 - 데스크톱 모드 전환은 필요 없사와요. D-1부터 그대로 하시와요
 - **Debian/Ubuntu 계열**은 D-4에서 `venv`가 없다고 나올 수 있사와요. 먼저 `sudo apt install python3-venv`를 하시와요
 - **Flatpak 스팀**이라면 게임 폴더가 이곳이랍니다. D-5, D-6의 `--game-root`를 이것으로 바꾸시와요
-  - `~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Death Road to Canada`
+  - `~/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/DeathRoadToCanada`
 - 터미널은 쓰시는 파일 관리자에서 여시거나, 터미널을 켜고 `cd ~/DRTC-KO`로 패치 폴더에 들어가시와요. 명령어는 D-4, D-5와 똑같답니다
+
+### 리눅스판 그대로 쓰기
+
+Proton 없이 리눅스판에 한글을 띄우는 방법이랍니다. 스팀덱과 일반 리눅스 모두 같사와요.
+
+1. D-1은 건너뛰시와요. Proton으로 패치를 깔아 두셨다면 [D-6](#d-6-스팀덱리눅스에서-지우기)으로 먼저 지우시와요. 그다음 Proton 강제 체크를 풀고 **게임 파일 무결성 검사**를 하시와요
+2. D-2부터 D-5까지 그대로 하시와요. 설치 프로그램이 리눅스판을 알아보고 [Frida gadget 17.19.0](https://github.com/frida/frida/releases/download/17.19.0/frida-gadget-17.19.0-linux-x86_64.so.xz)을 받아 `dr2c-gadget.so`로 넣는답니다
+   - 인터넷이 막혀 있다면 위 파일을 따로 받아 D-5 명령 끝에 `--frida-gadget "받은 파일 경로"`를 붙이시와요
+3. 스팀에서 게임 오른쪽 클릭 → **속성** → **일반** → **실행 옵션**에 아래 한 줄을 넣으시와요. 이 줄이 없으면 영어로 뜬답니다. 한 줄 빼먹고 패치가 고장 났다며 본 영애를 찾지는 마시와요
+
+   ```bash
+   LD_PRELOAD="$LD_PRELOAD:\$ORIGIN/dr2c-gadget.so" %command%
+   ```
+
+4. 지울 때는 D-6 명령을 그대로 쓰시고, 실행 옵션도 비우시와요
 
 ### D-6. 스팀덱·리눅스에서 지우기
 
 **Proton 체크를 풀기 전에** 패치 폴더의 터미널에서 지우시와요.
 
 ```bash
-~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --check
-~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/Death Road to Canada" --apply
+~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/DeathRoadToCanada" --check
+~/drtc-venv/bin/python uninstall.py --game-root "$HOME/.local/share/Steam/steamapps/common/DeathRoadToCanada" --apply
 ```
 
 이미 체크를 풀어 버리셨다는 말이와요?! 그것이 그리도 급하셨사와요? 그러면 리눅스판 파일이 덮어써져서 `uninstall.py`가 안전을 위해 멈춘답니다. 당황해서 다른 파일까지 만지지는 마시와요. 수습할 순서도 제가 적어 두었답니다.
@@ -231,7 +246,7 @@ python3 -m venv ~/drtc-venv
    - `.drtc_ko_install.json` (숨김 파일이라 Dolphin에서 **Ctrl+H**를 눌러야 보인답니다)
    - `dr2c-gadget.dll`, `dr2c-gadget.config`
    - `mods` 폴더 안의 `DRTC_KO`, `dr2c-mod-loader` (그러고 `mods`가 비었다면 `mods`도)
-3. 예전 백업 폴더(`Death Road to Canada_KO_backup_날짜`)는 더 쓸 일이 없으니 지우셔도 된답니다
+3. 예전 백업 폴더(`DeathRoadToCanada_KO_backup_날짜`)는 더 쓸 일이 없으니 지우셔도 된답니다
 4. 그다음 D-5부터 새로 설치하시와요. 이번에는 순서를 지켜 주실 것으로 믿겠사와요
 
 ---
@@ -269,8 +284,9 @@ python uninstall.py --game-root "게임 폴더" --apply
 | `python`은(는) 인식할 수 없는... / MS 스토어가 열림 | 파이썬 설치와 `Add python.exe to PATH` 체크부터 확인하시와요. 그 작은 네모를 눈여겨보시라 일렀건만, 결국 여기서 다시 만났답니다. 설치 파일을 다시 켜서 Modify/Repair를 하시거나, 지우고 체크한 뒤 다시 설치하시와요. 그래도 안 되면 명령어 앞의 `python`을 `py`로 바꿔 보시와요 |
 | `No module named 'polib'` 또는 `'PIL'` | 5-2를 건너뛰셨거나 부품 설치에 실패한 것이랍니다. 준비물 없이 출발하려는 배짱은 접어 두시고, 5-2부터 다시 실행하시와요 |
 | `The target game is running` / `close it first` | 게임이 아직 켜져 있답니다. 끄시라 일렀지, 창만 뒤로 숨기시란 뜻은 아니었사와요. 완전히 종료한 뒤 다시 실행하시와요 |
-| `Game root must be the folder containing prog.exe` | 게임 폴더 경로를 잘못 고르셨답니다. `prog.exe`가 **바로** 들어 있는 폴더를 지정하시와요. 비슷한 이름만 보고 고르지 마시고, 4번에서 다시 확인하시와요 |
-| `Unsupported prog.exe SHA-256` | 게임 버전이 다르거나, `prog_Patch.exe`를 이미 실행하셨거나, 다른 모드가 파일을 바꾼 것이랍니다. 스팀에서 게임 오른쪽 클릭 → 속성 → 설치된 파일 → **게임 파일 무결성 검사**를 하고 다시 실행하시와요. 그래도 같은 오류가 뜬다면 스팀 업데이트로 지원 버전과 달라졌을 수 있답니다. 저도 당장 맞춰 드리고 싶지만, 패치가 갱신될 때까지 조금만 기다려 주시와요 |
+| `Game root must be the folder containing prog.exe or prog-linux` | 게임 폴더 경로를 잘못 고르셨답니다. `prog.exe`(리눅스판은 `prog-linux`)가 **바로** 들어 있는 폴더를 지정하시와요. 비슷한 이름만 보고 고르지 마시고, 4번에서 다시 확인하시와요 |
+| `Unsupported prog.exe SHA-256` / `Unsupported prog-linux SHA-256` | 게임 버전이 다르거나, `prog_Patch.exe`를 이미 실행하셨거나, 다른 모드가 파일을 바꾼 것이랍니다. 스팀에서 게임 오른쪽 클릭 → 속성 → 설치된 파일 → **게임 파일 무결성 검사**를 하고 다시 실행하시와요. 그래도 같은 오류가 뜬다면 스팀 업데이트로 지원 버전과 달라졌을 수 있답니다. 저도 당장 맞춰 드리고 싶지만, 패치가 갱신될 때까지 조금만 기다려 주시와요 |
+| `urlopen error` / `HTTP Error` / `Frida gadget SHA-256 mismatch` (리눅스판) | Frida gadget을 받지 못했거나 다른 파일을 고르신 것이랍니다. 인터넷 연결을 확인하고 다시 실행하시거나, [리눅스판 그대로 쓰기](#리눅스판-그대로-쓰기)의 파일을 받아 `--frida-gadget`으로 지정하시와요 |
 | `Unsupported/modified English script` | 영어 스크립트가 지원하는 원본과 다르답니다. 위처럼 무결성 검사를 하시와요. 바탕이 달라지면 제가 준비한 번역도 그대로 얹을 수 없답니다 |
 | `Loader SHA-256 mismatch or missing file` | 로더 폴더를 잘못 고르셨거나, 버전이 다르거나, 파일이 빠졌거나 바뀐 것이랍니다. `dr2c-gadget.dll`이 **바로** 들어 있는 `1.MOD LOADER` 폴더인지, V204.0 또는 V202.0을 받은 그대로 두셨는지 3번에서 확인하시와요 |
 | `Download the loader into a separate folder outside the game` | 로더 폴더를 게임 폴더 안에 넣으셨답니다. 한곳에 모아 두고 싶은 마음은 접어 두시고, 게임 폴더 바깥으로 옮기시와요 |
@@ -288,6 +304,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 ## 8. 알려진 문제
 
 - `은(는)`, `이(가)`처럼 조사가 함께 나오는 곳이 있답니다. 저도 눈에 거슬리지만, 캐릭터 이름이 무작위로 들어가는 탓에 이렇게 남겨 둘 수밖에 없었사와요
+- 리눅스판은 특성 문장 10개가 영어로 남는답니다. 리눅스판 스크립트의 그 문장이 윈도우판과 달라서 번역을 맞춰 넣지 못했사와요
 - 캐릭터 이름과 특성 이름 같은 것은 일부러 영어로 두었사와요. 게임이 이 문자열로 내부 판정을 하는지라, 번역했다가는 게임이 꼬여 버리는 것이와요. 영어가 보인다고 제가 그 줄만 못 본 척한 것은 아니랍니다
 - 캐릭터 이름을 한글로 입력하는 것은 아직 제대로 시험하지 못했답니다. 그 부분까지 자신 있게 권해 드리지 못하는 것은 저도 아쉽사와요
 - 처음부터 엔딩까지 한 판을 모두 확인한 것은 아니랍니다. 빈틈없이 내놓고 싶었는데, 이 대목은 저도 면목이 없사와요. 이상한 곳이 보이면 제보해 주시와요. 제 눈을 빠져나간 문장을 그대로 둘 생각은 없답니다
@@ -322,7 +339,7 @@ python uninstall.py --game-root "게임 폴더" --apply
 python -m unittest discover -s tests -v
 ```
 
-게임 파일 없이 임시 파일로 설치·삭제 중단, 불완전 롤백 후 재시도, 외부 수정 보호, 비교 문자열 분류, 로더 검증을 검사한답니다. Linux에서는 가짜 `/proc`으로 Proton 실행 감지도 검사한답니다. 실제 게임 실행과 Windows 프로세스 검사는 별도로 확인하시와요.
+게임 파일 없이 임시 파일로 설치·삭제 중단, 불완전 롤백 후 재시도, 외부 수정 보호, 비교 문자열 분류, 로더 검증을 검사한답니다. Linux에서는 가짜 `/proc`으로 Proton과 리눅스판 실행 감지도 검사한답니다. 실제 게임 실행과 Windows 프로세스 검사는 별도로 확인하시와요.
 
 ### 설치 없이 한글 모드만 만들어 보기
 

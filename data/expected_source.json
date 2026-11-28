@@ -527,7 +527,10 @@
     "deathforth/paul/road-gauntlet-example.df": "0604e46e0f708d3d014d85a93977895d7a4b1de0f924808eb13d8d217fca0406",
     "deathforth/paul/siege.df": "7270258db27409c433e58baca77caf06a2e8690f554d8fa25f07fff27a7a6612",
     "deathforth/paul/trader-camp-region.df": "ad30784ea276fcd91227ad9eaf119dbce39b78522a2d961abe7fba1680f99bfd",
-    "deathforth/perkdef.df": "9aa67fec9410bd57550bf859086f8c7d1295120f7ed9f8af5ba67c1c4b980bc7",
+    "deathforth/perkdef.df": [
+      "9aa67fec9410bd57550bf859086f8c7d1295120f7ed9f8af5ba67c1c4b980bc7",
+      "35ebee00401238e9a08d2a057e6e0699039053372aafdc165af3325a78476820"
+    ],
     "deathforth/projectiles.df": "f9aa4c6a30e373d52275cb336a04a04992cdc2886235ad41e454a59dc8ed1232",
     "deathforth/recruitdecks.df": "a5a01e68a3b711b7d374a301990835a0bbd7b863147b021f68ccd4c4a2564887",
     "deathforth/regions.df": "eb13e0af2575c11f432d57fec1be8c141efda768f020cf0f86bcc6dc79ac6fdb",

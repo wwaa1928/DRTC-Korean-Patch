@@ -1,37 +1,61 @@
 """Build translated resources locally, then use the verified backup installer."""
-import argparse,base64,json,shutil,sys,tempfile,zlib
+import argparse,base64,json,lzma,shutil,sys,tempfile,urllib.request,zlib
 from pathlib import Path
 from . import installer_common as common
 from build_ko import build_local,verified_loader,RELEASE_ROOT
 
+# The V204 loader needs Frida 17.0 or later, and Frida 17.20 breaks its file reads.
+GADGET_URL='https://github.com/frida/frida/releases/download/17.19.0/frida-gadget-17.19.0-linux-x86_64.so.xz'
+GADGET_XZ_SHA256='3d810b1faa47cd81bd7955c668389a9fa4d977f24545fda39025193f69498dfa'
+GADGET_SHA256='750f3f455834d84afe787c433f1942c0ac7e8f50186dd31e25940e7dccdde234'
 
-def prepare_payload(game,loader,payload):
+
+def linux_gadget(path=None):
+    """Read the Frida gadget from path (.so or .so.xz), or download it, and verify it."""
+    data=Path(path).read_bytes() if path else urllib.request.urlopen(GADGET_URL,timeout=120).read()
+    if common.sha(data)==GADGET_XZ_SHA256:data=lzma.decompress(data)
+    if common.sha(data)!=GADGET_SHA256:
+        raise ValueError(f'Frida gadget SHA-256 mismatch; use {GADGET_URL}')
+    return data
+
+
+def prepare_payload(game,loader,payload,gadget=None):
+    native=not (game/'prog.exe').exists()
     loader,files=verified_loader(loader)
     record=build_local(game,loader,payload/'DRTC_KO')
     entries=[]
+    for path in sorted((payload/'DRTC_KO').rglob('*')):
+        if path.is_file():
+            rel=path.relative_to(payload).as_posix()
+            entries.append({'source':rel,'target':'mods/'+rel,'sha256':common.file_sha(path)})
+            # On Linux the loader skips resources-only mods and reads its own assets folder.
+            if native and rel.startswith('DRTC_KO/assets/'):
+                entries.append({**entries[-1],'target':'mods/dr2c-mod-loader/'+rel[len('DRTC_KO/'):]})
+    replaced={entry['target'] for entry in entries}
     for rel,expected in files.items():
+        if native and (rel=='dr2c-gadget.dll' or rel in replaced):continue
         dest=common.target(payload,'loader/'+rel)
         dest.parent.mkdir(parents=True,exist_ok=True)
         shutil.copyfile(common.target(loader,rel),dest)
         if common.file_sha(dest)!=expected:raise ValueError('Loader changed during preparation.')
         entries.append({'source':'loader/'+rel,'target':rel,'sha256':expected})
-    for path in sorted((payload/'DRTC_KO').rglob('*')):
-        if path.is_file():
-            rel=path.relative_to(payload).as_posix()
-            entries.append({'source':rel,'target':'mods/'+rel,'sha256':common.file_sha(path)})
+    if native:
+        common.target(payload,'loader/dr2c-gadget.so').write_bytes(linux_gadget(gadget))
+        entries.append({'source':'loader/dr2c-gadget.so','target':'dr2c-gadget.so','sha256':GADGET_SHA256})
     expected=common.read_json(RELEASE_ROOT/'data/expected_source.json')
-    manifest={'schema':1,'game_build':expected['game_build'],'original_exe_sha256':common.ORIGINAL_EXE,
-        'patched_exe_sha256':common.PATCHED_EXE,'source_sha256':expected['source_sha256'],'files':entries}
+    manifest={'schema':1,'game_build':expected['game_build'],
+        'original_exe_sha256':common.LINUX_EXE_SHA256 if native else common.ORIGINAL_EXE,
+        'patched_exe_sha256':None if native else common.PATCHED_EXE,'source_sha256':expected['source_sha256'],'files':entries}
     (payload/'manifest.json').write_bytes(common.json_bytes(manifest))
     return record
 
 
-def install_local(game,loader,backup=None,apply=False):
+def install_local(game,loader,backup=None,apply=False,gadget=None):
     root=common.game_root(game)
     common.assert_not_running(root)
     if common.target(root,common.STATE_FILE).exists() or common.target(root,common.LOCK_FILE).exists():
         raise ValueError('Remove the existing Korean patch before installing this version.')
-    common.patch_bytes(common.target(root,'prog.exe').read_bytes())
+    common.executable(root)
     loader,_=verified_loader(loader)
     if root==loader or loader.is_relative_to(root) or root.is_relative_to(loader):
         raise ValueError('Download the loader into a separate folder outside the game.')
@@ -45,7 +69,7 @@ def install_local(game,loader,backup=None,apply=False):
         raise ValueError('Temporary storage must be outside the game, loader, and release folder.')
     with tempfile.TemporaryDirectory(prefix='drtc-ko-install-') as folder:
         payload=Path(folder)/'payload'
-        record=prepare_payload(root,loader,payload)
+        record=prepare_payload(root,loader,payload,gadget)
         result=common.install(root,payload,backup,apply)
         result['build']={k:record[k] for k in ('source_df_hashes_verified','translated_script_entries',
             'replaced_literal_occurrences','generated_df_files','native_po_entries_applied','empty_sentinel_entries')}
@@ -87,11 +111,12 @@ def main():
     parser.add_argument('--game-root',type=Path,required=True)
     parser.add_argument('--loader-root',type=Path,required=True,help='Unmodified V204.0 or V202.0 loader folder.')
     parser.add_argument('--backup-root',type=Path,help='New nonexistent directory; defaults to a timestamped game sibling.')
+    parser.add_argument('--frida-gadget',type=Path,help='Native Linux only: local frida-gadget-17.19.0-linux-x86_64.so.xz; downloaded when omitted.')
     mode=parser.add_mutually_exclusive_group()
     mode.add_argument('--apply',action='store_true',help='Install after a verified full backup.')
     mode.add_argument('--check','--dry-run',dest='check',action='store_true',help='Validate and build in temporary storage; game unchanged (default).')
     parser.add_argument('--wait',action=_Art,nargs=0,help='???')
     args=parser.parse_args()
-    try:print(json.dumps(install_local(args.game_root,args.loader_root,args.backup_root,args.apply),ensure_ascii=False,indent=2))
+    try:print(json.dumps(install_local(args.game_root,args.loader_root,args.backup_root,args.apply,args.frida_gadget),ensure_ascii=False,indent=2))
     except Exception as error:print('ERROR: '+str(error),file=sys.stderr);return 1
     return 0
