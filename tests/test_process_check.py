@@ -27,6 +27,8 @@ class LinuxProcessTests(unittest.TestCase):
         common._assert_not_running_linux(self.game,self.proc)
 
     def test_unrelated_processes_pass(self):
+        (self.game/'prog-linux').write_bytes(b'fixture')
+        (self.base/'Other Game').mkdir();(self.base/'Other Game'/'prog-linux').write_bytes(b'fixture')
         self.process(10,'/usr/bin/steam','-silent')
         self.process(11,str(self.base/'Other Game'/'prog.exe'))
         (self.proc/'12').mkdir()  # exited: no cmdline left
